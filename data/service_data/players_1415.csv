@@ -1,0 +1,780 @@
+player_id,name,nationality,position,shirt_number,image_path
+10483,Rolando Aarons,Jamaica,M,17.0,premier_league_data/season_1415/Rolando_Aarons_10483.png
+4343,Mehdi Abeid,Algeria,M,19.0,
+2840,Abou Diaby,France,M,5.0,
+4081,Charlie Adam,Scotland,M,,premier_league_data/season_1415/Charlie_Adam_4081.png
+9199,Adam Armstrong,England,F,32.0,premier_league_data/season_1415/Adam_Armstrong_9199.png
+2845,Emmanuel Adebayor,Togo,F,10.0,premier_league_data/season_1415/Emmanuel_Adebayor_2845.png
+10544,Krisztian Adorjan,Hungary,M,23.0,
+4852,Adrián,Spain,G,13.0,premier_league_data/season_1415/Adrián_4852.png
+4040,Benik Afobe,DR Congo,F,7.0,premier_league_data/season_1415/Benik_Afobe_4040.png
+2622,Gabriel Agbonlahor,England,F,,premier_league_data/season_1415/Gabriel_Agbonlahor_2622.png
+2916,Daniel Agger,Denmark,D,22.0,premier_league_data/season_1415/Daniel_Agger_2916.png
+10514,Liam Agnew,England,M,,premier_league_data/season_1415/Liam_Agnew_10514.png
+4328,Sergio Agüero,Argentina,F,19.0,premier_league_data/season_1415/Sergio_Agüero_4328.png
+4183,Ahmed El Mohamady,Egypt,D,27.0,premier_league_data/season_1415/Ahmed_El_Mohamady_4183.png
+10439,Ola Aina,Nigeria,D,34.0,premier_league_data/season_1415/Ola_Aina_10439.png
+10424,Semi Ajayi,Nigeria,D,,premier_league_data/season_1415/Semi_Ajayi_10424.png
+4499,Nathan Aké,Netherlands,D,6.0,premier_league_data/season_1415/Nathan_Aké_4499.png
+4482,Chuba Akpom,England,F,24.0,premier_league_data/season_1415/Chuba_Akpom_4482.png
+3564,Marc Albrighton,England,M,22.0,premier_league_data/season_1415/Marc_Albrighton_3564.png
+4218,Antolín Alcáraz,Paraguay,D,3.0,
+4916,Toby Alderweireld,Belgium,D,23.0,premier_league_data/season_1415/Toby_Alderweireld_4916.png
+8230,Alex Cisak,Australia,G,20.0,
+4410,Daniel Alfei,Wales,D,2.0,
+4413,Joe Allen,Wales,M,7.0,premier_league_data/season_1415/Joe_Allen_4413.png
+9167,Dele Alli,England,M,11.0,premier_league_data/season_1415/Dele_Alli_9167.png
+4543,Jak Alnwick,England,G,21.0,
+3897,Jozy Altidore,United States,F,14.0,premier_league_data/season_1415/Jozy_Altidore_3897.png
+2862,Sone Aluko,Nigeria,F,23.0,premier_league_data/season_1415/Sone_Aluko_2862.png
+10511,Ricardo Álvarez,Argentina,M,8.0,
+4849,Morgan Amalfitano,France,M,18.0,
+4835,Jordi Amat,Indonesia,D,5.0,premier_league_data/season_1415/Jordi_Amat_4835.png
+10470,Thierry Ambrose,Guadeloupe,F,68.0,premier_league_data/season_1415/Thierry_Ambrose_10470.png
+4176,Sammy Ameobi,England,F,21.0,
+3663,Ben Amos,England,G,13.0,premier_league_data/season_1415/Ben_Amos_3663.png
+10475,Ander Herrera,Spain,M,21.0,premier_league_data/season_1415/Ander_Herrera_10475.png
+8234,Tom Anderson,England,D,4.0,premier_league_data/season_1415/Tom_Anderson_8234.png
+10476,Andreas Pereira,Brazil,M,18.0,premier_league_data/season_1415/Andreas_Pereira_10476.png
+10467,Angeliño,Spain,D,3.0,premier_league_data/season_1415/Angeliño_10467.png
+2905,Victor Anichebe,Nigeria,F,28.0,premier_league_data/season_1415/Victor_Anichebe_2905.png
+4550,Vurnon Anita,Curacao,M,6.0,
+4861,Kwesi Appiah,Ghana,F,14.0,premier_league_data/season_1415/Kwesi_Appiah_4861.png
+4665,Jordan Archer,Scotland,G,31.0,
+8242,Scott Arfield,Canada,M,37.0,premier_league_data/season_1415/Scott_Arfield_8242.png
+4823,Marko Arnautovic,Austria,F,8.0,premier_league_data/season_1415/Marko_Arnautovic_4823.png
+2704,Mikel Arteta,Spain,M,8.0,premier_league_data/season_1415/Mikel_Arteta_2704.png
+4800,Iago Aspas,Spain,F,10.0,
+4526,Oussama Assaidi,Morocco,M,24.0,
+3239,Benoit Assou-Ekotto,Cameroon,D,32.0,premier_league_data/season_1415/Benoit_Assou-Ekotto_3239.png
+4859,Christian Atsu,Ghana,M,,premier_league_data/season_1415/Christian_Atsu_4859.png
+9468,Charlie Austin,England,F,32.0,premier_league_data/season_1415/Charlie_Austin_9468.png
+4496,César Azpilicueta,Spain,D,3.0,premier_league_data/season_1415/César_Azpilicueta_4496.png
+4829,El Hadji Ba,Mauritania,M,8.0,
+9762,Daniel Bachmann,Austria,G,35.0,premier_league_data/season_1415/Daniel_Bachmann_9762.png
+4721,Leandro Bacuna,Curacao,M,25.0,premier_league_data/season_1415/Leandro_Bacuna_4721.png
+3030,Leighton Baines,England,D,3.0,premier_league_data/season_1415/Leighton_Baines_3030.png
+2129,Chris Baird,Northern Ireland,D,22.0,premier_league_data/season_1415/Chris_Baird_2129.png
+8969,Zoumana Bakayogo,Cote D’Ivoire,D,17.0,
+3561,Nathan Baker,England,D,17.0,
+7485,Dominic Ball,England,M,15.0,
+4152,Mario Balotelli,Italy,F,9.0,premier_league_data/season_1415/Mario_Balotelli_4152.png
+4291,Patrick Bamford,England,F,,premier_league_data/season_1415/Patrick_Bamford_4291.png
+3565,Barry Bannan,Scotland,M,10.0,
+2517,Phil Bardsley,Scotland,D,27.0,premier_league_data/season_1415/Phil_Bardsley_2517.png
+10545,Brandon Barker,England,F,7.0,premier_league_data/season_1415/Brandon_Barker_10545.png
+4115,Ross Barkley,England,M,6.0,premier_league_data/season_1415/Ross_Barkley_4115.png
+8813,Jack Barmby,England,M,11.0,
+8246,Ashley Barnes,England,F,35.0,premier_league_data/season_1415/Ashley_Barnes_8246.png
+10520,Modou Barrow,Gambia,F,7.0,premier_league_data/season_1415/Modou_Barrow_10520.png
+1308,Gareth Barry,England,M,18.0,premier_league_data/season_1415/Gareth_Barry_1308.png
+3312,Kyle Bartley,England,D,5.0,premier_league_data/season_1415/Kyle_Bartley_3312.png
+2303,Joey Barton,England,M,19.0,premier_league_data/season_1415/Joey_Barton_2303.png
+10437,Mitchell Beeney,England,G,,
+2537,Asmir Begovic,Bosnia & Herzegovina,G,31.0,premier_league_data/season_1415/Asmir_Begovic_2537.png
+4474,Héctor Bellerín,Spain,D,2.0,premier_league_data/season_1415/Héctor_Bellerín_4474.png
+4171,Hatem Ben Arfa,France,M,11.0,
+3672,Joe Bennett,England,D,12.0,premier_league_data/season_1415/Joe_Bennett_3672.png
+2098,Darren Bent,England,F,9.0,premier_league_data/season_1415/Darren_Bent_2098.png
+4847,Nabil Bentaleb,Algeria,M,6.0,premier_league_data/season_1415/Nabil_Bentaleb_4847.png
+4492,Christian Benteke,Belgium,F,20.0,premier_league_data/season_1415/Christian_Benteke_4492.png
+4205,Saido Berahino,Burundi,F,24.0,premier_league_data/season_1415/Saido_Berahino_4205.png
+2886,Ryan Bertrand,England,D,5.0,premier_league_data/season_1415/Ryan_Bertrand_2886.png
+10451,Muhamed Besic,Bosnia & Herzegovina,M,5.0,premier_league_data/season_1415/Muhamed_Besic_10451.png
+10426,Krystian Bielik,Poland,D,6.0,premier_league_data/season_1415/Krystian_Bielik_10426.png
+4552,Gaël Bigirimana,Burundi,M,5.0,
+4761,Jerome Binnom-Williams,England,D,26.0,
+7934,Tyler Blackett,England,D,6.0,premier_league_data/season_1415/Tyler_Blackett_7934.png
+4283,Jamal Blackman,England,G,31.0,premier_league_data/season_1415/Jamal_Blackman_4283.png
+10548,Sebastián Blanco,Argentina,M,10.0,
+4888,Daley Blind,Netherlands,D,17.0,premier_league_data/season_1415/Daley_Blind_4888.png
+8978,Jacob Blyth,England,F,25.0,
+4769,Hiram Boateng,England,M,44.0,premier_league_data/season_1415/Hiram_Boateng_4769.png
+10441,Jérémie Boga,Cote D’Ivoire,F,7.0,premier_league_data/season_1415/Jérémie_Boga_10441.png
+4898,Bojan,Spain,F,15.0,premier_league_data/season_1415/Bojan_4898.png
+4763,Yannick Bolasie,DR Congo,F,17.0,premier_league_data/season_1415/Yannick_Bolasie_4763.png
+4838,Wilfried Bony,Cote D’Ivoire,F,2.0,premier_league_data/season_1415/Wilfried_Bony_4838.png
+3863,Fabio Borini,Italy,F,16.0,premier_league_data/season_1415/Fabio_Borini_3863.png
+4601,Artur Boruc,Poland,G,1.0,premier_league_data/season_1415/Artur_Boruc_4601.png
+16540,Mathias Bossaerts,Belgium,D,44.0,
+3908,Dedryck Boyata,Belgium,D,28.0,
+4788,George Boyd,Scotland,F,14.0,premier_league_data/season_1415/George_Boyd_4788.png
+4158,Robert Brady,Ireland,M,11.0,premier_league_data/season_1415/Robert_Brady_4158.png
+9032,Cameron Brannagan,England,M,,premier_league_data/season_1415/Cameron_Brannagan_9032.png
+3364,Liam Bridcutt,Scotland,M,35.0,premier_league_data/season_1415/Liam_Bridcutt_3364.png
+2152,Leon Britton,England,M,7.0,premier_league_data/season_1415/Leon_Britton_2152.png
+4674,Isaiah Brown,England,M,20.0,premier_league_data/season_1415/Isaiah_Brown_4674.png
+2624,Alex Bruce,Northern Ireland,D,14.0,premier_league_data/season_1415/Alex_Bruce_2624.png
+3744,Chris Brunt,Northern Ireland,M,29.0,premier_league_data/season_1415/Chris_Brunt_3744.png
+8175,William Buckley,England,M,7.0,premier_league_data/season_1415/William_Buckley_8175.png
+4261,Graham Burke,Ireland,F,10.0,
+4634,Jack Butland,England,G,1.0,premier_league_data/season_1415/Jack_Butland_4634.png
+8336,Sam Byrne,Ireland,F,,
+10546,Sinan Bytyqi,Kosovo,M,11.0,premier_league_data/season_1415/Sinan_Bytyqi_10546.png
+10466,Willy Caballero,Argentina,G,1.0,premier_league_data/season_1415/Willy_Caballero_10466.png
+10484,Rémy Cabella,France,M,10.0,
+4828,Cabral,Cape Verde,M,88.0,
+2620,Gary Cahill,England,D,24.0,premier_league_data/season_1415/Gary_Cahill_2620.png
+8974,Michael Cain,England,M,,
+10431,Riccardo Calder,England,D,3.0,
+10462,Esteban Cambiasso,Argentina,M,19.0,
+4636,Geoff Cameron,United States,D,20.0,premier_league_data/season_1415/Geoff_Cameron_4636.png
+4254,Joel Campbell,Costa Rica,F,8.0,premier_league_data/season_1415/Joel_Campbell_4254.png
+5001,Emre Can,Germany,M,23.0,premier_league_data/season_1415/Emre_Can_5001.png
+4836,José Cañas,Spain,M,87.0,
+4843,Étienne Capoue,France,M,6.0,premier_league_data/season_1415/Étienne_Capoue_4843.png
+7568,Carles Gil,Spain,M,10.0,
+3563,Carlos Cuellar,Spain,D,,
+2058,Carlton Cole,England,F,10.0,premier_league_data/season_1415/Carlton_Cole_2058.png
+1634,Michael Carrick,England,M,16.0,premier_league_data/season_1415/Michael_Carrick_1634.png
+4430,Tom Carroll,England,M,11.0,premier_league_data/season_1415/Tom_Carroll_4430.png
+2949,Lee Cattermole,England,M,6.0,premier_league_data/season_1415/Lee_Cattermole_2949.png
+3957,Steven Caulker,Sierra Leone,D,29.0,premier_league_data/season_1415/Steven_Caulker_3957.png
+4477,Santi Cazorla,Spain,M,8.0,premier_league_data/season_1415/Santi_Cazorla_4477.png
+4431,Cristian Ceballos,Spain,F,11.0,
+2651,Petr Cech,Czech Republic,G,1.0,premier_league_data/season_1415/Petr_Cech_2651.png
+5559,Bersant Celina,Kosovo,M,23.0,premier_league_data/season_1415/Bersant_Celina_5559.png
+4844,Nacer Chadli,Belgium,M,89.0,premier_league_data/season_1415/Nacer_Chadli_4844.png
+4105,Nathaniel Chalobah,England,M,4.0,premier_league_data/season_1415/Nathaniel_Chalobah_4105.png
+4039,Marouane Chamakh,Morocco,F,27.0,premier_league_data/season_1415/Marouane_Chamakh_4039.png
+4620,Calum Chambers,England,D,12.0,premier_league_data/season_1415/Calum_Chambers_4620.png
+4172,Cheick Tioté,Cote D’Ivoire,M,24.0,premier_league_data/season_1415/Cheick_Tioté_4172.png
+2936,James Chester,Wales,D,17.0,premier_league_data/season_1415/James_Chester_2936.png
+4161,Chicharito,Mexico,F,14.0,premier_league_data/season_1415/Chicharito_4161.png
+4840,Vlad Chiriches,Romania,D,21.0,
+4495,Andreas Christensen,Denmark,D,15.0,premier_league_data/season_1415/Andreas_Christensen_4495.png
+4346,Papiss Cissé,Senegal,F,9.0,premier_league_data/season_1415/Papiss_Cissé_4346.png
+4797,Aly Cissokho,France,D,41.0,
+3562,Ciaran Clark,Ireland,D,26.0,premier_league_data/season_1415/Ciaran_Clark_3562.png
+11146,Jake Clarke-Salter,England,D,6.0,premier_league_data/season_1415/Jake_Clarke-Salter_11146.png
+3448,Tom Cleverley,England,M,8.0,premier_league_data/season_1415/Tom_Cleverley_3448.png
+2413,Gaël Clichy,France,D,3.0,premier_league_data/season_1415/Gaël_Clichy_2413.png
+4604,Nathaniel Clyne,England,D,17.0,premier_league_data/season_1415/Nathaniel_Clyne_4604.png
+4313,Sebastián Coates,Uruguay,D,4.0,premier_league_data/season_1415/Sebastián_Coates_4313.png
+3713,Jack Colback,England,M,4.0,premier_league_data/season_1415/Jack_Colback_3713.png
+1632,Joe Cole,England,M,26.0,premier_league_data/season_1415/Joe_Cole_1632.png
+3600,Séamus Coleman,Ireland,D,,premier_league_data/season_1415/Séamus_Coleman_3600.png
+3010,James Collins,Wales,D,39.0,premier_league_data/season_1415/James_Collins_3010.png
+3680,Fabricio Coloccini,Argentina,D,32.0,premier_league_data/season_1415/Fabricio_Coloccini_3680.png
+10495,Brandon Comley,Montserrat,M,14.0,
+8238,Luke Conlan,Northern Ireland,D,3.0,
+3549,Francis Coquelin,France,M,13.0,premier_league_data/season_1415/Francis_Coquelin_3549.png
+2889,Jack Cork,England,D,4.0,premier_league_data/season_1415/Jack_Cork_2889.png
+4399,David Cornell,Wales,G,13.0,
+4435,Souleymane Coulibaly,Cote D’Ivoire,F,,
+4668,Shaquile Coulthirst,England,F,9.0,
+4911,Thibaut Courtois,Belgium,G,1.0,premier_league_data/season_1415/Thibaut_Courtois_4911.png
+2847,Craig Gardner,England,M,8.0,premier_league_data/season_1415/Craig_Gardner_2847.png
+8897,Aaron Cresswell,England,D,3.0,premier_league_data/season_1415/Aaron_Cresswell_8897.png
+4602,Cody Cropper,United States,G,1.0,
+1629,Peter Crouch,England,F,15.0,premier_league_data/season_1415/Peter_Crouch_1629.png
+6615,Juan Cuadrado,Colombia,M,7.0,premier_league_data/season_1415/Juan_Cuadrado_6615.png
+10539,Josh Cullen,Ireland,M,24.0,premier_league_data/season_1415/Josh_Cullen_10539.png
+4672,Donervon Daniels,Montserrat,D,5.0,
+3807,Scott Dann,England,D,6.0,premier_league_data/season_1415/Scott_Dann_3807.png
+2531,Danny Graham,England,F,18.0,
+9251,Karl Darlow,Wales,G,26.0,premier_league_data/season_1415/Karl_Darlow_9251.png
+10438,Jay Dasilva,Wales,D,3.0,
+2523,David Jones,England,D,35.0,premier_league_data/season_1415/David_Jones_2523.png
+10526,Jason Davidson,Australia,D,3.0,
+2997,Curtis Davies,Sierra Leone,D,33.0,premier_league_data/season_1415/Curtis_Davies_2997.png
+4285,Ulises Dávila,Mexico,M,10.0,
+2971,Kelvin Davis,England,G,1.0,premier_league_data/season_1415/Kelvin_Davis_2971.png
+2805,Michael Dawson,England,D,21.0,premier_league_data/season_1415/Michael_Dawson_2805.png
+4330,David de Gea,Spain,G,43.0,premier_league_data/season_1415/David_de_Gea_4330.png
+4885,Siem de Jong,Netherlands,M,23.0,premier_league_data/season_1415/Siem_de_Jong_4885.png
+3666,Ritchie De Laet,Belgium,D,2.0,premier_league_data/season_1415/Ritchie_De_Laet_3666.png
+4546,Mathieu Debuchy,France,D,26.0,premier_league_data/season_1415/Mathieu_Debuchy_4546.png
+1526,Jermain Defoe,England,F,10.0,premier_league_data/season_1415/Jermain_Defoe_1526.png
+4098,Matej Delac,Croatia,G,,
+1911,Damien Delaney,Ireland,D,,premier_league_data/season_1415/Damien_Delaney_1911.png
+3799,Fabian Delph,England,M,8.0,premier_league_data/season_1415/Fabian_Delph_3799.png
+4123,Mousa Dembélé,Belgium,M,8.0,premier_league_data/season_1415/Mousa_Dembélé_4123.png
+4680,Guy Demel,Cote D’Ivoire,D,20.0,
+4802,Martín Demichelis,Argentina,D,3.0,premier_league_data/season_1415/Martín_Demichelis_4802.png
+11002,Jason Denayer,Belgium,D,5.0,premier_league_data/season_1415/Jason_Denayer_11002.png
+5794,Ángel Di María,Argentina,M,11.0,
+4377,Samba Diakité,Mali,M,23.0,
+3982,Mohamed Diamé,Senegal,M,21.0,premier_league_data/season_1415/Mohamed_Diamé_3982.png
+4941,Diego Costa,Spain,F,29.0,premier_league_data/season_1415/Diego_Costa_4941.png
+4112,Eric Dier,England,D,15.0,premier_league_data/season_1415/Eric_Dier_4112.png
+10506,Dionatan Teixeira,Slovakia,D,23.0,premier_league_data/season_1415/Dionatan_Teixeira_10506.png
+3925,Mame Diouf,Senegal,F,92.0,premier_league_data/season_1415/Mame_Diouf_3925.png
+2125,Sylvain Distin,France,D,25.0,premier_league_data/season_1415/Sylvain_Distin_2125.png
+13929,Matt Dixon,England,M,23.0,
+5057,Filip Djuricic,Serbia,M,31.0,
+4422,Stephen Dobbie,Scotland,F,23.0,
+10380,Joseph Dodoo,England,F,,premier_league_data/season_1415/Joseph_Dodoo_10380.png
+7865,Janoi Donacien,St. Lucia,D,44.0,
+3746,Graham Dorrans,Scotland,M,4.0,premier_league_data/season_1415/Graham_Dorrans_3746.png
+4378,Michael Doughty,England,M,10.0,
+10455,Kieran Dowell,England,M,30.0,premier_league_data/season_1415/Kieran_Dowell_10455.png
+2122,Stewart Downing,England,M,19.0,premier_league_data/season_1415/Stewart_Downing_2122.png
+3205,Kevin Doyle,Ireland,F,9.0,premier_league_data/season_1415/Kevin_Doyle_3205.png
+3670,Danny Drinkwater,England,M,15.0,premier_league_data/season_1415/Danny_Drinkwater_3670.png
+2662,Didier Drogba,Cote D’Ivoire,F,11.0,premier_league_data/season_1415/Didier_Drogba_2662.png
+3917,Joe Dudgeon,Northern Ireland,D,3.0,
+3835,Michael Duff,Northern Ireland,D,4.0,premier_league_data/season_1415/Michael_Duff_3835.png
+10456,Courtney Duffus,Ireland,F,14.0,
+3601,Shane Duffy,Ireland,D,4.0,premier_league_data/season_1415/Shane_Duffy_3601.png
+4340,Paul Dummett,Wales,D,14.0,premier_league_data/season_1415/Paul_Dummett_4340.png
+8235,Cameron Dummigan,Northern Ireland,D,23.0,premier_league_data/season_1415/Cameron_Dummigan_8235.png
+1184,Richard Dunne,Ireland,D,22.0,premier_league_data/season_1415/Richard_Dunne_1184.png
+2341,Nathan Dyer,England,M,24.0,premier_league_data/season_1415/Nathan_Dyer_2341.png
+4151,Edin Dzeko,Bosnia & Herzegovina,F,9.0,premier_league_data/season_1415/Edin_Dzeko_4151.png
+4638,Maurice Edu,United States,M,8.0,
+4374,Max Ehmer,Germany,D,5.0,
+4488,Karim El Ahmadi,Morocco,M,20.0,
+10499,Eljero Elia,Netherlands,F,77.0,
+2214,Robert Elliot,Ireland,G,37.0,premier_league_data/season_1415/Robert_Elliot_2214.png
+3679,Marvin Emnes,Netherlands,F,,premier_league_data/season_1415/Marvin_Emnes_3679.png
+3020,Hogan Ephraim,England,M,,
+4845,Christian Eriksen,Denmark,M,14.0,premier_league_data/season_1415/Christian_Eriksen_4845.png
+4751,Samuel Eto'o,Cameroon,F,81.0,
+4535,George Evans,England,M,12.0,
+3309,Lukasz Fabianski,Poland,G,1.0,premier_league_data/season_1415/Lukasz_Fabianski_3309.png
+2417,Cesc Fàbregas,Spain,M,4.0,premier_league_data/season_1415/Cesc_Fàbregas_2417.png
+10477,Radamel Falcao,Colombia,F,9.0,
+4688,Matthias Fanimo,England,M,25.0,
+4383,Alejandro Faurlin,Argentina,M,,
+7215,Federico Fazio,Argentina,D,17.0,premier_league_data/season_1415/Federico_Fazio_7215.png
+5672,Federico Fernández,Argentina,D,2.0,premier_league_data/season_1415/Federico_Fernández_5672.png
+3604,Marouane Fellaini,Belgium,M,27.0,premier_league_data/season_1415/Marouane_Fellaini_3604.png
+4810,Leroy Fer,Netherlands,M,8.0,premier_league_data/season_1415/Leroy_Fer_4810.png
+1111,Rio Ferdinand,England,D,5.0,premier_league_data/season_1415/Rio_Ferdinand_1111.png
+4167,Shane Ferguson,Northern Ireland,M,17.0,
+4804,Fernandinho,Brazil,M,25.0,premier_league_data/season_1415/Fernandinho_4804.png
+5344,Fernando,Brazil,M,20.0,premier_league_data/season_1415/Fernando_5344.png
+5924,Facundo Ferreyra,Argentina,F,16.0,
+3524,Maynor Figueroa,Honduras,D,15.0,premier_league_data/season_1415/Maynor_Figueroa_3524.png
+4915,Filipe Luís,Brazil,D,16.0,
+2611,Mathieu Flamini,France,M,16.0,premier_league_data/season_1415/Mathieu_Flamini_2611.png
+4129,Jon Flanagan,England,D,20.0,premier_league_data/season_1415/Jon_Flanagan_4129.png
+10500,Jake Flannigan,England,M,16.0,premier_league_data/season_1415/Jake_Flannigan_10500.png
+1943,Darren Fletcher,Scotland,M,,premier_league_data/season_1415/Darren_Fletcher_1943.png
+10733,Seko Fofana,Cote D’Ivoire,M,6.0,
+3170,Fraser Forster,England,G,20.0,premier_league_data/season_1415/Fraser_Forster_3170.png
+2932,Ben Foster,England,G,12.0,premier_league_data/season_1415/Ben_Foster_2932.png
+4295,Francisco Júnior,Guinea-Bissau,M,,
+3958,Ryan Fredericks,England,D,2.0,premier_league_data/season_1415/Ryan_Fredericks_3958.png
+1420,Brad Friedel,United States,G,24.0,premier_league_data/season_1415/Brad_Friedel_1420.png
+4335,Ezekiel Fryers,England,D,29.0,premier_league_data/season_1415/Ezekiel_Fryers_4335.png
+7482,Jay Fulton,Scotland,M,28.0,premier_league_data/season_1415/Jay_Fulton_7482.png
+10491,Darnell Furlong,England,D,2.0,premier_league_data/season_1415/Darnell_Furlong_10491.png
+10423,Gabriel Paulista,Brazil,D,3.0,premier_league_data/season_1415/Gabriel_Paulista_10423.png
+2204,Paul Gallagher,Scotland,M,12.0,
+9163,Brendan Galloway,Zimbabwe,D,22.0,premier_league_data/season_1415/Brendan_Galloway_9163.png
+10528,Cristian Gamboa,Costa Rica,D,2.0,premier_league_data/season_1415/Cristian_Gamboa_10528.png
+4624,Dominic Gape,England,M,15.0,
+3868,Luke Garbutt,England,D,29.0,premier_league_data/season_1415/Luke_Garbutt_3868.png
+3800,Gary Gardner,England,M,20.0,
+5937,Florin Gardos,Romania,D,25.0,premier_league_data/season_1415/Florin_Gardos_5937.png
+10529,Bradley Garmston,Ireland,D,3.0,
+4764,Owen Garvan,Ireland,M,,
+4771,Dwight Gayle,England,F,25.0,premier_league_data/season_1415/Dwight_Gayle_4771.png
+4600,Paulo Gazzaniga,Argentina,G,13.0,premier_league_data/season_1415/Paulo_Gazzaniga_4600.png
+1575,Steven Gerrard,England,M,8.0,premier_league_data/season_1415/Steven_Gerrard_1575.png
+4830,Emanuele Giaccherini,Italy,M,15.0,premier_league_data/season_1415/Emanuele_Giaccherini_4830.png
+3046,Kieran Gibbs,England,D,3.0,premier_league_data/season_1415/Kieran_Gibbs_3046.png
+2942,Darron Gibson,Ireland,M,43.0,premier_league_data/season_1415/Darron_Gibson_2942.png
+8249,Jason Gilchrist,England,F,14.0,
+4061,Matthew Gilks,Scotland,G,1.0,
+10489,Alex Gilliead,England,M,17.0,
+4481,Olivier Giroud,France,F,9.0,premier_league_data/season_1415/Olivier_Giroud_4481.png
+851,Shay Given,Ireland,G,24.0,premier_league_data/season_1415/Shay_Given_851.png
+10469,George Glendon,England,M,8.0,
+4478,Serge Gnabry,Germany,F,29.0,premier_league_data/season_1415/Serge_Gnabry_4478.png
+6900,Bafétimbi Gomis,France,F,18.0,premier_league_data/season_1415/Bafétimbi_Gomis_6900.png
+4547,Curtis Good,Australia,D,,
+10519,Kenji Gorré,Curacao,M,,
+4554,Yoan Gouffran,France,M,20.0,premier_league_data/season_1415/Yoan_Gouffran_4554.png
+10452,Conor Grant,England,M,4.0,premier_league_data/season_1415/Conor_Grant_10452.png
+10445,Jake Gray,England,M,,
+4260,Jack Grealish,England,M,10.0,premier_league_data/season_1415/Jack_Grealish_4260.png
+10433,Andre Green,England,F,11.0,premier_league_data/season_1415/Andre_Green_10433.png
+10494,Reece Grego-Cox,Ireland,F,14.0,
+10448,Russell Griffiths,England,G,1.0,premier_league_data/season_1415/Russell_Griffiths_10448.png
+8650,Matt Grimes,England,M,6.0,premier_league_data/season_1415/Matt_Grimes_8650.png
+4004,Adlène Guédioura,Algeria,M,6.0,premier_league_data/season_1415/Adlène_Guédioura_4004.png
+4153,John Guidetti,Sweden,F,10.0,
+3683,Jonás Gutiérrez,Argentina,M,24.0,premier_league_data/season_1415/Jonás_Gutiérrez_3683.png
+3558,Brad Guzan,United States,G,1.0,premier_league_data/season_1415/Brad_Guzan_3558.png
+4545,Massadio Haïdara,Mali,D,22.0,
+3183,Ben Hamer,England,G,26.0,premier_league_data/season_1415/Ben_Hamer_3183.png
+4614,Dean Hammond,England,M,,premier_league_data/season_1415/Dean_Hammond_4614.png
+3394,Brede Hangeland,Norway,D,4.0,premier_league_data/season_1415/Brede_Hangeland_3394.png
+10119,Raheem Hanley,England,D,,
+709,Steve Harper,England,G,33.0,premier_league_data/season_1415/Steve_Harper_709.png
+4373,Michael Harriman,Ireland,D,2.0,
+4644,Scott Harrison,England,D,5.0,
+3143,Joe Hart,England,G,1.0,premier_league_data/season_1415/Joe_Hart_3143.png
+4713,Isaac Hayden,Jamaica,M,45.0,
+4503,Eden Hazard,Belgium,F,7.0,premier_league_data/season_1415/Eden_Hazard_4503.png
+2933,Tom Heaton,England,G,22.0,premier_league_data/season_1415/Tom_Heaton_2933.png
+4723,Nicklas Helenius,Denmark,F,11.0,
+3712,Jordan Henderson,England,M,6.0,premier_league_data/season_1415/Jordan_Henderson_3712.png
+2569,Wayne Hennessey,Wales,G,13.0,premier_league_data/season_1415/Wayne_Hennessey_2569.png
+4542,Ángelo Henríquez,Chile,F,9.0,
+3997,Karl Henry,England,M,48.0,premier_league_data/season_1415/Karl_Henry_3997.png
+10432,Rushian Hepburn-Murphy,England,F,14.0,premier_league_data/season_1415/Rushian_Hepburn-Murphy_10432.png
+3327,Chris Herd,Australia,M,25.0,
+10460,Abel Hernández,Uruguay,F,11.0,premier_league_data/season_1415/Abel_Hernández_10460.png
+10501,Jake Hesketh,England,M,10.0,premier_league_data/season_1415/Jake_Hesketh_10501.png
+8241,Steven Hewitt,England,M,18.0,
+1881,Tony Hibbert,England,D,2.0,premier_league_data/season_1415/Tony_Hibbert_1881.png
+4371,Clint Hill,England,D,29.0,
+3823,Junior Hoilett,Canada,F,30.0,premier_league_data/season_1415/Junior_Hoilett_3823.png
+4667,Lewis Holtby,Germany,M,10.0,
+10512,George Honeyman,England,M,39.0,premier_league_data/season_1415/George_Honeyman_10512.png
+4610,Jos Hooiveld,Netherlands,D,5.0,
+4776,Hallam Hope,Barbados,F,9.0,
+8981,Tom Hopper,England,F,9.0,
+13551,James Horsfield,England,D,17.0,premier_league_data/season_1415/James_Horsfield_13551.png
+10442,Jordan Houghton,England,M,4.0,
+2516,Tim Howard,United States,G,1.0,premier_league_data/season_1415/Tim_Howard_2516.png
+8240,Cameron Howieson,New Zealand,M,7.0,
+10421,Ryan Huddart,England,G,17.0,
+2991,Tom Huddlestone,England,M,,premier_league_data/season_1415/Tom_Huddlestone_2991.png
+13550,Cameron Humphreys,England,D,24.0,premier_league_data/season_1415/Cameron_Humphreys_13550.png
+4756,Jack Hunt,England,D,32.0,
+2053,Robert Huth,Germany,D,,premier_league_data/season_1415/Robert_Huth_2053.png
+3506,Alan Hutton,Scotland,D,3.0,premier_league_data/season_1415/Alan_Hutton_3506.png
+5558,Emyr Huws,Wales,M,28.0,
+4527,Jordon Ibe,England,F,,premier_league_data/season_1415/Jordon_Ibe_4527.png
+6390,Brown Ideye,Nigeria,F,11.0,
+13554,Kelechi Iheanacho,Nigeria,F,9.0,premier_league_data/season_1415/Kelechi_Iheanacho_13554.png
+10542,Dejan Iliev,North Macedonia,G,25.0,
+4137,Tom Ince,England,M,7.0,premier_league_data/season_1415/Tom_Ince_4137.png
+8245,Danny Ings,England,F,18.0,premier_league_data/season_1415/Danny_Ings_8245.png
+4760,Ryan Inniss,England,D,5.0,premier_league_data/season_1415/Ryan_Inniss_4760.png
+2928,Stephen Ireland,Ireland,M,17.0,premier_league_data/season_1415/Stephen_Ireland_2928.png
+4621,Lloyd Isgrove,Wales,M,23.0,premier_league_data/season_1415/Lloyd_Isgrove_4621.png
+5511,Mauricio Isla,Chile,D,4.0,
+3360,Branislav Ivanovic,Serbia,D,20.0,premier_league_data/season_1415/Branislav_Ivanovic_3360.png
+4717,Alex Iwobi,Nigeria,F,17.0,premier_league_data/season_1415/Alex_Iwobi_4717.png
+1342,Jussi Jääskeläinen,Finland,G,22.0,premier_league_data/season_1415/Jussi_Jääskeläinen_1342.png
+3222,Phil Jagielka,England,D,6.0,premier_league_data/season_1415/Phil_Jagielka_3222.png
+4793,Calaum Jahraldo-Martin,Antigua & Barbuda,D,,
+4786,Eldin Jakupovic,Switzerland,G,1.0,premier_league_data/season_1415/Eldin_Jakupovic_4786.png
+10393,Reece James,England,D,6.0,
+10474,Saidy Janko,Gambia,D,17.0,
+10480,Daryl Janmaat,Netherlands,D,53.0,premier_league_data/season_1415/Daryl_Janmaat_10480.png
+4541,Adnan Januzaj,Belgium,M,24.0,premier_league_data/season_1415/Adnan_Januzaj_4541.png
+4000,Matthew Jarvis,England,M,11.0,premier_league_data/season_1415/Matthew_Jarvis_4000.png
+4766,Mile Jedinak,Australia,M,15.0,premier_league_data/season_1415/Mile_Jedinak_4766.png
+4296,Nikica Jelavic,Croatia,F,26.0,premier_league_data/season_1415/Nikica_Jelavic_4296.png
+2127,Jermaine Jenas,England,M,16.0,premier_league_data/season_1415/Jermaine_Jenas_2127.png
+4248,Carl Jenkinson,England,D,6.0,premier_league_data/season_1415/Carl_Jenkinson_4248.png
+2530,Cameron Jerome,England,F,35.0,premier_league_data/season_1415/Cameron_Jerome_2530.png
+4506,Jiang Guangtai,China,D,,premier_league_data/season_1415/Jiang_Guangtai_4506.png
+4317,João Teixeira,Portugal,M,10.0,premier_league_data/season_1415/João_Teixeira_4317.png
+3102,John Obi Mikel,Nigeria,M,13.0,premier_league_data/season_1415/John_Obi_Mikel_3102.png
+4044,Daniel Johnson,Jamaica,M,,
+4331,Sam Johnstone,England,G,31.0,premier_league_data/season_1415/Sam_Johnstone_4331.png
+10450,Gethin Jones,Australia,D,2.0,
+4135,Jonjo Shelvey,England,M,26.0,premier_league_data/season_1415/Jonjo_Shelvey_4135.png
+4767,Jonny Williams,Wales,M,10.0,premier_league_data/season_1415/Jonny_Williams_4767.png
+3981,Jordi Gómez,Spain,M,16.0,premier_league_data/season_1415/Jordi_Gómez_3981.png
+3462,José Enrique,Spain,D,19.0,premier_league_data/season_1415/José_Enrique_3462.png
+4606,José Fonte,Portugal,D,6.0,premier_league_data/season_1415/José_Fonte_4606.png
+4806,Stevan Jovetic,Montenegro,F,8.0,
+4566,Julio César,Brazil,G,12.0,
+3392,Lukas Jutkiewicz,England,F,10.0,premier_league_data/season_1415/Lukas_Jutkiewicz_3392.png
+3508,Younes Kaboul,France,D,4.0,premier_league_data/season_1415/Younes_Kaboul_3508.png
+4538,Shinji Kagawa,Japan,M,10.0,
+10191,Sullay Kaikai,Sierra Leone,F,11.0,premier_league_data/season_1415/Sullay_Kaikai_10191.png
+3594,Gaël Kakuta,DR Congo,M,,
+4101,Tomás Kalas,Czech Republic,D,26.0,premier_league_data/season_1415/Tomás_Kalas_4101.png
+10427,Glen Kamara,Finland,M,8.0,
+4497,Todd Kane,England,D,29.0,
+4333,Michael Keane,England,D,5.0,premier_league_data/season_1415/Michael_Keane_4333.png
+3483,Jimmy Kébé,Mali,M,38.0,
+3644,Martin Kelly,England,D,34.0,premier_league_data/season_1415/Martin_Kelly_3644.png
+10485,Olivier Kemen,Cameroon,M,8.0,
+4508,Matthew Kennedy,Northern Ireland,D,11.0,
+10449,Jonjoe Kenny,England,D,16.0,premier_league_data/season_1415/Jonjoe_Kenny_10449.png
+4063,Chris Kettings,Scotland,G,13.0,
+4190,Bongani Khumalo,South Africa,D,6.0,
+4656,Ki Sung-Yeung,South Korea,M,10.0,premier_league_data/season_1415/Ki_Sung-Yeung_4656.png
+2579,Michael Kightly,England,M,7.0,premier_league_data/season_1415/Michael_Kightly_2579.png
+8976,Andy King,Wales,M,10.0,premier_league_data/season_1415/Andy_King_8976.png
+10517,Stephen Kingsley,Scotland,D,3.0,premier_league_data/season_1415/Stephen_Kingsley_10517.png
+10429,Lewis Kinsella,England,D,26.0,
+8982,Anthony Knockaert,France,M,93.0,premier_league_data/season_1415/Anthony_Knockaert_8982.png
+4141,Aleksandar Kolarov,Serbia,D,11.0,premier_league_data/season_1415/Aleksandar_Kolarov_4141.png
+2002,Kolo Touré,Cote D’Ivoire,D,2.0,premier_league_data/season_1415/Kolo_Touré_2002.png
+3653,Vincent Kompany,Belgium,D,4.0,premier_league_data/season_1415/Vincent_Kompany_3653.png
+1515,Paul Konchesky,England,D,,premier_league_data/season_1415/Paul_Konchesky_1515.png
+4701,Arouna Koné,,F,2.0,premier_league_data/season_1415/Arouna_Koné_4701.png
+4030,Laurent Koscielny,France,D,6.0,premier_league_data/season_1415/Laurent_Koscielny_4030.png
+5861,Cheikhou Kouyaté,Senegal,M,8.0,premier_league_data/season_1415/Cheikhou_Kouyaté_5861.png
+4724,Libor Kozák,Czech Republic,F,18.0,
+10492,Cole Kpekawa,England,D,,
+6671,Andrej Kramaric,Croatia,F,27.0,premier_league_data/season_1415/Andrej_Kramaric_6671.png
+3180,Niko Kranjcar,Croatia,M,19.0,premier_league_data/season_1415/Niko_Kranjcar_3180.png
+3169,Tim Krul,Netherlands,G,,premier_league_data/season_1415/Tim_Krul_3169.png
+8232,Daniel Lafferty,Northern Ireland,D,18.0,premier_league_data/season_1415/Daniel_Lafferty_8232.png
+4618,Adam Lallana,England,M,10.0,premier_league_data/season_1415/Adam_Lallana_4618.png
+4627,Rickie Lambert,England,F,19.0,premier_league_data/season_1415/Rickie_Lambert_4627.png
+4842,Érik Lamela,Argentina,M,17.0,premier_league_data/season_1415/Érik_Lamela_4842.png
+800,Frank Lampard,England,M,8.0,premier_league_data/season_1415/Frank_Lampard_800.png
+2613,Sebastian Larsson,Sweden,M,7.0,premier_league_data/season_1415/Sebastian_Larsson_2613.png
+9257,Jamaal Lascelles,England,D,16.0,
+8127,Josh Laurent,England,M,29.0,
+13250,Ian Lawlor,Ireland,G,1.0,premier_league_data/season_1415/Ian_Lawlor_13250.png
+5561,Tom Lawrence,Wales,F,11.0,premier_league_data/season_1415/Tom_Lawrence_5561.png
+6047,Joe Ledley,Wales,M,34.0,premier_league_data/season_1415/Joe_Ledley_6047.png
+10453,Ryan Ledson,England,M,18.0,
+4692,Elliot Lee,England,M,38.0,
+3830,Lee Chung-Yong,South Korea,M,72.0,premier_league_data/season_1415/Lee_Chung-Yong_3830.png
+10688,Greg Leigh,Jamaica,D,22.0,
+10459,Brian Lenihan,Ireland,D,32.0,premier_league_data/season_1415/Brian_Lenihan_10459.png
+2270,Aaron Lennon,England,M,17.0,premier_league_data/season_1415/Aaron_Lennon_2270.png
+2574,Joleon Lescott,England,D,,premier_league_data/season_1415/Joleon_Lescott_2574.png
+4154,Anders Lindegaard,Denmark,G,22.0,premier_league_data/season_1415/Anders_Lindegaard_4154.png
+4337,Jesse Lingard,England,M,11.0,premier_league_data/season_1415/Jesse_Lingard_4337.png
+3244,Jake Livermore,England,M,8.0,premier_league_data/season_1415/Jake_Livermore_3244.png
+4686,Sebastian Lletget,United States,M,12.0,
+4664,Hugo Lloris,France,G,1.0,premier_league_data/season_1415/Hugo_Lloris_4664.png
+5179,Ruben Loftus-Cheek,England,M,8.0,premier_league_data/season_1415/Ruben_Loftus-Cheek_5179.png
+8958,Conrad Logan,Ireland,G,26.0,
+3837,Kevin Long,Ireland,D,26.0,premier_league_data/season_1415/Kevin_Long_3837.png
+4813,Dejan Lovren,Croatia,D,6.0,premier_league_data/season_1415/Dejan_Lovren_4813.png
+4487,Matthew Lowton,England,D,38.0,premier_league_data/season_1415/Matthew_Lowton_4487.png
+3137,Lucas Leiva,Brazil,M,6.0,premier_league_data/season_1415/Lucas_Leiva_3137.png
+4289,Lucas Piazón,Brazil,M,43.0,premier_league_data/season_1415/Lucas_Piazón_4289.png
+10867,Greg Luer,England,F,7.0,premier_league_data/season_1415/Greg_Luer_10867.png
+4799,Luis Alberto,Spain,M,10.0,
+4290,Romelu Lukaku,Belgium,F,90.0,premier_league_data/season_1415/Romelu_Lukaku_4290.png
+4720,Antonio Luna,Spain,D,19.0,
+4509,John Lundstram,England,M,5.0,premier_league_data/season_1415/John_Lundstram_4509.png
+10422,Matt Macey,England,G,1.0,premier_league_data/season_1415/Matt_Macey_10422.png
+13987,Pablo Maffeo,Argentina,D,23.0,premier_league_data/season_1415/Pablo_Maffeo_13987.png
+9566,Harry Maguire,England,D,5.0,premier_league_data/season_1415/Harry_Maguire_9566.png
+8983,Riyad Mahrez,Algeria,F,26.0,premier_league_data/season_1415/Riyad_Mahrez_8983.png
+4690,Modibo Maiga,Mali,F,40.0,
+10428,Ainsley Maitland-Niles,England,M,98.0,premier_league_data/season_1415/Ainsley_Maitland-Niles_10428.png
+4648,Mikael Mandron,France,F,21.0,premier_league_data/season_1415/Mikael_Mandron_4648.png
+6519,Sadio Mané,Senegal,F,10.0,premier_league_data/season_1415/Sadio_Mané_6519.png
+5334,Eliaquim Mangala,France,D,4.0,premier_league_data/season_1415/Eliaquim_Mangala_5334.png
+2834,Vito Mannone,Italy,G,1.0,premier_league_data/season_1415/Vito_Mannone_2834.png
+4918,Javier Manquillo,Spain,D,22.0,premier_league_data/season_1415/Javier_Manquillo_4918.png
+13552,Manu García,Spain,M,14.0,premier_league_data/season_1415/Manu_García_13552.png
+3251,Adrian Mariappa,Jamaica,D,19.0,premier_league_data/season_1415/Adrian_Mariappa_3251.png
+4502,Marko Marin,Germany,M,22.0,
+5078,Lazar Markovic,Serbia,M,50.0,premier_league_data/season_1415/Lazar_Markovic_5078.png
+2359,Dean Marney,England,M,25.0,premier_league_data/season_1415/Dean_Marney_2359.png
+4332,Marnick Vermijl,Belgium,D,2.0,
+4245,Emiliano Martínez,Argentina,G,23.0,premier_league_data/season_1415/Emiliano_Martínez_4245.png
+4342,Sylvain Marveaux,France,M,21.0,
+3725,Ryan Mason,England,M,6.0,premier_league_data/season_1415/Ryan_Mason_3725.png
+13932,Ntumba Massanka,England,M,18.0,
+4287,Juan Mata,Spain,M,64.0,premier_league_data/season_1415/Juan_Mata_4287.png
+3861,Nemanja Matic,Serbia,M,31.0,premier_league_data/season_1415/Nemanja_Matic_3861.png
+3669,Matty James,England,M,37.0,premier_league_data/season_1415/Matty_James_3669.png
+13840,Nathan Mavila,England,D,,
+4831,Charalampos Mavrias,Greece,M,7.0,
+4629,Emmanuel Mayuka,Zambia,F,24.0,
+4706,Kevin Mbabu,Switzerland,D,43.0,premier_league_data/season_1415/Kevin_Mbabu_4706.png
+3880,Conor McAleny,England,F,18.0,premier_league_data/season_1415/Conor_McAleny_3880.png
+4224,James McArthur,Scotland,M,,premier_league_data/season_1415/James_McArthur_4224.png
+4437,Gareth McAuley,Northern Ireland,D,36.0,premier_league_data/season_1415/Gareth_McAuley_4437.png
+4216,Paul McCallum,England,F,9.0,
+3979,James McCarthy,Ireland,M,16.0,premier_league_data/season_1415/James_McCarthy_3979.png
+4104,Josh McEachran,England,M,6.0,
+8636,Aiden McGeady,Ireland,M,14.0,premier_league_data/season_1415/Aiden_McGeady_8636.png
+10521,Luke McGee,England,G,1.0,premier_league_data/season_1415/Luke_McGee_10521.png
+4785,Allan McGregor,Scotland,G,1.0,premier_league_data/season_1415/Allan_McGregor_4785.png
+7896,Ryan McLaughlin,Northern Ireland,D,20.0,
+3779,Callum McManaman,England,M,20.0,premier_league_data/season_1415/Callum_McManaman_3779.png
+10473,Paddy McNair,Northern Ireland,D,21.0,premier_league_data/season_1415/Paddy_McNair_10473.png
+9649,Sam McQueen,England,M,,premier_league_data/season_1415/Sam_McQueen_9649.png
+2738,Paul McShane,Ireland,D,62.0,premier_league_data/season_1415/Paul_McShane_2738.png
+3909,Ben Mee,England,D,16.0,premier_league_data/season_1415/Ben_Mee_3909.png
+4246,Per Mertesacker,Germany,D,4.0,premier_league_data/season_1415/Per_Mertesacker_4246.png
+3714,David Meyler,Ireland,M,8.0,premier_league_data/season_1415/David_Meyler_3714.png
+4659,Michu,Spain,F,8.0,
+4179,Simon Mignolet,Belgium,G,22.0,premier_league_data/season_1415/Simon_Mignolet_4179.png
+2100,James Milner,England,M,6.0,premier_league_data/season_1415/James_Milner_2100.png
+4033,Ignasi Miquel,Spain,D,14.0,premier_league_data/season_1415/Ignasi_Miquel_4033.png
+4507,Kevin Mirallas,Belgium,F,11.0,premier_league_data/season_1415/Kevin_Mirallas_4507.png
+10493,Aaron Mitchell,England,M,34.0,
+4036,Ryo Miyaichi,Japan,F,23.0,
+4826,Modibo Diakité,France,D,13.0,
+5178,Mohamed Salah,Egypt,F,11.0,premier_league_data/season_1415/Mohamed_Salah_5178.png
+4685,George Moncur,England,M,,
+10518,Jefferson Montero,Ecuador,M,10.0,premier_league_data/season_1415/Jefferson_Montero_10518.png
+8968,Liam Moore,Jamaica,D,26.0,premier_league_data/season_1415/Liam_Moore_8968.png
+7219,Alberto Moreno,Spain,D,18.0,premier_league_data/season_1415/Alberto_Moreno_7219.png
+8966,Wes Morgan,Jamaica,D,5.0,premier_league_data/season_1415/Wes_Morgan_8966.png
+2529,James Morrison,Scotland,M,,premier_league_data/season_1415/James_Morrison_2529.png
+3983,Victor Moses,Nigeria,M,7.0,premier_league_data/season_1415/Victor_Moses_3983.png
+3751,Youssouf Mulumbu,DR Congo,M,27.0,premier_league_data/season_1415/Youssouf_Mulumbu_3751.png
+4822,Muniesa,Spain,D,4.0,premier_league_data/season_1415/Muniesa_4822.png
+1926,Brian Murphy,Ireland,G,28.0,premier_league_data/season_1415/Brian_Murphy_1926.png
+4772,Glenn Murray,England,F,25.0,premier_league_data/season_1415/Glenn_Murray_4772.png
+11147,Charly Musonda,Belgium,M,21.0,premier_league_data/season_1415/Charly_Musonda_11147.png
+3333,Jordon Mutch,England,M,4.0,premier_league_data/season_1415/Jordon_Mutch_3333.png
+2011,Boaz Myhill,Wales,G,1.0,premier_league_data/season_1415/Boaz_Myhill_2011.png
+4645,Alfred N'Diaye,Senegal,M,21.0,premier_league_data/season_1415/Alfred_NDiaye_4645.png
+10461,Dame N'Doye,Senegal,F,14.0,
+2755,Charles N'Zogbia,France,M,28.0,premier_league_data/season_1415/Charles_NZogbia_2755.png
+4676,Adil Nabi,England,F,10.0,premier_league_data/season_1415/Adil_Nabi_4676.png
+4472,Nacho Monreal,Spain,D,20.0,premier_league_data/season_1415/Nacho_Monreal_4472.png
+4510,Steven Naismith,Scotland,F,,premier_league_data/season_1415/Steven_Naismith_4510.png
+3447,Nani,Portugal,F,30.0,premier_league_data/season_1415/Nani_3447.png
+15416,Amos Nasha,England,M,,
+3546,Samir Nasri,France,M,18.0,premier_league_data/season_1415/Samir_Nasri_3546.png
+4532,Matija Nastasic,Serbia,D,22.0,
+3956,Kyle Naughton,England,D,26.0,premier_league_data/season_1415/Kyle_Naughton_3956.png
+4803,Jesús Navas,Spain,D,16.0,premier_league_data/season_1415/Jesús_Navas_4803.png
+4805,Álvaro Negredo,Spain,F,21.0,premier_league_data/season_1415/Álvaro_Negredo_4805.png
+5074,Nélson Oliveira,Portugal,F,7.0,
+10538,Nenê,Brazil,M,10.0,
+4639,Jamie Ness,Scotland,M,6.0,
+13245,Danijel Nizic,Australia,G,30.0,
+3014,Mark Noble,England,M,16.0,premier_league_data/season_1415/Mark_Noble_3014.png
+2040,Kevin Nolan,England,M,44.0,premier_league_data/season_1415/Kevin_Nolan_2040.png
+3478,David Nugent,England,F,28.0,premier_league_data/season_1415/David_Nugent_3478.png
+3821,Steven Nzonzi,France,M,37.0,
+2647,Joseph O'Brien,Ireland,D,,premier_league_data/season_1415/Joseph_OBrien_2647.png
+10425,Stefan O'Connor,England,D,,premier_league_data/season_1415/Stefan_OConnor_10425.png
+4765,Stuart O'Keefe,England,M,7.0,
+4439,Liam O'Neil,England,M,17.0,
+8233,Luke O'Neill,England,D,2.0,
+1717,John O'Shea,Ireland,D,4.0,premier_league_data/season_1415/John_OShea_1717.png
+10531,Mani O'Sullivan,England,M,37.0,
+4407,Curtis Obeng,England,D,17.0,
+3919,Gabriel Obertan,France,M,4.0,
+3731,Jonathan Obika,England,F,99.0,premier_league_data/season_1415/Jonathan_Obika_3731.png
+4204,Peter Odemwingie,Nigeria,F,13.0,premier_league_data/season_1415/Peter_Odemwingie_4204.png
+10543,Sheyi Ojo,England,F,54.0,premier_league_data/season_1415/Sheyi_Ojo_10543.png
+4719,Jores Okore,Denmark,D,5.0,
+4715,Kristoffer Olsson,Sweden,M,8.0,
+5177,Kenneth Omeruo,Nigeria,D,4.0,
+10537,Emmanuel Onariase,England,D,30.0,
+7490,Josh Onomah,England,M,17.0,premier_league_data/season_1415/Josh_Onomah_7490.png
+2728,Nedum Onuoha,England,D,14.0,premier_league_data/season_1415/Nedum_Onuoha_2728.png
+10465,Divock Origi,Belgium,F,27.0,premier_league_data/season_1415/Divock_Origi_10465.png
+4501,Oscar,Brazil,M,8.0,premier_league_data/season_1415/Oscar_4501.png
+1887,Leon Osman,England,M,21.0,premier_league_data/season_1415/Leon_Osman_1887.png
+10420,David Ospina,Colombia,G,,premier_league_data/season_1415/David_Ospina_10420.png
+4819,Daniel Osvaldo,Italy,F,9.0,
+4504,Bryan Oviedo,Costa Rica,D,3.0,premier_league_data/season_1415/Bryan_Oviedo_4504.png
+10535,Reece Oxford,England,D,4.0,premier_league_data/season_1415/Reece_Oxford_10535.png
+4252,Alex Oxlade-Chamberlain,England,M,15.0,premier_league_data/season_1415/Alex_Oxlade-Chamberlain_4252.png
+3619,Mark Oxley,England,G,1.0,
+4714,Mesut Özil,Germany,M,10.0,premier_league_data/season_1415/Mesut_Özil_4714.png
+2293,Paddy McCarthy,Ireland,M,4.0,
+10536,Lewis Page,England,D,3.0,premier_league_data/season_1415/Lewis_Page_10536.png
+10525,Alex Palmer,England,G,31.0,premier_league_data/season_1415/Alex_Palmer_10525.png
+8977,Harry Panayiotou,St. Kitts & Nevis,F,,
+4319,Costel Pantilimon,Romania,G,1.0,premier_league_data/season_1415/Costel_Pantilimon_4319.png
+4841,Paulinho,Brazil,M,15.0,
+8963,James Pearson,England,D,2.0,
+10502,Graziano Pellè,Italy,F,9.0,premier_league_data/season_1415/Graziano_Pellè_10502.png
+9895,Matthew Pennington,England,D,5.0,premier_league_data/season_1415/Matthew_Pennington_9895.png
+10487,Ayoze Pérez,Spain,F,22.0,premier_league_data/season_1415/Ayoze_Pérez_10487.png
+5181,Stipe Perica,Croatia,F,77.0,
+10358,Kristoffer Peterson,Sweden,F,7.0,
+9466,Michael Petrasso,Canada,M,23.0,
+4525,Philippe Coutinho,Brazil,M,23.0,premier_league_data/season_1415/Philippe_Coutinho_4525.png
+14746,Adam Phillips,England,M,8.0,
+4640,Jordan Pickford,England,G,1.0,premier_league_data/season_1415/Jordan_Pickford_4640.png
+3388,Steven Pienaar,South Africa,M,20.0,premier_league_data/season_1415/Steven_Pienaar_3388.png
+4821,Erik Pieters,Netherlands,D,33.0,premier_league_data/season_1415/Erik_Pieters_4821.png
+10292,Ellis Plummer,England,D,26.0,premier_league_data/season_1415/Ellis_Plummer_10292.png
+10527,Sébastien Pocognoli,Belgium,D,12.0,premier_league_data/season_1415/Sébastien_Pocognoli_10527.png
+4480,Lukas Podolski,Germany,F,10.0,
+4681,Dan Potts,England,D,15.0,premier_league_data/season_1415/Dan_Potts_4681.png
+4540,Nick Powell,England,M,11.0,premier_league_data/season_1415/Nick_Powell_4540.png
+8356,Diego Poyet,Uruguay,M,39.0,premier_league_data/season_1415/Diego_Poyet_8356.png
+10471,José Pozo,Spain,M,78.0,
+3370,Lewis Price,Wales,G,12.0,
+4433,Alex Pritchard,England,M,29.0,premier_league_data/season_1415/Alex_Pritchard_4433.png
+4084,Jason Puncheon,England,M,42.0,premier_league_data/season_1415/Jason_Puncheon_4084.png
+3664,Rafael,Brazil,D,2.0,
+2532,Peter Ramage,England,D,36.0,
+4103,Ramires,Brazil,M,7.0,premier_league_data/season_1415/Ramires_4103.png
+4616,Gastón Ramírez,Uruguay,M,21.0,premier_league_data/season_1415/Gastón_Ramírez_4616.png
+3548,Aaron Ramsey,Wales,M,10.0,premier_league_data/season_1415/Aaron_Ramsey_3548.png
+4405,Angel Rangel,Spain,D,22.0,premier_league_data/season_1415/Angel_Rangel_4405.png
+4818,Harrison Reed,England,M,6.0,premier_league_data/season_1415/Harrison_Reed_4818.png
+2435,Steven Reid,Ireland,D,18.0,premier_league_data/season_1415/Steven_Reid_2435.png
+4322,Karim Rekik,Netherlands,D,4.0,
+4572,Loïc Rémy,France,F,59.0,premier_league_data/season_1415/Loïc_Rémy_4572.png
+5665,Anthony Réveillere,France,D,15.0,
+2447,Ricardo Vaz Tê,Portugal,F,2.0,
+2925,Micah Richards,England,D,17.0,premier_league_data/season_1415/Micah_Richards_2925.png
+1982,Kieran Richardson,England,D,15.0,premier_league_data/season_1415/Kieran_Richardson_1982.png
+10488,Emmanuel Rivière,Martinique,F,97.0,
+4827,Valentin Roberge,Cyprus,D,22.0,
+10486,Callum Roberts,England,M,10.0,premier_league_data/season_1415/Callum_Roberts_10486.png
+10458,Andy Robertson,Scotland,D,26.0,premier_league_data/season_1415/Andy_Robertson_10458.png
+4725,Callum Robinson,Ireland,F,47.0,premier_league_data/season_1415/Callum_Robinson_4725.png
+4696,Joel Robles,Spain,G,22.0,premier_league_data/season_1415/Joel_Robles_4696.png
+10510,Thomas Robson,England,D,,premier_league_data/season_1415/Thomas_Robson_10510.png
+3851,Jay Rodriguez,England,F,16.0,premier_league_data/season_1415/Jay_Rodriguez_3851.png
+3389,Jack Rodwell,England,M,,premier_league_data/season_1415/Jack_Rodwell_3389.png
+10472,Marcos Rojo,Argentina,D,6.0,premier_league_data/season_1415/Marcos_Rojo_10472.png
+4286,Oriol Romeu,Spain,M,14.0,premier_league_data/season_1415/Oriol_Romeu_4286.png
+4536,Rony Lopes,Portugal,F,20.0,
+4442,Kemar Roofe,Jamaica,F,9.0,
+2064,Wayne Rooney,England,F,32.0,premier_league_data/season_1415/Wayne_Rooney_2064.png
+4424,Rory Donnelly,Northern Ireland,F,9.0,
+3507,Danny Rose,England,D,3.0,premier_league_data/season_1415/Danny_Rose_3507.png
+2464,Liam Rosenior,England,D,23.0,premier_league_data/season_1415/Liam_Rosenior_2464.png
+3052,Tomas Rosicky,Czech Republic,M,10.0,premier_league_data/season_1415/Tomas_Rosicky_3052.png
+9031,Jordan Rossiter,England,M,,premier_league_data/season_1415/Jordan_Rossiter_9031.png
+2681,Wayne Routledge,England,M,15.0,premier_league_data/season_1415/Wayne_Routledge_2681.png
+4791,Yannick Sagbo,Cote D’Ivoire,F,12.0,
+3311,Bacary Sagna,France,D,33.0,premier_league_data/season_1415/Bacary_Sagna_3311.png
+4796,Mamadou Sakho,France,D,75.0,premier_league_data/season_1415/Mamadou_Sakho_4796.png
+2930,Georgios Samaras,Greece,F,5.0,
+3798,Samuel Galindo,Bolivia,M,12.0,
+4973,Alexis Sánchez,Chile,F,70.0,premier_league_data/season_1415/Alexis_Sánchez_4973.png
+4193,Sandro,Brazil,M,,
+4718,Yaya Sanogo,France,F,55.0,premier_league_data/season_1415/Yaya_Sanogo_4718.png
+4339,Davide Santon,Italy,D,18.0,
+10481,Lubomír Satka,Slovakia,D,37.0,
+8980,Jeffrey Schlupp,Ghana,M,15.0,premier_league_data/season_1415/Jeffrey_Schlupp_8980.png
+2508,Kasper Schmeichel,Denmark,G,1.0,premier_league_data/season_1415/Kasper_Schmeichel_2508.png
+4615,Morgan Schneiderlin,France,M,6.0,premier_league_data/season_1415/Morgan_Schneiderlin_4615.png
+4750,André Schürrle,Germany,M,14.0,premier_league_data/season_1415/André_Schürrle_4750.png
+1218,Mark Schwarzer,Australia,G,32.0,premier_league_data/season_1415/Mark_Schwarzer_1218.png
+10503,Ryan Seager,England,F,27.0,
+2412,Philippe Senderos,Switzerland,D,4.0,premier_league_data/season_1415/Philippe_Senderos_2412.png
+9463,Jamie Sendles-White,Northern Ireland,D,5.0,
+4185,Stéphane Sessègnon,Benin,M,29.0,premier_league_data/season_1415/Stéphane_Sessègnon_4185.png
+2766,Jason Shackell,England,D,5.0,
+1934,Shaun Wright-Phillips,England,M,98.0,premier_league_data/season_1415/Shaun_Wright-Phillips_1934.png
+4608,Luke Shaw,England,D,23.0,premier_league_data/season_1415/Luke_Shaw_4608.png
+3158,Ryan Shawcross,England,D,,premier_league_data/season_1415/Ryan_Shawcross_3158.png
+4637,Brek Shea,United States,D,20.0,
+7480,Josh Sheehan,Wales,M,8.0,premier_league_data/season_1415/Josh_Sheehan_7480.png
+10507,Oliver Shenton,England,M,,premier_league_data/season_1415/Oliver_Shenton_10507.png
+10516,Liam Shephard,Wales,D,32.0,
+1962,Shola Ameobi,Nigeria,F,9.0,premier_league_data/season_1415/Shola_Ameobi_1962.png
+3703,Ryan Shotton,England,D,,
+2007,Steve Sidwell,England,M,14.0,premier_league_data/season_1415/Steve_Sidwell_2007.png
+4421,Gylfi Sigurdsson,Iceland,M,32.0,premier_league_data/season_1415/Gylfi_Sigurdsson_4421.png
+4145,David Silva,Spain,M,21.0,premier_league_data/season_1415/David_Silva_4145.png
+5354,Silvestre Varela,Portugal,F,10.0,
+3157,Danny Simpson,England,D,,premier_league_data/season_1415/Danny_Simpson_3157.png
+2892,Scott Sinclair,England,M,7.0,
+4549,Moussa Sissoko,France,M,17.0,premier_league_data/season_1415/Moussa_Sissoko_4549.png
+3404,Martin Skrtel,Slovakia,D,37.0,premier_league_data/season_1415/Martin_Skrtel_3404.png
+3613,Chris Smalling,England,D,6.0,premier_league_data/season_1415/Chris_Smalling_3613.png
+8959,Adam Smith,England,G,21.0,
+4558,Robert Snodgrass,Scotland,M,77.0,premier_league_data/season_1415/Robert_Snodgrass_4558.png
+10443,Dominic Solanke,England,F,19.0,premier_league_data/season_1415/Dominic_Solanke_10443.png
+4846,Roberto Soldado,Spain,F,9.0,
+2837,Alexandre Song,Cameroon,M,17.0,premier_league_data/season_1415/Alexandre_Song_2837.png
+4281,Marvin Sordell,England,F,15.0,
+10444,Pape Souaré,Senegal,D,,premier_league_data/season_1415/Pape_Souaré_10444.png
+2664,Julian Speroni,Argentina,G,,premier_league_data/season_1415/Julian_Speroni_2664.png
+4679,Raphael Spiegel,Switzerland,G,24.0,premier_league_data/season_1415/Raphael_Spiegel_4679.png
+10523,Benjamin Stambouli,France,M,90.0,
+10447,Jindrich Stanek,Czech Republic,G,36.0,premier_league_data/season_1415/Jindrich_Stanek_10447.png
+4348,Jed Steer,England,G,31.0,premier_league_data/season_1415/Jed_Steer_4348.png
+3225,Stephen Quinn,Ireland,M,16.0,
+4612,Jack Stephens,England,D,,premier_league_data/season_1415/Jack_Stephens_4612.png
+4316,Raheem Sterling,England,F,30.0,premier_league_data/season_1415/Raheem_Sterling_4316.png
+10482,Jamie Sterry,England,D,2.0,premier_league_data/season_1415/Jamie_Sterry_10482.png
+4258,Enda Stevens,Ireland,D,3.0,premier_league_data/season_1415/Enda_Stevens_4258.png
+4426,Kevin Stewart,Jamaica,M,,premier_league_data/season_1415/Kevin_Stewart_4426.png
+4505,John Stones,England,D,5.0,premier_league_data/season_1415/John_Stones_4505.png
+4548,Remie Streete,England,D,4.0,
+10508,Max Stryjek,Poland,G,1.0,premier_league_data/season_1415/Max_Stryjek_10508.png
+3154,Daniel Sturridge,England,F,19.0,premier_league_data/season_1415/Daniel_Sturridge_3154.png
+4315,Suso,Spain,M,10.0,
+4571,Frankie Sutherland,Ireland,F,19.0,
+5180,John Swift,England,M,10.0,premier_league_data/season_1415/John_Swift_5180.png
+4490,Yacouba Sylla,Mali,M,8.0,
+3543,Wojciech Szczesny,Poland,G,25.0,premier_league_data/season_1415/Wojciech_Szczesny_3543.png
+1751,Thomas Sørensen,Denmark,G,1.0,premier_league_data/season_1415/Thomas_Sørensen_1751.png
+3241,Adel Taarabt,Morocco,M,49.0,
+10498,Dusan Tadic,Serbia,F,10.0,premier_league_data/season_1415/Dusan_Tadic_10498.png
+10547,Saphir Taïder,Algeria,M,8.0,
+4815,Matt Targett,England,D,,premier_league_data/season_1415/Matt_Targett_4815.png
+1941,Alan Tate,England,D,30.0,
+2542,Matthew Taylor,England,M,31.0,premier_league_data/season_1415/Matthew_Taylor_2542.png
+4086,Gary Taylor-Fletcher,England,F,15.0,
+1353,John Terry,England,D,26.0,premier_league_data/season_1415/John_Terry_1353.png
+2008,Jerome Thomas,England,M,14.0,premier_league_data/season_1415/Jerome_Thomas_2008.png
+4334,Tom Thorpe,England,D,32.0,
+4798,Tiago Ilori,Portugal,D,14.0,
+4652,Dwight Tiendalli,Netherlands,D,3.0,premier_league_data/season_1415/Dwight_Tiendalli_4652.png
+10509,Tom Beadling,Australia,M,16.0,premier_league_data/season_1415/Tom_Beadling_10509.png
+3517,James Tomkins,England,D,5.0,premier_league_data/season_1415/James_Tomkins_3517.png
+4722,Aleksandar Tonev,Bulgaria,M,27.0,
+3420,Fernando Torres,Spain,F,9.0,premier_league_data/season_1415/Fernando_Torres_3420.png
+4148,Yaya Touré,Cote D’Ivoire,M,42.0,premier_league_data/season_1415/Yaya_Touré_4148.png
+4864,Conor Townsend,England,D,22.0,premier_league_data/season_1415/Conor_Townsend_4864.png
+10394,Bertrand Traoré,Burkina Faso,F,20.0,premier_league_data/season_1415/Bertrand_Traoré_10394.png
+4401,Gerhard Tremmel,Germany,G,25.0,premier_league_data/season_1415/Gerhard_Tremmel_4401.png
+3905,Kieran Trippier,England,D,,premier_league_data/season_1415/Kieran_Trippier_3905.png
+4687,Blair Turgott,Jamaica,F,20.0,
+8174,Leonardo Ulloa,Argentina,F,9.0,premier_league_data/season_1415/Leonardo_Ulloa_8174.png
+10435,Fredrik Ulvestad,Norway,M,23.0,premier_league_data/season_1415/Fredrik_Ulvestad_10435.png
+1131,Matt Upson,England,D,4.0,premier_league_data/season_1415/Matt_Upson_1131.png
+4951,Víctor Valdés,Spain,G,26.0,premier_league_data/season_1415/Víctor_Valdés_4951.png
+3285,Antonio Valencia,Ecuador,D,25.0,premier_league_data/season_1415/Antonio_Valencia_3285.png
+3362,Patrick van Aanholt,Netherlands,D,30.0,premier_league_data/season_1415/Patrick_van_Aanholt_3362.png
+4747,Marco van Ginkel,Netherlands,M,8.0,premier_league_data/season_1415/Marco_van_Ginkel_4747.png
+2616,Robin van Persie,Netherlands,F,32.0,premier_league_data/season_1415/Robin_van_Persie_2616.png
+8979,Jamie Vardy,England,F,9.0,premier_league_data/season_1415/Jamie_Vardy_8979.png
+4809,Guillermo Varela,Uruguay,D,2.0,premier_league_data/season_1415/Guillermo_Varela_4809.png
+5696,Eduardo Vargas,Chile,F,9.0,
+7486,Milos Veljkovic,Serbia,D,13.0,
+9793,Santiago Vergini,Argentina,D,27.0,
+4666,Jan Vertonghen,Belgium,D,14.0,premier_league_data/season_1415/Jan_Vertonghen_4666.png
+4486,Ron Vlaar,Netherlands,D,4.0,
+4007,Sam Vokes,Wales,F,9.0,premier_league_data/season_1415/Sam_Vokes_4007.png
+4398,Michel Vorm,Netherlands,G,13.0,premier_league_data/season_1415/Michel_Vorm_4398.png
+3684,Haris Vuckic,Slovenia,F,19.0,
+2839,Theo Walcott,England,F,32.0,premier_league_data/season_1415/Theo_Walcott_2839.png
+3955,Kyle Walker,England,D,32.0,premier_league_data/season_1415/Kyle_Walker_3955.png
+3498,Ross Wallace,Scotland,M,23.0,
+5176,Wallace Oliveira,Brazil,D,2.0,
+2047,Jonathan Walters,Ireland,F,39.0,premier_league_data/season_1415/Jonathan_Walters_2047.png
+4816,Victor Wanyama,Kenya,M,2.0,premier_league_data/season_1415/Victor_Wanyama_4816.png
+3999,Stephen Ward,Ireland,D,3.0,premier_league_data/season_1415/Stephen_Ward_3999.png
+4617,James Ward-Prowse,England,M,18.0,premier_league_data/season_1415/James_Ward-Prowse_4617.png
+8970,Marcin Wasilewski,Poland,D,27.0,premier_league_data/season_1415/Marcin_Wasilewski_8970.png
+10336,Duncan Watmore,England,F,19.0,premier_league_data/season_1415/Duncan_Watmore_10336.png
+10457,Rory Watson,England,G,16.0,
+3803,Andreas Weimann,Austria,F,14.0,
+3452,Danny Welbeck,England,F,18.0,premier_league_data/season_1415/Danny_Welbeck_3452.png
+4038,Wellington Silva,Brazil,M,11.0,
+4489,Ashley Westwood,England,M,8.0,premier_league_data/season_1415/Ashley_Westwood_4489.png
+2299,Glenn Whelan,Ireland,M,25.0,premier_league_data/season_1415/Glenn_Whelan_2299.png
+9983,Danny Whitehead,England,M,23.0,
+4396,Connor Wickham,England,F,13.0,premier_league_data/season_1415/Connor_Wickham_4396.png
+3702,Andy Wilkinson,England,D,,
+10454,Joe Williams,England,M,8.0,premier_league_data/season_1415/Joe_Williams_10454.png
+4024,Mike Williamson,England,D,24.0,premier_league_data/season_1415/Mike_Williamson_4024.png
+4748,Willian,Brazil,F,22.0,premier_league_data/season_1415/Willian_4748.png
+3547,Jack Wilshere,England,M,11.0,premier_league_data/season_1415/Jack_Wilshere_3547.png
+5562,James Wilson,England,F,11.0,premier_league_data/season_1415/James_Wilson_5562.png
+3527,Wilson Palacios,Honduras,M,8.0,premier_league_data/season_1415/Wilson_Palacios_3527.png
+7488,Harry Winks,England,M,8.0,premier_league_data/season_1415/Harry_Winks_7488.png
+4130,Andre Wisdom,England,D,,premier_league_data/season_1415/Andre_Wisdom_4130.png
+4989,Philipp Wollscheid,Germany,D,2.0,premier_league_data/season_1415/Philipp_Wollscheid_4989.png
+3756,Chris Wood,New Zealand,F,11.0,premier_league_data/season_1415/Chris_Wood_3756.png
+10479,Freddie Woodman,England,G,1.0,premier_league_data/season_1415/Freddie_Woodman_10479.png
+878,Richard Wright,England,G,,premier_league_data/season_1415/Richard_Wright_878.png
+4758,Alex Wynter,England,D,15.0,
+4673,Claudio Yacob,Argentina,M,24.0,premier_league_data/season_1415/Claudio_Yacob_4673.png
+4544,Mapou Yanga-Mbiwa,France,D,2.0,
+10522,DeAndre Yedlin,United States,D,2.0,premier_league_data/season_1415/DeAndre_Yedlin_10522.png
+4605,Maya Yoshida,Japan,D,22.0,premier_league_data/season_1415/Maya_Yoshida_4605.png
+3062,Ashley Young,England,D,18.0,premier_league_data/season_1415/Ashley_Young_3062.png
+4568,Yun Suk-Young,South Korea,D,2.0,
+3654,Pablo Zabaleta,Argentina,D,5.0,premier_league_data/season_1415/Pablo_Zabaleta_3654.png
+4539,Wilfried Zaha,Cote D’Ivoire,F,12.0,premier_league_data/season_1415/Wilfried_Zaha_4539.png
+2603,Bobby Zamora,England,F,25.0,
+3338,Mauro Zárate,Argentina,F,19.0,premier_league_data/season_1415/Mauro_Zárate_3338.png
+4716,Gedion Zelalem,United States,M,6.0,premier_league_data/season_1415/Gedion_Zelalem_4716.png
+5175,Kurt Zouma,France,D,4.0,premier_league_data/season_1415/Kurt_Zouma_5175.png
+10468,Bruno Zuculini,Argentina,M,5.0,premier_league_data/season_1415/Bruno_Zuculini_10468.png

@@ -1,0 +1,67 @@
+2025-05-21 18:46:28,422 - INFO - 시즌 처리 시작: 1992_93 (폴더: premier_league_data/season_199293)
+2025-05-21 18:48:03,875 - INFO - CSV 저장 완료: premier_league_data/players_199293.csv
+2025-05-21 18:48:03,875 - INFO - 시즌 처리 시작: 1993_94 (폴더: premier_league_data/season_199394)
+2025-05-21 18:49:36,563 - INFO - CSV 저장 완료: premier_league_data/players_199394.csv
+2025-05-21 18:49:36,563 - INFO - 시즌 처리 시작: 1994_95 (폴더: premier_league_data/season_199495)
+2025-05-21 18:51:11,308 - INFO - CSV 저장 완료: premier_league_data/players_199495.csv
+2025-05-21 18:51:11,308 - INFO - 시즌 처리 시작: 1995_96 (폴더: premier_league_data/season_199596)
+2025-05-21 18:52:43,129 - INFO - CSV 저장 완료: premier_league_data/players_199596.csv
+2025-05-21 18:52:43,129 - INFO - 시즌 처리 시작: 1996_97 (폴더: premier_league_data/season_199697)
+2025-05-21 18:54:15,933 - INFO - CSV 저장 완료: premier_league_data/players_199697.csv
+2025-05-21 18:54:15,933 - INFO - 시즌 처리 시작: 1997_98 (폴더: premier_league_data/season_199798)
+2025-05-21 18:55:57,338 - INFO - CSV 저장 완료: premier_league_data/players_199798.csv
+2025-05-21 18:55:57,338 - INFO - 시즌 처리 시작: 1998_99 (폴더: premier_league_data/season_199899)
+2025-05-21 18:57:32,597 - INFO - CSV 저장 완료: premier_league_data/players_199899.csv
+2025-05-21 18:57:32,598 - INFO - 시즌 처리 시작: 1999_00 (폴더: premier_league_data/season_199900)
+2025-05-21 18:58:18,520 - ERROR - 시즌 8.0, 페이지 9 오류: [Errno Expecting value] : 0
+2025-05-21 18:58:18,521 - INFO - CSV 저장 완료: premier_league_data/players_199900.csv
+2025-05-21 18:58:18,521 - INFO - 시즌 처리 시작: 2000_01 (폴더: premier_league_data/season_0001)
+2025-05-21 18:59:53,920 - INFO - CSV 저장 완료: premier_league_data/players_0001.csv
+2025-05-21 18:59:53,920 - INFO - 시즌 처리 시작: 2001_02 (폴더: premier_league_data/season_0102)
+2025-05-21 19:01:34,392 - INFO - CSV 저장 완료: premier_league_data/players_0102.csv
+2025-05-21 19:01:34,392 - INFO - 시즌 처리 시작: 2002_03 (폴더: premier_league_data/season_0203)
+2025-05-21 19:03:32,709 - INFO - CSV 저장 완료: premier_league_data/players_0203.csv
+2025-05-21 19:03:32,709 - INFO - 시즌 처리 시작: 2003_04 (폴더: premier_league_data/season_0304)
+2025-05-21 19:05:35,358 - INFO - CSV 저장 완료: premier_league_data/players_0304.csv
+2025-05-21 19:05:35,359 - INFO - 시즌 처리 시작: 2004_05 (폴더: premier_league_data/season_0405)
+2025-05-21 19:07:32,399 - INFO - CSV 저장 완료: premier_league_data/players_0405.csv
+2025-05-21 19:07:32,399 - INFO - 시즌 처리 시작: 2005_06 (폴더: premier_league_data/season_0506)
+2025-05-21 19:09:24,894 - INFO - CSV 저장 완료: premier_league_data/players_0506.csv
+2025-05-21 19:09:24,894 - INFO - 시즌 처리 시작: 2006_07 (폴더: premier_league_data/season_0607)
+2025-05-21 19:11:26,798 - INFO - CSV 저장 완료: premier_league_data/players_0607.csv
+2025-05-21 19:11:26,798 - INFO - 시즌 처리 시작: 2007_08 (폴더: premier_league_data/season_0708)
+2025-05-21 19:13:36,429 - INFO - CSV 저장 완료: premier_league_data/players_0708.csv
+2025-05-21 19:13:36,429 - INFO - 시즌 처리 시작: 2008_09 (폴더: premier_league_data/season_0809)
+2025-05-21 19:15:51,505 - INFO - CSV 저장 완료: premier_league_data/players_0809.csv
+2025-05-21 19:15:51,505 - INFO - 시즌 처리 시작: 2009_10 (폴더: premier_league_data/season_0910)
+2025-05-21 19:18:10,184 - INFO - CSV 저장 완료: premier_league_data/players_0910.csv
+2025-05-21 19:18:10,184 - INFO - 시즌 처리 시작: 2010_11 (폴더: premier_league_data/season_1011)
+2025-05-21 19:20:31,994 - INFO - CSV 저장 완료: premier_league_data/players_1011.csv
+2025-05-21 19:20:31,994 - INFO - 시즌 처리 시작: 2011_12 (폴더: premier_league_data/season_1112)
+2025-05-21 19:23:27,688 - INFO - CSV 저장 완료: premier_league_data/players_1112.csv
+2025-05-21 19:23:27,688 - INFO - 시즌 처리 시작: 2012_13 (폴더: premier_league_data/season_1213)
+2025-05-21 19:26:03,051 - INFO - CSV 저장 완료: premier_league_data/players_1213.csv
+2025-05-21 19:26:03,051 - INFO - 시즌 처리 시작: 2013_14 (폴더: premier_league_data/season_1314)
+2025-05-21 19:28:23,814 - INFO - CSV 저장 완료: premier_league_data/players_1314.csv
+2025-05-21 19:28:23,815 - INFO - 시즌 처리 시작: 2014_15 (폴더: premier_league_data/season_1415)
+2025-05-21 19:30:36,692 - INFO - CSV 저장 완료: premier_league_data/players_1415.csv
+2025-05-21 19:30:36,693 - INFO - 시즌 처리 시작: 2015_16 (폴더: premier_league_data/season_1516)
+2025-05-21 19:32:46,723 - INFO - CSV 저장 완료: premier_league_data/players_1516.csv
+2025-05-21 19:32:46,723 - INFO - 시즌 처리 시작: 2016_17 (폴더: premier_league_data/season_1617)
+2025-05-21 19:35:04,841 - INFO - CSV 저장 완료: premier_league_data/players_1617.csv
+2025-05-21 19:35:04,841 - INFO - 시즌 처리 시작: 2017_18 (폴더: premier_league_data/season_1718)
+2025-05-21 19:37:19,759 - INFO - CSV 저장 완료: premier_league_data/players_1718.csv
+2025-05-21 19:37:19,759 - INFO - 시즌 처리 시작: 2018_19 (폴더: premier_league_data/season_1819)
+2025-05-21 19:39:46,733 - INFO - CSV 저장 완료: premier_league_data/players_1819.csv
+2025-05-21 19:39:46,733 - INFO - 시즌 처리 시작: 2019_20 (폴더: premier_league_data/season_19)
+2025-05-21 19:42:36,496 - INFO - CSV 저장 완료: premier_league_data/players_19.csv
+2025-05-21 19:42:36,496 - INFO - 시즌 처리 시작: 2020_21 (폴더: premier_league_data/season_21)
+2025-05-21 19:44:59,172 - INFO - CSV 저장 완료: premier_league_data/players_21.csv
+2025-05-21 19:44:59,173 - INFO - 시즌 처리 시작: 2021_22 (폴더: premier_league_data/season_2122)
+2025-05-21 19:47:45,435 - INFO - CSV 저장 완료: premier_league_data/players_2122.csv
+2025-05-21 19:47:45,435 - INFO - 시즌 처리 시작: 2022_23 (폴더: premier_league_data/season_2223)
+2025-05-21 19:50:45,990 - INFO - CSV 저장 완료: premier_league_data/players_2223.csv
+2025-05-21 19:50:45,991 - INFO - 시즌 처리 시작: 2023_24 (폴더: premier_league_data/season_2324)
+2025-05-21 19:53:33,315 - INFO - CSV 저장 완료: premier_league_data/players_2324.csv
+2025-05-21 19:53:33,315 - INFO - 시즌 처리 시작: 2024_25 (폴더: premier_league_data/season_2425)
+2025-05-21 19:56:27,963 - INFO - CSV 저장 완료: premier_league_data/players_2425.csv

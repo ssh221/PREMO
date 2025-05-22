@@ -1,0 +1,970 @@
+player_id,name,nationality,position,shirt_number,image_path
+19970,Max Aarons,England,D,19.0,premier_league_data/season_19/Max_Aarons_19970.png
+13286,Tammy Abraham,England,F,90.0,premier_league_data/season_19/Tammy_Abraham_13286.png
+21821,Adam Lewis,England,D,3.0,premier_league_data/season_19/Adam_Lewis_21821.png
+10905,Ché Adams,Scotland,F,10.0,premier_league_data/season_19/Ché_Adams_10905.png
+13549,Tosin Adarabioyo,England,D,4.0,premier_league_data/season_19/Tosin_Adarabioyo_13549.png
+14674,Dennis Adeniran,England,M,8.0,premier_league_data/season_19/Dennis_Adeniran_14674.png
+9131,Albert Adomah,Ghana,D,37.0,premier_league_data/season_19/Albert_Adomah_9131.png
+4852,Adrián,Spain,G,13.0,premier_league_data/season_19/Adrián_4852.png
+11357,Adrien Silva,Portugal,M,15.0,premier_league_data/season_19/Adrien_Silva_11357.png
+24778,Daniel Adshead,England,M,,premier_league_data/season_19/Daniel_Adshead_24778.png
+4040,Benik Afobe,DR Congo,F,7.0,premier_league_data/season_19/Benik_Afobe_4040.png
+4328,Sergio Agüero,Argentina,F,19.0,premier_league_data/season_19/Sergio_Agüero_4328.png
+10559,Daniel Agyei,England,F,7.0,premier_league_data/season_19/Daniel_Agyei_10559.png
+24695,Soufyan Ahannach,Netherlands,M,30.0,
+4183,Ahmed El Mohamady,Egypt,D,27.0,premier_league_data/season_19/Ahmed_El_Mohamady_4183.png
+10439,Ola Aina,Nigeria,D,34.0,premier_league_data/season_19/Ola_Aina_10439.png
+5248,Albian Ajeti,Switzerland,F,23.0,premier_league_data/season_19/Albian_Ajeti_5248.png
+4499,Nathan Aké,Netherlands,D,6.0,premier_league_data/season_19/Nathan_Aké_4499.png
+3564,Marc Albrighton,England,M,22.0,premier_league_data/season_19/Marc_Albrighton_3564.png
+4916,Toby Alderweireld,Belgium,D,23.0,premier_league_data/season_19/Toby_Alderweireld_4916.png
+14732,Trent Alexander-Arnold,England,D,66.0,premier_league_data/season_19/Trent_Alexander-Arnold_14732.png
+20559,Alisson Becker,Brazil,G,1.0,premier_league_data/season_19/Alisson_Becker_20559.png
+13984,Allan,Brazil,M,28.0,
+9167,Dele Alli,England,M,11.0,premier_league_data/season_19/Dele_Alli_9167.png
+54312,Miguel Almirón,Paraguay,M,24.0,premier_league_data/season_19/Miguel_Almirón_54312.png
+4093,Marcos Alonso,Spain,D,20.0,premier_league_data/season_19/Marcos_Alonso_4093.png
+20723,Steven Alzate,Colombia,M,19.0,premier_league_data/season_19/Steven_Alzate_20723.png
+49990,Ibrahim Amadou,France,M,6.0,premier_league_data/season_19/Ibrahim_Amadou_49990.png
+12306,Daniel Amartey,Ghana,D,12.0,premier_league_data/season_19/Daniel_Amartey_12306.png
+15128,Luke Amos,England,M,8.0,premier_league_data/season_19/Luke_Amos_15128.png
+19731,Ethan Ampadu,Wales,D,4.0,premier_league_data/season_19/Ethan_Ampadu_19731.png
+48689,Joseph Anang,England,G,,premier_league_data/season_19/Joseph_Anang_48689.png
+10475,Ander Herrera,Spain,M,21.0,premier_league_data/season_19/Ander_Herrera_10475.png
+37587,Florin Andone,Romania,F,7.0,premier_league_data/season_19/Florin_Andone_37587.png
+5061,André Gomes,Portugal,M,26.0,premier_league_data/season_19/André_Gomes_5061.png
+10476,Andreas Pereira,Brazil,M,18.0,premier_league_data/season_19/Andreas_Pereira_10476.png
+10467,Angeliño,Spain,D,3.0,premier_league_data/season_19/Angeliño_10467.png
+24708,Tino Anjorin,England,M,28.0,premier_league_data/season_19/Tino_Anjorin_24708.png
+9595,Michail Antonio,Jamaica,F,,premier_league_data/season_19/Michail_Antonio_9595.png
+51667,Billy Arce,Ecuador,M,11.0,
+25281,Cameron Archer,England,F,19.0,premier_league_data/season_19/Cameron_Archer_25281.png
+12186,Stuart Armstrong,Scotland,M,40.0,premier_league_data/season_19/Stuart_Armstrong_12186.png
+4823,Marko Arnautovic,Austria,F,8.0,premier_league_data/season_19/Marko_Arnautovic_4823.png
+8050,Harry Arter,Ireland,M,,premier_league_data/season_19/Harry_Arter_8050.png
+14803,Daniel Arzani,Australia,F,99.0,
+14945,Benny Ashley-Seal,England,F,22.0,premier_league_data/season_19/Benny_Ashley-Seal_14945.png
+14720,Daniel Atherton,England,G,,premier_league_data/season_19/Daniel_Atherton_14720.png
+4859,Christian Atsu,Ghana,M,,premier_league_data/season_19/Christian_Atsu_4859.png
+5110,Pierre-Emerick Aubameyang,Gabon,F,10.0,premier_league_data/season_19/Pierre-Emerick_Aubameyang_5110.png
+11293,Sèrge Aurier,Cote D’Ivoire,D,92.0,premier_league_data/season_19/Sèrge_Aurier_11293.png
+9468,Charlie Austin,England,F,32.0,premier_league_data/season_19/Charlie_Austin_9468.png
+15340,Taiwo Awoniyi,Nigeria,F,9.0,premier_league_data/season_19/Taiwo_Awoniyi_15340.png
+5595,Jordan Ayew,Ghana,F,18.0,premier_league_data/season_19/Jordan_Ayew_5595.png
+4496,César Azpilicueta,Spain,D,3.0,premier_league_data/season_19/César_Azpilicueta_4496.png
+13279,Abdul Baba,Ghana,D,21.0,premier_league_data/season_19/Abdul_Baba_13279.png
+9762,Daniel Bachmann,Austria,G,35.0,premier_league_data/season_19/Daniel_Bachmann_9762.png
+14902,Owen Bailey,England,M,17.0,
+12937,Eric Bailly,Cote D’Ivoire,D,4.0,premier_league_data/season_19/Eric_Bailly_12937.png
+3030,Leighton Baines,England,D,3.0,premier_league_data/season_19/Leighton_Baines_3030.png
+11260,Tiémoué Bakayoko,France,M,8.0,premier_league_data/season_19/Tiémoué_Bakayoko_11260.png
+4749,Lewis Baker,Jamaica,M,,premier_league_data/season_19/Lewis_Baker_4749.png
+32435,Fabián Balbuena,Paraguay,D,,premier_league_data/season_19/Fabián_Balbuena_32435.png
+9169,George Baldock,Greece,D,32.0,premier_league_data/season_19/George_Baldock_9169.png
+19871,Folarin Balogun,United States,F,9.0,premier_league_data/season_19/Folarin_Balogun_19871.png
+63655,Tudor Baluta,Romania,D,6.0,premier_league_data/season_19/Tudor_Baluta_63655.png
+14623,Beni Baningime,DR Congo,M,6.0,premier_league_data/season_19/Beni_Baningime_14623.png
+74776,Scott Banks,Scotland,M,12.0,premier_league_data/season_19/Scott_Banks_74776.png
+15288,Ben Barclay,England,D,26.0,premier_league_data/season_19/Ben_Barclay_15288.png
+2517,Phil Bardsley,Scotland,D,27.0,premier_league_data/season_19/Phil_Bardsley_2517.png
+4115,Ross Barkley,England,M,6.0,premier_league_data/season_19/Ross_Barkley_4115.png
+13590,Daniel Barlaser,England,M,4.0,premier_league_data/season_19/Daniel_Barlaser_13590.png
+8246,Ashley Barnes,England,F,35.0,premier_league_data/season_19/Ashley_Barnes_8246.png
+49956,Antonio Barreca,Italy,D,23.0,
+15185,Mason Barrett,England,D,6.0,
+3581,Chris Basham,England,D,6.0,premier_league_data/season_19/Chris_Basham_3581.png
+23793,Calvin Bassey,Nigeria,D,3.0,premier_league_data/season_19/Calvin_Bassey_23793.png
+16622,Borja Bastón,Spain,F,9.0,premier_league_data/season_19/Borja_Bastón_16622.png
+49501,Lewis Bate,England,M,4.0,premier_league_data/season_19/Lewis_Bate_49501.png
+7450,Michy Batshuayi,Belgium,F,30.0,premier_league_data/season_19/Michy_Batshuayi_7450.png
+3988,Danny Batth,England,D,15.0,premier_league_data/season_19/Danny_Batth_3988.png
+14568,Nathan Baxter,England,G,1.0,
+63840,Gavin Bazunu,Ireland,G,35.0,premier_league_data/season_19/Gavin_Bazunu_63840.png
+33166,Jack Bearne,England,F,,premier_league_data/season_19/Jack_Bearne_33166.png
+19589,Jan Bednarek,Poland,D,35.0,premier_league_data/season_19/Jan_Bednarek_19589.png
+2537,Asmir Begovic,Bosnia & Herzegovina,G,31.0,premier_league_data/season_19/Asmir_Begovic_2537.png
+4474,Héctor Bellerín,Spain,D,2.0,premier_league_data/season_19/Héctor_Bellerín_4474.png
+13490,Yohan Benalouane,Tunisia,D,29.0,premier_league_data/season_19/Yohan_Benalouane_13490.png
+5575,Benjamin Mendy,France,D,5.0,premier_league_data/season_19/Benjamin_Mendy_5575.png
+16671,Filip Benkovic,Croatia,D,32.0,premier_league_data/season_19/Filip_Benkovic_16671.png
+4351,Ryan Bennett,England,D,6.0,premier_league_data/season_19/Ryan_Bennett_4351.png
+51464,Jayden Bennetts,England,F,,premier_league_data/season_19/Jayden_Bennetts_51464.png
+14441,Josh Benson,England,M,10.0,premier_league_data/season_19/Josh_Benson_14441.png
+4847,Nabil Bentaleb,Algeria,M,6.0,premier_league_data/season_19/Nabil_Bentaleb_4847.png
+4492,Christian Benteke,Belgium,F,20.0,premier_league_data/season_19/Christian_Benteke_4492.png
+21614,Sander Berge,Norway,M,16.0,premier_league_data/season_19/Sander_Berge_21614.png
+12703,Steven Bergwijn,Netherlands,F,34.0,premier_league_data/season_19/Steven_Bergwijn_12703.png
+50975,Adrián Bernabé,Spain,M,10.0,premier_league_data/season_19/Adrián_Bernabé_50975.png
+5907,Bernard,Brazil,M,10.0,premier_league_data/season_19/Bernard_5907.png
+23591,Bernardo,Brazil,D,95.0,premier_league_data/season_19/Bernardo_23591.png
+21422,Bernardo Rosa,Brazil,D,23.0,
+5067,Bernardo Silva,Portugal,M,20.0,premier_league_data/season_19/Bernardo_Silva_5067.png
+2886,Ryan Bertrand,England,D,5.0,premier_league_data/season_19/Ryan_Bertrand_2886.png
+10451,Muhamed Besic,Bosnia & Herzegovina,M,5.0,premier_league_data/season_19/Muhamed_Besic_10451.png
+8882,Philip Billing,Denmark,M,29.0,premier_league_data/season_19/Philip_Billing_8882.png
+21881,Nathan Bishop,England,G,,premier_league_data/season_19/Nathan_Bishop_21881.png
+50245,Yves Bissouma,Mali,M,8.0,premier_league_data/season_19/Yves_Bissouma_50245.png
+15661,Birkir Bjarnason,Iceland,M,8.0,premier_league_data/season_19/Birkir_Bjarnason_15661.png
+21820,Joshua Bohui,England,F,37.0,premier_league_data/season_19/Joshua_Bohui_21820.png
+14434,Tolaji Bola,England,D,23.0,premier_league_data/season_19/Tolaji_Bola_14434.png
+4763,Yannick Bolasie,DR Congo,F,17.0,premier_league_data/season_19/Yannick_Bolasie_4763.png
+14793,Luke Bolton,England,M,17.0,
+16204,Willy-Arnaud Boly,Cote D’Ivoire,D,30.0,premier_league_data/season_19/Willy-Arnaud_Boly_16204.png
+5721,Gaëtan Bong,Cameroon,D,6.0,premier_league_data/season_19/Gaëtan_Bong_5721.png
+4601,Artur Boruc,Poland,G,1.0,premier_league_data/season_19/Artur_Boruc_4601.png
+12584,Sofiane Boufal,Morocco,F,23.0,premier_league_data/season_19/Sofiane_Boufal_12584.png
+23951,Jamie Bowden,Ireland,M,18.0,premier_league_data/season_19/Jamie_Bowden_23951.png
+8868,Jarrod Bowen,England,F,20.0,premier_league_data/season_19/Jarrod_Bowen_8868.png
+23812,Morgan Boyes,Wales,D,22.0,premier_league_data/season_19/Morgan_Boyes_23812.png
+4158,Robert Brady,Ireland,M,11.0,premier_league_data/season_19/Robert_Brady_4158.png
+66318,Jarrad Branthwaite,England,D,,premier_league_data/season_19/Jarrad_Branthwaite_66318.png
+5810,Claudio Bravo,Chile,G,25.0,premier_league_data/season_19/Claudio_Bravo_5810.png
+10565,James Bree,England,D,14.0,premier_league_data/season_19/James_Bree_10565.png
+14742,Rhian Brewster,England,F,,premier_league_data/season_19/Rhian_Brewster_14742.png
+5668,Miguel Britos,Uruguay,D,3.0,premier_league_data/season_19/Miguel_Britos_5668.png
+31442,Armando Broja,Albania,F,9.0,premier_league_data/season_19/Armando_Broja_31442.png
+13706,David Brooks,Wales,M,36.0,premier_league_data/season_19/David_Brooks_13706.png
+4674,Isaiah Brown,England,M,20.0,premier_league_data/season_19/Isaiah_Brown_4674.png
+9457,Josh Brownhill,England,M,8.0,premier_league_data/season_19/Josh_Brownhill_9457.png
+8162,Bruno,Spain,D,2.0,premier_league_data/season_19/Bruno_8162.png
+23396,Bruno Fernandes,Portugal,M,8.0,premier_league_data/season_19/Bruno_Fernandes_23396.png
+25191,Bruno Jordão,Portugal,M,,premier_league_data/season_19/Bruno_Jordão_25191.png
+14779,Kean Bryan,England,D,23.0,premier_league_data/season_19/Kean_Bryan_14779.png
+26408,Emiliano Buendía,Argentina,M,16.0,premier_league_data/season_19/Emiliano_Buendía_26408.png
+23695,Marcin Bulka,Poland,G,1.0,premier_league_data/season_19/Marcin_Bulka_23695.png
+3567,Mark Bunn,England,G,31.0,premier_league_data/season_19/Mark_Bunn_3567.png
+8707,Dan Burn,England,D,33.0,premier_league_data/season_19/Dan_Burn_8707.png
+14444,Robbie Burton,Wales,M,26.0,premier_league_data/season_19/Robbie_Burton_14444.png
+66307,Rocky Bushiri,Belgium,D,33.0,
+11965,Matt Butcher,England,M,26.0,premier_league_data/season_19/Matt_Butcher_11965.png
+3505,David Button,England,G,1.0,premier_league_data/season_19/David_Button_3505.png
+25435,Oskar Buur,Denmark,D,2.0,premier_league_data/season_19/Oskar_Buur_25435.png
+23869,Jack Bycroft,England,G,1.0,
+8945,Sam Byram,England,D,25.0,premier_league_data/season_19/Sam_Byram_8945.png
+10466,Willy Caballero,Argentina,G,1.0,premier_league_data/season_19/Willy_Caballero_10466.png
+2620,Gary Cahill,England,D,24.0,premier_league_data/season_19/Gary_Cahill_2620.png
+32279,Jake Cain,England,M,16.0,premier_league_data/season_19/Jake_Cain_32279.png
+21957,Callum Wright,England,M,11.0,premier_league_data/season_19/Callum_Wright_21957.png
+9576,Dominic Calvert-Lewin,England,F,9.0,premier_league_data/season_19/Dominic_Calvert-Lewin_9576.png
+22952,Víctor Camarasa,Spain,M,6.0,premier_league_data/season_19/Víctor_Camarasa_22952.png
+50467,Brennan Camp,Scotland,D,2.0,
+74562,Leonardo Campana,Ecuador,F,8.0,
+51648,Chem Campbell,Wales,M,20.0,premier_league_data/season_19/Chem_Campbell_51648.png
+14944,Todd Cantwell,England,M,8.0,premier_league_data/season_19/Todd_Cantwell_14944.png
+4843,Étienne Capoue,France,M,6.0,premier_league_data/season_19/Étienne_Capoue_4843.png
+15989,Guido Carrillo,Argentina,F,7.0,premier_league_data/season_19/Guido_Carrillo_15989.png
+4430,Tom Carroll,England,M,11.0,premier_league_data/season_19/Tom_Carroll_4430.png
+4259,Samir Carruthers,Ireland,M,,
+2250,Scott Carson,England,G,33.0,premier_league_data/season_19/Scott_Carson_2250.png
+13814,Cameron Carter-Vickers,United States,D,20.0,premier_league_data/season_19/Cameron_Carter-Vickers_13814.png
+19951,Lewis Cass,England,D,2.0,premier_league_data/season_19/Lewis_Cass_19951.png
+3160,Craig Cathcart,Northern Ireland,D,,premier_league_data/season_19/Craig_Cathcart_3160.png
+7163,Dani Ceballos,Spain,M,8.0,premier_league_data/season_19/Dani_Ceballos_7163.png
+2651,Petr Cech,Czech Republic,G,1.0,premier_league_data/season_19/Petr_Cech_2651.png
+11347,Cédric Soares,Portugal,D,12.0,premier_league_data/season_19/Cédric_Soares_11347.png
+14575,Trevoh Chalobah,England,D,27.0,premier_league_data/season_19/Trevoh_Chalobah_14575.png
+4620,Calum Chambers,England,D,12.0,premier_league_data/season_19/Calum_Chambers_4620.png
+2936,James Chester,Wales,D,17.0,premier_league_data/season_19/James_Chester_2936.png
+4161,Chicharito,Mexico,F,14.0,premier_league_data/season_19/Chicharito_4161.png
+13491,Ben Chilwell,England,D,25.0,premier_league_data/season_19/Ben_Chilwell_13491.png
+13510,Pedro Chirivella,Spain,M,5.0,premier_league_data/season_19/Pedro_Chirivella_13510.png
+20858,Tahith Chong,Netherlands,M,14.0,premier_league_data/season_19/Tahith_Chong_20858.png
+13248,Hamza Choudhury,Bangladesh,M,24.0,premier_league_data/season_19/Hamza_Choudhury_13248.png
+4495,Andreas Christensen,Denmark,D,15.0,premier_league_data/season_19/Andreas_Christensen_4495.png
+64522,Christian Marques,Portugal,D,23.0,premier_league_data/season_19/Christian_Marques_64522.png
+14589,Isaac Christie-Davies,Wales,M,23.0,premier_league_data/season_19/Isaac_Christie-Davies_14589.png
+51609,Dennis Cirkin,England,D,3.0,premier_league_data/season_19/Dennis_Cirkin_51609.png
+14473,Mitchell Clark,Wales,D,2.0,premier_league_data/season_19/Mitchell_Clark_14473.png
+8913,Matt Clarke,England,D,25.0,premier_league_data/season_19/Matt_Clarke_8913.png
+33335,Leighton Clarkson,England,M,10.0,premier_league_data/season_19/Leighton_Clarkson_33335.png
+12365,Jordy Clasie,Netherlands,M,8.0,premier_league_data/season_19/Jordy_Clasie_12365.png
+23809,Thomas Clayton,Scotland,D,4.0,premier_league_data/season_19/Thomas_Clayton_23809.png
+3448,Tom Cleverley,England,M,8.0,premier_league_data/season_19/Tom_Cleverley_3448.png
+4604,Nathaniel Clyne,England,D,17.0,premier_league_data/season_19/Nathaniel_Clyne_4604.png
+4136,Conor Coady,England,D,4.0,premier_league_data/season_19/Conor_Coady_4136.png
+14559,Alex Cochrane,England,D,20.0,premier_league_data/season_19/Alex_Cochrane_14559.png
+3713,Jack Colback,England,M,4.0,premier_league_data/season_19/Jack_Colback_3713.png
+3600,Séamus Coleman,Ireland,D,,premier_league_data/season_19/Séamus_Coleman_3600.png
+14549,Will Collar,England,M,14.0,premier_league_data/season_19/Will_Collar_14549.png
+21653,Aaron Connolly,Ireland,F,9.0,premier_league_data/season_19/Aaron_Connolly_21653.png
+8045,Steve Cook,England,D,5.0,premier_league_data/season_19/Steve_Cook_8045.png
+53182,Theo Corbeanu,Canada,F,17.0,premier_league_data/season_19/Theo_Corbeanu_53182.png
+2889,Jack Cork,England,D,4.0,premier_league_data/season_19/Jack_Cork_2889.png
+8585,Paul Coutts,Scotland,M,15.0,premier_league_data/season_19/Paul_Coutts_8585.png
+15211,Conor Coventry,Ireland,M,6.0,premier_league_data/season_19/Conor_Coventry_15211.png
+2559,Martin Cranie,England,D,2.0,premier_league_data/season_19/Martin_Cranie_2559.png
+8897,Aaron Cresswell,England,D,3.0,premier_league_data/season_19/Aaron_Cresswell_8897.png
+51245,Kane Crichlow,Bermuda,M,,
+4354,Andrew Crofts,Wales,M,48.0,
+1629,Peter Crouch,England,F,15.0,premier_league_data/season_19/Peter_Crouch_1629.png
+10539,Josh Cullen,Ireland,M,24.0,premier_league_data/season_19/Josh_Cullen_10539.png
+14565,Jamie Cumming,England,G,1.0,premier_league_data/season_19/Jamie_Cumming_14565.png
+23989,Luke Cundle,England,M,25.0,premier_league_data/season_19/Luke_Cundle_23989.png
+22870,Patrick Cutrone,Italy,F,9.0,premier_league_data/season_19/Patrick_Cutrone_22870.png
+49763,Renat Dadashov,Azerbaijan,F,9.0,
+33158,Pontus Dahlberg,Sweden,G,1.0,premier_league_data/season_19/Pontus_Dahlberg_33158.png
+20722,Sam Dalby,England,F,18.0,
+19868,Vontae Daley-Campbell,England,D,20.0,premier_league_data/season_19/Vontae_Daley-Campbell_19868.png
+11362,Daniel Podence,Portugal,M,56.0,premier_league_data/season_19/Daniel_Podence_11362.png
+3242,Charlie Daniels,England,D,23.0,premier_league_data/season_19/Charlie_Daniels_3242.png
+5328,Danilo,Brazil,D,6.0,premier_league_data/season_19/Danilo_5328.png
+16524,Arnaut Danjuma,Netherlands,F,11.0,premier_league_data/season_19/Arnaut_Danjuma_16524.png
+3807,Scott Dann,England,D,6.0,premier_league_data/season_19/Scott_Dann_3807.png
+25892,Kevin Danso,Austria,D,4.0,premier_league_data/season_19/Kevin_Danso_25892.png
+9251,Karl Darlow,Wales,G,26.0,premier_league_data/season_19/Karl_Darlow_9251.png
+12854,Matteo Darmian,Italy,D,36.0,premier_league_data/season_19/Matteo_Darmian_12854.png
+4100,David Luiz,Brazil,D,23.0,premier_league_data/season_19/David_Luiz_4100.png
+14555,Archie Davies,England,D,2.0,premier_league_data/season_19/Archie_Davies_14555.png
+13130,Keinan Davis,England,F,7.0,premier_league_data/season_19/Keinan_Davis_13130.png
+4198,Craig Dawson,England,D,15.0,premier_league_data/season_19/Craig_Dawson_4198.png
+21506,Jonathan De Bie,Belgium,G,42.0,premier_league_data/season_19/Jonathan_De_Bie_21506.png
+4288,Kevin De Bruyne,Belgium,M,17.0,premier_league_data/season_19/Kevin_De_Bruyne_4288.png
+4330,David de Gea,Spain,G,43.0,premier_league_data/season_19/David_de_Gea_4330.png
+9947,Troy Deeney,England,F,14.0,premier_league_data/season_19/Troy_Deeney_9947.png
+1526,Jermain Defoe,England,F,10.0,premier_league_data/season_19/Jermain_Defoe_1526.png
+5345,Steven Defour,Belgium,M,88.0,premier_league_data/season_19/Steven_Defour_5345.png
+14778,Tom Dele-Bashiru,Nigeria,M,19.0,premier_league_data/season_19/Tom_Dele-Bashiru_14778.png
+3799,Fabian Delph,England,M,8.0,premier_league_data/season_19/Fabian_Delph_3799.png
+4123,Mousa Dembélé,Belgium,M,8.0,premier_league_data/season_19/Mousa_Dembélé_4123.png
+11002,Jason Denayer,Belgium,D,5.0,premier_league_data/season_19/Jason_Denayer_11002.png
+5866,Leander Dendoncker,Belgium,M,32.0,premier_league_data/season_19/Leander_Dendoncker_5866.png
+53093,Will Dennis,England,G,40.0,premier_league_data/season_19/Will_Dennis_53093.png
+4777,Gerard Deulofeu,Spain,F,10.0,premier_league_data/season_19/Gerard_Deulofeu_4777.png
+14706,Kiernan Dewsbury-Hall,England,M,22.0,premier_league_data/season_19/Kiernan_Dewsbury-Hall_14706.png
+32936,Fousseni Diabaté,Mali,M,18.0,premier_league_data/season_19/Fousseni_Diabaté_32936.png
+3982,Mohamed Diamé,Senegal,M,21.0,premier_league_data/season_19/Mohamed_Diamé_3982.png
+15199,Grady Diangana,DR Congo,M,,premier_league_data/season_19/Grady_Diangana_15199.png
+14800,Brahim Díaz,Morocco,F,21.0,premier_league_data/season_19/Brahim_Díaz_14800.png
+4112,Eric Dier,England,D,15.0,premier_league_data/season_19/Eric_Dier_4112.png
+5758,Lucas Digne,France,D,12.0,premier_league_data/season_19/Lucas_Digne_5758.png
+24252,Diogo Dalot,Portugal,D,5.0,premier_league_data/season_19/Diogo_Dalot_24252.png
+19758,Diogo Jota,Portugal,F,20.0,premier_league_data/season_19/Diogo_Jota_19758.png
+49884,Issa Diop,France,D,31.0,premier_league_data/season_19/Issa_Diop_49884.png
+31885,Alpha Diounkou,Senegal,D,2.0,premier_league_data/season_19/Alpha_Diounkou_31885.png
+50996,Mikkel Diskerud,United States,M,42.0,
+24231,Elijah Dixon-Bonner,England,M,19.0,premier_league_data/season_19/Elijah_Dixon-Bonner_24231.png
+52153,Moussa Djenepo,Mali,M,19.0,premier_league_data/season_19/Moussa_Djenepo_52153.png
+26556,Mihai-Alexandru Dobre,Romania,M,25.0,premier_league_data/season_19/Mihai-Alexandru_Dobre_26556.png
+4229,Matt Doherty,Ireland,D,2.0,premier_league_data/season_19/Matt_Doherty_4229.png
+19678,Domingos Quina,Portugal,M,8.0,premier_league_data/season_19/Domingos_Quina_19678.png
+13823,Abdoulaye Doucouré,Mali,M,16.0,premier_league_data/season_19/Abdoulaye_Doucouré_13823.png
+24626,Douglas Luiz,Brazil,M,26.0,premier_league_data/season_19/Douglas_Luiz_24626.png
+10455,Kieran Dowell,England,M,30.0,premier_league_data/season_19/Kieran_Dowell_10455.png
+24637,Tommy Doyle,England,M,20.0,premier_league_data/season_19/Tommy_Doyle_24637.png
+14487,Jake Doyle-Hayes,Ireland,M,8.0,
+13340,Luke Dreher,England,M,16.0,premier_league_data/season_19/Luke_Dreher_13340.png
+3670,Danny Drinkwater,England,M,15.0,premier_league_data/season_19/Danny_Drinkwater_3670.png
+11111,Josip Drmic,Switzerland,F,18.0,premier_league_data/season_19/Josip_Drmic_11111.png
+6451,Martin Dúbravka,Slovakia,G,31.0,premier_league_data/season_19/Martin_Dúbravka_6451.png
+6820,Ondrej Duda,Slovakia,M,18.0,premier_league_data/season_19/Ondrej_Duda_6820.png
+3601,Shane Duffy,Ireland,D,4.0,premier_league_data/season_19/Shane_Duffy_3601.png
+4340,Paul Dummett,Wales,D,14.0,premier_league_data/season_19/Paul_Dummett_4340.png
+23826,Bobby Duncan,England,F,,premier_league_data/season_19/Bobby_Duncan_23826.png
+8163,Lewis Dunk,England,D,30.0,premier_league_data/season_19/Lewis_Dunk_8163.png
+14829,Jimmy Dunne,Ireland,D,3.0,premier_league_data/season_19/Jimmy_Dunne_14829.png
+14255,Jake Eastwood,England,G,12.0,premier_league_data/season_19/Jake_Eastwood_14255.png
+12707,Ederson,Brazil,G,31.0,premier_league_data/season_19/Ederson_12707.png
+4394,John Egan,Ireland,D,15.0,premier_league_data/season_19/John_Egan_4394.png
+14753,Ovie Ejaria,England,M,14.0,premier_league_data/season_19/Ovie_Ejaria_14753.png
+11033,Anwar El Ghazi,Netherlands,F,20.0,
+8962,Callum Elder,Australia,D,20.0,premier_league_data/season_19/Callum_Elder_8962.png
+2214,Robert Elliot,Ireland,G,37.0,premier_league_data/season_19/Robert_Elliot_2214.png
+33185,Harvey Elliott,England,M,,premier_league_data/season_19/Harvey_Elliott_33185.png
+8046,Tommy Elphick,England,D,4.0,premier_league_data/season_19/Tommy_Elphick_8046.png
+15967,Mohamed Elyounoussi,Norway,M,10.0,premier_league_data/season_19/Mohamed_Elyounoussi_15967.png
+16803,Emerson,Italy,D,33.0,premier_league_data/season_19/Emerson_16803.png
+12199,Björn Engels,Belgium,D,3.0,premier_league_data/season_19/Björn_Engels_12199.png
+15258,Niall Ennis,England,F,21.0,premier_league_data/season_19/Niall_Ennis_15258.png
+13903,Bright Enobakhare,Nigeria,F,11.0,premier_league_data/season_19/Bright_Enobakhare_13903.png
+4845,Christian Eriksen,Denmark,M,14.0,premier_league_data/season_19/Christian_Eriksen_4845.png
+3156,Jonny Evans,Northern Ireland,D,35.0,premier_league_data/season_19/Jonny_Evans_3156.png
+15123,Timothy Eyoma,England,D,28.0,premier_league_data/season_19/Timothy_Eyoma_15123.png
+3309,Lukasz Fabianski,Poland,G,1.0,premier_league_data/season_19/Lukasz_Fabianski_3309.png
+11247,Fabinho,Brazil,M,8.0,premier_league_data/season_19/Fabinho_11247.png
+2417,Cesc Fàbregas,Spain,M,4.0,premier_league_data/season_19/Cesc_Fàbregas_2417.png
+31663,Malachi Fagan-Walcott,England,D,,premier_league_data/season_19/Malachi_Fagan-Walcott_31663.png
+5361,Ralf Fährmann,Germany,G,21.0,premier_league_data/season_19/Ralf_Fährmann_5361.png
+19752,Akin Famewo,England,D,23.0,
+5672,Federico Fernández,Argentina,D,2.0,premier_league_data/season_19/Federico_Fernández_5672.png
+6784,Felipe Anderson,Brazil,M,7.0,premier_league_data/season_19/Felipe_Anderson_6784.png
+3604,Marouane Fellaini,Belgium,M,27.0,premier_league_data/season_19/Marouane_Fellaini_3604.png
+22546,Kiko Femenía,Spain,D,17.0,premier_league_data/season_19/Kiko_Femenía_22546.png
+15759,Edimilson Fernandes,Switzerland,D,6.0,premier_league_data/season_19/Edimilson_Fernandes_15759.png
+4804,Fernandinho,Brazil,M,25.0,premier_league_data/season_19/Fernandinho_4804.png
+22002,Will Ferry,Ireland,M,15.0,
+51544,Ethan Fitzhugh,England,M,,premier_league_data/season_19/Ethan_Fitzhugh_51544.png
+10500,Jake Flannigan,England,M,16.0,premier_league_data/season_19/Jake_Flannigan_10500.png
+66509,Flávio Cristóvão,Portugal,D,66.0,
+8444,John Fleck,Scotland,M,13.0,premier_league_data/season_19/John_Fleck_8444.png
+14805,Phil Foden,England,M,47.0,premier_league_data/season_19/Phil_Foden_14805.png
+25246,Pablo Fornals,Spain,M,18.0,premier_league_data/season_19/Pablo_Fornals_25246.png
+3170,Fraser Forster,England,G,20.0,premier_league_data/season_19/Fraser_Forster_3170.png
+2932,Ben Foster,England,G,12.0,premier_league_data/season_19/Ben_Foster_2932.png
+13561,Timothy Fosu-Mensah,Netherlands,D,24.0,premier_league_data/season_19/Timothy_Fosu-Mensah_13561.png
+25292,Dimitri Foulquier,Guadeloupe,D,20.0,premier_league_data/season_19/Dimitri_Foulquier_25292.png
+25309,Juan Foyth,Argentina,D,8.0,premier_league_data/season_19/Juan_Foyth_25309.png
+8044,Simon Francis,England,D,2.0,premier_league_data/season_19/Simon_Francis_8044.png
+24238,Marcel Franke,Germany,D,28.0,
+8052,Ryan Fraser,Scotland,M,24.0,premier_league_data/season_19/Ryan_Fraser_8052.png
+5906,Fred,Brazil,M,13.0,premier_league_data/season_19/Fred_5906.png
+3958,Ryan Fredericks,England,D,2.0,premier_league_data/season_19/Ryan_Fredericks_3958.png
+9567,Kieron Freeman,Wales,D,23.0,premier_league_data/season_19/Kieron_Freeman_9567.png
+5371,Christian Fuchs,Austria,D,22.0,premier_league_data/season_19/Christian_Fuchs_5371.png
+12639,Manolo Gabbiadini,Italy,F,23.0,premier_league_data/season_19/Manolo_Gabbiadini_12639.png
+19680,Gabriel Jesus,Brazil,F,9.0,premier_league_data/season_19/Gabriel_Jesus_19680.png
+66104,Gabriel Martinelli,Brazil,M,,premier_league_data/season_19/Gabriel_Martinelli_66104.png
+24649,Ethan Galbraith,Northern Ireland,M,22.0,premier_league_data/season_19/Ethan_Galbraith_24649.png
+33072,Tony Gallacher,Scotland,D,54.0,premier_league_data/season_19/Tony_Gallacher_33072.png
+21887,Conor Gallagher,England,M,4.0,premier_league_data/season_19/Conor_Gallagher_21887.png
+3868,Luke Garbutt,England,D,29.0,premier_league_data/season_19/Luke_Garbutt_3868.png
+24635,Eric García,Spain,D,25.0,premier_league_data/season_19/Eric_García_24635.png
+23841,James Garner,England,M,,premier_league_data/season_19/James_Garner_23841.png
+4771,Dwight Gayle,England,F,25.0,premier_league_data/season_19/Dwight_Gayle_4771.png
+4600,Paulo Gazzaniga,Argentina,G,13.0,premier_league_data/season_19/Paulo_Gazzaniga_4600.png
+20187,Jean-Philippe Gbamin,Cote D’Ivoire,M,17.0,premier_league_data/season_19/Jean-Philippe_Gbamin_20187.png
+50857,Gedson Fernandes,Portugal,M,83.0,premier_league_data/season_19/Gedson_Fernandes_50857.png
+74739,Brooklyn Genesini,England,D,,
+15146,Anthony Georgiou,Cyprus,D,3.0,premier_league_data/season_19/Anthony_Georgiou_15146.png
+6889,Rachid Ghezzal,Algeria,M,18.0,premier_league_data/season_19/Rachid_Ghezzal_6889.png
+15259,Morgan Gibbs-White,England,M,10.0,premier_league_data/season_19/Morgan_Gibbs-White_15259.png
+9117,Ben Gibson,England,D,23.0,premier_league_data/season_19/Ben_Gibson_9117.png
+20081,Ryan Giles,England,D,28.0,premier_league_data/season_19/Ryan_Giles_20081.png
+24221,Billy Gilmour,Scotland,M,11.0,premier_league_data/season_19/Billy_Gilmour_24221.png
+4481,Olivier Giroud,France,F,9.0,premier_league_data/season_19/Olivier_Giroud_4481.png
+20179,Paul Gladon,Netherlands,F,9.0,
+24232,Paul Glatzel,Germany,F,9.0,
+23810,Anthony Glennon,England,D,3.0,premier_league_data/season_19/Anthony_Glennon_23810.png
+10968,Ben Godfrey,England,D,44.0,premier_league_data/season_19/Ben_Godfrey_10968.png
+50989,Claudio Gomes,France,M,6.0,premier_league_data/season_19/Claudio_Gomes_50989.png
+10651,Joe Gomez,England,D,2.0,premier_league_data/season_19/Joe_Gomez_10651.png
+66362,Gonçalo Cardoso,Portugal,D,3.0,premier_league_data/season_19/Gonçalo_Cardoso_66362.png
+14795,Mace Goodridge,England,M,17.0,premier_league_data/season_19/Mace_Goodridge_14795.png
+64037,John-Kymani Gordon,England,F,11.0,premier_league_data/season_19/John-Kymani_Gordon_64037.png
+3390,Dan Gosling,England,M,32.0,premier_league_data/season_19/Dan_Gosling_3390.png
+19909,Kamil Grabara,Poland,G,1.0,premier_league_data/season_19/Kamil_Grabara_19909.png
+1870,Lee Grant,England,G,,premier_league_data/season_19/Lee_Grant_1870.png
+7946,Demarai Gray,Jamaica,F,11.0,premier_league_data/season_19/Demarai_Gray_7946.png
+4260,Jack Grealish,England,M,10.0,premier_league_data/season_19/Jack_Grealish_4260.png
+10433,Andre Green,England,F,11.0,premier_league_data/season_19/Andre_Green_10433.png
+25266,Mason Greenwood,England,F,10.0,premier_league_data/season_19/Mason_Greenwood_25266.png
+14766,Daniel Grimshaw,England,G,31.0,premier_league_data/season_19/Daniel_Grimshaw_14766.png
+22542,Pascal Groß,Germany,M,13.0,premier_league_data/season_19/Pascal_Groß_22542.png
+13985,Marko Grujic,Serbia,M,8.0,premier_league_data/season_19/Marko_Grujic_13985.png
+7548,Vicente Guaita,Spain,G,13.0,premier_league_data/season_19/Vicente_Guaita_7548.png
+6210,Jóhann Gudmundsson,Iceland,F,7.0,premier_league_data/season_19/Jóhann_Gudmundsson_6210.png
+14569,Marc Guéhi,England,D,6.0,premier_league_data/season_19/Marc_Guéhi_14569.png
+50512,Mattéo Guendouzi,France,M,8.0,premier_league_data/season_19/Mattéo_Guendouzi_50512.png
+12582,Idrissa Gueye,Senegal,M,27.0,premier_league_data/season_19/Idrissa_Gueye_12582.png
+15549,Frédéric Guilbert,France,D,12.0,premier_league_data/season_19/Frédéric_Guilbert_15549.png
+5101,Ilkay Gündogan,Germany,M,19.0,premier_league_data/season_19/Ilkay_Gündogan_5101.png
+15269,Angus Gunn,Scotland,G,1.0,premier_league_data/season_19/Angus_Gunn_15269.png
+51437,Peter Gwargis,Iraq,M,21.0,premier_league_data/season_19/Peter_Gwargis_51437.png
+32728,Viktor Gyökeres,Sweden,F,9.0,premier_league_data/season_19/Viktor_Gyökeres_32728.png
+24839,Sead Haksabanovic,Montenegro,M,29.0,premier_league_data/season_19/Sead_Haksabanovic_24839.png
+49761,Sébastien Haller,Cote D’Ivoire,F,18.0,premier_league_data/season_19/Sébastien_Haller_49761.png
+14835,Ethan Hamilton,Scotland,M,11.0,premier_league_data/season_19/Ethan_Hamilton_14835.png
+3819,Grant Hanley,Scotland,D,31.0,premier_league_data/season_19/Grant_Hanley_3819.png
+14808,Joseph Hardy,England,F,19.0,
+14875,Nathan Harker,England,G,29.0,
+3143,Joe Hart,England,G,1.0,premier_league_data/season_19/Joe_Hart_3143.png
+25447,Taylor Harwood-Bellis,England,D,,premier_league_data/season_19/Taylor_Harwood-Bellis_25447.png
+10000,Kortney Hause,England,D,30.0,
+66517,Kaine Hayden,England,M,59.0,premier_league_data/season_19/Kaine_Hayden_66517.png
+2933,Tom Heaton,England,G,22.0,premier_league_data/season_19/Tom_Heaton_2933.png
+4582,Michael Hector,Jamaica,D,,premier_league_data/season_19/Michael_Hector_4582.png
+47259,Philip Heise,Germany,D,16.0,premier_league_data/season_19/Philip_Heise_47259.png
+5064,Hélder Costa,Angola,F,17.0,premier_league_data/season_19/Hélder_Costa_5064.png
+13234,Tomer Hemed,Israel,F,29.0,premier_league_data/season_19/Tomer_Hemed_13234.png
+3058,Stephen Henderson,Ireland,G,30.0,premier_league_data/season_19/Stephen_Henderson_3058.png
+8586,Jeff Hendrick,Ireland,M,29.0,premier_league_data/season_19/Jeff_Hendrick_8586.png
+11579,Ben Heneghan,England,D,4.0,
+2569,Wayne Hennessey,Wales,G,13.0,premier_league_data/season_19/Wayne_Hennessey_2569.png
+10432,Rushian Hepburn-Murphy,England,F,14.0,premier_league_data/season_19/Rushian_Hepburn-Murphy_10432.png
+33066,Onel Hernández,Cuba,M,25.0,premier_league_data/season_19/Onel_Hernández_33066.png
+10501,Jake Hesketh,England,M,10.0,premier_league_data/season_19/Jake_Hesketh_10501.png
+3719,Heurelho Gomes,Brazil,G,1.0,premier_league_data/season_19/Heurelho_Gomes_3719.png
+14619,Mateusz Hewelt,Poland,G,23.0,premier_league_data/season_19/Mateusz_Hewelt_14619.png
+5698,Gonzalo Higuaín,Argentina,F,10.0,premier_league_data/season_19/Gonzalo_Higuaín_5698.png
+51559,Tom Hill,Wales,M,19.0,
+14459,Kaylen Hinds,England,F,53.0,
+14283,George Hirst,Scotland,F,27.0,premier_league_data/season_19/George_Hirst_14283.png
+6194,Wesley Hoedt,Netherlands,D,4.0,premier_league_data/season_19/Wesley_Hoedt_6194.png
+52951,Ki-Jana Hoever,Netherlands,D,17.0,premier_league_data/season_19/Ki-Jana_Hoever_52951.png
+9496,Scott Hogan,Ireland,F,29.0,premier_league_data/season_19/Scott_Hogan_9496.png
+11575,Rob Holding,England,D,5.0,premier_league_data/season_19/Rob_Holding_11575.png
+5713,José Holebas,Greece,D,25.0,premier_league_data/season_19/José_Holebas_5713.png
+10564,Mason Holgate,Jamaica,D,3.0,premier_league_data/season_19/Mason_Holgate_10564.png
+14637,Nathan Holland,England,M,37.0,premier_league_data/season_19/Nathan_Holland_14637.png
+9431,Ricky Holmes,England,F,7.0,
+66108,Nathaniel Shio Hong Wan,England,M,,
+9377,Conor Hourihane,Ireland,M,14.0,premier_league_data/season_19/Conor_Hourihane_9377.png
+23702,Callum Hudson-Odoi,England,F,14.0,premier_league_data/season_19/Callum_Hudson-Odoi_23702.png
+8589,Will Hughes,England,M,19.0,premier_league_data/season_19/Will_Hughes_8589.png
+9417,Jordan Hugill,England,F,10.0,premier_league_data/season_19/Jordan_Hugill_9417.png
+13550,Cameron Humphreys,England,D,24.0,premier_league_data/season_19/Cameron_Humphreys_13550.png
+24340,Joseph Hungbo,England,F,44.0,premier_league_data/season_19/Joseph_Hungbo_24340.png
+8598,James Husband,England,D,3.0,premier_league_data/season_19/James_Husband_8598.png
+3506,Alan Hutton,Scotland,D,3.0,premier_league_data/season_19/Alan_Hutton_3506.png
+5272,Pierre-Emile Højbjerg,Denmark,M,23.0,premier_league_data/season_19/Pierre-Emile_Højbjerg_5272.png
+4527,Jordon Ibe,England,F,,premier_league_data/season_19/Jordon_Ibe_4527.png
+7234,Vicente Iborra,Spain,M,10.0,premier_league_data/season_19/Vicente_Iborra_7234.png
+24641,Adam Idah,Ireland,F,9.0,premier_league_data/season_19/Adam_Idah_24641.png
+10957,Odion Ighalo,Nigeria,F,,premier_league_data/season_19/Odion_Ighalo_10957.png
+13554,Kelechi Iheanacho,Nigeria,F,9.0,premier_league_data/season_19/Kelechi_Iheanacho_13554.png
+8245,Danny Ings,England,F,18.0,premier_league_data/season_19/Danny_Ings_8245.png
+4760,Ryan Inniss,England,D,5.0,premier_league_data/season_19/Ryan_Inniss_4760.png
+5079,Ivan Cavaleiro,Angola,F,17.0,premier_league_data/season_19/Ivan_Cavaleiro_5079.png
+15332,Daniel Iversen,Denmark,G,1.0,premier_league_data/season_19/Daniel_Iversen_15332.png
+6292,Ivo Pinto,Portugal,D,6.0,premier_league_data/season_19/Ivo_Pinto_6292.png
+4717,Alex Iwobi,Nigeria,F,17.0,premier_league_data/season_19/Alex_Iwobi_4717.png
+12212,José Izquierdo,Colombia,F,21.0,premier_league_data/season_19/José_Izquierdo_12212.png
+33056,Jaroslaw Jach,Poland,D,,premier_league_data/season_19/Jaroslaw_Jach_33056.png
+32715,Jack Clarke,England,F,47.0,premier_league_data/season_19/Jack_Clarke_32715.png
+9662,Jacob Murphy,England,M,14.0,premier_league_data/season_19/Jacob_Murphy_9662.png
+3222,Phil Jagielka,England,D,6.0,premier_league_data/season_19/Phil_Jagielka_3222.png
+15480,Alireza Jahanbakhsh,Iran,F,7.0,premier_league_data/season_19/Alireza_Jahanbakhsh_15480.png
+4786,Eldin Jakupovic,Switzerland,G,1.0,premier_league_data/season_19/Eldin_Jakupovic_4786.png
+14571,Reece James,England,D,24.0,premier_league_data/season_19/Reece_James_14571.png
+24679,James Daly,England,F,,
+74590,Andi Janjeva,Kosovo,D,,premier_league_data/season_19/Andi_Janjeva_74590.png
+52931,Alexandre Jankewitz,Switzerland,M,11.0,premier_league_data/season_19/Alexandre_Jankewitz_52931.png
+10480,Daryl Janmaat,Netherlands,D,53.0,premier_league_data/season_19/Daryl_Janmaat_10480.png
+15481,Vincent Janssen,Netherlands,F,18.0,premier_league_data/season_19/Vincent_Janssen_15481.png
+24807,Vítezslav Jaros,Czech Republic,G,16.0,premier_league_data/season_19/Vítezslav_Jaros_24807.png
+4766,Mile Jedinak,Australia,M,15.0,premier_league_data/season_19/Mile_Jedinak_4766.png
+4248,Carl Jenkinson,England,D,6.0,premier_league_data/season_19/Carl_Jenkinson_4248.png
+24723,Teddy Jenks,England,M,21.0,premier_league_data/season_19/Teddy_Jenks_24723.png
+75372,Lukas Jensen,Denmark,G,1.0,
+4506,Jiang Guangtai,China,D,,premier_league_data/season_19/Jiang_Guangtai_4506.png
+4909,Roberto Jiménez,Spain,G,13.0,premier_league_data/season_19/Roberto_Jiménez_4909.png
+5051,João Cancelo,Portugal,D,2.0,premier_league_data/season_19/João_Cancelo_5051.png
+11259,João Moutinho,Portugal,M,8.0,premier_league_data/season_19/João_Moutinho_11259.png
+72371,João Pedro,Brazil,F,9.0,premier_league_data/season_19/João_Pedro_72371.png
+14428,João Virgínia,Portugal,G,12.0,premier_league_data/season_19/João_Virgínia_14428.png
+13556,Joel Pereira,Portugal,G,22.0,premier_league_data/season_19/Joel_Pereira_13556.png
+20607,Joelinton,Brazil,M,7.0,premier_league_data/season_19/Joelinton_20607.png
+14465,Viktor Johansson,Sweden,G,1.0,premier_league_data/season_19/Viktor_Johansson_14465.png
+19880,Tyreece John-Jules,England,F,45.0,
+14696,Darnell Johnson,England,D,4.0,premier_league_data/season_19/Darnell_Johnson_14696.png
+45519,George Johnston,Scotland,D,6.0,
+23815,Curtis Jones,England,M,48.0,premier_league_data/season_19/Curtis_Jones_23815.png
+4135,Jonjo Shelvey,England,M,26.0,premier_league_data/season_19/Jonjo_Shelvey_4135.png
+20277,Jonny,Spain,D,19.0,premier_league_data/season_19/Jonny_20277.png
+4767,Jonny Williams,Wales,M,10.0,premier_league_data/season_19/Jonny_Williams_4767.png
+13192,Corey Jordan,England,D,,premier_league_data/season_19/Corey_Jordan_13192.png
+5682,Jorginho,Italy,M,20.0,premier_league_data/season_19/Jorginho_5682.png
+6425,Joselu,Spain,F,29.0,premier_league_data/season_19/Joselu_6425.png
+10604,Jota,Spain,M,24.0,premier_league_data/season_19/Jota_10604.png
+13515,James Justin,England,D,,premier_league_data/season_19/James_Justin_13515.png
+19605,Christian Kabasele,Belgium,D,27.0,premier_league_data/season_19/Christian_Kabasele_19605.png
+3508,Younes Kaboul,France,D,4.0,premier_league_data/season_19/Younes_Kaboul_3508.png
+10191,Sullay Kaikai,Sierra Leone,F,11.0,premier_league_data/season_19/Sullay_Kaikai_10191.png
+4101,Tomás Kalas,Czech Republic,D,26.0,premier_league_data/season_19/Tomás_Kalas_4101.png
+21611,Lovre Kalinic,Croatia,G,91.0,premier_league_data/season_19/Lovre_Kalinic_21611.png
+14750,Herbie Kane,England,M,16.0,premier_league_data/season_19/Herbie_Kane_14750.png
+13492,N'Golo Kanté,France,M,7.0,premier_league_data/season_19/NGolo_Kanté_13492.png
+19679,Bartosz Kapustka,Poland,M,67.0,premier_league_data/season_19/Bartosz_Kapustka_19679.png
+19600,Loris Karius,Germany,G,18.0,premier_league_data/season_19/Loris_Karius_19600.png
+5156,Beram Kayal,Israel,M,21.0,premier_league_data/season_19/Beram_Kayal_5156.png
+20958,Moise Kean,Italy,F,20.0,premier_league_data/season_19/Moise_Kean_20958.png
+4333,Michael Keane,England,D,5.0,premier_league_data/season_19/Michael_Keane_4333.png
+75317,Peter Keen,England,G,,
+12316,Naby Keïta,Guinea,M,5.0,premier_league_data/season_19/Naby_Keïta_12316.png
+14723,Caoimhín Kelleher,Ireland,G,62.0,premier_league_data/season_19/Caoimhín_Kelleher_14723.png
+21585,Lloyd Kelly,England,D,6.0,premier_league_data/season_19/Lloyd_Kelly_21585.png
+15194,Dan Kemp,England,M,10.0,premier_league_data/season_19/Dan_Kemp_15194.png
+13285,Kenedy,Brazil,M,24.0,premier_league_data/season_19/Kenedy_13285.png
+10449,Jonjoe Kenny,England,D,16.0,premier_league_data/season_19/Jonjoe_Kenny_10449.png
+13509,Ryan Kent,England,F,11.0,premier_league_data/season_19/Ryan_Kent_13509.png
+11373,Kepa,Spain,G,13.0,premier_league_data/season_19/Kepa_11373.png
+4656,Ki Sung-Yeung,South Korea,M,10.0,premier_league_data/season_19/Ki_Sung-Yeung_4656.png
+50468,Gavin Kilkenny,Ireland,M,18.0,premier_league_data/season_19/Gavin_Kilkenny_50468.png
+13522,Maximilian Kilman,England,D,26.0,premier_league_data/season_19/Maximilian_Kilman_13522.png
+3926,Joshua King,Norway,F,13.0,premier_league_data/season_19/Joshua_King_3926.png
+15134,Nya Kirby,England,M,,premier_league_data/season_19/Nya_Kirby_15134.png
+23872,Christoph Klarer,Austria,D,4.0,
+15608,Ragnar Klavan,Estonia,D,15.0,premier_league_data/season_19/Ragnar_Klavan_15608.png
+12891,Timm Klose,Switzerland,D,25.0,premier_league_data/season_19/Timm_Klose_12891.png
+14693,Josh Knight,England,D,5.0,premier_league_data/season_19/Josh_Knight_14693.png
+8982,Anthony Knockaert,France,M,93.0,premier_league_data/season_19/Anthony_Knockaert_8982.png
+13240,Jonathan Adjo Kodjia,Cote D’Ivoire,F,26.0,premier_league_data/season_19/Jonathan_Adjo_Kodjia_13240.png
+55603,Ali Koiki,England,D,14.0,premier_league_data/season_19/Ali_Koiki_55603.png
+5368,Sead Kolasinac,Bosnia & Herzegovina,D,23.0,premier_league_data/season_19/Sead_Kolasinac_5368.png
+3653,Vincent Kompany,Belgium,D,4.0,premier_league_data/season_19/Vincent_Kompany_3653.png
+13274,Ezri Konsa,England,D,4.0,premier_league_data/season_19/Ezri_Konsa_13274.png
+4030,Laurent Koscielny,France,D,6.0,premier_league_data/season_19/Laurent_Koscielny_4030.png
+66564,Billy Koumetio,France,D,,premier_league_data/season_19/Billy_Koumetio_66564.png
+5861,Cheikhou Kouyaté,Senegal,M,8.0,premier_league_data/season_19/Cheikhou_Kouyaté_5861.png
+12520,Mateo Kovacic,Croatia,M,8.0,premier_league_data/season_19/Mateo_Kovacic_12520.png
+35733,Matej Kovár,Czech Republic,G,17.0,premier_league_data/season_19/Matej_Kovár_35733.png
+66494,Emil Krafth,Sweden,D,17.0,premier_league_data/season_19/Emil_Krafth_66494.png
+3169,Tim Krul,Netherlands,G,,premier_league_data/season_19/Tim_Krul_3169.png
+6899,Alexandre Lacazette,France,F,10.0,premier_league_data/season_19/Alexandre_Lacazette_6899.png
+8232,Daniel Lafferty,Northern Ireland,D,18.0,premier_league_data/season_19/Daniel_Lafferty_8232.png
+23832,Ethan Laird,England,D,2.0,premier_league_data/season_19/Ethan_Laird_23832.png
+4618,Adam Lallana,England,M,10.0,premier_league_data/season_19/Adam_Lallana_4618.png
+4842,Érik Lamela,Argentina,M,17.0,premier_league_data/season_19/Érik_Lamela_4842.png
+23704,Tariq Lamptey,Ghana,D,,premier_league_data/season_19/Tariq_Lamptey_23704.png
+3049,Henri Lansbury,England,M,12.0,premier_league_data/season_19/Henri_Lansbury_3049.png
+13872,Manuel Lanzini,Argentina,M,10.0,premier_league_data/season_19/Manuel_Lanzini_13872.png
+11044,Aymeric Laporte,Spain,D,27.0,premier_league_data/season_19/Aymeric_Laporte_11044.png
+30528,Yasser Larouci,Algeria,D,37.0,premier_league_data/season_19/Yasser_Larouci_30528.png
+9257,Jamaal Lascelles,England,D,16.0,
+9603,Caolan Lavery,Northern Ireland,F,31.0,
+20180,Achraf Lazaar,Morocco,D,23.0,premier_league_data/season_19/Achraf_Lazaar_20180.png
+6528,Valentino Lazaro,Austria,D,19.0,premier_league_data/season_19/Valentino_Lazaro_6528.png
+51538,Adam Leathers,England,M,,premier_league_data/season_19/Adam_Leathers_51538.png
+2852,Adam Legzdins,England,G,30.0,premier_league_data/season_19/Adam_Legzdins_2852.png
+15558,Moritz Leitner,Germany,M,78.0,premier_league_data/season_19/Moritz_Leitner_15558.png
+16607,Florian Lejeune,France,D,24.0,premier_league_data/season_19/Florian_Lejeune_16607.png
+5583,Mario Lemina,Gabon,M,99.0,premier_league_data/season_19/Mario_Lemina_5583.png
+2270,Aaron Lennon,England,M,17.0,premier_league_data/season_19/Aaron_Lennon_2270.png
+4985,Bernd Leno,Germany,G,1.0,premier_league_data/season_19/Bernd_Leno_4985.png
+12299,Léo Bonatini,Brazil,F,13.0,premier_league_data/season_19/Léo_Bonatini_12299.png
+37776,Jefferson Lerma,Colombia,M,8.0,premier_league_data/season_19/Jefferson_Lerma_37776.png
+23784,Thakgalo Leshabela,South Africa,M,18.0,premier_league_data/season_19/Thakgalo_Leshabela_23784.png
+23830,Dylan Levitt,Wales,M,,premier_league_data/season_19/Dylan_Levitt_23830.png
+14938,Jamal Lewis,Northern Ireland,D,6.0,premier_league_data/season_19/Jamal_Lewis_14938.png
+5520,Stephan Lichtsteiner,Switzerland,D,2.0,premier_league_data/season_19/Stephan_Lichtsteiner_5520.png
+4154,Anders Lindegaard,Denmark,G,22.0,premier_league_data/season_19/Anders_Lindegaard_4154.png
+5066,Victor Lindelöf,Sweden,D,2.0,premier_league_data/season_19/Victor_Lindelöf_5066.png
+4337,Jesse Lingard,England,M,11.0,premier_league_data/season_19/Jesse_Lingard_4337.png
+5551,Fernando Llorente,Spain,F,12.0,premier_league_data/season_19/Fernando_Llorente_5551.png
+4664,Hugo Lloris,France,G,1.0,premier_league_data/season_19/Hugo_Lloris_4664.png
+19851,Giovani Lo Celso,Argentina,M,20.0,premier_league_data/season_19/Giovani_Lo_Celso_19851.png
+7124,Jürgen Locadia,Curacao,F,19.0,premier_league_data/season_19/Jürgen_Locadia_7124.png
+5179,Ruben Loftus-Cheek,England,M,8.0,premier_league_data/season_19/Ruben_Loftus-Cheek_5179.png
+8006,Andy Lonergan,England,G,22.0,premier_league_data/season_19/Andy_Lonergan_8006.png
+3837,Kevin Long,Ireland,D,26.0,premier_league_data/season_19/Kevin_Long_3837.png
+23687,Ryan Longman,England,F,47.0,premier_league_data/season_19/Ryan_Longman_23687.png
+23817,Luis Longstaff,England,M,75.0,premier_league_data/season_19/Luis_Longstaff_23817.png
+13278,Ademola Lookman,Nigeria,F,11.0,premier_league_data/season_19/Ademola_Lookman_13278.png
+12444,Jonas Lössl,Denmark,G,49.0,premier_league_data/season_19/Jonas_Lössl_12444.png
+9826,Louis Thompson,Wales,M,23.0,premier_league_data/season_19/Louis_Thompson_9826.png
+4813,Dejan Lovren,Croatia,D,6.0,premier_league_data/season_19/Dejan_Lovren_4813.png
+4487,Matthew Lowton,England,D,38.0,premier_league_data/season_19/Matthew_Lowton_4487.png
+5762,Lucas Moura,Brazil,F,,premier_league_data/season_19/Lucas_Moura_5762.png
+63634,Lucas Perri,Brazil,G,1.0,premier_league_data/season_19/Lucas_Perri_63634.png
+4289,Lucas Piazón,Brazil,M,43.0,premier_league_data/season_19/Lucas_Piazón_4289.png
+4290,Romelu Lukaku,Belgium,F,90.0,premier_league_data/season_19/Romelu_Lukaku_4290.png
+16088,Dodi Lukébakio,Belgium,F,11.0,premier_league_data/season_19/Dodi_Lukébakio_16088.png
+4509,John Lundstram,England,M,5.0,premier_league_data/season_19/John_Lundstram_4509.png
+23948,Brooklyn Lyons-Foster,England,D,2.0,premier_league_data/season_19/Brooklyn_Lyons-Foster_23948.png
+51223,Ian Maatsen,Netherlands,D,22.0,premier_league_data/season_19/Ian_Maatsen_51223.png
+63633,Alexis Mac Allister,Argentina,M,10.0,premier_league_data/season_19/Alexis_Mac_Allister_63633.png
+10422,Matt Macey,England,G,1.0,premier_league_data/season_19/Matt_Macey_10422.png
+8456,James Maddison,England,M,10.0,premier_league_data/season_19/James_Maddison_8456.png
+14574,Jacob Maddox,England,M,18.0,premier_league_data/season_19/Jacob_Maddox_14574.png
+8335,Gary Madine,England,F,14.0,premier_league_data/season_19/Gary_Madine_8335.png
+9566,Harry Maguire,England,D,5.0,premier_league_data/season_19/Harry_Maguire_9566.png
+7985,Connor Mahoney,England,F,23.0,premier_league_data/season_19/Connor_Mahoney_7985.png
+8983,Riyad Mahrez,Algeria,F,26.0,premier_league_data/season_19/Riyad_Mahrez_8983.png
+66497,Archie Mair,Scotland,G,,premier_league_data/season_19/Archie_Mair_66497.png
+10428,Ainsley Maitland-Niles,England,M,98.0,premier_league_data/season_19/Ainsley_Maitland-Niles_10428.png
+6519,Sadio Mané,Senegal,F,10.0,premier_league_data/season_19/Sadio_Mané_6519.png
+5334,Eliaquim Mangala,France,D,4.0,premier_league_data/season_19/Eliaquim_Mangala_5334.png
+4918,Javier Manquillo,Spain,D,22.0,premier_league_data/season_19/Javier_Manquillo_4918.png
+8171,Solly March,England,M,,premier_league_data/season_19/Solly_March_8171.png
+20097,Pablo Marí,Spain,D,18.0,premier_league_data/season_19/Pablo_Marí_20097.png
+3251,Adrian Mariappa,Jamaica,D,19.0,premier_league_data/season_19/Adrian_Mariappa_3251.png
+5078,Lazar Markovic,Serbia,M,50.0,premier_league_data/season_19/Lazar_Markovic_5078.png
+15136,George Marsh,England,M,15.0,premier_league_data/season_19/George_Marsh_15136.png
+3945,Ben Marshall,England,M,7.0,
+11272,Anthony Martial,France,F,22.0,premier_league_data/season_19/Anthony_Martial_11272.png
+26977,Josh Martin,England,F,8.0,premier_league_data/season_19/Josh_Martin_26977.png
+13716,Cuco Martina,Curacao,D,15.0,premier_league_data/season_19/Cuco_Martina_13716.png
+4245,Emiliano Martínez,Argentina,G,23.0,premier_league_data/season_19/Emiliano_Martínez_4245.png
+49992,Adam Masina,Morocco,D,3.0,premier_league_data/season_19/Adam_Masina_49992.png
+4741,Joe Mason,England,F,20.0,
+10703,Mason Bloomfield,England,F,,
+13932,Ntumba Massanka,England,M,18.0,
+11284,Arthur Masuaku,DR Congo,D,26.0,premier_league_data/season_19/Arthur_Masuaku_11284.png
+4287,Juan Mata,Spain,M,64.0,premier_league_data/season_19/Juan_Mata_4287.png
+52625,Luke Matheson,England,D,,
+3861,Nemanja Matic,Serbia,M,31.0,premier_league_data/season_19/Nemanja_Matic_3861.png
+5375,Joël Matip,Cameroon,D,32.0,premier_league_data/season_19/Joël_Matip_5375.png
+19862,Matt Smith,England,M,8.0,
+3669,Matty James,England,M,37.0,premier_league_data/season_19/Matty_James_3669.png
+14903,Matty Longstaff,England,M,25.0,premier_league_data/season_19/Matty_Longstaff_14903.png
+16256,Neal Maupay,France,F,8.0,premier_league_data/season_19/Neal_Maupay_16256.png
+32638,Konstantinos Mavropanos,Greece,D,15.0,premier_league_data/season_19/Konstantinos_Mavropanos_32638.png
+4224,James McArthur,Scotland,M,,premier_league_data/season_19/James_McArthur_4224.png
+8107,Oliver McBurnie,Scotland,F,16.0,premier_league_data/season_19/Oliver_McBurnie_8107.png
+52903,Sam McCallum,England,D,3.0,
+3979,James McCarthy,Ireland,M,16.0,premier_league_data/season_19/James_McCarthy_3979.png
+8956,Ross McCormack,Scotland,F,44.0,
+14587,George McEachran,England,M,20.0,premier_league_data/season_19/George_McEachran_14587.png
+51423,John McGinn,Scotland,M,7.0,premier_league_data/season_19/John_McGinn_51423.png
+2340,David McGoldrick,Ireland,F,17.0,premier_league_data/season_19/David_McGoldrick_2340.png
+19675,Michael McGovern,Northern Ireland,G,12.0,premier_league_data/season_19/Michael_McGovern_19675.png
+24342,Giovanni McGregor,England,M,,
+14481,Harry McKirdy,England,F,13.0,
+33061,Kenny McLean,Scotland,M,,premier_league_data/season_19/Kenny_McLean_33061.png
+24797,Dwight McNeil,England,F,7.0,premier_league_data/season_19/Dwight_McNeil_24797.png
+9649,Sam McQueen,England,M,,premier_league_data/season_19/Sam_McQueen_9649.png
+14824,Scott McTominay,Scotland,M,39.0,premier_league_data/season_19/Scott_McTominay_14824.png
+21958,Zech Medley,England,D,3.0,
+3909,Ben Mee,England,D,16.0,premier_league_data/season_19/Ben_Mee_3909.png
+23835,D'Mani Mellor,England,F,17.0,premier_league_data/season_19/DMani_Mellor_23835.png
+19617,Nampalys Mendy,Senegal,M,26.0,premier_league_data/season_19/Nampalys_Mendy_19617.png
+27090,Teden Mengi,England,D,15.0,premier_league_data/season_19/Teden_Mengi_27090.png
+14063,Chris Mepham,Wales,D,26.0,premier_league_data/season_19/Chris_Mepham_14063.png
+5377,Max Meyer,Germany,M,7.0,premier_league_data/season_19/Max_Meyer_5377.png
+13280,Matt Miazga,United States,D,21.0,premier_league_data/season_19/Matt_Miazga_13280.png
+4179,Simon Mignolet,Belgium,G,22.0,premier_league_data/season_19/Simon_Mignolet_4179.png
+5859,Luka Milivojevic,Serbia,M,4.0,premier_league_data/season_19/Luka_Milivojevic_5859.png
+23822,Liam Millar,Canada,F,7.0,
+2100,James Milner,England,M,6.0,premier_league_data/season_19/James_Milner_2100.png
+32923,Yerry Mina,Colombia,D,26.0,premier_league_data/season_19/Yerry_Mina_32923.png
+12322,Takumi Minamino,Japan,M,18.0,premier_league_data/season_19/Takumi_Minamino_12322.png
+8900,Tyrone Mings,England,D,5.0,premier_league_data/season_19/Tyrone_Mings_8900.png
+16270,Rafa Mir,Spain,F,11.0,premier_league_data/season_19/Rafa_Mir_16270.png
+4507,Kevin Mirallas,Belgium,F,11.0,premier_league_data/season_19/Kevin_Mirallas_4507.png
+24334,Tyrick Mitchell,England,D,39.0,premier_league_data/season_19/Tyrick_Mitchell_24334.png
+5102,Henrikh Mkhitaryan,Armenia,M,22.0,premier_league_data/season_19/Henrikh_Mkhitaryan_5102.png
+21774,Jan Mlakar,Slovenia,F,29.0,
+5239,Mohamed Elneny,Egypt,M,15.0,premier_league_data/season_19/Mohamed_Elneny_5239.png
+5178,Mohamed Salah,Egypt,F,11.0,premier_league_data/season_19/Mohamed_Salah_5178.png
+15293,Jayson Molumby,Ireland,M,8.0,premier_league_data/season_19/Jayson_Molumby_15293.png
+4955,Martín Montoya,Spain,D,2.0,premier_league_data/season_19/Martín_Montoya_4955.png
+14698,Elliott Moore,England,D,5.0,
+19619,Aaron Mooy,Australia,M,13.0,premier_league_data/season_19/Aaron_Mooy_19619.png
+5804,Álvaro Morata,Spain,F,77.0,premier_league_data/season_19/Álvaro_Morata_5804.png
+7219,Alberto Moreno,Spain,D,18.0,premier_league_data/season_19/Alberto_Moreno_7219.png
+8966,Wes Morgan,Jamaica,D,5.0,premier_league_data/season_19/Wes_Morgan_8966.png
+4159,Ravel Morrison,Jamaica,M,49.0,premier_league_data/season_19/Ravel_Morrison_4159.png
+3983,Victor Moses,Nigeria,M,7.0,premier_league_data/season_19/Victor_Moses_3983.png
+14580,Mason Mount,England,M,7.0,premier_league_data/season_19/Mason_Mount_14580.png
+19603,Lys Mousset,France,F,7.0,premier_league_data/season_19/Lys_Mousset_19603.png
+75991,Joel Mumbongo,Sweden,F,25.0,premier_league_data/season_19/Joel_Mumbongo_75991.png
+19911,Arijanet Muric,Kosovo,G,1.0,premier_league_data/season_19/Arijanet_Muric_19911.png
+4772,Glenn Murray,England,F,25.0,premier_league_data/season_19/Glenn_Murray_4772.png
+14715,Admiral Muskwe,Zimbabwe,F,26.0,
+3869,Shkodran Mustafi,Germany,D,5.0,premier_league_data/season_19/Shkodran_Mustafi_3869.png
+3333,Jordon Mutch,England,M,4.0,premier_league_data/season_19/Jordon_Mutch_3333.png
+20196,Yoshinori Muto,Japan,F,11.0,premier_league_data/season_19/Yoshinori_Muto_20196.png
+4472,Nacho Monreal,Spain,D,20.0,premier_league_data/season_19/Nacho_Monreal_4472.png
+45351,Marvelous Nakamba,Zimbabwe,M,13.0,premier_league_data/season_19/Marvelous_Nakamba_45351.png
+3546,Samir Nasri,France,M,18.0,premier_league_data/season_19/Samir_Nasri_3546.png
+22651,Marc Navarro,Spain,D,2.0,premier_league_data/season_19/Marc_Navarro_22651.png
+20479,Wilfred Ndidi,Nigeria,M,6.0,premier_league_data/season_19/Wilfred_Ndidi_20479.png
+25329,Tanguy Ndombélé,France,M,22.0,premier_league_data/season_19/Tanguy_Ndombélé_25329.png
+14712,Layton Ndukwu,England,F,17.0,
+14450,Reiss Nelson,England,F,19.0,premier_league_data/season_19/Reiss_Nelson_14450.png
+5074,Nélson Oliveira,Portugal,F,7.0,
+20064,Jeremy Ngakia,DR Congo,D,2.0,premier_league_data/season_19/Jeremy_Ngakia_20064.png
+13390,Oumar Niasse,Senegal,F,18.0,premier_league_data/season_19/Oumar_Niasse_13390.png
+14451,Eddie Nketiah,England,F,9.0,premier_league_data/season_19/Eddie_Nketiah_14451.png
+15938,Georges-Kévin Nkoudou,Cameroon,M,7.0,premier_league_data/season_19/Georges-Kévin_Nkoudou_15938.png
+15019,Dan Nlundulu,England,F,9.0,premier_league_data/season_19/Dan_Nlundulu_15019.png
+19922,Felix Nmecha,Germany,M,8.0,premier_league_data/season_19/Felix_Nmecha_19922.png
+3014,Mark Noble,England,M,16.0,premier_league_data/season_19/Mark_Noble_3014.png
+23875,Kornelius Normann Hansen,Norway,F,17.0,
+32673,Rhys Norrington-Davies,Wales,D,,premier_league_data/season_19/Rhys_Norrington-Davies_32673.png
+51569,James Norris,England,D,26.0,premier_league_data/season_19/James_Norris_51569.png
+3924,Oliver Norwood,Northern Ireland,M,26.0,premier_league_data/season_19/Oliver_Norwood_3924.png
+51416,Ørjan Nyland,Norway,G,13.0,premier_league_data/season_19/Ørjan_Nyland_51416.png
+9491,Jack O'Connell,England,D,5.0,premier_league_data/season_19/Jack_OConnell_9491.png
+15009,Thomas O'Connor,Ireland,M,6.0,premier_league_data/season_19/Thomas_OConnor_15009.png
+14774,Aaron O'Driscoll,Ireland,D,15.0,
+13584,Kieran O'Hara,Ireland,G,13.0,
+14490,Callum O'Hare,England,M,10.0,
+49367,Warren O'Hora,Ireland,D,5.0,premier_league_data/season_19/Warren_OHora_49367.png
+20095,Aiden O'Neill,Australia,M,24.0,premier_league_data/season_19/Aiden_ONeill_20095.png
+21532,Michael Obafemi,Ireland,F,14.0,premier_league_data/season_19/Michael_Obafemi_21532.png
+50463,Nnamdi Ofoborh,Nigeria,M,6.0,premier_league_data/season_19/Nnamdi_Ofoborh_50463.png
+5514,Angelo Ogbonna,Italy,D,21.0,premier_league_data/season_19/Angelo_Ogbonna_5514.png
+10543,Sheyi Ojo,England,F,54.0,premier_league_data/season_19/Sheyi_Ojo_10543.png
+3889,Stefano Okaka,Italy,F,77.0,premier_league_data/season_19/Stefano_Okaka_3889.png
+13494,Shinji Okazaki,Japan,F,30.0,premier_league_data/season_19/Shinji_Okazaki_13494.png
+19873,James Olayinka,England,M,17.0,
+23873,Oludare Olufunwa,England,D,12.0,
+7490,Josh Onomah,England,M,17.0,premier_league_data/season_19/Josh_Onomah_7490.png
+23615,Henry Onyekuru,Nigeria,F,7.0,
+10465,Divock Origi,Belgium,F,27.0,premier_league_data/season_19/Divock_Origi_10465.png
+9266,Ben Osborn,England,M,8.0,premier_league_data/season_19/Ben_Osborn_9266.png
+10420,David Ospina,Colombia,G,,premier_league_data/season_19/David_Ospina_10420.png
+6058,Nicolás Otamendi,Argentina,D,30.0,premier_league_data/season_19/Nicolás_Otamendi_6058.png
+23994,Owen Otasowie,United States,M,8.0,premier_league_data/season_19/Owen_Otasowie_23994.png
+14909,Aston Oxborough,England,G,13.0,premier_league_data/season_19/Aston_Oxborough_14909.png
+10535,Reece Oxford,England,D,4.0,premier_league_data/season_19/Reece_Oxford_10535.png
+4252,Alex Oxlade-Chamberlain,England,M,15.0,premier_league_data/season_19/Alex_Oxlade-Chamberlain_4252.png
+4714,Mesut Özil,Germany,M,10.0,premier_league_data/season_19/Mesut_Özil_4714.png
+13283,Kasey Palmer,Jamaica,M,45.0,premier_league_data/season_19/Kasey_Palmer_13283.png
+16467,Erik Palmer-Brown,United States,D,14.0,
+5093,Sokratis Papastathopoulos,Greece,D,19.0,premier_league_data/season_19/Sokratis_Papastathopoulos_5093.png
+14984,Adam Parkes,England,G,32.0,
+51753,David Parkhouse,Northern Ireland,F,,
+43856,Troy Parrott,Ireland,F,9.0,premier_league_data/season_19/Troy_Parrott_43856.png
+10440,Mario Pasalic,Croatia,M,8.0,
+15560,Felix Passlack,Germany,D,,premier_league_data/season_19/Felix_Passlack_15560.png
+14924,Alfie Payne,England,M,28.0,
+13485,Bailey Peacock-Farrell,Northern Ireland,G,45.0,premier_league_data/season_19/Bailey_Peacock-Farrell_13485.png
+4972,Pedro,Spain,F,9.0,premier_league_data/season_19/Pedro_4972.png
+21998,Pedro Neto,Portugal,F,7.0,premier_league_data/season_19/Pedro_Neto_21998.png
+13871,Pedro Obiang,Equatorial Guinea,M,14.0,premier_league_data/season_19/Pedro_Obiang_13871.png
+13825,Adalberto Peñaranda,Venezuela,F,7.0,premier_league_data/season_19/Adalberto_Peñaranda_13825.png
+51539,Terell Pennant,England,F,18.0,premier_league_data/season_19/Terell_Pennant_51539.png
+9895,Matthew Pennington,England,D,5.0,premier_league_data/season_19/Matthew_Pennington_9895.png
+50252,Nicolas Pépé,Cote D’Ivoire,F,19.0,premier_league_data/season_19/Nicolas_Pépé_50252.png
+11213,Roberto Pereyra,Argentina,M,37.0,premier_league_data/season_19/Roberto_Pereyra_11213.png
+10487,Ayoze Pérez,Spain,F,22.0,premier_league_data/season_19/Ayoze_Pérez_10487.png
+20079,Taylor Perry,England,M,14.0,
+14051,Nathaniel Phillips,England,D,12.0,premier_league_data/season_19/Nathaniel_Phillips_14051.png
+4640,Jordan Pickford,England,G,1.0,premier_league_data/season_19/Jordan_Pickford_4640.png
+53151,Brandon Pierrick,England,F,40.0,premier_league_data/season_19/Brandon_Pierrick_53151.png
+4821,Erik Pieters,Netherlands,D,33.0,premier_league_data/season_19/Erik_Pieters_4821.png
+14433,Julio Pleguezuelo,Spain,D,5.0,
+3920,Paul Pogba,France,M,10.0,premier_league_data/season_19/Paul_Pogba_3920.png
+10079,Nick Pope,England,G,22.0,premier_league_data/season_19/Nick_Pope_10079.png
+32229,Pedro Porro,Spain,D,23.0,premier_league_data/season_19/Pedro_Porro_32229.png
+24834,Pote,Portugal,M,8.0,premier_league_data/season_19/Pote_24834.png
+19929,Ian Poveda,Colombia,F,,premier_league_data/season_19/Ian_Poveda_19929.png
+15200,Joe Powell,England,M,7.0,premier_league_data/season_19/Joe_Powell_15200.png
+19923,Iker Pozo,Spain,M,,premier_league_data/season_19/Iker_Pozo_19923.png
+5860,Dennis Praet,Belgium,M,8.0,premier_league_data/season_19/Dennis_Praet_5860.png
+13822,Sebastian Prödl,Austria,D,4.0,premier_league_data/season_19/Sebastian_Prödl_13822.png
+16790,Davy Pröpper,Netherlands,M,14.0,premier_league_data/season_19/Davy_Pröpper_16790.png
+8049,Marc Pugh,England,M,27.0,premier_league_data/season_19/Marc_Pugh_8049.png
+25464,Arnau Puigmal,Spain,M,8.0,premier_league_data/season_19/Arnau_Puigmal_25464.png
+5169,Teemu Pukki,Finland,F,20.0,premier_league_data/season_19/Teemu_Pukki_5169.png
+15559,Christian Pulisic,United States,M,11.0,premier_league_data/season_19/Christian_Pulisic_15559.png
+4084,Jason Puncheon,England,M,42.0,premier_league_data/season_19/Jason_Puncheon_4084.png
+50960,Ignacio Pussetto,Argentina,F,18.0,premier_league_data/season_19/Ignacio_Pussetto_50960.png
+49193,Bojan Radulovic,Serbia,F,9.0,premier_league_data/season_19/Bojan_Radulovic_49193.png
+23820,Rafael Camacho,Portugal,M,64.0,premier_league_data/season_19/Rafael_Camacho_23820.png
+8616,Sean Raggett,England,D,5.0,
+25267,Largie Ramazani,Belgium,F,17.0,premier_league_data/season_19/Largie_Ramazani_25267.png
+24001,Kayne Ramsay,England,D,2.0,premier_league_data/season_19/Kayne_Ramsay_24001.png
+13703,Aaron Ramsdale,England,G,30.0,premier_league_data/season_19/Aaron_Ramsdale_13703.png
+3548,Aaron Ramsey,Wales,M,10.0,premier_league_data/season_19/Aaron_Ramsey_3548.png
+2216,Darren Randolph,Ireland,G,12.0,premier_league_data/season_19/Darren_Randolph_2216.png
+13565,Marcus Rashford,England,F,9.0,premier_league_data/season_19/Marcus_Rashford_13565.png
+3811,Nathan Redmond,England,M,15.0,premier_league_data/season_19/Nathan_Redmond_3811.png
+4818,Harrison Reed,England,M,6.0,premier_league_data/season_19/Harrison_Reed_4818.png
+4209,Winston Reid,New Zealand,D,23.0,premier_league_data/season_19/Winston_Reid_4209.png
+2911,Pepe Reina,Spain,G,1.0,premier_league_data/season_19/Pepe_Reina_2911.png
+16003,Panagiotis Retsos,Greece,D,45.0,
+14477,Dominic Revan,England,D,24.0,premier_league_data/season_19/Dominic_Revan_14477.png
+7990,Jordan Rhodes,Scotland,F,29.0,premier_league_data/season_19/Jordan_Rhodes_7990.png
+5343,Ricardo Pereira,Portugal,D,21.0,premier_league_data/season_19/Ricardo_Pereira_5343.png
+15202,Declan Rice,England,M,41.0,premier_league_data/season_19/Declan_Rice_15202.png
+19928,Taylor Richards,England,M,17.0,premier_league_data/season_19/Taylor_Richards_19928.png
+67198,Lewis Richardson,England,M,,premier_league_data/season_19/Lewis_Richardson_67198.png
+24630,Richarlison,Brazil,F,9.0,premier_league_data/season_19/Richarlison_24630.png
+26076,Diego Rico,Spain,D,16.0,premier_league_data/season_19/Diego_Rico_26076.png
+4878,Jairo Riedewald,Netherlands,M,4.0,premier_league_data/season_19/Jairo_Riedewald_4878.png
+3934,Matt Ritchie,Scotland,M,30.0,premier_league_data/season_19/Matt_Ritchie_3934.png
+13511,Roberto Firmino,Brazil,F,9.0,premier_league_data/season_19/Roberto_Firmino_13511.png
+24809,Haydon Roberts,England,D,24.0,premier_league_data/season_19/Haydon_Roberts_24809.png
+10458,Andy Robertson,Scotland,D,26.0,premier_league_data/season_19/Andy_Robertson_10458.png
+4725,Callum Robinson,Ireland,F,47.0,premier_league_data/season_19/Callum_Robinson_4725.png
+5044,Roderick Miranda,Portugal,D,,premier_league_data/season_19/Roderick_Miranda_5044.png
+16286,Rodri,Spain,M,16.0,premier_league_data/season_19/Rodri_16286.png
+3851,Jay Rodriguez,England,F,16.0,premier_league_data/season_19/Jay_Rodriguez_3851.png
+3389,Jack Rodwell,England,M,,premier_league_data/season_19/Jack_Rodwell_3389.png
+10472,Marcos Rojo,Argentina,D,6.0,premier_league_data/season_19/Marcos_Rojo_10472.png
+15135,Jack Roles,Cyprus,M,11.0,premier_league_data/season_19/Jack_Roles_15135.png
+13555,Sergio Romero,Argentina,G,1.0,premier_league_data/season_19/Sergio_Romero_13555.png
+4286,Oriol Romeu,Spain,M,14.0,premier_league_data/season_19/Oriol_Romeu_4286.png
+6030,Salomón Rondón,Venezuela,F,23.0,premier_league_data/season_19/Salomón_Rondón_6030.png
+3507,Danny Rose,England,D,3.0,premier_league_data/season_19/Danny_Rose_3507.png
+11180,Rúben Neves,Portugal,M,8.0,premier_league_data/season_19/Rúben_Neves_11180.png
+20171,Rúben Vinagre,Portugal,D,19.0,premier_league_data/season_19/Rúben_Vinagre_20171.png
+2896,John Ruddy,England,G,26.0,premier_league_data/season_19/John_Ruddy_2896.png
+16801,Antonio Rüdiger,Germany,D,22.0,premier_league_data/season_19/Antonio_Rüdiger_16801.png
+11341,Rui Patrício,Portugal,G,28.0,premier_league_data/season_19/Rui_Patrício_11341.png
+25203,Lukas Rupp,Germany,M,7.0,premier_league_data/season_19/Lukas_Rupp_25203.png
+12192,Mathew Ryan,Australia,G,30.0,premier_league_data/season_19/Mathew_Ryan_12192.png
+12817,Allan Saint-Maximin,France,F,97.0,premier_league_data/season_19/Allan_Saint-Maximin_12817.png
+20745,Romain Saïss,Morocco,D,14.0,premier_league_data/season_19/Romain_Saïss_20745.png
+6251,Henri Saivet,Senegal,M,,premier_league_data/season_19/Henri_Saivet_6251.png
+49481,Bukayo Saka,England,F,77.0,premier_league_data/season_19/Bukayo_Saka_49481.png
+4796,Mamadou Sakho,France,D,75.0,premier_league_data/season_19/Mamadou_Sakho_4796.png
+10004,Bakary Sako,Mali,M,,premier_league_data/season_19/Bakary_Sako_10004.png
+66204,William Saliba,France,D,2.0,premier_league_data/season_19/William_Saliba_66204.png
+20490,Mbwana Samatta,Tanzania,F,70.0,premier_league_data/season_19/Mbwana_Samatta_20490.png
+15257,Austin Samuels,England,F,,premier_league_data/season_19/Austin_Samuels_15257.png
+14538,Robert Sánchez,Spain,G,1.0,premier_league_data/season_19/Robert_Sánchez_14538.png
+14554,Max Sanders,England,M,6.0,premier_league_data/season_19/Max_Sanders_14554.png
+15218,Dion Sanderson,England,D,31.0,premier_league_data/season_19/Dion_Sanderson_15218.png
+33238,Philippe Sandler,Netherlands,D,13.0,premier_league_data/season_19/Philippe_Sandler_33238.png
+11074,Sandro Ramírez,Spain,F,19.0,premier_league_data/season_19/Sandro_Ramírez_11074.png
+5384,Leroy Sané,Germany,F,10.0,premier_league_data/season_19/Leroy_Sané_5384.png
+14463,Matija Sarkic,Montenegro,G,20.0,premier_league_data/season_19/Matija_Sarkic_14463.png
+49796,Ismaïla Sarr,Senegal,F,7.0,premier_league_data/season_19/Ismaïla_Sarr_49796.png
+70150,Christian Saydee,England,F,15.0,premier_league_data/season_19/Christian_Saydee_70150.png
+5220,Fabian Schär,Switzerland,D,,premier_league_data/season_19/Fabian_Schär_5220.png
+16234,Ezequiel Schelotto,Argentina,D,21.0,premier_league_data/season_19/Ezequiel_Schelotto_16234.png
+8980,Jeffrey Schlupp,Ghana,M,15.0,premier_league_data/season_19/Jeffrey_Schlupp_8980.png
+2508,Kasper Schmeichel,Denmark,G,1.0,premier_league_data/season_19/Kasper_Schmeichel_2508.png
+4615,Morgan Schneiderlin,France,M,6.0,premier_league_data/season_19/Morgan_Schneiderlin_4615.png
+25089,Ken Sema,Sweden,M,12.0,premier_league_data/season_19/Ken_Sema_25089.png
+65981,Joel Senior,England,D,2.0,
+14656,Ryan Sessegnon,England,M,30.0,premier_league_data/season_19/Ryan_Sessegnon_14656.png
+19844,Meritan Shabani,Germany,M,38.0,premier_league_data/season_19/Meritan_Shabani_19844.png
+5267,Xherdan Shaqiri,Switzerland,M,29.0,premier_league_data/season_19/Xherdan_Shaqiri_5267.png
+4626,Billy Sharp,England,F,14.0,premier_league_data/season_19/Billy_Sharp_4626.png
+4608,Luke Shaw,England,D,23.0,premier_league_data/season_19/Luke_Shaw_4608.png
+50462,Sam Sherring,England,D,50.0,
+12576,Djibril Sidibé,France,D,19.0,premier_league_data/season_19/Djibril_Sidibé_12576.png
+23797,Sidnei Tavares,Portugal,M,,premier_league_data/season_19/Sidnei_Tavares_23797.png
+4421,Gylfi Sigurdsson,Iceland,M,32.0,premier_league_data/season_19/Gylfi_Sigurdsson_4421.png
+4145,David Silva,Spain,M,21.0,premier_league_data/season_19/David_Silva_4145.png
+19925,Ellis Simms,England,F,9.0,premier_league_data/season_19/Ellis_Simms_19925.png
+13193,Jack Simpson,England,D,4.0,premier_league_data/season_19/Jack_Simpson_13193.png
+15374,Josh Sims,England,M,20.0,premier_league_data/season_19/Josh_Sims_15374.png
+4529,Jerome Sinclair,England,F,,premier_league_data/season_19/Jerome_Sinclair_4529.png
+4549,Moussa Sissoko,France,M,17.0,premier_league_data/season_19/Moussa_Sissoko_4549.png
+74743,Melvin Sitti,France,M,28.0,
+21413,Oliver Skipp,England,M,22.0,premier_league_data/season_19/Oliver_Skipp_21413.png
+21385,Regan Slater,England,M,27.0,premier_league_data/season_19/Regan_Slater_21385.png
+15002,Callum Slattery,England,M,8.0,premier_league_data/season_19/Callum_Slattery_15002.png
+11364,Islam Slimani,Algeria,F,19.0,premier_league_data/season_19/Islam_Slimani_11364.png
+14997,Will Smallbone,Ireland,M,18.0,premier_league_data/season_19/Will_Smallbone_14997.png
+3613,Chris Smalling,England,D,6.0,premier_league_data/season_19/Chris_Smalling_3613.png
+3512,Adam Smith,England,D,15.0,premier_league_data/season_19/Adam_Smith_3512.png
+14445,Emile Smith Rowe,England,M,32.0,premier_league_data/season_19/Emile_Smith_Rowe_14445.png
+4558,Robert Snodgrass,Scotland,M,77.0,premier_league_data/season_19/Robert_Snodgrass_4558.png
+10443,Dominic Solanke,England,F,19.0,premier_league_data/season_19/Dominic_Solanke_10443.png
+4999,Son Heung-Min,South Korea,F,7.0,premier_league_data/season_19/Son_Heung-Min_4999.png
+49158,Andreas Söndergaard,Denmark,G,27.0,premier_league_data/season_19/Andreas_Söndergaard_49158.png
+10444,Pape Souaré,Senegal,D,,premier_league_data/season_19/Pape_Souaré_10444.png
+25183,Tomás Soucek,Czech Republic,M,28.0,premier_league_data/season_19/Tomás_Soucek_25183.png
+26216,Çaglar Söyüncü,Turkiye,D,4.0,premier_league_data/season_19/Çaglar_Söyüncü_26216.png
+19867,Bayli Spencer-Adams,Guyana,D,63.0,premier_league_data/season_19/Bayli_Spencer-Adams_19867.png
+2664,Julian Speroni,Argentina,G,,premier_league_data/season_19/Julian_Speroni_2664.png
+24722,Jack Spong,England,M,8.0,premier_league_data/season_19/Jack_Spong_24722.png
+33067,Dennis Srbeny,Germany,F,7.0,premier_league_data/season_19/Dennis_Srbeny_33067.png
+10881,Jack Stacey,England,D,3.0,premier_league_data/season_19/Jack_Stacey_10881.png
+3766,Junior Stanislas,England,M,19.0,premier_league_data/season_19/Junior_Stanislas_3766.png
+2485,Richard Stearman,England,D,19.0,premier_league_data/season_19/Richard_Stearman_2485.png
+3457,Jason Steele,England,G,,premier_league_data/season_19/Jason_Steele_3457.png
+4348,Jed Steer,England,G,31.0,premier_league_data/season_19/Jed_Steer_4348.png
+54392,Zack Steffen,United States,G,1.0,premier_league_data/season_19/Zack_Steffen_54392.png
+4779,Maarten Stekelenburg,Netherlands,G,1.0,premier_league_data/season_19/Maarten_Stekelenburg_4779.png
+913,Michael Stensgaard,Denmark,G,,
+8168,Dale Stephens,England,M,16.0,premier_league_data/season_19/Dale_Stephens_8168.png
+14572,Dujon Sterling,England,D,21.0,premier_league_data/season_19/Dujon_Sterling_14572.png
+10482,Jamie Sterry,England,D,2.0,premier_league_data/season_19/Jamie_Sterry_10482.png
+4258,Enda Stevens,Ireland,D,3.0,premier_league_data/season_19/Enda_Stevens_4258.png
+51561,Layton Stewart,England,F,17.0,premier_league_data/season_19/Layton_Stewart_51561.png
+23199,Marco Stiepermann,Germany,F,22.0,premier_league_data/season_19/Marco_Stiepermann_23199.png
+4505,John Stones,England,D,5.0,premier_league_data/season_19/John_Stones_4505.png
+3154,Daniel Sturridge,England,F,19.0,premier_league_data/season_19/Daniel_Sturridge_3154.png
+4325,Denis Suárez,Spain,M,6.0,premier_league_data/season_19/Denis_Suárez_4325.png
+19618,Isaac Success,Nigeria,F,90.0,premier_league_data/season_19/Isaac_Success_19618.png
+2338,Andrew Surman,England,M,16.0,premier_league_data/season_19/Andrew_Surman_2338.png
+13195,Sam Surridge,England,F,16.0,premier_league_data/season_19/Sam_Surridge_13195.png
+5428,Markus Suttner,Austria,D,29.0,premier_league_data/season_19/Markus_Suttner_5428.png
+20946,Elias Sørensen,Denmark,F,18.0,
+15685,Alexander Sørloth,Norway,F,9.0,premier_league_data/season_19/Alexander_Sørloth_15685.png
+15116,Japhet Tanganga,England,D,6.0,premier_league_data/season_19/Japhet_Tanganga_15116.png
+15322,Shani Tarashaj,Switzerland,F,,premier_league_data/season_19/Shani_Tarashaj_15322.png
+4815,Matt Targett,England,D,,premier_league_data/season_19/Matt_Targett_4815.png
+8143,James Tarkowski,England,D,6.0,premier_league_data/season_19/James_Tarkowski_8143.png
+40320,Percy Tau,South Africa,F,10.0,premier_league_data/season_19/Percy_Tau_40320.png
+24000,Nikola Tavares,Croatia,D,25.0,
+4402,Neil Taylor,Wales,D,3.0,premier_league_data/season_19/Neil_Taylor_4402.png
+92692,Slobodan Tedic,Serbia,F,30.0,
+14452,Nathan Tella,Nigeria,M,19.0,premier_league_data/season_19/Nathan_Tella_14452.png
+4560,Alexander Tettey,Norway,M,27.0,premier_league_data/season_19/Alexander_Tettey_4560.png
+63836,Bobby Thomas,England,D,4.0,premier_league_data/season_19/Bobby_Thomas_63836.png
+19869,Dominic Thompson,England,D,16.0,premier_league_data/season_19/Dominic_Thompson_19869.png
+5865,Youri Tielemans,Belgium,M,8.0,premier_league_data/season_19/Youri_Tielemans_5865.png
+12185,Kieran Tierney,Scotland,D,17.0,premier_league_data/season_19/Kieran_Tierney_12185.png
+14916,Timi Odusina,England,D,5.0,premier_league_data/season_19/Timi_Odusina_14916.png
+3517,James Tomkins,England,D,5.0,premier_league_data/season_19/James_Tomkins_3517.png
+13281,Fikayo Tomori,England,D,23.0,premier_league_data/season_19/Fikayo_Tomori_13281.png
+23033,Lucas Torreira,Uruguay,M,34.0,premier_league_data/season_19/Lucas_Torreira_23033.png
+12114,Cenk Tosun,Turkiye,F,23.0,premier_league_data/season_19/Cenk_Tosun_12114.png
+3724,Andros Townsend,England,M,30.0,premier_league_data/season_19/Andros_Townsend_3724.png
+4979,Adama Traoré,Spain,F,11.0,premier_league_data/season_19/Adama_Traoré_4979.png
+50453,Mark Travers,Ireland,G,32.0,premier_league_data/season_19/Mark_Travers_50453.png
+16087,Trézéguet,Egypt,M,10.0,premier_league_data/season_19/Trézéguet_16087.png
+3905,Kieran Trippier,England,D,,premier_league_data/season_19/Kieran_Trippier_3905.png
+20486,Leandro Trossard,Belgium,F,19.0,premier_league_data/season_19/Leandro_Trossard_20486.png
+20051,Nathan Trott,England,G,1.0,premier_league_data/season_19/Nathan_Trott_20051.png
+24412,Tom Trybull,Germany,M,46.0,premier_league_data/season_19/Tom_Trybull_24412.png
+9474,Aaron Tshibola,DR Congo,M,8.0,
+13559,Axel Tuanzebe,DR Congo,D,40.0,premier_league_data/season_19/Axel_Tuanzebe_13559.png
+14949,Joe Tupper,England,G,,
+14593,Iké Ugbo,Canada,F,12.0,
+8174,Leonardo Ulloa,Argentina,F,9.0,premier_league_data/season_19/Leonardo_Ulloa_8174.png
+3285,Antonio Valencia,Ecuador,D,25.0,premier_league_data/season_19/Antonio_Valencia_3285.png
+15011,Yan Valery,Tunisia,D,27.0,premier_league_data/season_19/Yan_Valery_15011.png
+19564,Jesús Vallejo,Spain,D,5.0,premier_league_data/season_19/Jesús_Vallejo_19564.png
+3362,Patrick van Aanholt,Netherlands,D,30.0,premier_league_data/season_19/Patrick_van_Aanholt_3362.png
+65987,Sepp van den Berg,Netherlands,D,4.0,premier_league_data/season_19/Sepp_van_den_Berg_65987.png
+5140,Virgil van Dijk,Netherlands,D,4.0,premier_league_data/season_19/Virgil_van_Dijk_5140.png
+4747,Marco van Ginkel,Netherlands,M,8.0,premier_league_data/season_19/Marco_van_Ginkel_4747.png
+8979,Jamie Vardy,England,F,9.0,premier_league_data/season_19/Jamie_Vardy_8979.png
+31670,Indiana Vassilev,United States,M,17.0,premier_league_data/season_19/Indiana_Vassilev_31670.png
+32602,Michael Verrips,Netherlands,G,34.0,premier_league_data/season_19/Michael_Verrips_32602.png
+4666,Jan Vertonghen,Belgium,D,14.0,premier_league_data/season_19/Jan_Vertonghen_4666.png
+20109,Jannik Vestergaard,Denmark,D,23.0,premier_league_data/season_19/Jannik_Vestergaard_20109.png
+25312,Nikola Vlasic,Croatia,M,16.0,premier_league_data/season_19/Nikola_Vlasic_25312.png
+4007,Sam Vokes,Wales,F,9.0,premier_league_data/season_19/Sam_Vokes_4007.png
+15013,Jake Vokins,England,D,,premier_league_data/season_19/Jake_Vokins_15013.png
+4398,Michel Vorm,Netherlands,G,13.0,premier_league_data/season_19/Michel_Vorm_4398.png
+22040,Mario Vrancic,Bosnia & Herzegovina,M,7.0,premier_league_data/season_19/Mario_Vrancic_22040.png
+4851,Matej Vydra,Czech Republic,F,11.0,premier_league_data/season_19/Matej_Vydra_4851.png
+2839,Theo Walcott,England,F,32.0,premier_league_data/season_19/Theo_Walcott_2839.png
+3955,Kyle Walker,England,D,32.0,premier_league_data/season_19/Kyle_Walker_3955.png
+13815,Kyle Walker-Peters,England,D,2.0,premier_league_data/season_19/Kyle_Walker-Peters_13815.png
+2047,Jonathan Walters,Ireland,F,39.0,premier_league_data/season_19/Jonathan_Walters_2047.png
+8159,Christian Walton,England,G,28.0,premier_league_data/season_19/Christian_Walton_8159.png
+14164,Aaron Wan-Bissaka,England,D,29.0,premier_league_data/season_19/Aaron_Wan-Bissaka_14164.png
+4816,Victor Wanyama,Kenya,M,2.0,premier_league_data/season_19/Victor_Wanyama_4816.png
+3999,Stephen Ward,Ireland,D,3.0,premier_league_data/season_19/Stephen_Ward_3999.png
+4617,James Ward-Prowse,England,M,18.0,premier_league_data/season_19/James_Ward-Prowse_4617.png
+9363,Conor Washington,Northern Ireland,F,14.0,premier_league_data/season_19/Conor_Washington_9363.png
+21702,Elliot Watt,Scotland,M,4.0,premier_league_data/season_19/Elliot_Watt_21702.png
+19967,Kelland Watts,England,D,6.0,premier_league_data/season_19/Kelland_Watts_19967.png
+9426,Adam Webster,England,D,4.0,premier_league_data/season_19/Adam_Webster_9426.png
+3452,Danny Welbeck,England,F,18.0,premier_league_data/season_19/Danny_Welbeck_3452.png
+8889,Nahki Wells,Bermuda,F,21.0,premier_league_data/season_19/Nahki_Wells_8889.png
+15580,Wesley,Brazil,F,,premier_league_data/season_19/Wesley_15580.png
+4489,Ashley Westwood,England,M,8.0,premier_league_data/season_19/Ashley_Westwood_4489.png
+2299,Glenn Whelan,Ireland,M,25.0,premier_league_data/season_19/Glenn_Whelan_2299.png
+14548,Ben White,England,D,4.0,premier_league_data/season_19/Ben_White_14548.png
+15111,Alfie Whiteman,England,G,41.0,premier_league_data/season_19/Alfie_Whiteman_15111.png
+4396,Connor Wickham,England,F,13.0,premier_league_data/season_19/Connor_Wickham_4396.png
+7114,Georginio Wijnaldum,Netherlands,M,25.0,premier_league_data/season_19/Georginio_Wijnaldum_7114.png
+10798,Yanic Wildschut,Suriname,F,13.0,premier_league_data/season_19/Yanic_Wildschut_10798.png
+53176,Will Russ,Wales,F,,
+7105,Jetro Willems,Netherlands,D,15.0,premier_league_data/season_19/Jetro_Willems_7105.png
+10454,Joe Williams,England,M,8.0,premier_league_data/season_19/Joe_Williams_10454.png
+4748,Willian,Brazil,F,22.0,premier_league_data/season_19/Willian_4748.png
+14446,Joe Willock,England,M,28.0,premier_league_data/season_19/Joe_Willock_14446.png
+20929,Ben Wilmot,England,D,,premier_league_data/season_19/Ben_Wilmot_20929.png
+3547,Jack Wilshere,England,M,11.0,premier_league_data/season_19/Jack_Wilshere_3547.png
+8454,Callum Wilson,England,F,9.0,premier_league_data/season_19/Callum_Wilson_8454.png
+7488,Harry Winks,England,M,8.0,premier_league_data/season_19/Harry_Winks_7488.png
+23659,Ben Winterbottom,England,G,,
+23721,Henry Wise,England,M,46.0,premier_league_data/season_19/Henry_Wise_23721.png
+3756,Chris Wood,New Zealand,F,11.0,premier_league_data/season_19/Chris_Wood_3756.png
+14758,Ben Woodburn,Wales,M,14.0,premier_league_data/season_19/Ben_Woodburn_14758.png
+10479,Freddie Woodman,England,G,1.0,premier_league_data/season_19/Freddie_Woodman_10479.png
+14149,Sam Woods,England,D,6.0,premier_league_data/season_19/Sam_Woods_14149.png
+9322,Jake Wright,England,D,23.0,premier_league_data/season_19/Jake_Wright_9322.png
+24151,Xande Silva,Portugal,F,,premier_league_data/season_19/Xande_Silva_24151.png
+12136,Granit Xhaka,Switzerland,M,34.0,premier_league_data/season_19/Granit_Xhaka_12136.png
+66506,Romaric Yapi,France,D,27.0,premier_league_data/season_19/Romaric_Yapi_66506.png
+6389,Andrii Yarmolenko,Ukraine,M,7.0,premier_league_data/season_19/Andrii_Yarmolenko_6389.png
+10522,DeAndre Yedlin,United States,D,2.0,premier_league_data/season_19/DeAndre_Yedlin_10522.png
+4605,Maya Yoshida,Japan,D,22.0,premier_league_data/season_19/Maya_Yoshida_4605.png
+3062,Ashley Young,England,D,18.0,premier_league_data/season_19/Ashley_Young_3062.png
+3654,Pablo Zabaleta,Argentina,D,5.0,premier_league_data/season_19/Pablo_Zabaleta_3654.png
+4539,Wilfried Zaha,Cote D’Ivoire,F,12.0,premier_league_data/season_19/Wilfried_Zaha_4539.png
+25313,Davide Zappacosta,Italy,M,77.0,premier_league_data/season_19/Davide_Zappacosta_25313.png
+10123,Marvin Zeegelaar,Netherlands,D,8.0,premier_league_data/season_19/Marvin_Zeegelaar_10123.png
+49144,Jordan Zemura,Zimbabwe,D,29.0,premier_league_data/season_19/Jordan_Zemura_49144.png
+24220,Karlo Ziger,Croatia,G,,premier_league_data/season_19/Karlo_Ziger_24220.png
+22047,Christoph Zimmermann,Germany,D,4.0,premier_league_data/season_19/Christoph_Zimmermann_22047.png
+19620,Oleksandr Zinchenko,Ukraine,D,17.0,premier_league_data/season_19/Oleksandr_Zinchenko_19620.png
+11034,Richairo Zivkovic,Curacao,F,34.0,premier_league_data/season_19/Richairo_Zivkovic_11034.png
+24638,Nabili Zoubdi Touaizi,Morocco,F,15.0,premier_league_data/season_19/Nabili_Zoubdi_Touaizi_24638.png
+5175,Kurt Zouma,France,D,4.0,premier_league_data/season_19/Kurt_Zouma_5175.png
+51436,Leo Østigård,Norway,D,4.0,premier_league_data/season_19/Leo_Østigård_51436.png
