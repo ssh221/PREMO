@@ -1,0 +1,381 @@
+match_id,season_id,date,home_team,away_team,home_score,away_score,status,stadium,attendance
+74911,489,"Fri 5 Aug 2022, 20:00 BST",6,1,0,2,C,Selhurst Park,25286
+74914,489,"Sat 6 Aug 2022, 12:30 BST",34,10,2,2,C,Craven Cottage,25000
+74912,489,"Sat 6 Aug 2022, 15:00 BST",127,2,2,0,C,Vitality Stadium,10000
+74915,489,"Sat 6 Aug 2022, 15:00 BST",9,38,2,1,C,Elland Road,36347
+74917,489,"Sat 6 Aug 2022, 15:00 BST",23,15,2,0,C,St. James' Park,52245
+74918,489,"Sat 6 Aug 2022, 15:00 BST",21,20,4,1,C,Tottenham Hotspur Stadium,61732
+74913,489,"Sat 6 Aug 2022, 17:30 BST",7,4,0,1,C,Goodison Park,39254
+74916,489,"Sun 7 Aug 2022, 14:00 BST",26,130,2,2,C,King Power Stadium,31794
+74919,489,"Sun 7 Aug 2022, 14:00 BST",12,131,1,2,C,Old Trafford,73711
+74920,489,"Sun 7 Aug 2022, 16:30 BST",25,11,0,2,C,London Stadium,62443
+74922,489,"Sat 13 Aug 2022, 12:30 BST",2,7,2,1,C,Villa Park,41883
+74921,489,"Sat 13 Aug 2022, 15:00 BST",1,26,4,2,C,Emirates Stadium,60033
+74924,489,"Sat 13 Aug 2022, 15:00 BST",131,23,0,0,C,American Express Stadium,31552
+74927,489,"Sat 13 Aug 2022, 15:00 BST",11,127,4,0,C,Etihad Stadium,53453
+74929,489,"Sat 13 Aug 2022, 15:00 BST",20,9,2,2,C,St. Mary's Stadium,30815
+74930,489,"Sat 13 Aug 2022, 15:00 BST",38,34,0,0,C,Molineux Stadium,31178
+74923,489,"Sat 13 Aug 2022, 17:30 BST",130,12,4,0,C,Gtech Community Stadium,17051
+74928,489,"Sun 14 Aug 2022, 14:00 BST",15,25,1,0,C,The City Ground,29281
+74925,489,"Sun 14 Aug 2022, 16:30 BST",4,21,2,2,C,Stamford Bridge,39946
+74926,489,"Mon 15 Aug 2022, 20:00 BST",10,6,1,1,C,Anfield,52970
+74939,489,"Sat 20 Aug 2022, 12:30 BST",21,38,1,0,C,Tottenham Hotspur Stadium,61298
+74932,489,"Sat 20 Aug 2022, 15:00 BST",6,2,3,1,C,Selhurst Park,22012
+74933,489,"Sat 20 Aug 2022, 15:00 BST",7,15,1,1,C,Goodison Park,39271
+74934,489,"Sat 20 Aug 2022, 15:00 BST",34,130,3,2,C,Craven Cottage,21798
+74936,489,"Sat 20 Aug 2022, 15:00 BST",26,20,1,2,C,King Power Stadium,30850
+74931,489,"Sat 20 Aug 2022, 17:30 BST",127,1,0,3,C,Vitality Stadium,10423
+74935,489,"Sun 21 Aug 2022, 14:00 BST",9,4,3,0,C,Elland Road,36372
+74940,489,"Sun 21 Aug 2022, 14:00 BST",25,131,0,2,C,London Stadium,62449
+74938,489,"Sun 21 Aug 2022, 16:30 BST",23,11,3,3,C,St. James' Park,52258
+74937,489,"Mon 22 Aug 2022, 20:00 BST",12,10,2,1,C,Old Trafford,
+74949,489,"Sat 27 Aug 2022, 12:30 BST",20,12,0,1,C,St. Mary's Stadium,31196
+74943,489,"Sat 27 Aug 2022, 15:00 BST",130,7,1,1,C,Gtech Community Stadium,17009
+74944,489,"Sat 27 Aug 2022, 15:00 BST",131,9,1,0,C,American Express Stadium,30953
+74945,489,"Sat 27 Aug 2022, 15:00 BST",4,26,2,1,C,Stamford Bridge,39953
+74946,489,"Sat 27 Aug 2022, 15:00 BST",10,127,9,0,C,Anfield,53328
+74947,489,"Sat 27 Aug 2022, 15:00 BST",11,6,4,2,C,Etihad Stadium,53112
+74941,489,"Sat 27 Aug 2022, 17:30 BST",1,34,2,1,C,Emirates Stadium,60164
+74942,489,"Sun 28 Aug 2022, 14:00 BST",2,25,0,1,C,Villa Park,41796
+74950,489,"Sun 28 Aug 2022, 14:00 BST",38,23,1,1,C,Molineux Stadium,31311
+74948,489,"Sun 28 Aug 2022, 16:30 BST",15,21,0,2,C,The City Ground,29296
+74953,489,"Tue 30 Aug 2022, 19:30 BST",6,130,1,1,C,Selhurst Park,25043
+74954,489,"Tue 30 Aug 2022, 19:30 BST",34,131,2,1,C,Craven Cottage,22224
+74960,489,"Tue 30 Aug 2022, 19:45 BST",20,4,2,1,C,St. Mary's Stadium,
+74955,489,"Tue 30 Aug 2022, 20:00 BST",9,7,1,1,C,Elland Road,36338
+74951,489,"Wed 31 Aug 2022, 19:30 BST",1,2,2,1,C,Emirates Stadium,60012
+74952,489,"Wed 31 Aug 2022, 19:30 BST",127,38,0,0,C,Vitality Stadium,10113
+74959,489,"Wed 31 Aug 2022, 19:30 BST",11,15,6,0,C,Etihad Stadium,53409
+74957,489,"Wed 31 Aug 2022, 19:45 BST",25,21,1,1,C,London Stadium,62450
+74958,489,"Wed 31 Aug 2022, 20:00 BST",10,23,2,1,C,Anfield,53316
+74956,489,"Thu 1 Sep 2022, 20:00 BST",26,12,0,1,C,King Power Stadium,32226
+74965,489,"Sat 3 Sep 2022, 12:30 BST",7,10,0,0,C,Goodison Park,39240
+74962,489,"Sat 3 Sep 2022, 15:00 BST",130,9,5,2,C,Gtech Community Stadium,
+74964,489,"Sat 3 Sep 2022, 15:00 BST",4,25,2,1,C,Stamford Bridge,39923
+74967,489,"Sat 3 Sep 2022, 15:00 BST",23,6,0,0,C,St. James' Park,51863
+74968,489,"Sat 3 Sep 2022, 15:00 BST",15,127,2,3,C,The City Ground,28720
+74969,489,"Sat 3 Sep 2022, 15:00 BST",21,34,2,1,C,Tottenham Hotspur Stadium,61641
+74970,489,"Sat 3 Sep 2022, 15:00 BST",38,20,1,0,C,Molineux Stadium,30546
+74961,489,"Sat 3 Sep 2022, 17:30 BST",2,11,1,1,C,Villa Park,41830
+74963,489,"Sun 4 Sep 2022, 14:00 BST",131,26,5,2,C,American Express Stadium,31185
+74966,489,"Sun 4 Sep 2022, 16:30 BST",12,1,3,1,C,Old Trafford,73431
+74981,489,"Fri 16 Sep 2022, 20:00 BST",2,20,1,0,C,Villa Park,40758
+74988,489,"Fri 16 Sep 2022, 20:00 BST",15,34,2,3,C,The City Ground,28654
+74990,489,"Sat 17 Sep 2022, 12:30 BST",38,11,0,3,C,Molineux Stadium,31578
+74987,489,"Sat 17 Sep 2022, 15:00 BST",23,127,1,1,C,St. James' Park,52238
+74989,489,"Sat 17 Sep 2022, 17:30 BST",21,26,6,2,C,Tottenham Hotspur Stadium,61450
+74982,489,"Sun 18 Sep 2022, 12:00 BST",130,1,0,3,C,Gtech Community Stadium,17122
+74985,489,"Sun 18 Sep 2022, 14:15 BST",7,25,1,0,C,Goodison Park,39298
+74991,489,"Sat 1 Oct 2022, 12:30 BST",1,21,3,1,C,Emirates Stadium,60278
+74992,489,"Sat 1 Oct 2022, 15:00 BST",127,130,0,0,C,Vitality Stadium,10126
+74993,489,"Sat 1 Oct 2022, 15:00 BST",6,4,1,2,C,Selhurst Park,25198
+74994,489,"Sat 1 Oct 2022, 15:00 BST",34,23,1,4,C,Craven Cottage,22913
+74997,489,"Sat 1 Oct 2022, 15:00 BST",10,131,3,3,C,Anfield,53320
+74999,489,"Sat 1 Oct 2022, 15:00 BST",20,7,1,2,C,St. Mary's Stadium,30510
+75000,489,"Sat 1 Oct 2022, 17:30 BST",25,38,2,0,C,London Stadium,62444
+74998,489,"Sun 2 Oct 2022, 14:00 BST",11,12,6,3,C,Etihad Stadium,53475
+74995,489,"Sun 2 Oct 2022, 16:30 BST",9,2,0,0,C,Elland Road,36582
+74996,489,"Mon 3 Oct 2022, 20:00 BST",26,15,4,0,C,King Power Stadium,32202
+75002,489,"Sat 8 Oct 2022, 15:00 BST",127,26,2,1,C,Vitality Stadium,10272
+75004,489,"Sat 8 Oct 2022, 15:00 BST",4,38,3,0,C,Stamford Bridge,39940
+75007,489,"Sat 8 Oct 2022, 15:00 BST",11,20,4,0,C,Etihad Stadium,53365
+75008,489,"Sat 8 Oct 2022, 15:00 BST",23,130,5,1,C,St. James' Park,52067
+75003,489,"Sat 8 Oct 2022, 17:30 BST",131,21,0,1,C,American Express Stadium,31498
+75005,489,"Sun 9 Oct 2022, 14:00 BST",6,9,2,1,C,Selhurst Park,25042
+75010,489,"Sun 9 Oct 2022, 14:00 BST",25,34,3,1,C,London Stadium,62454
+75001,489,"Sun 9 Oct 2022, 16:30 BST",1,10,3,2,C,Emirates Stadium,59968
+75006,489,"Sun 9 Oct 2022, 19:00 BST",7,12,1,2,C,Goodison Park,39258
+75009,489,"Mon 10 Oct 2022, 20:00 BST",15,2,1,1,C,The City Ground,29208
+75012,489,"Fri 14 Oct 2022, 20:00 BST",130,131,2,0,C,Gtech Community Stadium,17016
+75015,489,"Sat 15 Oct 2022, 12:30 BST",26,6,0,0,C,King Power Stadium,31298
+75013,489,"Sat 15 Oct 2022, 15:00 BST",34,127,2,2,C,Craven Cottage,22913
+75020,489,"Sat 15 Oct 2022, 15:00 BST",38,15,1,0,C,Molineux Stadium,31554
+75019,489,"Sat 15 Oct 2022, 17:30 BST",21,7,2,0,C,Tottenham Hotspur Stadium,61812
+75011,489,"Sun 16 Oct 2022, 14:00 BST",2,4,0,2,C,Villa Park,41754
+75014,489,"Sun 16 Oct 2022, 14:00 BST",9,1,0,1,C,Elland Road,36700
+75017,489,"Sun 16 Oct 2022, 14:00 BST",12,23,0,0,C,Old Trafford,73726
+75018,489,"Sun 16 Oct 2022, 14:00 BST",20,25,1,1,C,St. Mary's Stadium,29159
+75016,489,"Sun 16 Oct 2022, 16:30 BST",10,11,1,0,C,Anfield,53286
+75024,489,"Tue 18 Oct 2022, 19:30 BST",131,15,0,0,C,American Express Stadium,31463
+75025,489,"Tue 18 Oct 2022, 20:15 BST",6,38,2,1,C,Selhurst Park,25125
+75022,489,"Wed 19 Oct 2022, 19:30 BST",127,20,0,1,C,Vitality Stadium,10405
+75023,489,"Wed 19 Oct 2022, 19:30 BST",130,4,0,0,C,Gtech Community Stadium,17118
+75028,489,"Wed 19 Oct 2022, 19:30 BST",10,25,1,0,C,Anfield,53346
+75030,489,"Wed 19 Oct 2022, 19:30 BST",23,7,1,0,C,St. James' Park,52247
+75029,489,"Wed 19 Oct 2022, 20:15 BST",12,21,2,0,C,Old Trafford,73677
+75026,489,"Thu 20 Oct 2022, 19:30 BST",34,2,3,0,C,Craven Cottage,23508
+75027,489,"Thu 20 Oct 2022, 20:15 BST",26,9,2,0,C,King Power Stadium,30814
+75036,489,"Sat 22 Oct 2022, 12:30 BST",15,10,1,0,C,The City Ground,29245
+75033,489,"Sat 22 Oct 2022, 15:00 BST",7,6,3,0,C,Goodison Park,38939
+75035,489,"Sat 22 Oct 2022, 15:00 BST",11,131,3,1,C,Etihad Stadium,53223
+75032,489,"Sat 22 Oct 2022, 17:30 BST",4,12,1,1,C,Stamford Bridge,39503
+75031,489,"Sun 23 Oct 2022, 14:00 BST",2,130,4,0,C,Villa Park,41693
+75034,489,"Sun 23 Oct 2022, 14:00 BST",9,34,2,3,C,Elland Road,36447
+75037,489,"Sun 23 Oct 2022, 14:00 BST",20,1,1,1,C,St. Mary's Stadium,31145
+75040,489,"Sun 23 Oct 2022, 14:00 BST",38,26,0,4,C,Molineux Stadium,31425
+75038,489,"Sun 23 Oct 2022, 16:30 BST",21,23,1,2,C,Tottenham Hotspur Stadium,61726
+75039,489,"Mon 24 Oct 2022, 20:00 BST",25,127,2,0,C,London Stadium,62447
+75047,489,"Sat 29 Oct 2022, 12:30 BST",26,11,0,1,C,King Power Stadium,32223
+75042,489,"Sat 29 Oct 2022, 15:00 BST",127,21,2,3,C,Vitality Stadium,10430
+75043,489,"Sat 29 Oct 2022, 15:00 BST",130,38,1,1,C,Gtech Community Stadium,17051
+75044,489,"Sat 29 Oct 2022, 15:00 BST",131,4,4,1,C,American Express Stadium,31746
+75045,489,"Sat 29 Oct 2022, 15:00 BST",6,20,1,0,C,Selhurst Park,25130
+75050,489,"Sat 29 Oct 2022, 15:00 BST",23,2,4,0,C,St. James' Park,52233
+75046,489,"Sat 29 Oct 2022, 17:30 BST",34,7,0,0,C,Craven Cottage,23534
+75048,489,"Sat 29 Oct 2022, 19:45 BST",10,9,1,2,C,Anfield,53274
+75041,489,"Sun 30 Oct 2022, 14:00 GMT",1,15,5,0,C,Emirates Stadium,60263
+75049,489,"Sun 30 Oct 2022, 16:15 GMT",12,25,1,0,C,Old Trafford,73682
+75054,489,"Sat 5 Nov 2022, 15:00 GMT",9,127,4,3,C,Elland Road,36304
+75055,489,"Sat 5 Nov 2022, 15:00 GMT",11,34,2,1,C,Etihad Stadium,52395
+75056,489,"Sat 5 Nov 2022, 15:00 GMT",15,130,2,2,C,The City Ground,28869
+75060,489,"Sat 5 Nov 2022, 15:00 GMT",38,131,2,3,C,Molineux Stadium,30732
+75053,489,"Sat 5 Nov 2022, 17:30 GMT",7,26,0,2,C,Goodison Park,39206
+75052,489,"Sun 6 Nov 2022, 12:00 GMT",4,1,0,1,C,Stamford Bridge,40142
+75051,489,"Sun 6 Nov 2022, 14:00 GMT",2,12,3,1,C,Villa Park,42058
+75057,489,"Sun 6 Nov 2022, 14:00 GMT",20,23,1,4,C,St. Mary's Stadium,30402
+75059,489,"Sun 6 Nov 2022, 14:00 GMT",25,6,1,2,C,London Stadium,62451
+75058,489,"Sun 6 Nov 2022, 16:30 GMT",21,10,1,2,C,Tottenham Hotspur Stadium,62008
+75065,489,"Sat 12 Nov 2022, 12:30 GMT",11,130,1,2,C,Etihad Stadium,52786
+75061,489,"Sat 12 Nov 2022, 15:00 GMT",127,7,3,0,C,Vitality Stadium,10382
+75064,489,"Sat 12 Nov 2022, 15:00 GMT",10,20,3,1,C,Anfield,53331
+75067,489,"Sat 12 Nov 2022, 15:00 GMT",15,6,1,0,C,The City Ground,29045
+75068,489,"Sat 12 Nov 2022, 15:00 GMT",21,9,4,3,C,Tottenham Hotspur Stadium,61667
+75069,489,"Sat 12 Nov 2022, 15:00 GMT",25,26,0,2,C,London Stadium,62459
+75066,489,"Sat 12 Nov 2022, 17:30 GMT",23,4,1,0,C,St. James' Park,52264
+75070,489,"Sat 12 Nov 2022, 19:45 GMT",38,1,0,2,C,Molineux Stadium,34624
+75062,489,"Sun 13 Nov 2022, 14:00 GMT",131,2,1,2,C,American Express Stadium,31581
+75063,489,"Sun 13 Nov 2022, 16:30 GMT",34,12,1,2,C,Craven Cottage,24246
+75073,489,"Mon 26 Dec 2022, 12:30 GMT",130,21,2,2,C,Gtech Community Stadium,17137
+75075,489,"Mon 26 Dec 2022, 15:00 GMT",6,34,0,3,C,Selhurst Park,25176
+75076,489,"Mon 26 Dec 2022, 15:00 GMT",7,38,1,2,C,Goodison Park,39252
+75078,489,"Mon 26 Dec 2022, 15:00 GMT",26,23,0,3,C,King Power Stadium,32185
+75080,489,"Mon 26 Dec 2022, 15:00 GMT",20,131,1,3,C,St. Mary's Stadium,31010
+75072,489,"Mon 26 Dec 2022, 17:30 GMT",2,10,1,3,C,Villa Park,42085
+75071,489,"Mon 26 Dec 2022, 20:00 GMT",1,25,3,1,C,Emirates Stadium,60125
+75074,489,"Tue 27 Dec 2022, 17:30 GMT",4,127,2,0,C,Stamford Bridge,40046
+75079,489,"Tue 27 Dec 2022, 20:00 GMT",12,15,3,0,C,Old Trafford,73608
+75077,489,"Wed 28 Dec 2022, 20:00 GMT",9,11,1,3,C,Elland Road,36889
+75089,489,"Fri 30 Dec 2022, 19:45 GMT",25,130,0,2,C,London Stadium,62467
+75084,489,"Fri 30 Dec 2022, 20:00 GMT",10,26,2,1,C,Anfield,53343
+75090,489,"Sat 31 Dec 2022, 12:30 GMT",38,12,0,1,C,Molineux Stadium,31658
+75081,489,"Sat 31 Dec 2022, 15:00 GMT",127,6,0,2,C,Vitality Stadium,9972
+75083,489,"Sat 31 Dec 2022, 15:00 GMT",34,20,2,1,C,Craven Cottage,24344
+75085,489,"Sat 31 Dec 2022, 15:00 GMT",11,7,1,1,C,Etihad Stadium,53444
+75086,489,"Sat 31 Dec 2022, 15:00 GMT",23,9,0,0,C,St. James' Park,52211
+75082,489,"Sat 31 Dec 2022, 17:30 GMT",131,1,2,4,C,American Express Stadium,31647
+75088,489,"Sun 1 Jan 2023, 14:00 GMT",21,2,0,2,C,Tottenham Hotspur Stadium,61651
+75087,489,"Sun 1 Jan 2023, 16:30 GMT",15,4,1,1,C,The City Ground,29229
+75093,489,"Mon 2 Jan 2023, 17:30 GMT",130,10,3,1,C,Gtech Community Stadium,17163
+75091,489,"Tue 3 Jan 2023, 19:45 GMT",1,23,0,0,C,Emirates Stadium,60319
+75096,489,"Tue 3 Jan 2023, 19:45 GMT",7,131,1,4,C,Goodison Park,
+75098,489,"Tue 3 Jan 2023, 19:45 GMT",26,34,0,1,C,King Power Stadium,30813
+75099,489,"Tue 3 Jan 2023, 20:00 GMT",12,127,3,0,C,Old Trafford,73322
+75100,489,"Wed 4 Jan 2023, 19:30 GMT",20,15,0,1,C,St. Mary's Stadium,30150
+75097,489,"Wed 4 Jan 2023, 19:45 GMT",9,25,2,2,C,Elland Road,36173
+75092,489,"Wed 4 Jan 2023, 20:00 GMT",2,38,1,1,C,Villa Park,39978
+75095,489,"Wed 4 Jan 2023, 20:00 GMT",6,21,0,4,C,Selhurst Park,25132
+75094,489,"Thu 5 Jan 2023, 20:00 GMT",4,11,0,1,C,Stamford Bridge,39998
+74974,489,"Thu 12 Jan 2023, 20:00 GMT",34,4,2,1,C,Craven Cottage,24460
+75101,489,"Fri 13 Jan 2023, 20:00 GMT",2,9,2,1,C,Villa Park,42008
+75106,489,"Sat 14 Jan 2023, 12:30 GMT",12,11,2,1,C,Old Trafford,75546
+75103,489,"Sat 14 Jan 2023, 15:00 GMT",131,10,3,0,C,American Express Stadium,31645
+75105,489,"Sat 14 Jan 2023, 15:00 GMT",7,20,1,2,C,Goodison Park,39305
+75108,489,"Sat 14 Jan 2023, 15:00 GMT",15,26,2,0,C,The City Ground,29301
+75110,489,"Sat 14 Jan 2023, 15:00 GMT",38,25,1,0,C,Molineux Stadium,31511
+75102,489,"Sat 14 Jan 2023, 17:30 GMT",130,127,2,0,C,Gtech Community Stadium,17031
+75104,489,"Sun 15 Jan 2023, 14:00 GMT",4,6,1,0,C,Stamford Bridge,40075
+75107,489,"Sun 15 Jan 2023, 14:00 GMT",23,34,1,0,C,St. James' Park,52247
+75109,489,"Sun 15 Jan 2023, 16:30 GMT",21,1,0,2,C,Tottenham Hotspur Stadium,61870
+74973,489,"Wed 18 Jan 2023, 20:00 GMT",6,12,1,1,C,Selhurst Park,23343
+74978,489,"Thu 19 Jan 2023, 20:00 GMT",11,21,4,2,C,Etihad Stadium,53088
+75117,489,"Sat 21 Jan 2023, 12:30 GMT",10,4,0,0,C,Anfield,53126
+75112,489,"Sat 21 Jan 2023, 15:00 GMT",127,15,1,1,C,Vitality Stadium,10248
+75116,489,"Sat 21 Jan 2023, 15:00 GMT",26,131,2,2,C,King Power Stadium,32056
+75119,489,"Sat 21 Jan 2023, 15:00 GMT",20,2,0,1,C,St. Mary's Stadium,30158
+75120,489,"Sat 21 Jan 2023, 15:00 GMT",25,7,2,0,C,London Stadium,62470
+75113,489,"Sat 21 Jan 2023, 17:30 GMT",6,23,0,0,C,Selhurst Park,25350
+75115,489,"Sun 22 Jan 2023, 14:00 GMT",9,130,0,0,C,Elland Road,36260
+75118,489,"Sun 22 Jan 2023, 14:00 GMT",11,38,3,0,C,Etihad Stadium,53282
+75111,489,"Sun 22 Jan 2023, 16:30 GMT",1,12,3,2,C,Emirates Stadium,60325
+75114,489,"Mon 23 Jan 2023, 20:15 GMT",34,21,0,1,C,Craven Cottage,24190
+75124,489,"Fri 3 Feb 2023, 20:00 GMT",4,34,0,0,C,Stamford Bridge,40041
+75125,489,"Sat 4 Feb 2023, 12:30 GMT",7,1,1,0,C,Goodison Park,39314
+75121,489,"Sat 4 Feb 2023, 15:00 GMT",2,26,2,4,C,Villa Park,42055
+75122,489,"Sat 4 Feb 2023, 15:00 GMT",130,20,3,0,C,Gtech Community Stadium,17051
+75123,489,"Sat 4 Feb 2023, 15:00 GMT",131,127,1,0,C,American Express Stadium,31600
+75126,489,"Sat 4 Feb 2023, 15:00 GMT",12,6,2,1,C,Old Trafford,73420
+75130,489,"Sat 4 Feb 2023, 15:00 GMT",38,10,3,0,C,Molineux Stadium,31664
+75127,489,"Sat 4 Feb 2023, 17:30 GMT",23,25,1,1,C,St. James' Park,52256
+75128,489,"Sun 5 Feb 2023, 14:00 GMT",15,9,1,0,C,The City Ground,29363
+75129,489,"Sun 5 Feb 2023, 16:30 GMT",21,11,1,0,C,Tottenham Hotspur Stadium,61747
+74986,489,"Wed 8 Feb 2023, 20:00 GMT",12,9,2,2,C,Old Trafford,73456
+75140,489,"Sat 11 Feb 2023, 12:30 GMT",25,4,1,1,C,London Stadium,62471
+75131,489,"Sat 11 Feb 2023, 15:00 GMT",1,130,1,1,C,Emirates Stadium,60254
+75133,489,"Sat 11 Feb 2023, 15:00 GMT",6,131,1,1,C,Selhurst Park,24827
+75134,489,"Sat 11 Feb 2023, 15:00 GMT",34,15,2,0,C,Craven Cottage,24244
+75136,489,"Sat 11 Feb 2023, 15:00 GMT",26,21,4,1,C,King Power Stadium,32184
+75139,489,"Sat 11 Feb 2023, 15:00 GMT",20,38,1,2,C,St. Mary's Stadium,29751
+75132,489,"Sat 11 Feb 2023, 17:30 GMT",127,23,1,1,C,Vitality Stadium,10419
+75135,489,"Sun 12 Feb 2023, 14:00 GMT",9,12,0,2,C,Elland Road,36919
+75138,489,"Sun 12 Feb 2023, 16:30 GMT",11,2,3,1,C,Etihad Stadium,53392
+75137,489,"Mon 13 Feb 2023, 20:00 GMT",10,7,2,0,C,Anfield,53027
+75021,489,"Wed 15 Feb 2023, 19:30 GMT",1,11,1,3,C,Emirates Stadium,60276
+75141,489,"Sat 18 Feb 2023, 12:30 GMT",2,1,2,4,C,Villa Park,42066
+75142,489,"Sat 18 Feb 2023, 15:00 GMT",130,6,1,1,C,Gtech Community Stadium,17122
+75143,489,"Sat 18 Feb 2023, 15:00 GMT",131,34,0,1,C,American Express Stadium,31619
+75144,489,"Sat 18 Feb 2023, 15:00 GMT",4,20,0,1,C,Stamford Bridge,40152
+75145,489,"Sat 18 Feb 2023, 15:00 GMT",7,9,1,0,C,Goodison Park,39232
+75148,489,"Sat 18 Feb 2023, 15:00 GMT",15,11,1,1,C,The City Ground,29365
+75150,489,"Sat 18 Feb 2023, 15:00 GMT",38,127,0,1,C,Molineux Stadium,31222
+75147,489,"Sat 18 Feb 2023, 17:30 GMT",23,10,0,2,C,St. James' Park,52758
+75146,489,"Sun 19 Feb 2023, 14:00 GMT",12,26,3,0,C,Old Trafford,73578
+75149,489,"Sun 19 Feb 2023, 16:30 GMT",21,25,2,0,C,Tottenham Hotspur Stadium,61476
+75154,489,"Fri 24 Feb 2023, 20:00 GMT",34,38,1,1,C,Craven Cottage,24399
+75153,489,"Sat 25 Feb 2023, 15:00 GMT",7,2,0,2,C,Goodison Park,39309
+75155,489,"Sat 25 Feb 2023, 15:00 GMT",9,20,1,0,C,Elland Road,36641
+75156,489,"Sat 25 Feb 2023, 15:00 GMT",26,1,0,1,C,King Power Stadium,32227
+75160,489,"Sat 25 Feb 2023, 15:00 GMT",25,15,4,0,C,London Stadium,62469
+75151,489,"Sat 25 Feb 2023, 17:30 GMT",127,11,1,4,C,Vitality Stadium,10481
+75152,489,"Sat 25 Feb 2023, 19:45 GMT",6,10,0,0,C,Selhurst Park,25842
+75159,489,"Sun 26 Feb 2023, 13:30 GMT",21,4,2,0,C,Tottenham Hotspur Stadium,61613
+74971,489,"Wed 1 Mar 2023, 19:45 GMT",1,7,4,0,C,Emirates Stadium,60213
+74977,489,"Wed 1 Mar 2023, 20:00 GMT",10,38,2,0,C,Anfield,53259
+75167,489,"Sat 4 Mar 2023, 12:30 GMT",11,23,2,0,C,Etihad Stadium,53419
+75161,489,"Sat 4 Mar 2023, 15:00 GMT",1,127,3,2,C,Emirates Stadium,60222
+75162,489,"Sat 4 Mar 2023, 15:00 GMT",2,6,1,0,C,Villa Park,41893
+75164,489,"Sat 4 Mar 2023, 15:00 GMT",131,25,4,0,C,American Express Stadium,31523
+75165,489,"Sat 4 Mar 2023, 15:00 GMT",4,9,1,0,C,Stamford Bridge,39905
+75170,489,"Sat 4 Mar 2023, 15:00 GMT",38,21,1,0,C,Molineux Stadium,31585
+75169,489,"Sat 4 Mar 2023, 17:30 GMT",20,26,1,0,C,St. Mary's Stadium,30139
+75168,489,"Sun 5 Mar 2023, 14:00 GMT",15,7,2,2,C,The City Ground,29353
+75166,489,"Sun 5 Mar 2023, 16:30 GMT",10,12,7,0,C,Anfield,53001
+75163,489,"Mon 6 Mar 2023, 20:00 GMT",130,34,3,2,C,Gtech Community Stadium,17025
+75171,489,"Sat 11 Mar 2023, 12:30 GMT",127,10,1,0,C,Vitality Stadium,10536
+75173,489,"Sat 11 Mar 2023, 15:00 GMT",7,130,1,0,C,Goodison Park,39036
+75175,489,"Sat 11 Mar 2023, 15:00 GMT",9,131,2,2,C,Elland Road,36471
+75176,489,"Sat 11 Mar 2023, 15:00 GMT",26,4,1,3,C,King Power Stadium,32170
+75179,489,"Sat 11 Mar 2023, 15:00 GMT",21,15,3,1,C,Tottenham Hotspur Stadium,61460
+75172,489,"Sat 11 Mar 2023, 17:30 GMT",6,11,0,1,C,Selhurst Park,25844
+75174,489,"Sun 12 Mar 2023, 14:00 GMT",34,1,0,3,C,Craven Cottage,24426
+75177,489,"Sun 12 Mar 2023, 14:00 GMT",12,20,0,0,C,Old Trafford,73439
+75180,489,"Sun 12 Mar 2023, 14:00 GMT",25,2,1,1,C,London Stadium,62472
+75178,489,"Sun 12 Mar 2023, 16:30 GMT",23,38,2,1,C,St. James' Park,52240
+74983,489,"Wed 15 Mar 2023, 19:30 GMT",131,6,1,0,C,American Express Stadium,30933
+74979,489,"Wed 15 Mar 2023, 19:30 GMT",20,130,0,2,C,St. Mary's Stadium,30438
+75188,489,"Fri 17 Mar 2023, 20:00 GMT",15,23,1,2,C,The City Ground,29362
+75182,489,"Sat 18 Mar 2023, 15:00 GMT",2,127,3,0,C,Villa Park,41021
+75183,489,"Sat 18 Mar 2023, 15:00 GMT",130,26,1,1,C,Gtech Community Stadium,17006
+75189,489,"Sat 18 Mar 2023, 15:00 GMT",20,21,3,3,C,St. Mary's Stadium,30157
+75190,489,"Sat 18 Mar 2023, 15:00 GMT",38,9,2,4,C,Molineux Stadium,31570
+75185,489,"Sat 18 Mar 2023, 17:30 GMT",4,7,2,2,C,Stamford Bridge,40025
+75181,489,"Sun 19 Mar 2023, 14:00 GMT",1,6,4,1,C,Emirates Stadium,60247
+75197,489,"Sat 1 Apr 2023, 12:30 BST",11,10,4,1,C,Etihad Stadium,52877
+75191,489,"Sat 1 Apr 2023, 15:00 BST",1,9,4,1,C,Emirates Stadium,60283
+75192,489,"Sat 1 Apr 2023, 15:00 BST",127,34,2,1,C,Vitality Stadium,10305
+75193,489,"Sat 1 Apr 2023, 15:00 BST",131,130,3,3,C,American Express Stadium,31493
+75195,489,"Sat 1 Apr 2023, 15:00 BST",6,26,2,1,C,Selhurst Park,25143
+75199,489,"Sat 1 Apr 2023, 15:00 BST",15,38,1,1,C,The City Ground,29368
+75194,489,"Sat 1 Apr 2023, 17:30 BST",4,2,0,2,C,Stamford Bridge,40082
+75200,489,"Sun 2 Apr 2023, 14:00 BST",25,20,1,0,C,London Stadium,62465
+75198,489,"Sun 2 Apr 2023, 16:30 BST",23,12,2,0,C,St. James' Park,52268
+75196,489,"Mon 3 Apr 2023, 20:00 BST",7,21,1,1,C,Goodison Park,39294
+74972,489,"Tue 4 Apr 2023, 19:45 BST",127,131,0,2,C,Vitality Stadium,10266
+74975,489,"Tue 4 Apr 2023, 19:45 BST",9,15,2,1,C,Elland Road,36740
+74976,489,"Tue 4 Apr 2023, 19:45 BST",26,2,1,2,C,King Power Stadium,32087
+74984,489,"Tue 4 Apr 2023, 20:00 BST",4,10,0,0,C,Stamford Bridge,40093
+75157,489,"Wed 5 Apr 2023, 20:00 BST",12,130,1,0,C,Old Trafford,73309
+74980,489,"Wed 5 Apr 2023, 20:00 BST",25,23,1,5,C,London Stadium,62470
+75207,489,"Sat 8 Apr 2023, 12:30 BST",12,7,2,0,C,Old Trafford,73509
+75201,489,"Sat 8 Apr 2023, 15:00 BST",2,15,2,0,C,Villa Park,42076
+75202,489,"Sat 8 Apr 2023, 15:00 BST",130,23,1,2,C,Gtech Community Stadium,17107
+75203,489,"Sat 8 Apr 2023, 15:00 BST",34,25,0,1,C,Craven Cottage,24491
+75205,489,"Sat 8 Apr 2023, 15:00 BST",26,127,0,1,C,King Power Stadium,32094
+75209,489,"Sat 8 Apr 2023, 15:00 BST",21,131,2,1,C,Tottenham Hotspur Stadium,61405
+75210,489,"Sat 8 Apr 2023, 15:00 BST",38,4,1,0,C,Molineux Stadium,31614
+75208,489,"Sat 8 Apr 2023, 17:30 BST",20,11,1,4,C,St. Mary's Stadium,30963
+75204,489,"Sun 9 Apr 2023, 14:00 BST",9,6,1,5,C,Elland Road,36427
+75206,489,"Sun 9 Apr 2023, 16:30 BST",10,1,2,2,C,Anfield,53267
+75211,489,"Sat 15 Apr 2023, 12:30 BST",2,23,3,0,C,Villa Park,42055
+75212,489,"Sat 15 Apr 2023, 15:00 BST",4,131,1,2,C,Stamford Bridge,40126
+75213,489,"Sat 15 Apr 2023, 15:00 BST",7,34,1,3,C,Goodison Park,39241
+75217,489,"Sat 15 Apr 2023, 15:00 BST",20,6,0,2,C,St. Mary's Stadium,30309
+75220,489,"Sat 15 Apr 2023, 15:00 BST",38,130,2,0,C,Molineux Stadium,30769
+75218,489,"Sat 15 Apr 2023, 15:15 BST",21,127,2,3,C,Tottenham Hotspur Stadium,61369
+75215,489,"Sat 15 Apr 2023, 17:30 BST",11,26,3,1,C,Etihad Stadium,53329
+75219,489,"Sun 16 Apr 2023, 14:00 BST",25,1,2,2,C,London Stadium,62475
+75216,489,"Sun 16 Apr 2023, 16:30 BST",15,12,0,2,C,The City Ground,29435
+75214,489,"Mon 17 Apr 2023, 20:00 BST",9,10,1,6,C,Elland Road,36657
+75221,489,"Fri 21 Apr 2023, 20:00 BST",1,20,3,3,C,Emirates Stadium,60175
+75226,489,"Sat 22 Apr 2023, 12:30 BST",34,9,2,1,C,Craven Cottage,24356
+75223,489,"Sat 22 Apr 2023, 15:00 BST",130,2,1,1,C,Gtech Community Stadium,17098
+75225,489,"Sat 22 Apr 2023, 15:00 BST",6,7,0,0,C,Selhurst Park,25202
+75227,489,"Sat 22 Apr 2023, 15:00 BST",26,38,2,1,C,King Power Stadium,32053
+75228,489,"Sat 22 Apr 2023, 15:00 BST",10,15,3,2,C,Anfield,
+75222,489,"Sun 23 Apr 2023, 14:00 BST",127,25,0,4,C,Vitality Stadium,10465
+75230,489,"Sun 23 Apr 2023, 14:00 BST",23,21,6,1,C,St. James' Park,52252
+75237,489,"Tue 25 Apr 2023, 19:30 BST",38,6,2,0,C,Molineux Stadium,30792
+75231,489,"Tue 25 Apr 2023, 19:45 BST",2,34,1,0,C,Villa Park,41046
+75233,489,"Tue 25 Apr 2023, 20:00 BST",9,26,1,1,C,Elland Road,36666
+75234,489,"Wed 26 Apr 2023, 19:30 BST",15,131,3,1,C,The City Ground,28808
+75238,489,"Wed 26 Apr 2023, 19:45 BST",4,130,0,2,C,Stamford Bridge,39929
+75236,489,"Wed 26 Apr 2023, 19:45 BST",25,10,1,2,C,London Stadium,62473
+75239,489,"Wed 26 Apr 2023, 20:00 BST",11,1,4,1,C,Etihad Stadium,53482
+75232,489,"Thu 27 Apr 2023, 19:45 BST",7,23,1,4,C,Goodison Park,39248
+75240,489,"Thu 27 Apr 2023, 19:45 BST",20,127,0,1,C,St. Mary's Stadium,30414
+75235,489,"Thu 27 Apr 2023, 20:15 BST",21,12,2,2,C,Tottenham Hotspur Stadium,61586
+75245,489,"Sat 29 Apr 2023, 12:30 BST",6,25,4,3,C,Selhurst Park,25148
+75243,489,"Sat 29 Apr 2023, 15:00 BST",130,15,2,1,C,Gtech Community Stadium,17080
+75244,489,"Sat 29 Apr 2023, 15:00 BST",131,38,6,0,C,American Express Stadium,31584
+75242,489,"Sun 30 Apr 2023, 14:00 BST",127,9,4,1,C,Vitality Stadium,10434
+75246,489,"Sun 30 Apr 2023, 14:00 BST",34,11,1,2,C,Craven Cottage,24498
+75249,489,"Sun 30 Apr 2023, 14:00 BST",12,2,1,0,C,Old Trafford,73592
+75250,489,"Sun 30 Apr 2023, 14:00 BST",23,20,3,1,C,St. James' Park,52234
+75248,489,"Sun 30 Apr 2023, 16:30 BST",10,21,4,3,C,Anfield,53275
+75247,489,"Mon 1 May 2023, 20:00 BST",26,7,2,2,C,King Power Stadium,32173
+75241,489,"Tue 2 May 2023, 20:00 BST",1,4,3,1,C,Emirates Stadium,60144
+75186,489,"Wed 3 May 2023, 20:00 BST",10,34,1,0,C,Anfield,52602
+75187,489,"Wed 3 May 2023, 20:00 BST",11,25,3,0,C,Etihad Stadium,53305
+75184,489,"Thu 4 May 2023, 20:00 BST",131,12,1,0,C,American Express Stadium,31577
+75251,489,"Sat 6 May 2023, 15:00 BST",127,4,1,3,C,Vitality Stadium,10357
+75255,489,"Sat 6 May 2023, 15:00 BST",11,9,2,1,C,Etihad Stadium,53406
+75258,489,"Sat 6 May 2023, 15:00 BST",21,6,1,0,C,Tottenham Hotspur Stadium,61093
+75260,489,"Sat 6 May 2023, 15:00 BST",38,2,1,0,C,Molineux Stadium,31641
+75254,489,"Sat 6 May 2023, 17:30 BST",10,130,1,0,C,Anfield,52838
+75256,489,"Sun 7 May 2023, 16:30 BST",23,1,0,2,C,St. James' Park,50267
+75259,489,"Sun 7 May 2023, 19:00 BST",25,12,1,0,C,London Stadium,62477
+75253,489,"Mon 8 May 2023, 15:00 BST",34,26,5,3,C,Craven Cottage,24442
+75252,489,"Mon 8 May 2023, 17:30 BST",131,7,1,5,C,American Express Stadium,31567
+75257,489,"Mon 8 May 2023, 20:00 BST",15,20,4,3,C,The City Ground,29154
+75267,489,"Sat 13 May 2023, 12:30 BST",9,23,2,2,C,Elland Road,36955
+75262,489,"Sat 13 May 2023, 15:00 BST",2,21,2,1,C,Villa Park,42164
+75264,489,"Sat 13 May 2023, 15:00 BST",4,15,2,2,C,Stamford Bridge,40030
+75265,489,"Sat 13 May 2023, 15:00 BST",6,127,2,0,C,Selhurst Park,25034
+75269,489,"Sat 13 May 2023, 15:00 BST",12,38,2,0,C,Old Trafford,73570
+75270,489,"Sat 13 May 2023, 15:00 BST",20,34,0,2,C,St. Mary's Stadium,28978
+75263,489,"Sun 14 May 2023, 14:00 BST",130,25,2,0,C,Gtech Community Stadium,17075
+75266,489,"Sun 14 May 2023, 14:00 BST",7,11,0,3,C,Goodison Park,39376
+75261,489,"Sun 14 May 2023, 16:30 BST",1,131,0,3,C,Emirates Stadium,60139
+75268,489,"Mon 15 May 2023, 20:00 BST",26,10,0,3,C,King Power Stadium,32225
+75158,489,"Thu 18 May 2023, 19:30 BST",23,131,4,1,C,St. James' Park,52122
+75278,489,"Sat 20 May 2023, 12:30 BST",21,130,1,3,C,Tottenham Hotspur Stadium,61514
+75271,489,"Sat 20 May 2023, 15:00 BST",127,12,0,1,C,Vitality Stadium,10240
+75273,489,"Sat 20 May 2023, 15:00 BST",34,6,2,2,C,Craven Cottage,24356
+75274,489,"Sat 20 May 2023, 15:00 BST",10,2,1,1,C,Anfield,53306
+75280,489,"Sat 20 May 2023, 15:00 BST",38,7,1,1,C,Molineux Stadium,31684
+75277,489,"Sat 20 May 2023, 17:30 BST",15,1,1,0,C,The City Ground,29514
+75279,489,"Sun 21 May 2023, 13:30 BST",25,9,3,1,C,London Stadium,62478
+75272,489,"Sun 21 May 2023, 14:00 BST",131,20,3,1,C,American Express Stadium,31507
+75275,489,"Sun 21 May 2023, 16:00 BST",11,4,1,0,C,Etihad Stadium,53490
+75276,489,"Mon 22 May 2023, 20:00 BST",23,26,0,0,C,St. James' Park,52152
+75224,489,"Wed 24 May 2023, 20:00 BST",131,11,1,1,C,American Express Stadium,31388
+75229,489,"Thu 25 May 2023, 20:00 BST",12,4,4,1,C,Old Trafford,73561
+75281,489,"Sun 28 May 2023, 16:30 BST",1,38,5,0,C,Emirates Stadium,60095
+75282,489,"Sun 28 May 2023, 16:30 BST",2,131,2,1,C,Villa Park,42212
+75283,489,"Sun 28 May 2023, 16:30 BST",130,11,1,0,C,Gtech Community Stadium,17120
+75284,489,"Sun 28 May 2023, 16:30 BST",4,23,1,1,C,Stamford Bridge,40130
+75285,489,"Sun 28 May 2023, 16:30 BST",6,15,1,1,C,Selhurst Park,25198
+75286,489,"Sun 28 May 2023, 16:30 BST",7,127,1,0,C,Goodison Park,39201
+75287,489,"Sun 28 May 2023, 16:30 BST",9,21,1,4,C,Elland Road,36871
+75288,489,"Sun 28 May 2023, 16:30 BST",26,25,2,1,C,King Power Stadium,32183
+75289,489,"Sun 28 May 2023, 16:30 BST",12,34,2,1,C,Old Trafford,73465
+75290,489,"Sun 28 May 2023, 16:30 BST",20,10,4,4,C,St. Mary's Stadium,31129

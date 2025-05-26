@@ -1,0 +1,381 @@
+match_id,season_id,date,home_team,away_team,home_score,away_score,status,stadium,attendance
+38313,210,"Fri 10 Aug 2018, 20:00 BST",12,26,2,1,C,Old Trafford,74439
+38314,210,"Sat 11 Aug 2018, 12:30 BST",23,21,1,2,C,St. James' Park,51749
+38309,210,"Sat 11 Aug 2018, 15:00 BST",127,46,2,0,C,Vitality Stadium,10353
+38310,210,"Sat 11 Aug 2018, 15:00 BST",34,6,0,2,C,Craven Cottage,24821
+38311,210,"Sat 11 Aug 2018, 15:00 BST",159,4,0,3,C,John Smith's Stadium,24121
+38316,210,"Sat 11 Aug 2018, 15:00 BST",33,131,2,0,C,Vicarage Road,20051
+38317,210,"Sat 11 Aug 2018, 17:30 BST",38,7,2,2,C,Molineux Stadium,31231
+38312,210,"Sun 12 Aug 2018, 13:30 BST",10,25,4,0,C,Anfield,53235
+38315,210,"Sun 12 Aug 2018, 13:30 BST",20,43,0,0,C,St. Mary's Stadium,30784
+38308,210,"Sun 12 Aug 2018, 16:00 BST",1,11,0,2,C,Emirates Stadium,59934
+38320,210,"Sat 18 Aug 2018, 12:30 BST",46,23,0,0,C,Cardiff City Stadium,30720
+38323,210,"Sat 18 Aug 2018, 15:00 BST",7,20,2,1,C,Goodison Park,38601
+38324,210,"Sat 18 Aug 2018, 15:00 BST",26,38,2,0,C,King Power Stadium,32043
+38326,210,"Sat 18 Aug 2018, 15:00 BST",21,34,3,1,C,Wembley Stadium,58297
+38327,210,"Sat 18 Aug 2018, 15:00 BST",25,127,1,2,C,London Stadium,56888
+38321,210,"Sat 18 Aug 2018, 17:30 BST",4,1,3,2,C,Stamford Bridge,40491
+38319,210,"Sun 19 Aug 2018, 13:30 BST",43,33,1,3,C,Turf Moor,18822
+38325,210,"Sun 19 Aug 2018, 13:30 BST",11,159,6,1,C,Etihad Stadium,54021
+38318,210,"Sun 19 Aug 2018, 16:00 BST",131,12,3,2,C,American Express Stadium,30592
+38322,210,"Mon 20 Aug 2018, 20:00 BST",6,10,0,2,C,Selhurst Park,25750
+38337,210,"Sat 25 Aug 2018, 12:30 BST",38,11,1,1,C,Molineux Stadium,31322
+38328,210,"Sat 25 Aug 2018, 15:00 BST",1,25,3,1,C,Emirates Stadium,59830
+38329,210,"Sat 25 Aug 2018, 15:00 BST",127,7,2,2,C,Vitality Stadium,10654
+38331,210,"Sat 25 Aug 2018, 15:00 BST",159,46,0,0,C,John Smith's Stadium,21193
+38335,210,"Sat 25 Aug 2018, 15:00 BST",20,26,1,2,C,St. Mary's Stadium,29925
+38332,210,"Sat 25 Aug 2018, 17:30 BST",10,131,1,0,C,Anfield,53294
+38336,210,"Sun 26 Aug 2018, 13:30 BST",33,6,2,1,C,Vicarage Road,20014
+38330,210,"Sun 26 Aug 2018, 16:00 BST",34,43,4,2,C,Craven Cottage,23438
+38334,210,"Sun 26 Aug 2018, 16:00 BST",23,4,1,2,C,St. James' Park,51791
+38333,210,"Mon 27 Aug 2018, 20:00 BST",12,21,0,3,C,Old Trafford,74400
+38344,210,"Sat 1 Sep 2018, 12:30 BST",26,10,1,2,C,King Power Stadium,32149
+38338,210,"Sat 1 Sep 2018, 15:00 BST",131,34,2,2,C,American Express Stadium,30526
+38341,210,"Sat 1 Sep 2018, 15:00 BST",4,127,2,0,C,Stamford Bridge,40178
+38342,210,"Sat 1 Sep 2018, 15:00 BST",6,20,0,2,C,Selhurst Park,25495
+38343,210,"Sat 1 Sep 2018, 15:00 BST",7,159,1,1,C,Goodison Park,38767
+38347,210,"Sat 1 Sep 2018, 15:00 BST",25,38,0,1,C,London Stadium,56947
+38345,210,"Sat 1 Sep 2018, 17:30 BST",11,23,2,1,C,Etihad Stadium,53946
+38340,210,"Sun 2 Sep 2018, 13:30 BST",46,1,2,3,C,Cardiff City Stadium,32316
+38339,210,"Sun 2 Sep 2018, 16:00 BST",43,12,0,2,C,Turf Moor,21525
+38346,210,"Sun 2 Sep 2018, 16:00 BST",33,21,2,1,C,Vicarage Road,20141
+38355,210,"Sat 15 Sep 2018, 12:30 BST",21,10,1,2,C,Wembley Stadium,80188
+38348,210,"Sat 15 Sep 2018, 15:00 BST",127,26,4,2,C,Vitality Stadium,10543
+38349,210,"Sat 15 Sep 2018, 15:00 BST",4,46,4,1,C,Stamford Bridge,40499
+38351,210,"Sat 15 Sep 2018, 15:00 BST",159,6,0,1,C,John Smith's Stadium,23696
+38352,210,"Sat 15 Sep 2018, 15:00 BST",11,34,3,0,C,Etihad Stadium,53307
+38353,210,"Sat 15 Sep 2018, 15:00 BST",23,1,1,2,C,St. James' Park,52165
+38356,210,"Sat 15 Sep 2018, 17:30 BST",33,12,1,2,C,Vicarage Road,20537
+38357,210,"Sun 16 Sep 2018, 13:30 BST",38,43,1,0,C,Molineux Stadium,30406
+38350,210,"Sun 16 Sep 2018, 16:00 BST",7,25,1,3,C,Goodison Park,39161
+38354,210,"Mon 17 Sep 2018, 20:00 BST",20,131,2,2,C,St. Mary's Stadium,28811
+38363,210,"Sat 22 Sep 2018, 12:30 BST",34,33,1,1,C,Craven Cottage,23418
+38360,210,"Sat 22 Sep 2018, 15:00 BST",43,127,4,0,C,Turf Moor,18636
+38361,210,"Sat 22 Sep 2018, 15:00 BST",46,11,0,5,C,Cardiff City Stadium,32321
+38362,210,"Sat 22 Sep 2018, 15:00 BST",6,23,0,0,C,Selhurst Park,25679
+38364,210,"Sat 22 Sep 2018, 15:00 BST",26,159,3,1,C,King Power Stadium,31676
+38365,210,"Sat 22 Sep 2018, 15:00 BST",10,20,3,0,C,Anfield,50965
+38366,210,"Sat 22 Sep 2018, 15:00 BST",12,38,1,1,C,Old Trafford,74489
+38359,210,"Sat 22 Sep 2018, 17:30 BST",131,21,1,2,C,American Express Stadium,30531
+38367,210,"Sun 23 Sep 2018, 13:30 BST",25,4,0,0,C,London Stadium,56875
+38358,210,"Sun 23 Sep 2018, 16:00 BST",1,7,2,0,C,Emirates Stadium,59964
+38376,210,"Sat 29 Sep 2018, 12:30 BST",25,12,3,1,C,London Stadium,56938
+38368,210,"Sat 29 Sep 2018, 15:00 BST",1,33,2,0,C,Emirates Stadium,60019
+38372,210,"Sat 29 Sep 2018, 15:00 BST",7,34,3,0,C,Goodison Park,38788
+38373,210,"Sat 29 Sep 2018, 15:00 BST",159,21,0,2,C,John Smith's Stadium,23885
+38374,210,"Sat 29 Sep 2018, 15:00 BST",11,131,2,0,C,Etihad Stadium,54152
+38375,210,"Sat 29 Sep 2018, 15:00 BST",23,26,0,2,C,St. James' Park,51523
+38377,210,"Sat 29 Sep 2018, 15:00 BST",38,20,2,0,C,Molineux Stadium,31147
+38371,210,"Sat 29 Sep 2018, 17:30 BST",4,10,1,1,C,Stamford Bridge,40625
+38370,210,"Sun 30 Sep 2018, 16:00 BST",46,43,1,2,C,Cardiff City Stadium,30411
+38369,210,"Mon 1 Oct 2018, 20:00 BST",127,6,2,1,C,Vitality Stadium,10199
+38378,210,"Fri 5 Oct 2018, 20:00 BST",131,25,1,0,C,American Express Stadium,30544
+38379,210,"Sat 6 Oct 2018, 15:00 BST",43,159,1,1,C,Turf Moor,20533
+38380,210,"Sat 6 Oct 2018, 15:00 BST",6,38,0,1,C,Selhurst Park,25715
+38382,210,"Sat 6 Oct 2018, 15:00 BST",26,7,1,2,C,King Power Stadium,32007
+38386,210,"Sat 6 Oct 2018, 15:00 BST",21,46,1,0,C,Wembley Stadium,43268
+38387,210,"Sat 6 Oct 2018, 15:00 BST",33,127,0,4,C,Vicarage Road,20139
+38384,210,"Sat 6 Oct 2018, 17:30 BST",12,23,3,2,C,Old Trafford,74519
+38381,210,"Sun 7 Oct 2018, 12:00 BST",34,1,1,5,C,Craven Cottage,25401
+38385,210,"Sun 7 Oct 2018, 14:15 BST",20,4,0,3,C,St. Mary's Stadium,27077
+38383,210,"Sun 7 Oct 2018, 16:30 BST",10,11,0,0,C,Anfield,52117
+38391,210,"Sat 20 Oct 2018, 12:30 BST",4,12,2,2,C,Stamford Bridge,40721
+38389,210,"Sat 20 Oct 2018, 15:00 BST",127,20,0,0,C,Vitality Stadium,10986
+38390,210,"Sat 20 Oct 2018, 15:00 BST",46,34,4,2,C,Cardiff City Stadium,29681
+38394,210,"Sat 20 Oct 2018, 15:00 BST",11,43,5,0,C,Etihad Stadium,54094
+38395,210,"Sat 20 Oct 2018, 15:00 BST",23,131,0,1,C,St. James' Park,50329
+38396,210,"Sat 20 Oct 2018, 15:00 BST",25,21,0,1,C,London Stadium,56921
+38397,210,"Sat 20 Oct 2018, 15:00 BST",38,33,0,2,C,Molineux Stadium,31144
+38393,210,"Sat 20 Oct 2018, 17:30 BST",159,10,0,1,C,John Smith's Stadium,24263
+38392,210,"Sun 21 Oct 2018, 16:00 BST",7,6,2,0,C,Goodison Park,38668
+38388,210,"Mon 22 Oct 2018, 20:00 BST",1,26,3,1,C,Emirates Stadium,59886
+38398,210,"Sat 27 Oct 2018, 15:00 BST",131,38,1,0,C,American Express Stadium,30654
+38401,210,"Sat 27 Oct 2018, 15:00 BST",34,127,0,3,C,Craven Cottage,25071
+38403,210,"Sat 27 Oct 2018, 15:00 BST",10,46,4,1,C,Anfield,53373
+38405,210,"Sat 27 Oct 2018, 15:00 BST",20,23,0,0,C,St. Mary's Stadium,30736
+38407,210,"Sat 27 Oct 2018, 15:00 BST",33,159,3,0,C,Vicarage Road,20457
+38402,210,"Sat 27 Oct 2018, 17:30 BST",26,25,1,1,C,King Power Stadium,31848
+38399,210,"Sun 28 Oct 2018, 13:30 GMT",43,4,0,4,C,Turf Moor,21430
+38400,210,"Sun 28 Oct 2018, 13:30 GMT",6,1,2,2,C,Selhurst Park,25718
+38404,210,"Sun 28 Oct 2018, 16:00 GMT",12,7,2,1,C,Old Trafford,74525
+38406,210,"Mon 29 Oct 2018, 20:00 GMT",21,11,0,1,C,Wembley Stadium,56854
+38409,210,"Sat 3 Nov 2018, 12:30 GMT",127,12,1,2,C,Vitality Stadium,10792
+38410,210,"Sat 3 Nov 2018, 15:00 GMT",46,26,0,1,C,Cardiff City Stadium,30877
+38412,210,"Sat 3 Nov 2018, 15:00 GMT",7,131,3,1,C,Goodison Park,38966
+38415,210,"Sat 3 Nov 2018, 15:00 GMT",23,33,1,0,C,St. James' Park,49157
+38416,210,"Sat 3 Nov 2018, 15:00 GMT",25,43,4,2,C,London Stadium,56862
+38408,210,"Sat 3 Nov 2018, 17:30 GMT",1,10,1,1,C,Emirates Stadium,59993
+38417,210,"Sat 3 Nov 2018, 19:45 GMT",38,21,2,3,C,Molineux Stadium,31185
+38414,210,"Sun 4 Nov 2018, 15:00 GMT",11,20,6,1,C,Etihad Stadium,53916
+38411,210,"Sun 4 Nov 2018, 16:00 GMT",4,6,3,1,C,Stamford Bridge,40407
+38413,210,"Mon 5 Nov 2018, 20:00 GMT",159,34,1,0,C,John Smith's Stadium,17082
+38419,210,"Sat 10 Nov 2018, 12:30 GMT",46,131,2,1,C,Cardiff City Stadium,29402
+38422,210,"Sat 10 Nov 2018, 15:00 GMT",159,25,1,1,C,John Smith's Stadium,24069
+38423,210,"Sat 10 Nov 2018, 15:00 GMT",26,43,0,0,C,King Power Stadium,32184
+38426,210,"Sat 10 Nov 2018, 15:00 GMT",23,127,2,1,C,St. James' Park,49266
+38427,210,"Sat 10 Nov 2018, 15:00 GMT",20,33,1,1,C,St. Mary's Stadium,28153
+38421,210,"Sat 10 Nov 2018, 17:30 GMT",6,21,0,1,C,Selhurst Park,25685
+38424,210,"Sun 11 Nov 2018, 12:00 GMT",10,34,2,0,C,Anfield,53128
+38420,210,"Sun 11 Nov 2018, 14:15 GMT",4,7,0,0,C,Stamford Bridge,40345
+38418,210,"Sun 11 Nov 2018, 16:30 GMT",1,38,1,1,C,Emirates Stadium,60030
+38425,210,"Sun 11 Nov 2018, 16:30 GMT",11,12,3,1,C,Etihad Stadium,54316
+38429,210,"Sat 24 Nov 2018, 15:00 GMT",131,26,1,1,C,American Express Stadium,30553
+38431,210,"Sat 24 Nov 2018, 15:00 GMT",7,46,1,0,C,Goodison Park,39139
+38432,210,"Sat 24 Nov 2018, 15:00 GMT",34,20,3,2,C,Craven Cottage,24603
+38433,210,"Sat 24 Nov 2018, 15:00 GMT",12,6,0,0,C,Old Trafford,74516
+38435,210,"Sat 24 Nov 2018, 15:00 GMT",33,10,0,3,C,Vicarage Road,20540
+38436,210,"Sat 24 Nov 2018, 15:00 GMT",25,11,0,4,C,London Stadium,56886
+38434,210,"Sat 24 Nov 2018, 17:30 GMT",21,4,3,1,C,Wembley Stadium,55465
+38428,210,"Sun 25 Nov 2018, 13:30 GMT",127,1,1,2,C,Vitality Stadium,10792
+38437,210,"Sun 25 Nov 2018, 16:00 GMT",38,159,0,2,C,Molineux Stadium,30130
+38430,210,"Mon 26 Nov 2018, 20:30 GMT",43,23,1,2,C,Turf Moor,20628
+38439,210,"Fri 30 Nov 2018, 20:00 GMT",46,38,2,1,C,Cardiff City Stadium,30213
+38441,210,"Sat 1 Dec 2018, 15:00 GMT",6,43,2,0,C,Selhurst Park,25098
+38442,210,"Sat 1 Dec 2018, 15:00 GMT",159,131,1,2,C,John Smith's Stadium,22973
+38443,210,"Sat 1 Dec 2018, 15:00 GMT",26,33,2,0,C,King Power Stadium,31353
+38445,210,"Sat 1 Dec 2018, 15:00 GMT",11,127,3,1,C,Etihad Stadium,54409
+38446,210,"Sat 1 Dec 2018, 15:00 GMT",23,25,0,3,C,St. James' Park,51853
+38447,210,"Sat 1 Dec 2018, 17:30 GMT",20,12,2,2,C,St. Mary's Stadium,30187
+38440,210,"Sun 2 Dec 2018, 12:00 GMT",4,34,2,0,C,Stamford Bridge,40551
+38438,210,"Sun 2 Dec 2018, 14:05 GMT",1,21,4,2,C,Emirates Stadium,59973
+38444,210,"Sun 2 Dec 2018, 16:15 GMT",10,7,1,0,C,Anfield,51756
+38448,210,"Tue 4 Dec 2018, 19:45 GMT",127,159,2,1,C,Vitality Stadium,9980
+38449,210,"Tue 4 Dec 2018, 19:45 GMT",131,6,3,1,C,American Express Stadium,29663
+38454,210,"Tue 4 Dec 2018, 19:45 GMT",25,46,3,1,C,London Stadium,56811
+38453,210,"Tue 4 Dec 2018, 20:00 GMT",33,11,1,2,C,Vicarage Road,20389
+38450,210,"Wed 5 Dec 2018, 19:45 GMT",43,10,1,3,C,Turf Moor,21741
+38456,210,"Wed 5 Dec 2018, 19:45 GMT",7,23,1,1,C,Goodison Park,39350
+38451,210,"Wed 5 Dec 2018, 19:45 GMT",34,26,1,1,C,Craven Cottage,22881
+38455,210,"Wed 5 Dec 2018, 19:45 GMT",38,4,2,1,C,Molineux Stadium,31300
+38452,210,"Wed 5 Dec 2018, 20:00 GMT",12,1,2,2,C,Old Trafford,74507
+38457,210,"Wed 5 Dec 2018, 20:00 GMT",21,20,3,1,C,Wembley Stadium,33012
+38459,210,"Sat 8 Dec 2018, 12:30 GMT",127,10,0,4,C,Vitality Stadium,10752
+38458,210,"Sat 8 Dec 2018, 15:00 GMT",1,159,1,0,C,Emirates Stadium,59893
+38460,210,"Sat 8 Dec 2018, 15:00 GMT",43,131,1,0,C,Turf Moor,18497
+38461,210,"Sat 8 Dec 2018, 15:00 GMT",46,20,1,0,C,Cardiff City Stadium,30067
+38465,210,"Sat 8 Dec 2018, 15:00 GMT",12,34,4,1,C,Old Trafford,74523
+38467,210,"Sat 8 Dec 2018, 15:00 GMT",25,6,3,2,C,London Stadium,56995
+38462,210,"Sat 8 Dec 2018, 17:30 GMT",4,11,2,0,C,Stamford Bridge,40571
+38464,210,"Sat 8 Dec 2018, 19:45 GMT",26,21,0,2,C,King Power Stadium,31957
+38466,210,"Sun 9 Dec 2018, 16:00 GMT",23,38,1,2,C,St. James' Park,50223
+38463,210,"Mon 10 Dec 2018, 20:00 GMT",7,33,2,2,C,Goodison Park,38400
+38473,210,"Sat 15 Dec 2018, 12:30 GMT",11,7,3,1,C,Etihad Stadium,54173
+38469,210,"Sat 15 Dec 2018, 15:00 GMT",6,26,1,0,C,Selhurst Park,24738
+38471,210,"Sat 15 Dec 2018, 15:00 GMT",159,23,0,1,C,John Smith's Stadium,24036
+38475,210,"Sat 15 Dec 2018, 15:00 GMT",21,43,1,0,C,Wembley Stadium,41645
+38476,210,"Sat 15 Dec 2018, 15:00 GMT",33,46,3,2,C,Vicarage Road,20032
+38477,210,"Sat 15 Dec 2018, 15:00 GMT",38,127,2,0,C,Molineux Stadium,30997
+38470,210,"Sat 15 Dec 2018, 17:30 GMT",34,25,0,2,C,Craven Cottage,24081
+38468,210,"Sun 16 Dec 2018, 13:30 GMT",131,4,1,2,C,American Express Stadium,30645
+38474,210,"Sun 16 Dec 2018, 13:30 GMT",20,1,3,2,C,St. Mary's Stadium,29497
+38472,210,"Sun 16 Dec 2018, 16:00 GMT",10,12,3,1,C,Anfield,52908
+38487,210,"Fri 21 Dec 2018, 20:00 GMT",38,10,0,2,C,Molineux Stadium,31358
+38478,210,"Sat 22 Dec 2018, 12:30 GMT",1,43,3,1,C,Emirates Stadium,59493
+38479,210,"Sat 22 Dec 2018, 15:00 GMT",127,131,2,0,C,Vitality Stadium,10491
+38481,210,"Sat 22 Dec 2018, 15:00 GMT",4,26,0,1,C,Stamford Bridge,40558
+38483,210,"Sat 22 Dec 2018, 15:00 GMT",159,20,1,3,C,John Smith's Stadium,22384
+38484,210,"Sat 22 Dec 2018, 15:00 GMT",11,6,2,3,C,Etihad Stadium,54340
+38485,210,"Sat 22 Dec 2018, 15:00 GMT",23,34,0,0,C,St. James' Park,51237
+38486,210,"Sat 22 Dec 2018, 15:00 GMT",25,33,0,2,C,London Stadium,56833
+38480,210,"Sat 22 Dec 2018, 17:30 GMT",46,12,1,5,C,Cardiff City Stadium,33028
+38482,210,"Sun 23 Dec 2018, 16:00 GMT",7,21,2,6,C,Goodison Park,39319
+38491,210,"Wed 26 Dec 2018, 12:30 GMT",34,38,1,1,C,Craven Cottage,24382
+38489,210,"Wed 26 Dec 2018, 15:00 GMT",43,7,1,5,C,Turf Moor,21484
+38490,210,"Wed 26 Dec 2018, 15:00 GMT",6,46,0,0,C,Selhurst Park,25206
+38492,210,"Wed 26 Dec 2018, 15:00 GMT",26,11,2,1,C,King Power Stadium,32090
+38493,210,"Wed 26 Dec 2018, 15:00 GMT",10,23,4,0,C,Anfield,53318
+38494,210,"Wed 26 Dec 2018, 15:00 GMT",12,159,3,1,C,Old Trafford,74523
+38496,210,"Wed 26 Dec 2018, 15:00 GMT",21,127,5,0,C,Wembley Stadium,45154
+38488,210,"Wed 26 Dec 2018, 17:15 GMT",131,1,1,1,C,American Express Stadium,30608
+38497,210,"Wed 26 Dec 2018, 19:30 GMT",33,4,1,2,C,Vicarage Road,20415
+38495,210,"Thu 27 Dec 2018, 19:45 GMT",20,25,1,2,C,St. Mary's Stadium,31654
+38498,210,"Sat 29 Dec 2018, 15:00 GMT",131,7,1,0,C,American Express Stadium,30597
+38501,210,"Sat 29 Dec 2018, 15:00 GMT",34,159,1,0,C,Craven Cottage,24423
+38502,210,"Sat 29 Dec 2018, 15:00 GMT",26,46,0,1,C,King Power Stadium,32047
+38506,210,"Sat 29 Dec 2018, 15:00 GMT",21,38,1,3,C,Wembley Stadium,46356
+38507,210,"Sat 29 Dec 2018, 15:00 GMT",33,23,1,1,C,Vicarage Road,20336
+38503,210,"Sat 29 Dec 2018, 17:30 GMT",10,1,5,1,C,Anfield,53326
+38500,210,"Sun 30 Dec 2018, 12:00 GMT",6,4,0,1,C,Selhurst Park,25781
+38499,210,"Sun 30 Dec 2018, 14:15 GMT",43,25,2,0,C,Turf Moor,20933
+38505,210,"Sun 30 Dec 2018, 14:15 GMT",20,11,1,3,C,St. Mary's Stadium,31381
+38504,210,"Sun 30 Dec 2018, 16:30 GMT",12,127,4,1,C,Old Trafford,74556
+38512,210,"Tue 1 Jan 2019, 12:30 GMT",7,26,0,1,C,Goodison Park,39052
+38508,210,"Tue 1 Jan 2019, 15:00 GMT",1,34,4,1,C,Emirates Stadium,59887
+38510,210,"Tue 1 Jan 2019, 17:30 GMT",46,21,0,3,C,Cardiff City Stadium,32485
+38509,210,"Wed 2 Jan 2019, 19:45 GMT",127,33,3,3,C,Vitality Stadium,10261
+38511,210,"Wed 2 Jan 2019, 19:45 GMT",4,20,0,0,C,Stamford Bridge,40668
+38513,210,"Wed 2 Jan 2019, 19:45 GMT",159,43,1,2,C,John Smith's Stadium,23715
+38516,210,"Wed 2 Jan 2019, 19:45 GMT",25,131,2,2,C,London Stadium,59870
+38517,210,"Wed 2 Jan 2019, 19:45 GMT",38,6,0,2,C,Molineux Stadium,30666
+38515,210,"Wed 2 Jan 2019, 20:00 GMT",23,12,0,2,C,St. James' Park,52217
+38514,210,"Thu 3 Jan 2019, 20:00 GMT",11,10,2,1,C,Etihad Stadium,54511
+38527,210,"Sat 12 Jan 2019, 12:30 GMT",25,1,1,0,C,London Stadium,59946
+38518,210,"Sat 12 Jan 2019, 15:00 GMT",131,10,0,1,C,American Express Stadium,30682
+38519,210,"Sat 12 Jan 2019, 15:00 GMT",43,34,2,1,C,Turf Moor,19316
+38520,210,"Sat 12 Jan 2019, 15:00 GMT",46,159,0,0,C,Cardiff City Stadium,30725
+38522,210,"Sat 12 Jan 2019, 15:00 GMT",6,33,1,2,C,Selhurst Park,25010
+38524,210,"Sat 12 Jan 2019, 15:00 GMT",26,20,1,2,C,King Power Stadium,31491
+38521,210,"Sat 12 Jan 2019, 17:30 GMT",4,23,2,1,C,Stamford Bridge,40491
+38523,210,"Sun 13 Jan 2019, 14:15 GMT",7,127,2,0,C,Goodison Park,38113
+38526,210,"Sun 13 Jan 2019, 16:30 GMT",21,12,0,1,C,Wembley Stadium,80062
+38525,210,"Mon 14 Jan 2019, 20:00 GMT",11,38,3,0,C,Etihad Stadium,54171
+38537,210,"Sat 19 Jan 2019, 12:30 GMT",38,26,4,3,C,Molineux Stadium,31278
+38529,210,"Sat 19 Jan 2019, 15:00 GMT",127,25,2,0,C,Vitality Stadium,10495
+38532,210,"Sat 19 Jan 2019, 15:00 GMT",10,6,4,3,C,Anfield,53171
+38533,210,"Sat 19 Jan 2019, 15:00 GMT",12,131,2,1,C,Old Trafford,74532
+38534,210,"Sat 19 Jan 2019, 15:00 GMT",23,46,3,0,C,St. James' Park,49864
+38535,210,"Sat 19 Jan 2019, 15:00 GMT",20,7,2,1,C,St. Mary's Stadium,29989
+38536,210,"Sat 19 Jan 2019, 15:00 GMT",33,43,0,0,C,Vicarage Road,19510
+38528,210,"Sat 19 Jan 2019, 17:30 GMT",1,4,2,0,C,Emirates Stadium,59979
+38531,210,"Sun 20 Jan 2019, 13:30 GMT",159,11,0,3,C,John Smith's Stadium,24190
+38530,210,"Sun 20 Jan 2019, 16:00 GMT",34,21,1,2,C,Craven Cottage,24807
+38538,210,"Tue 29 Jan 2019, 19:45 GMT",1,46,2,1,C,Emirates Stadium,59933
+38540,210,"Tue 29 Jan 2019, 19:45 GMT",34,131,4,2,C,Craven Cottage,22008
+38541,210,"Tue 29 Jan 2019, 19:45 GMT",159,7,0,1,C,John Smith's Stadium,23699
+38543,210,"Tue 29 Jan 2019, 19:45 GMT",38,25,3,0,C,Molineux Stadium,31122
+38542,210,"Tue 29 Jan 2019, 20:00 GMT",12,43,2,2,C,Old Trafford,74529
+38545,210,"Tue 29 Jan 2019, 20:00 GMT",23,11,2,1,C,St. James' Park,50861
+38539,210,"Wed 30 Jan 2019, 19:45 GMT",127,4,4,0,C,Vitality Stadium,10227
+38546,210,"Wed 30 Jan 2019, 19:45 GMT",20,6,1,1,C,St. Mary's Stadium,28339
+38544,210,"Wed 30 Jan 2019, 20:00 GMT",10,26,1,1,C,Anfield,53092
+38547,210,"Wed 30 Jan 2019, 20:00 GMT",21,33,2,1,C,Wembley Stadium,29164
+38556,210,"Sat 2 Feb 2019, 12:30 GMT",21,23,1,0,C,Wembley Stadium,41219
+38548,210,"Sat 2 Feb 2019, 15:00 GMT",131,33,0,0,C,American Express Stadium,30414
+38549,210,"Sat 2 Feb 2019, 15:00 GMT",43,20,1,1,C,Turf Moor,19787
+38551,210,"Sat 2 Feb 2019, 15:00 GMT",4,159,5,0,C,Stamford Bridge,40626
+38552,210,"Sat 2 Feb 2019, 15:00 GMT",6,34,2,0,C,Selhurst Park,25355
+38553,210,"Sat 2 Feb 2019, 15:00 GMT",7,38,1,3,C,Goodison Park,39380
+38550,210,"Sat 2 Feb 2019, 17:30 GMT",46,127,2,0,C,Cardiff City Stadium,31939
+38554,210,"Sun 3 Feb 2019, 14:05 GMT",26,12,0,1,C,King Power Stadium,32148
+38555,210,"Sun 3 Feb 2019, 16:30 GMT",11,1,3,1,C,Etihad Stadium,54483
+38557,210,"Mon 4 Feb 2019, 20:00 GMT",25,10,1,1,C,London Stadium,59903
+38573,210,"Wed 6 Feb 2019, 19:45 GMT",7,11,0,2,C,Goodison Park,39322
+38560,210,"Sat 9 Feb 2019, 12:30 GMT",34,12,0,3,C,Craven Cottage,25001
+38559,210,"Sat 9 Feb 2019, 15:00 GMT",6,25,1,1,C,Selhurst Park,25552
+38561,210,"Sat 9 Feb 2019, 15:00 GMT",159,1,1,2,C,John Smith's Stadium,24182
+38562,210,"Sat 9 Feb 2019, 15:00 GMT",10,127,3,0,C,Anfield,53178
+38564,210,"Sat 9 Feb 2019, 15:00 GMT",20,46,1,2,C,St. Mary's Stadium,31438
+38566,210,"Sat 9 Feb 2019, 15:00 GMT",33,7,1,0,C,Vicarage Road,20333
+38558,210,"Sat 9 Feb 2019, 17:30 GMT",131,43,1,3,C,American Express Stadium,29323
+38565,210,"Sun 10 Feb 2019, 13:30 GMT",21,26,3,1,C,Wembley Stadium,44154
+38563,210,"Sun 10 Feb 2019, 16:00 GMT",11,4,6,0,C,Etihad Stadium,54452
+38567,210,"Mon 11 Feb 2019, 20:00 GMT",38,23,1,1,C,Molineux Stadium,30687
+38571,210,"Fri 22 Feb 2019, 19:45 GMT",46,33,1,5,C,Cardiff City Stadium,30387
+38577,210,"Fri 22 Feb 2019, 19:45 GMT",25,34,3,1,C,London Stadium,59950
+38570,210,"Sat 23 Feb 2019, 12:30 GMT",43,21,2,1,C,Turf Moor,21338
+38569,210,"Sat 23 Feb 2019, 15:00 GMT",127,38,1,1,C,Vitality Stadium,10671
+38576,210,"Sat 23 Feb 2019, 15:00 GMT",23,159,2,0,C,St. James' Park,52174
+38574,210,"Sat 23 Feb 2019, 17:30 GMT",26,6,1,4,C,King Power Stadium,31778
+38568,210,"Sun 24 Feb 2019, 14:05 GMT",1,20,2,0,C,Emirates Stadium,59877
+38575,210,"Sun 24 Feb 2019, 14:05 GMT",12,10,0,0,C,Old Trafford,74519
+38579,210,"Tue 26 Feb 2019, 19:45 GMT",46,7,0,3,C,Cardiff City Stadium,31849
+38581,210,"Tue 26 Feb 2019, 19:45 GMT",159,38,1,0,C,John Smith's Stadium,22714
+38582,210,"Tue 26 Feb 2019, 19:45 GMT",26,131,2,1,C,King Power Stadium,30558
+38586,210,"Tue 26 Feb 2019, 20:00 GMT",23,43,2,0,C,St. James' Park,48323
+38578,210,"Wed 27 Feb 2019, 19:45 GMT",1,127,5,1,C,Emirates Stadium,59618
+38587,210,"Wed 27 Feb 2019, 19:45 GMT",20,34,2,0,C,St. Mary's Stadium,27597
+38583,210,"Wed 27 Feb 2019, 20:00 GMT",4,21,2,0,C,Stamford Bridge,40542
+38580,210,"Wed 27 Feb 2019, 20:00 GMT",6,12,1,3,C,Selhurst Park,25754
+38584,210,"Wed 27 Feb 2019, 20:00 GMT",10,33,5,0,C,Anfield,53316
+38585,210,"Wed 27 Feb 2019, 20:00 GMT",11,25,1,0,C,Etihad Stadium,53528
+38594,210,"Sat 2 Mar 2019, 12:30 GMT",21,1,1,1,C,Wembley Stadium,81332
+38588,210,"Sat 2 Mar 2019, 15:00 GMT",127,11,0,1,C,Vitality Stadium,10699
+38589,210,"Sat 2 Mar 2019, 15:00 GMT",131,159,1,0,C,American Express Stadium,30182
+38590,210,"Sat 2 Mar 2019, 15:00 GMT",43,6,1,3,C,Turf Moor,19223
+38593,210,"Sat 2 Mar 2019, 15:00 GMT",12,20,3,2,C,Old Trafford,74459
+38597,210,"Sat 2 Mar 2019, 15:00 GMT",38,46,2,0,C,Molineux Stadium,31309
+38596,210,"Sat 2 Mar 2019, 17:30 GMT",25,23,2,0,C,London Stadium,59910
+38595,210,"Sun 3 Mar 2019, 12:00 GMT",33,26,2,1,C,Vicarage Road,20062
+38592,210,"Sun 3 Mar 2019, 14:05 GMT",34,4,1,2,C,Craven Cottage,24900
+38591,210,"Sun 3 Mar 2019, 16:15 GMT",7,10,0,0,C,Goodison Park,39335
+38601,210,"Sat 9 Mar 2019, 12:30 GMT",6,131,1,2,C,Selhurst Park,24972
+38599,210,"Sat 9 Mar 2019, 15:00 GMT",46,25,2,0,C,Cardiff City Stadium,32458
+38602,210,"Sat 9 Mar 2019, 15:00 GMT",159,127,0,2,C,John Smith's Stadium,22304
+38603,210,"Sat 9 Mar 2019, 15:00 GMT",26,34,3,1,C,King Power Stadium,32017
+38606,210,"Sat 9 Mar 2019, 15:00 GMT",23,7,3,2,C,St. James' Park,52242
+38607,210,"Sat 9 Mar 2019, 15:00 GMT",20,21,2,1,C,St. Mary's Stadium,31890
+38605,210,"Sat 9 Mar 2019, 17:30 GMT",11,33,3,1,C,Etihad Stadium,54104
+38604,210,"Sun 10 Mar 2019, 12:00 GMT",10,43,4,2,C,Anfield,53310
+38600,210,"Sun 10 Mar 2019, 14:05 GMT",4,38,1,1,C,Stamford Bridge,40692
+38598,210,"Sun 10 Mar 2019, 16:30 GMT",1,12,2,0,C,Emirates Stadium,60000
+38608,210,"Sat 16 Mar 2019, 15:00 GMT",127,23,2,2,C,Vitality Stadium,10625
+38610,210,"Sat 16 Mar 2019, 15:00 GMT",43,26,1,2,C,Turf Moor,20719
+38616,210,"Sat 16 Mar 2019, 15:00 GMT",25,159,4,3,C,London Stadium,59931
+38612,210,"Sun 17 Mar 2019, 14:15 GMT",34,10,1,2,C,Craven Cottage,25043
+38611,210,"Sun 17 Mar 2019, 16:30 GMT",7,4,2,0,C,Goodison Park,39356
+38623,210,"Sat 30 Mar 2019, 12:30 GMT",34,11,0,2,C,Craven Cottage,25001
+38619,210,"Sat 30 Mar 2019, 15:00 GMT",131,20,0,1,C,American Express Stadium,30636
+38620,210,"Sat 30 Mar 2019, 15:00 GMT",43,38,2,0,C,Turf Moor,20990
+38622,210,"Sat 30 Mar 2019, 15:00 GMT",6,159,2,0,C,Selhurst Park,25193
+38624,210,"Sat 30 Mar 2019, 15:00 GMT",26,127,2,0,C,King Power Stadium,31530
+38626,210,"Sat 30 Mar 2019, 15:00 GMT",12,33,2,1,C,Old Trafford,74543
+38627,210,"Sat 30 Mar 2019, 17:30 GMT",25,7,0,2,C,London Stadium,59988
+38621,210,"Sun 31 Mar 2019, 14:05 GMT+01:00",46,4,1,2,C,Cardiff City Stadium,32657
+38625,210,"Sun 31 Mar 2019, 16:30 GMT+01:00",10,21,2,1,C,Anfield,53322
+38618,210,"Mon 1 Apr 2019, 20:00 GMT+01:00",1,23,2,0,C,Emirates Stadium,59869
+38636,210,"Tue 2 Apr 2019, 19:45 GMT+01:00",33,34,4,1,C,Vicarage Road,17301
+38637,210,"Tue 2 Apr 2019, 19:45 GMT+01:00",38,12,2,1,C,Molineux Stadium,31302
+38572,210,"Wed 3 Apr 2019, 19:45 GMT+01:00",4,131,3,0,C,Stamford Bridge,38593
+38632,210,"Wed 3 Apr 2019, 19:45 GMT+01:00",11,46,2,0,C,Etihad Stadium,53559
+38614,210,"Wed 3 Apr 2019, 19:45 GMT+01:00",21,6,2,0,C,Tottenham Hotspur Stadium,59215
+38634,210,"Fri 5 Apr 2019, 20:00 GMT+01:00",20,10,1,3,C,St. Mary's Stadium,31797
+38628,210,"Sat 6 Apr 2019, 15:00 GMT+01:00",127,43,1,3,C,Vitality Stadium,10446
+38631,210,"Sat 6 Apr 2019, 15:00 GMT+01:00",159,26,1,4,C,John Smith's Stadium,24126
+38633,210,"Sat 6 Apr 2019, 15:00 GMT+01:00",23,6,0,1,C,St. James' Park,51926
+38630,210,"Sun 7 Apr 2019, 14:05 GMT+01:00",7,1,1,0,C,Goodison Park,39400
+38629,210,"Mon 8 Apr 2019, 20:00 GMT+01:00",4,25,2,0,C,Stamford Bridge,40537
+38642,210,"Fri 12 Apr 2019, 20:00 GMT+01:00",26,23,0,1,C,King Power Stadium,32108
+38646,210,"Sat 13 Apr 2019, 12:30 GMT+01:00",21,159,4,0,C,Tottenham Hotspur Stadium,58308
+38638,210,"Sat 13 Apr 2019, 15:00 GMT+01:00",131,127,0,5,C,American Express Stadium,30460
+38639,210,"Sat 13 Apr 2019, 15:00 GMT+01:00",43,46,2,0,C,Turf Moor,21480
+38641,210,"Sat 13 Apr 2019, 15:00 GMT+01:00",34,7,2,0,C,Craven Cottage,24971
+38645,210,"Sat 13 Apr 2019, 15:00 GMT+01:00",20,38,3,1,C,St. Mary's Stadium,31708
+38644,210,"Sat 13 Apr 2019, 17:30 GMT+01:00",12,25,2,1,C,Old Trafford,74478
+38640,210,"Sun 14 Apr 2019, 14:05 GMT+01:00",6,11,1,3,C,Selhurst Park,25721
+38643,210,"Sun 14 Apr 2019, 16:30 GMT+01:00",10,4,2,0,C,Anfield,53279
+38647,210,"Mon 15 Apr 2019, 20:00 GMT+01:00",33,1,0,1,C,Vicarage Road,20480
+38609,210,"Tue 16 Apr 2019, 19:45 GMT+01:00",131,46,0,2,C,American Express Stadium,30226
+38654,210,"Sat 20 Apr 2019, 12:30 GMT+01:00",11,21,1,0,C,Etihad Stadium,54489
+38649,210,"Sat 20 Apr 2019, 15:00 GMT+01:00",127,34,0,1,C,Vitality Stadium,10511
+38653,210,"Sat 20 Apr 2019, 15:00 GMT+01:00",159,33,1,2,C,John Smith's Stadium,23957
+38656,210,"Sat 20 Apr 2019, 15:00 GMT+01:00",25,26,2,2,C,London Stadium,59960
+38657,210,"Sat 20 Apr 2019, 15:00 GMT+01:00",38,131,0,0,C,Molineux Stadium,31096
+38655,210,"Sat 20 Apr 2019, 17:30 GMT+01:00",23,20,3,1,C,St. James' Park,52191
+38652,210,"Sun 21 Apr 2019, 13:30 GMT+01:00",7,12,4,0,C,Goodison Park,39395
+38648,210,"Sun 21 Apr 2019, 16:00 GMT+01:00",1,6,2,3,C,Emirates Stadium,59929
+38650,210,"Sun 21 Apr 2019, 16:00 GMT+01:00",46,10,0,2,C,Cardiff City Stadium,33082
+38651,210,"Mon 22 Apr 2019, 20:00 GMT+01:00",4,43,2,2,C,Stamford Bridge,40642
+38635,210,"Tue 23 Apr 2019, 19:45 GMT+01:00",21,131,1,0,C,Tottenham Hotspur Stadium,56251
+38615,210,"Tue 23 Apr 2019, 19:45 GMT+01:00",33,20,1,1,C,Vicarage Road,19170
+38617,210,"Wed 24 Apr 2019, 19:45 GMT+01:00",38,1,3,1,C,Molineux Stadium,31436
+38613,210,"Wed 24 Apr 2019, 20:00 GMT+01:00",12,11,0,2,C,Old Trafford,74431
+38663,210,"Fri 26 Apr 2019, 20:00 GMT+01:00",10,159,5,0,C,Anfield,53249
+38666,210,"Sat 27 Apr 2019, 12:30 GMT+01:00",21,25,0,1,C,Tottenham Hotspur Stadium,60043
+38660,210,"Sat 27 Apr 2019, 15:00 GMT+01:00",6,7,0,0,C,Selhurst Park,25789
+38661,210,"Sat 27 Apr 2019, 15:00 GMT+01:00",34,46,1,0,C,Craven Cottage,23822
+38665,210,"Sat 27 Apr 2019, 15:00 GMT+01:00",20,127,3,3,C,St. Mary's Stadium,31310
+38667,210,"Sat 27 Apr 2019, 15:00 GMT+01:00",33,38,1,2,C,Vicarage Road,20323
+38658,210,"Sat 27 Apr 2019, 17:30 GMT+01:00",131,23,1,1,C,American Express Stadium,30587
+38662,210,"Sun 28 Apr 2019, 12:00 GMT+01:00",26,1,3,0,C,King Power Stadium,32037
+38659,210,"Sun 28 Apr 2019, 14:05 GMT+01:00",43,11,0,1,C,Turf Moor,21605
+38664,210,"Sun 28 Apr 2019, 16:30 GMT+01:00",12,4,1,1,C,Old Trafford,74526
+38672,210,"Fri 3 May 2019, 20:00 GMT+01:00",7,43,2,0,C,Goodison Park,39303
+38669,210,"Sat 4 May 2019, 12:30 GMT+01:00",127,21,1,0,C,Vitality Stadium,10630
+38676,210,"Sat 4 May 2019, 15:00 GMT+01:00",25,20,3,0,C,London Stadium,59961
+38677,210,"Sat 4 May 2019, 15:00 GMT+01:00",38,34,1,0,C,Molineux Stadium,30456
+38670,210,"Sat 4 May 2019, 17:30 GMT+01:00",46,6,2,3,C,Cardiff City Stadium,32133
+38675,210,"Sat 4 May 2019, 19:45 GMT+01:00",23,10,2,3,C,St. James' Park,52206
+38671,210,"Sun 5 May 2019, 14:00 GMT+01:00",4,33,3,0,C,Stamford Bridge,40650
+38673,210,"Sun 5 May 2019, 14:00 GMT+01:00",159,12,1,1,C,John Smith's Stadium,24263
+38668,210,"Sun 5 May 2019, 16:30 GMT+01:00",1,131,1,1,C,Emirates Stadium,59965
+38674,210,"Mon 6 May 2019, 20:00 GMT+01:00",11,26,1,0,C,Etihad Stadium,54506
+38678,210,"Sun 12 May 2019, 15:00 GMT+01:00",131,11,1,4,C,American Express Stadium,30662
+38679,210,"Sun 12 May 2019, 15:00 GMT+01:00",43,1,1,3,C,Turf Moor,21461
+38680,210,"Sun 12 May 2019, 15:00 GMT+01:00",6,127,5,3,C,Selhurst Park,25433
+38681,210,"Sun 12 May 2019, 15:00 GMT+01:00",34,23,0,4,C,Craven Cottage,24979
+38682,210,"Sun 12 May 2019, 15:00 GMT+01:00",26,4,0,0,C,King Power Stadium,32140
+38683,210,"Sun 12 May 2019, 15:00 GMT+01:00",10,38,2,0,C,Anfield,53331
+38684,210,"Sun 12 May 2019, 15:00 GMT+01:00",12,46,0,2,C,Old Trafford,74457
+38685,210,"Sun 12 May 2019, 15:00 GMT+01:00",20,159,1,1,C,St. Mary's Stadium,30367
+38686,210,"Sun 12 May 2019, 15:00 GMT+01:00",21,7,2,2,C,Tottenham Hotspur Stadium,60124
+38687,210,"Sun 12 May 2019, 15:00 GMT+01:00",33,25,1,4,C,Vicarage Road,20067

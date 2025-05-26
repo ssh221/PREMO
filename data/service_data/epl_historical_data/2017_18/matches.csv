@@ -1,0 +1,381 @@
+match_id,season_id,date,home_team,away_team,home_score,away_score,status,stadium,attendance
+22342,79,"Fri 11 Aug 2017, 19:45 BST",1,26,4,3,C,Emirates Stadium,59387
+22350,79,"Sat 12 Aug 2017, 12:30 BST",33,10,3,3,C,Vicarage Road,20407
+22344,79,"Sat 12 Aug 2017, 15:00 BST",4,43,2,3,C,Stamford Bridge,41616
+22345,79,"Sat 12 Aug 2017, 15:00 BST",6,159,0,3,C,Selhurst Park,25448
+22346,79,"Sat 12 Aug 2017, 15:00 BST",7,42,1,0,C,Goodison Park,39045
+22349,79,"Sat 12 Aug 2017, 15:00 BST",20,45,0,0,C,St. Mary's Stadium,31447
+22351,79,"Sat 12 Aug 2017, 15:00 BST",36,127,1,0,C,The Hawthorns,25011
+22343,79,"Sat 12 Aug 2017, 17:30 BST",131,11,0,2,C,Amex Stadium,30415
+22348,79,"Sun 13 Aug 2017, 13:30 BST",23,21,0,2,C,St. James' Park,52077
+22347,79,"Sun 13 Aug 2017, 16:00 BST",12,25,4,0,C,Old Trafford,74928
+22359,79,"Sat 19 Aug 2017, 12:30 BST",45,12,0,4,C,Liberty Stadium,20862
+22352,79,"Sat 19 Aug 2017, 15:00 BST",127,33,0,2,C,Vitality Stadium,10501
+22353,79,"Sat 19 Aug 2017, 15:00 BST",43,36,0,1,C,Turf Moor,19619
+22355,79,"Sat 19 Aug 2017, 15:00 BST",26,131,2,0,C,King Power Stadium,31902
+22356,79,"Sat 19 Aug 2017, 15:00 BST",10,6,1,0,C,Anfield,53138
+22659,79,"Sat 19 Aug 2017, 15:00 BST",20,25,3,2,C,St. Mary's Stadium,31424
+22358,79,"Sat 19 Aug 2017, 17:30 BST",42,1,1,0,C,bet365 Stadium,29459
+22354,79,"Sun 20 Aug 2017, 13:30 BST",159,23,1,0,C,John Smith's Stadium,24128
+22360,79,"Sun 20 Aug 2017, 16:00 BST",21,4,1,2,C,Wembley Stadium,73587
+22357,79,"Mon 21 Aug 2017, 20:00 BST",11,7,1,1,C,Etihad Stadium,54009
+22362,79,"Sat 26 Aug 2017, 12:30 BST",127,11,1,2,C,Vitality Stadium,10419
+22364,79,"Sat 26 Aug 2017, 15:00 BST",6,45,0,2,C,Selhurst Park,23477
+22365,79,"Sat 26 Aug 2017, 15:00 BST",159,20,0,0,C,John Smith's Stadium,23548
+22368,79,"Sat 26 Aug 2017, 15:00 BST",23,25,3,0,C,St. James' Park,52093
+22370,79,"Sat 26 Aug 2017, 15:00 BST",33,131,0,0,C,Vicarage Road,20181
+22367,79,"Sat 26 Aug 2017, 17:30 BST",12,26,2,0,C,Old Trafford,75021
+22363,79,"Sun 27 Aug 2017, 13:30 BST",4,7,2,0,C,Stamford Bridge,41382
+22371,79,"Sun 27 Aug 2017, 13:30 BST",36,42,1,1,C,The Hawthorns,22704
+22366,79,"Sun 27 Aug 2017, 16:00 BST",10,1,4,0,C,Anfield,53206
+22369,79,"Sun 27 Aug 2017, 16:00 BST",21,43,1,1,C,Wembley Stadium,67862
+22377,79,"Sat 9 Sep 2017, 12:30 BST",11,10,5,0,C,Etihad Stadium,54172
+22372,79,"Sat 9 Sep 2017, 15:00 BST",1,127,3,0,C,Emirates Stadium,59262
+22373,79,"Sat 9 Sep 2017, 15:00 BST",131,36,3,1,C,Amex Stadium,30381
+22375,79,"Sat 9 Sep 2017, 15:00 BST",7,21,0,3,C,Goodison Park,38835
+22376,79,"Sat 9 Sep 2017, 15:00 BST",26,4,1,2,C,King Power Stadium,31923
+22378,79,"Sat 9 Sep 2017, 15:00 BST",20,33,0,2,C,St. Mary's Stadium,31435
+22379,79,"Sat 9 Sep 2017, 17:30 BST",42,12,2,2,C,bet365 Stadium,29320
+22374,79,"Sun 10 Sep 2017, 13:30 BST",43,6,1,0,C,Turf Moor,18862
+22380,79,"Sun 10 Sep 2017, 16:00 BST",45,23,0,1,C,Liberty Stadium,20872
+22381,79,"Mon 11 Sep 2017, 20:00 BST",25,159,2,0,C,London Stadium,56977
+22382,79,"Fri 15 Sep 2017, 20:00 BST",127,131,2,1,C,Vitality Stadium,10369
+22384,79,"Sat 16 Sep 2017, 12:30 BST",6,20,0,1,C,Selhurst Park,24199
+22385,79,"Sat 16 Sep 2017, 15:00 BST",159,26,1,1,C,John Smith's Stadium,24169
+22386,79,"Sat 16 Sep 2017, 15:00 BST",10,43,1,1,C,Anfield,53231
+22388,79,"Sat 16 Sep 2017, 15:00 BST",23,42,2,1,C,St. James' Park,51795
+22390,79,"Sat 16 Sep 2017, 15:00 BST",33,11,0,6,C,Vicarage Road,20305
+22391,79,"Sat 16 Sep 2017, 15:00 BST",36,25,0,0,C,The Hawthorns,24942
+22389,79,"Sat 16 Sep 2017, 17:30 BST",21,45,0,0,C,Wembley Stadium,65366
+22383,79,"Sun 17 Sep 2017, 13:30 BST",4,1,0,0,C,Stamford Bridge,41478
+22387,79,"Sun 17 Sep 2017, 16:00 BST",12,7,4,0,C,Old Trafford,75042
+22401,79,"Sat 23 Sep 2017, 12:30 BST",25,21,2,3,C,London Stadium,56988
+22394,79,"Sat 23 Sep 2017, 15:00 BST",43,159,0,0,C,Turf Moor,20759
+22395,79,"Sat 23 Sep 2017, 15:00 BST",7,127,2,1,C,Goodison Park,38133
+22397,79,"Sat 23 Sep 2017, 15:00 BST",11,6,5,0,C,Etihad Stadium,53526
+22398,79,"Sat 23 Sep 2017, 15:00 BST",20,12,0,1,C,St. Mary's Stadium,31930
+22399,79,"Sat 23 Sep 2017, 15:00 BST",42,4,0,4,C,bet365 Stadium,29661
+22400,79,"Sat 23 Sep 2017, 15:00 BST",45,33,1,2,C,Liberty Stadium,20372
+22396,79,"Sat 23 Sep 2017, 17:30 BST",26,10,2,3,C,King Power Stadium,32004
+22393,79,"Sun 24 Sep 2017, 16:00 BST",131,23,1,0,C,Amex Stadium,30468
+22392,79,"Mon 25 Sep 2017, 20:00 BST",1,36,2,0,C,Emirates Stadium,59134
+22406,79,"Sat 30 Sep 2017, 12:30 BST",159,21,0,4,C,John Smith's Stadium,24169
+22403,79,"Sat 30 Sep 2017, 15:00 BST",127,26,0,0,C,Vitality Stadium,10444
+22407,79,"Sat 30 Sep 2017, 15:00 BST",12,6,4,0,C,Old Trafford,75118
+22409,79,"Sat 30 Sep 2017, 15:00 BST",42,20,2,1,C,bet365 Stadium,29285
+22410,79,"Sat 30 Sep 2017, 15:00 BST",36,33,2,2,C,The Hawthorns,24606
+22411,79,"Sat 30 Sep 2017, 15:00 BST",25,45,1,0,C,London Stadium,56922
+22404,79,"Sat 30 Sep 2017, 17:30 BST",4,11,0,1,C,Stamford Bridge,41530
+22402,79,"Sun 1 Oct 2017, 12:00 BST",1,131,2,0,C,Emirates Stadium,59378
+22405,79,"Sun 1 Oct 2017, 14:15 BST",7,43,0,1,C,Goodison Park,38448
+22408,79,"Sun 1 Oct 2017, 16:30 BST",23,10,1,1,C,St. James' Park,52303
+22416,79,"Sat 14 Oct 2017, 12:30 BST",10,12,0,0,C,Anfield,52912
+22413,79,"Sat 14 Oct 2017, 15:00 BST",43,25,1,1,C,Turf Moor,20945
+22414,79,"Sat 14 Oct 2017, 15:00 BST",6,4,2,1,C,Selhurst Park,25480
+22417,79,"Sat 14 Oct 2017, 15:00 BST",11,42,7,2,C,Etihad Stadium,54128
+22419,79,"Sat 14 Oct 2017, 15:00 BST",45,159,2,0,C,Liberty Stadium,20657
+22420,79,"Sat 14 Oct 2017, 15:00 BST",21,127,1,0,C,Wembley Stadium,73502
+22421,79,"Sat 14 Oct 2017, 17:30 BST",33,1,2,1,C,Vicarage Road,20384
+22412,79,"Sun 15 Oct 2017, 13:30 BST",131,7,1,1,C,Amex Stadium,30565
+22418,79,"Sun 15 Oct 2017, 16:00 BST",20,23,2,2,C,St. Mary's Stadium,31437
+22415,79,"Mon 16 Oct 2017, 20:00 BST",26,36,1,1,C,King Power Stadium,30203
+22431,79,"Fri 20 Oct 2017, 20:00 BST",25,131,0,3,C,London Stadium,56977
+22422,79,"Sat 21 Oct 2017, 12:30 BST",4,33,4,2,C,Stamford Bridge,41467
+22424,79,"Sat 21 Oct 2017, 15:00 BST",159,12,2,1,C,John Smith's Stadium,24169
+22425,79,"Sat 21 Oct 2017, 15:00 BST",11,43,3,0,C,Etihad Stadium,54118
+22426,79,"Sat 21 Oct 2017, 15:00 BST",23,6,1,0,C,St. James' Park,52251
+22428,79,"Sat 21 Oct 2017, 15:00 BST",42,127,1,2,C,bet365 Stadium,29500
+22429,79,"Sat 21 Oct 2017, 15:00 BST",45,26,1,2,C,Liberty Stadium,20521
+22427,79,"Sat 21 Oct 2017, 17:30 BST",20,36,1,0,C,St. Mary's Stadium,29947
+22423,79,"Sun 22 Oct 2017, 13:30 BST",7,1,2,5,C,Goodison Park,39189
+22430,79,"Sun 22 Oct 2017, 16:00 BST",21,10,4,1,C,Wembley Stadium,80827
+22439,79,"Sat 28 Oct 2017, 12:30 BST",12,21,1,0,C,Old Trafford,75034
+22432,79,"Sat 28 Oct 2017, 15:00 BST",1,45,2,1,C,Emirates Stadium,59493
+22436,79,"Sat 28 Oct 2017, 15:00 BST",6,25,2,2,C,Selhurst Park,25242
+22438,79,"Sat 28 Oct 2017, 15:00 BST",10,159,3,0,C,Anfield,53268
+22440,79,"Sat 28 Oct 2017, 15:00 BST",33,42,0,1,C,Vicarage Road,20087
+22441,79,"Sat 28 Oct 2017, 15:00 BST",36,11,2,3,C,The Hawthorns,24003
+22433,79,"Sat 28 Oct 2017, 17:30 BST",127,4,0,1,C,Vitality Stadium,10998
+22434,79,"Sun 29 Oct 2017, 13:30 GMT",131,20,1,1,C,Amex Stadium,30564
+22437,79,"Sun 29 Oct 2017, 16:00 GMT",26,7,2,0,C,King Power Stadium,31891
+22435,79,"Mon 30 Oct 2017, 20:00 GMT",43,23,1,0,C,Turf Moor,21031
+22448,79,"Sat 4 Nov 2017, 12:30 GMT",42,26,2,2,C,bet365 Stadium,29602
+22444,79,"Sat 4 Nov 2017, 15:00 GMT",159,36,1,0,C,John Smith's Stadium,24169
+22446,79,"Sat 4 Nov 2017, 15:00 GMT",23,127,0,1,C,St. James' Park,52237
+22447,79,"Sat 4 Nov 2017, 15:00 GMT",20,43,0,1,C,St. Mary's Stadium,30491
+22449,79,"Sat 4 Nov 2017, 15:00 GMT",45,131,0,1,C,Liberty Stadium,20822
+22451,79,"Sat 4 Nov 2017, 17:30 GMT",25,10,1,4,C,London Stadium,56961
+22450,79,"Sun 5 Nov 2017, 12:00 GMT",21,6,1,0,C,Wembley Stadium,65270
+22445,79,"Sun 5 Nov 2017, 14:15 GMT",11,1,3,1,C,Etihad Stadium,54286
+22442,79,"Sun 5 Nov 2017, 16:30 GMT",4,12,1,0,C,Stamford Bridge,41615
+22443,79,"Sun 5 Nov 2017, 16:30 GMT",7,33,3,2,C,Goodison Park,38609
+22452,79,"Sat 18 Nov 2017, 12:30 GMT",1,21,2,0,C,Emirates Stadium,59530
+22453,79,"Sat 18 Nov 2017, 15:00 GMT",127,159,4,0,C,Vitality Stadium,10879
+22455,79,"Sat 18 Nov 2017, 15:00 GMT",43,45,2,0,C,Turf Moor,18895
+22456,79,"Sat 18 Nov 2017, 15:00 GMT",6,7,2,2,C,Selhurst Park,25526
+22457,79,"Sat 18 Nov 2017, 15:00 GMT",26,11,0,2,C,King Power Stadium,31908
+22458,79,"Sat 18 Nov 2017, 15:00 GMT",10,20,3,0,C,Anfield,53256
+22461,79,"Sat 18 Nov 2017, 15:00 GMT",36,4,0,4,C,The Hawthorns,23592
+22459,79,"Sat 18 Nov 2017, 17:30 GMT",12,23,4,1,C,Old Trafford,75035
+22460,79,"Sun 19 Nov 2017, 16:00 GMT",33,25,2,0,C,Vicarage Road,20018
+22454,79,"Mon 20 Nov 2017, 20:00 GMT",131,42,2,2,C,Amex Stadium,29676
+22471,79,"Fri 24 Nov 2017, 20:00 GMT",25,26,1,1,C,London Stadium,56897
+22463,79,"Sat 25 Nov 2017, 15:00 GMT",6,42,2,1,C,Selhurst Park,23723
+22466,79,"Sat 25 Nov 2017, 15:00 GMT",12,131,1,0,C,Old Trafford,75018
+22467,79,"Sat 25 Nov 2017, 15:00 GMT",23,33,0,3,C,St. James' Park,52188
+22469,79,"Sat 25 Nov 2017, 15:00 GMT",45,127,0,0,C,Liberty Stadium,20228
+22470,79,"Sat 25 Nov 2017, 15:00 GMT",21,36,1,1,C,Wembley Stadium,65905
+22465,79,"Sat 25 Nov 2017, 17:30 GMT",10,4,1,1,C,Anfield,53225
+22468,79,"Sun 26 Nov 2017, 13:30 GMT",20,7,4,1,C,St. Mary's Stadium,30461
+22462,79,"Sun 26 Nov 2017, 14:00 GMT",43,1,0,1,C,Turf Moor,21722
+22464,79,"Sun 26 Nov 2017, 16:00 GMT",159,11,1,2,C,John Smith's Stadium,24121
+22474,79,"Tue 28 Nov 2017, 19:45 GMT",131,6,0,0,C,Amex Stadium,29889
+22475,79,"Tue 28 Nov 2017, 19:45 GMT",26,21,2,1,C,King Power Stadium,31950
+22476,79,"Tue 28 Nov 2017, 20:00 GMT",33,12,2,4,C,Vicarage Road,20552
+22477,79,"Tue 28 Nov 2017, 20:00 GMT",36,23,2,2,C,The Hawthorns,25534
+22472,79,"Wed 29 Nov 2017, 19:45 GMT",1,159,5,0,C,Emirates Stadium,59285
+22473,79,"Wed 29 Nov 2017, 19:45 GMT",127,43,1,2,C,Vitality Stadium,10302
+22478,79,"Wed 29 Nov 2017, 19:45 GMT",4,45,1,0,C,Stamford Bridge,41365
+22479,79,"Wed 29 Nov 2017, 20:00 GMT",7,25,4,0,C,Goodison Park,38242
+22480,79,"Wed 29 Nov 2017, 20:00 GMT",11,20,2,1,C,Etihad Stadium,53407
+22481,79,"Wed 29 Nov 2017, 20:00 GMT",42,10,0,3,C,bet365 Stadium,29423
+22485,79,"Sat 2 Dec 2017, 12:30 GMT",4,23,3,1,C,Stamford Bridge,41538
+22484,79,"Sat 2 Dec 2017, 15:00 GMT",131,10,1,5,C,Amex Stadium,30634
+22486,79,"Sat 2 Dec 2017, 15:00 GMT",7,159,2,0,C,Goodison Park,39167
+22487,79,"Sat 2 Dec 2017, 15:00 GMT",26,43,1,0,C,King Power Stadium,30714
+22489,79,"Sat 2 Dec 2017, 15:00 GMT",42,45,2,1,C,bet365 Stadium,28261
+22490,79,"Sat 2 Dec 2017, 15:00 GMT",33,21,1,1,C,Vicarage Road,20278
+22491,79,"Sat 2 Dec 2017, 15:00 GMT",36,6,0,0,C,The Hawthorns,23531
+22482,79,"Sat 2 Dec 2017, 17:30 GMT",1,12,1,3,C,Emirates Stadium,59547
+22483,79,"Sun 3 Dec 2017, 13:30 GMT",127,20,1,1,C,Vitality Stadium,10764
+22488,79,"Sun 3 Dec 2017, 16:00 GMT",11,25,2,1,C,Etihad Stadium,54203
+22501,79,"Sat 9 Dec 2017, 12:30 GMT",25,4,1,0,C,London Stadium,56953
+22492,79,"Sat 9 Dec 2017, 15:00 GMT",43,33,1,0,C,Turf Moor,19479
+22493,79,"Sat 9 Dec 2017, 15:00 GMT",6,127,2,2,C,Selhurst Park,24823
+22494,79,"Sat 9 Dec 2017, 15:00 GMT",159,131,2,0,C,John Smith's Stadium,24018
+22499,79,"Sat 9 Dec 2017, 15:00 GMT",45,36,1,0,C,Liberty Stadium,19580
+22500,79,"Sat 9 Dec 2017, 15:00 GMT",21,42,5,1,C,Wembley Stadium,62202
+22497,79,"Sat 9 Dec 2017, 17:30 GMT",23,26,2,3,C,St. James' Park,52117
+22498,79,"Sun 10 Dec 2017, 12:00 GMT",20,1,1,1,C,St. Mary's Stadium,31643
+22495,79,"Sun 10 Dec 2017, 14:15 GMT",10,7,1,1,C,Anfield,53082
+22496,79,"Sun 10 Dec 2017, 16:30 GMT",12,11,1,2,C,Old Trafford,74847
+22502,79,"Tue 12 Dec 2017, 19:45 GMT",43,42,1,0,C,Turf Moor,19909
+22503,79,"Tue 12 Dec 2017, 20:00 GMT",6,33,2,1,C,Selhurst Park,23566
+22504,79,"Tue 12 Dec 2017, 20:00 GMT",159,4,1,3,C,John Smith's Stadium,24169
+22509,79,"Wed 13 Dec 2017, 19:45 GMT",23,7,0,1,C,St. James' Park,51042
+22510,79,"Wed 13 Dec 2017, 19:45 GMT",20,26,1,4,C,St. Mary's Stadium,27714
+22506,79,"Wed 13 Dec 2017, 19:45 GMT",45,11,0,4,C,Liberty Stadium,20870
+22508,79,"Wed 13 Dec 2017, 20:00 GMT",10,36,0,0,C,Anfield,53243
+22505,79,"Wed 13 Dec 2017, 20:00 GMT",12,127,1,0,C,Old Trafford,74798
+22511,79,"Wed 13 Dec 2017, 20:00 GMT",21,131,2,0,C,Wembley Stadium,55124
+22507,79,"Wed 13 Dec 2017, 20:00 GMT",25,1,0,0,C,London Stadium,56921
+22517,79,"Sat 16 Dec 2017, 12:30 GMT",26,6,0,3,C,King Power Stadium,31081
+22512,79,"Sat 16 Dec 2017, 15:00 GMT",1,23,1,0,C,Emirates Stadium,59379
+22514,79,"Sat 16 Dec 2017, 15:00 GMT",131,43,0,0,C,Amex Stadium,29921
+22515,79,"Sat 16 Dec 2017, 15:00 GMT",4,20,1,0,C,Stamford Bridge,41562
+22520,79,"Sat 16 Dec 2017, 15:00 GMT",33,159,1,4,C,Vicarage Road,20026
+22519,79,"Sat 16 Dec 2017, 16:00 GMT",42,25,0,3,C,bet365 Stadium,29265
+22518,79,"Sat 16 Dec 2017, 17:30 GMT",11,21,4,1,C,Etihad Stadium,54214
+22521,79,"Sun 17 Dec 2017, 14:15 GMT",36,12,1,2,C,The Hawthorns,24782
+22513,79,"Sun 17 Dec 2017, 16:30 GMT",127,10,0,4,C,Vitality Stadium,10780
+22516,79,"Mon 18 Dec 2017, 20:00 GMT",7,45,3,1,C,Goodison Park,37580
+22522,79,"Fri 22 Dec 2017, 19:45 GMT",1,10,3,3,C,Emirates Stadium,59409
+22525,79,"Sat 23 Dec 2017, 12:30 GMT",7,4,0,0,C,Goodison Park,39191
+22523,79,"Sat 23 Dec 2017, 15:00 GMT",131,33,1,0,C,Amex Stadium,30473
+22527,79,"Sat 23 Dec 2017, 15:00 GMT",11,127,4,0,C,Etihad Stadium,54270
+22528,79,"Sat 23 Dec 2017, 15:00 GMT",20,159,1,1,C,St. Mary's Stadium,29675
+22529,79,"Sat 23 Dec 2017, 15:00 GMT",42,36,3,1,C,bet365 Stadium,29057
+22530,79,"Sat 23 Dec 2017, 15:00 GMT",45,6,1,1,C,Liberty Stadium,20354
+22531,79,"Sat 23 Dec 2017, 15:00 GMT",25,23,2,3,C,London Stadium,56955
+22524,79,"Sat 23 Dec 2017, 17:30 GMT",43,21,0,3,C,Turf Moor,21650
+22526,79,"Sat 23 Dec 2017, 19:45 GMT",26,12,2,2,C,King Power Stadium,32202
+22539,79,"Tue 26 Dec 2017, 12:30 GMT",21,20,5,2,C,Wembley Stadium,57297
+22532,79,"Tue 26 Dec 2017, 15:00 GMT",127,25,3,3,C,Vitality Stadium,10596
+22533,79,"Tue 26 Dec 2017, 15:00 GMT",4,131,2,0,C,Stamford Bridge,41568
+22535,79,"Tue 26 Dec 2017, 15:00 GMT",159,42,1,1,C,John Smith's Stadium,24047
+22537,79,"Tue 26 Dec 2017, 15:00 GMT",12,43,2,2,C,Old Trafford,75046
+22540,79,"Tue 26 Dec 2017, 15:00 GMT",33,26,2,1,C,Vicarage Road,20308
+22541,79,"Tue 26 Dec 2017, 15:00 GMT",36,7,0,0,C,The Hawthorns,25364
+22536,79,"Tue 26 Dec 2017, 17:30 GMT",10,45,5,0,C,Anfield,52850
+22538,79,"Wed 27 Dec 2017, 19:45 GMT",23,11,0,1,C,St. James' Park,52311
+22534,79,"Thu 28 Dec 2017, 20:00 GMT",6,1,2,3,C,Selhurst Park,25762
+22542,79,"Sat 30 Dec 2017, 15:00 GMT",127,7,2,1,C,Vitality Stadium,10497
+22543,79,"Sat 30 Dec 2017, 15:00 GMT",4,42,5,0,C,Stamford Bridge,41433
+22545,79,"Sat 30 Dec 2017, 15:00 GMT",159,43,0,0,C,John Smith's Stadium,24095
+22546,79,"Sat 30 Dec 2017, 15:00 GMT",10,26,2,1,C,Anfield,53226
+22548,79,"Sat 30 Dec 2017, 15:00 GMT",23,131,0,0,C,St. James' Park,52209
+22550,79,"Sat 30 Dec 2017, 15:00 GMT",33,45,1,2,C,Vicarage Road,20002
+22547,79,"Sat 30 Dec 2017, 17:30 GMT",12,20,0,0,C,Old Trafford,75051
+22544,79,"Sun 31 Dec 2017, 12:00 GMT",6,11,0,0,C,Selhurst Park,25804
+22551,79,"Sun 31 Dec 2017, 16:30 GMT",36,1,1,1,C,The Hawthorns,26223
+22553,79,"Mon 1 Jan 2018, 12:30 GMT",131,127,2,2,C,Amex Stadium,30152
+22554,79,"Mon 1 Jan 2018, 15:00 GMT",43,10,1,2,C,Turf Moor,21756
+22556,79,"Mon 1 Jan 2018, 15:00 GMT",26,159,3,0,C,King Power Stadium,31748
+22559,79,"Mon 1 Jan 2018, 15:00 GMT",42,23,0,1,C,bet365 Stadium,28471
+22555,79,"Mon 1 Jan 2018, 17:30 GMT",7,12,0,2,C,Goodison Park,39188
+22558,79,"Tue 2 Jan 2018, 19:45 GMT",20,6,1,2,C,St. Mary's Stadium,28411
+22560,79,"Tue 2 Jan 2018, 19:45 GMT",45,21,0,2,C,Liberty Stadium,20615
+22561,79,"Tue 2 Jan 2018, 19:45 GMT",25,36,2,1,C,London Stadium,56888
+22557,79,"Tue 2 Jan 2018, 20:00 GMT",11,33,3,1,C,Etihad Stadium,53556
+22552,79,"Wed 3 Jan 2018, 19:45 GMT",1,4,2,2,C,Emirates Stadium,59379
+22549,79,"Thu 4 Jan 2018, 20:00 GMT",21,25,1,1,C,Wembley Stadium,50034
+22563,79,"Sat 13 Jan 2018, 15:00 GMT",4,26,0,0,C,Stamford Bridge,41552
+22564,79,"Sat 13 Jan 2018, 15:00 GMT",6,43,1,0,C,Selhurst Park,24696
+22565,79,"Sat 13 Jan 2018, 15:00 GMT",159,25,1,4,C,John Smith's Stadium,24105
+22568,79,"Sat 13 Jan 2018, 15:00 GMT",23,45,1,1,C,St. James' Park,51444
+22570,79,"Sat 13 Jan 2018, 15:00 GMT",33,20,2,2,C,Vicarage Road,20018
+22571,79,"Sat 13 Jan 2018, 15:00 GMT",36,131,2,0,C,The Hawthorns,25240
+22569,79,"Sat 13 Jan 2018, 17:30 GMT",21,7,4,0,C,Wembley Stadium,76251
+22562,79,"Sun 14 Jan 2018, 13:30 GMT",127,1,2,1,C,Vitality Stadium,10836
+22566,79,"Sun 14 Jan 2018, 16:00 GMT",10,11,4,3,C,Anfield,53285
+22567,79,"Mon 15 Jan 2018, 20:00 GMT",12,42,3,0,C,Old Trafford,74726
+22573,79,"Sat 20 Jan 2018, 12:30 GMT",131,4,0,4,C,Amex Stadium,30600
+22572,79,"Sat 20 Jan 2018, 15:00 GMT",1,6,4,1,C,Emirates Stadium,59386
+22574,79,"Sat 20 Jan 2018, 15:00 GMT",43,12,0,1,C,Turf Moor,21841
+22575,79,"Sat 20 Jan 2018, 15:00 GMT",7,36,1,1,C,Goodison Park,39061
+22576,79,"Sat 20 Jan 2018, 15:00 GMT",26,33,2,0,C,King Power Stadium,31891
+22579,79,"Sat 20 Jan 2018, 15:00 GMT",42,159,2,0,C,bet365 Stadium,29785
+22581,79,"Sat 20 Jan 2018, 15:00 GMT",25,127,1,1,C,London Stadium,56948
+22577,79,"Sat 20 Jan 2018, 17:30 GMT",11,23,3,1,C,Etihad Stadium,54452
+22578,79,"Sun 21 Jan 2018, 16:00 GMT",20,21,1,1,C,St. Mary's Stadium,31361
+22580,79,"Mon 22 Jan 2018, 20:00 GMT",45,10,1,0,C,Liberty Stadium,20886
+22583,79,"Tue 30 Jan 2018, 19:45 GMT",45,1,3,1,C,Liberty Stadium,20819
+22584,79,"Tue 30 Jan 2018, 19:45 GMT",25,6,1,1,C,London Stadium,56911
+22582,79,"Tue 30 Jan 2018, 20:00 GMT",159,10,0,3,C,John Smith's Stadium,24121
+22585,79,"Wed 31 Jan 2018, 19:45 GMT",4,127,0,3,C,Stamford Bridge,41464
+22586,79,"Wed 31 Jan 2018, 19:45 GMT",7,26,2,1,C,Goodison Park,38390
+22588,79,"Wed 31 Jan 2018, 19:45 GMT",23,43,1,1,C,St. James' Park,50174
+22589,79,"Wed 31 Jan 2018, 19:45 GMT",20,131,1,1,C,St. Mary's Stadium,30034
+22587,79,"Wed 31 Jan 2018, 20:00 GMT",11,36,3,0,C,Etihad Stadium,53241
+22590,79,"Wed 31 Jan 2018, 20:00 GMT",42,33,0,0,C,bet365 Stadium,27458
+22591,79,"Wed 31 Jan 2018, 20:00 GMT",21,12,2,0,C,Wembley Stadium,81978
+22595,79,"Sat 3 Feb 2018, 12:30 GMT",43,11,1,1,C,Turf Moor,21658
+22593,79,"Sat 3 Feb 2018, 15:00 GMT",127,42,2,1,C,Vitality Stadium,10614
+22594,79,"Sat 3 Feb 2018, 15:00 GMT",131,25,3,1,C,Amex Stadium,30589
+22597,79,"Sat 3 Feb 2018, 15:00 GMT",26,45,1,1,C,King Power Stadium,31179
+22599,79,"Sat 3 Feb 2018, 15:00 GMT",12,159,2,0,C,Old Trafford,74742
+22601,79,"Sat 3 Feb 2018, 15:00 GMT",36,20,2,3,C,The Hawthorns,25911
+22592,79,"Sat 3 Feb 2018, 17:30 GMT",1,7,5,1,C,Emirates Stadium,59306
+22596,79,"Sun 4 Feb 2018, 14:15 GMT",6,23,1,1,C,Selhurst Park,25746
+22598,79,"Sun 4 Feb 2018, 16:30 GMT",10,21,2,2,C,Anfield,53213
+22600,79,"Mon 5 Feb 2018, 20:00 GMT",33,4,4,1,C,Vicarage Road,20157
+22610,79,"Sat 10 Feb 2018, 12:30 GMT",21,1,1,0,C,Wembley Stadium,83222
+22603,79,"Sat 10 Feb 2018, 15:00 GMT",7,6,3,1,C,Goodison Park,39139
+22608,79,"Sat 10 Feb 2018, 15:00 GMT",42,131,1,1,C,bet365 Stadium,29876
+22609,79,"Sat 10 Feb 2018, 15:00 GMT",45,43,1,0,C,Liberty Stadium,20179
+22611,79,"Sat 10 Feb 2018, 15:00 GMT",25,33,2,0,C,London Stadium,56197
+22605,79,"Sat 10 Feb 2018, 17:30 GMT",11,26,5,1,C,Etihad Stadium,54416
+22604,79,"Sun 11 Feb 2018, 12:00 GMT",159,127,4,1,C,John Smith's Stadium,23823
+22606,79,"Sun 11 Feb 2018, 14:15 GMT",23,12,1,0,C,St. James' Park,52309
+22607,79,"Sun 11 Feb 2018, 16:30 GMT",20,10,0,2,C,St. Mary's Stadium,31915
+22602,79,"Mon 12 Feb 2018, 20:00 GMT",4,36,3,0,C,Stamford Bridge,41071
+22617,79,"Sat 24 Feb 2018, 12:30 GMT",26,42,1,1,C,King Power Stadium,31769
+22613,79,"Sat 24 Feb 2018, 15:00 GMT",127,23,2,2,C,Vitality Stadium,10808
+22614,79,"Sat 24 Feb 2018, 15:00 GMT",131,45,4,1,C,Amex Stadium,30523
+22615,79,"Sat 24 Feb 2018, 15:00 GMT",43,20,1,1,C,Turf Moor,20982
+22618,79,"Sat 24 Feb 2018, 15:00 GMT",10,25,4,1,C,Anfield,53256
+22621,79,"Sat 24 Feb 2018, 15:00 GMT",36,159,1,2,C,The Hawthorns,25920
+22620,79,"Sat 24 Feb 2018, 17:30 GMT",33,7,1,0,C,Vicarage Road,20430
+22616,79,"Sun 25 Feb 2018, 12:00 GMT",6,21,0,1,C,Selhurst Park,25287
+22619,79,"Sun 25 Feb 2018, 14:05 GMT",12,4,2,1,C,Old Trafford,75060
+22612,79,"Thu 1 Mar 2018, 19:45 GMT",1,11,0,3,C,Emirates Stadium,58420
+22623,79,"Sat 3 Mar 2018, 12:30 GMT",43,7,2,1,C,Turf Moor,20802
+22625,79,"Sat 3 Mar 2018, 15:00 GMT",26,127,1,1,C,King Power Stadium,31384
+22628,79,"Sat 3 Mar 2018, 15:00 GMT",20,42,0,0,C,St. Mary's Stadium,30335
+22629,79,"Sat 3 Mar 2018, 15:00 GMT",45,25,4,1,C,Liberty Stadium,20829
+22630,79,"Sat 3 Mar 2018, 15:00 GMT",21,159,2,0,C,Wembley Stadium,68311
+22631,79,"Sat 3 Mar 2018, 15:00 GMT",33,36,1,0,C,Vicarage Road,20022
+22626,79,"Sat 3 Mar 2018, 17:30 GMT",10,23,2,0,C,Anfield,53287
+22622,79,"Sun 4 Mar 2018, 13:30 GMT",131,1,2,1,C,Amex Stadium,30620
+22627,79,"Sun 4 Mar 2018, 16:00 GMT",11,4,1,0,C,Etihad Stadium,54328
+22624,79,"Mon 5 Mar 2018, 20:00 GMT",6,12,2,3,C,Selhurst Park,25840
+22637,79,"Sat 10 Mar 2018, 12:30 GMT",12,10,2,1,C,Old Trafford,74855
+22635,79,"Sat 10 Mar 2018, 15:00 GMT",7,131,2,0,C,Goodison Park,39199
+22636,79,"Sat 10 Mar 2018, 15:00 GMT",159,45,0,0,C,John Smith's Stadium,23567
+22638,79,"Sat 10 Mar 2018, 15:00 GMT",23,20,3,0,C,St. James' Park,52246
+22640,79,"Sat 10 Mar 2018, 15:00 GMT",36,26,1,4,C,The Hawthorns,23558
+22641,79,"Sat 10 Mar 2018, 15:00 GMT",25,43,0,3,C,London Stadium,56904
+22634,79,"Sat 10 Mar 2018, 17:30 GMT",4,6,2,1,C,Stamford Bridge,40800
+22632,79,"Sun 11 Mar 2018, 13:30 GMT",1,33,3,0,C,Emirates Stadium,59131
+22633,79,"Sun 11 Mar 2018, 16:00 GMT",127,21,1,4,C,Vitality Stadium,10623
+22639,79,"Mon 12 Mar 2018, 20:00 GMT",42,11,0,2,C,bet365 Stadium,29138
+22642,79,"Sat 17 Mar 2018, 15:00 GMT",127,36,2,1,C,Vitality Stadium,10242
+22644,79,"Sat 17 Mar 2018, 15:00 GMT",159,6,0,2,C,John Smith's Stadium,23980
+22648,79,"Sat 17 Mar 2018, 15:00 GMT",42,7,1,2,C,bet365 Stadium,30022
+22646,79,"Sat 17 Mar 2018, 17:30 GMT",10,33,5,0,C,Anfield,53287
+22655,79,"Sat 31 Mar 2018, 12:30 BST",6,10,1,2,C,Selhurst Park,25807
+22653,79,"Sat 31 Mar 2018, 15:00 BST",131,26,0,2,C,Amex Stadium,30629
+22657,79,"Sat 31 Mar 2018, 15:00 BST",12,45,2,0,C,Old Trafford,75038
+22658,79,"Sat 31 Mar 2018, 15:00 BST",23,159,1,0,C,St. James' Park,52261
+22660,79,"Sat 31 Mar 2018, 15:00 BST",33,127,2,2,C,Vicarage Road,20393
+22661,79,"Sat 31 Mar 2018, 15:00 BST",36,43,1,2,C,The Hawthorns,23455
+22361,79,"Sat 31 Mar 2018, 15:00 BST",25,20,3,0,C,London Stadium,56882
+22656,79,"Sat 31 Mar 2018, 17:30 BST",7,11,1,3,C,Goodison Park,39221
+22652,79,"Sun 1 Apr 2018, 13:30 BST",1,42,3,0,C,Emirates Stadium,59371
+22654,79,"Sun 1 Apr 2018, 16:00 BST",4,21,1,3,C,Stamford Bridge,41364
+22666,79,"Sat 7 Apr 2018, 12:30 BST",7,10,0,0,C,Goodison Park,39220
+22663,79,"Sat 7 Apr 2018, 15:00 BST",127,6,2,2,C,Vitality Stadium,10730
+22664,79,"Sat 7 Apr 2018, 15:00 BST",131,159,1,1,C,Amex Stadium,30501
+22667,79,"Sat 7 Apr 2018, 15:00 BST",26,23,1,2,C,King Power Stadium,32066
+22669,79,"Sat 7 Apr 2018, 15:00 BST",42,21,1,2,C,bet365 Stadium,29515
+22670,79,"Sat 7 Apr 2018, 15:00 BST",33,43,1,2,C,Vicarage Road,20044
+22671,79,"Sat 7 Apr 2018, 15:00 BST",36,45,1,1,C,The Hawthorns,23297
+22668,79,"Sat 7 Apr 2018, 17:30 BST",11,12,2,3,C,Etihad Stadium,54259
+22662,79,"Sun 8 Apr 2018, 14:15 BST",1,20,3,2,C,Emirates Stadium,59374
+22665,79,"Sun 8 Apr 2018, 16:30 BST",4,25,1,1,C,Stamford Bridge,41324
+22678,79,"Sat 14 Apr 2018, 12:30 BST",20,4,2,3,C,St. Mary's Stadium,31764
+22672,79,"Sat 14 Apr 2018, 15:00 BST",43,26,2,1,C,Turf Moor,21727
+22673,79,"Sat 14 Apr 2018, 15:00 BST",6,131,3,2,C,Selhurst Park,24656
+22674,79,"Sat 14 Apr 2018, 15:00 BST",159,33,1,0,C,John Smith's Stadium,23961
+22679,79,"Sat 14 Apr 2018, 15:00 BST",45,7,1,1,C,Liberty Stadium,20933
+22675,79,"Sat 14 Apr 2018, 17:30 BST",10,127,3,0,C,Anfield,52959
+22680,79,"Sat 14 Apr 2018, 19:45 BST",21,11,1,3,C,Wembley Stadium,80811
+22677,79,"Sun 15 Apr 2018, 13:30 BST",23,1,2,1,C,St. James' Park,52210
+22676,79,"Sun 15 Apr 2018, 16:00 BST",12,36,0,1,C,Old Trafford,75095
+22681,79,"Mon 16 Apr 2018, 20:00 BST",25,42,1,1,C,London Stadium,56795
+22684,79,"Tue 17 Apr 2018, 19:45 BST",131,21,1,1,C,Amex Stadium,30440
+22683,79,"Wed 18 Apr 2018, 19:45 BST",127,12,0,2,C,Vitality Stadium,10952
+22643,79,"Thu 19 Apr 2018, 19:45 BST",43,4,1,2,C,Turf Moor,21264
+22687,79,"Thu 19 Apr 2018, 19:45 BST",26,20,0,0,C,King Power Stadium,31160
+22691,79,"Sat 21 Apr 2018, 12:30 BST",36,10,2,2,C,The Hawthorns,24520
+22690,79,"Sat 21 Apr 2018, 15:00 BST",33,6,0,0,C,Vicarage Road,20401
+22682,79,"Sun 22 Apr 2018, 13:30 BST",1,25,4,1,C,Emirates Stadium,59422
+22689,79,"Sun 22 Apr 2018, 13:30 BST",42,43,1,1,C,bet365 Stadium,29532
+22688,79,"Sun 22 Apr 2018, 16:30 BST",11,45,5,0,C,Etihad Stadium,54387
+22686,79,"Mon 23 Apr 2018, 20:00 BST",7,23,1,0,C,Goodison Park,39061
+22695,79,"Sat 28 Apr 2018, 12:30 BST",10,42,0,0,C,Anfield,53255
+22692,79,"Sat 28 Apr 2018, 15:00 BST",43,131,0,0,C,Turf Moor,19459
+22693,79,"Sat 28 Apr 2018, 15:00 BST",6,26,5,0,C,Selhurst Park,25750
+22694,79,"Sat 28 Apr 2018, 15:00 BST",159,7,0,2,C,John Smith's Stadium,24121
+22697,79,"Sat 28 Apr 2018, 15:00 BST",23,36,0,1,C,St. James' Park,52283
+22698,79,"Sat 28 Apr 2018, 15:00 BST",20,127,2,1,C,St. Mary's Stadium,31778
+22699,79,"Sat 28 Apr 2018, 17:30 BST",45,4,0,1,C,Liberty Stadium,20900
+22701,79,"Sun 29 Apr 2018, 14:15 BST",25,11,1,4,C,London Stadium,56904
+22696,79,"Sun 29 Apr 2018, 16:30 BST",12,1,2,1,C,Old Trafford,75035
+22700,79,"Mon 30 Apr 2018, 20:00 BST",21,33,2,0,C,Wembley Stadium,52675
+22704,79,"Fri 4 May 2018, 20:00 BST",131,12,1,0,C,Amex Stadium,30611
+22709,79,"Sat 5 May 2018, 12:30 BST",42,6,1,2,C,bet365 Stadium,29687
+22703,79,"Sat 5 May 2018, 15:00 BST",127,45,1,0,C,Vitality Stadium,10820
+22707,79,"Sat 5 May 2018, 15:00 BST",26,25,0,2,C,King Power Stadium,32013
+22710,79,"Sat 5 May 2018, 15:00 BST",33,23,2,1,C,Vicarage Road,20375
+22711,79,"Sat 5 May 2018, 15:00 BST",36,21,1,0,C,The Hawthorns,23685
+22706,79,"Sat 5 May 2018, 17:30 BST",7,20,1,1,C,Goodison Park,38225
+22708,79,"Sun 6 May 2018, 13:30 BST",11,159,0,0,C,Etihad Stadium,54350
+22702,79,"Sun 6 May 2018, 16:30 BST",1,43,5,0,C,Emirates Stadium,59540
+22705,79,"Sun 6 May 2018, 16:30 BST",4,10,1,0,C,Stamford Bridge,41314
+22649,79,"Tue 8 May 2018, 19:45 BST",45,20,0,1,C,Liberty Stadium,20858
+22685,79,"Wed 9 May 2018, 19:45 BST",4,159,1,1,C,Stamford Bridge,38910
+22645,79,"Wed 9 May 2018, 19:45 BST",26,1,3,1,C,King Power Stadium,32095
+22647,79,"Wed 9 May 2018, 20:00 BST",11,131,3,1,C,Etihad Stadium,54013
+22650,79,"Wed 9 May 2018, 20:00 BST",21,23,1,0,C,Wembley Stadium,54923
+22651,79,"Thu 10 May 2018, 19:45 BST",25,12,0,0,C,London Stadium,56902
+22712,79,"Sun 13 May 2018, 15:00 BST",43,127,1,2,C,Turf Moor,20720
+22713,79,"Sun 13 May 2018, 15:00 BST",6,36,2,0,C,Selhurst Park,25357
+22714,79,"Sun 13 May 2018, 15:00 BST",159,1,0,1,C,John Smith's Stadium,24122
+22715,79,"Sun 13 May 2018, 15:00 BST",10,131,4,0,C,Anfield,50752
+22716,79,"Sun 13 May 2018, 15:00 BST",12,33,1,0,C,Old Trafford,75049
+22717,79,"Sun 13 May 2018, 15:00 BST",23,4,3,0,C,St. James' Park,52294
+22718,79,"Sun 13 May 2018, 15:00 BST",20,11,0,1,C,St. Mary's Stadium,31882
+22719,79,"Sun 13 May 2018, 15:00 BST",45,42,1,2,C,Liberty Stadium,20673
+22720,79,"Sun 13 May 2018, 15:00 BST",21,26,5,4,C,Wembley Stadium,77841
+22721,79,"Sun 13 May 2018, 15:00 BST",25,7,3,1,C,London Stadium,56926

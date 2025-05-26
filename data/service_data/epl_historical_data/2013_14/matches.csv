@@ -1,0 +1,381 @@
+match_id,season_id,date,home_team,away_team,home_score,away_score,status,stadium,attendance
+9232,22,"Sat 17 Aug 2013, 12:45 BST",10,42,1,0,C,Anfield,44822
+9231,22,"Sat 17 Aug 2013, 15:00 BST",1,2,1,3,C,Emirates Stadium,60003
+9233,22,"Sat 17 Aug 2013, 15:00 BST",14,7,2,2,C,Carrow Road,26824
+9234,22,"Sat 17 Aug 2013, 15:00 BST",29,34,0,1,C,Stadium of Light,43905
+9236,22,"Sat 17 Aug 2013, 15:00 BST",36,20,0,1,C,The Hawthorns,25927
+9237,22,"Sat 17 Aug 2013, 15:00 BST",25,46,2,0,C,Boleyn Ground,34977
+9235,22,"Sat 17 Aug 2013, 17:30 BST",45,12,1,4,C,Liberty Stadium,20733
+9239,22,"Sun 18 Aug 2013, 13:30 BST",6,21,0,1,C,Selhurst Park,23285
+9238,22,"Sun 18 Aug 2013, 16:00 BST",4,41,2,0,C,Stamford Bridge,41374
+9240,22,"Mon 19 Aug 2013, 20:00 BST",11,23,4,0,C,Etihad Stadium,46842
+9241,22,"Wed 21 Aug 2013, 19:45 BST",4,2,2,1,C,Stamford Bridge,41527
+9244,22,"Sat 24 Aug 2013, 12:45 BST",34,1,1,3,C,Craven Cottage,25622
+9243,22,"Sat 24 Aug 2013, 15:00 BST",7,36,0,0,C,Goodison Park,36410
+9245,22,"Sat 24 Aug 2013, 15:00 BST",41,14,1,0,C,MKM Stadium,23682
+9246,22,"Sat 24 Aug 2013, 15:00 BST",23,25,0,0,C,St. James' Park,49622
+9247,22,"Sat 24 Aug 2013, 15:00 BST",20,29,1,1,C,St. Mary's Stadium,29596
+9248,22,"Sat 24 Aug 2013, 15:00 BST",42,6,2,1,C,Britannia Stadium,25270
+9242,22,"Sat 24 Aug 2013, 17:30 BST",2,10,0,1,C,Villa Park,42098
+9249,22,"Sun 25 Aug 2013, 16:00 BST",46,11,3,2,C,Cardiff City Stadium,27068
+9250,22,"Sun 25 Aug 2013, 16:00 BST",21,45,1,0,C,White Hart Lane,36005
+9251,22,"Mon 26 Aug 2013, 20:00 BST",12,4,0,0,C,Old Trafford,75032
+9254,22,"Sat 31 Aug 2013, 12:45 BST",11,41,2,0,C,Etihad Stadium,46903
+9252,22,"Sat 31 Aug 2013, 15:00 BST",46,7,0,0,C,Cardiff City Stadium,27344
+9255,22,"Sat 31 Aug 2013, 15:00 BST",23,34,1,0,C,St. James' Park,46402
+9256,22,"Sat 31 Aug 2013, 15:00 BST",14,20,1,0,C,Carrow Road,26819
+9257,22,"Sat 31 Aug 2013, 15:00 BST",25,42,0,1,C,Boleyn Ground,34946
+9253,22,"Sat 31 Aug 2013, 17:30 BST",6,29,3,1,C,Selhurst Park,22671
+9259,22,"Sun 1 Sep 2013, 13:30 BST",10,12,1,0,C,Anfield,44411
+9260,22,"Sun 1 Sep 2013, 13:30 BST",36,45,0,2,C,The Hawthorns,23395
+9258,22,"Sun 1 Sep 2013, 16:00 BST",1,21,1,0,C,Emirates Stadium,60071
+9265,22,"Sat 14 Sep 2013, 12:45 BST",12,6,2,0,C,Old Trafford,75170
+9261,22,"Sat 14 Sep 2013, 15:00 BST",2,23,1,2,C,Villa Park,37554
+9263,22,"Sat 14 Sep 2013, 15:00 BST",34,36,1,1,C,Craven Cottage,25560
+9264,22,"Sat 14 Sep 2013, 15:00 BST",41,46,1,1,C,MKM Stadium,21949
+9266,22,"Sat 14 Sep 2013, 15:00 BST",42,11,0,0,C,Britannia Stadium,25052
+9267,22,"Sat 14 Sep 2013, 15:00 BST",29,1,1,3,C,Stadium of Light,39055
+9268,22,"Sat 14 Sep 2013, 15:00 BST",21,14,2,0,C,White Hart Lane,35952
+9262,22,"Sat 14 Sep 2013, 17:30 BST",7,4,1,0,C,Goodison Park,36034
+9269,22,"Sun 15 Sep 2013, 16:00 BST",20,25,0,0,C,St. Mary's Stadium,28794
+9270,22,"Mon 16 Sep 2013, 20:00 BST",45,10,2,2,C,Liberty Stadium,20752
+9274,22,"Sat 21 Sep 2013, 12:45 BST",14,2,0,1,C,Carrow Road,26813
+9272,22,"Sat 21 Sep 2013, 15:00 BST",10,20,0,1,C,Anfield,44755
+9273,22,"Sat 21 Sep 2013, 15:00 BST",23,41,2,3,C,St. James' Park,51523
+9275,22,"Sat 21 Sep 2013, 15:00 BST",36,29,3,0,C,The Hawthorns,24595
+9276,22,"Sat 21 Sep 2013, 15:00 BST",25,7,2,3,C,Boleyn Ground,34952
+9271,22,"Sat 21 Sep 2013, 17:30 BST",4,34,2,0,C,Stamford Bridge,41608
+9277,22,"Sun 22 Sep 2013, 13:30 BST",1,42,3,1,C,Emirates Stadium,60002
+9279,22,"Sun 22 Sep 2013, 13:30 BST",6,45,0,2,C,Selhurst Park,22466
+9278,22,"Sun 22 Sep 2013, 16:00 BST",46,21,0,1,C,Cardiff City Stadium,27815
+9280,22,"Sun 22 Sep 2013, 16:00 BST",11,12,4,1,C,Etihad Stadium,47156
+9287,22,"Sat 28 Sep 2013, 12:45 BST",21,4,1,1,C,White Hart Lane,35857
+9281,22,"Sat 28 Sep 2013, 15:00 BST",2,11,3,2,C,Villa Park,34063
+9282,22,"Sat 28 Sep 2013, 15:00 BST",34,46,1,2,C,Craven Cottage,23020
+9283,22,"Sat 28 Sep 2013, 15:00 BST",41,25,1,0,C,MKM Stadium,24291
+9284,22,"Sat 28 Sep 2013, 15:00 BST",12,36,1,2,C,Old Trafford,75042
+9285,22,"Sat 28 Sep 2013, 15:00 BST",20,6,2,0,C,St. Mary's Stadium,30699
+9286,22,"Sat 28 Sep 2013, 17:30 BST",45,1,1,2,C,Liberty Stadium,20712
+9288,22,"Sun 29 Sep 2013, 13:30 BST",42,14,0,1,C,Britannia Stadium,26184
+9289,22,"Sun 29 Sep 2013, 16:00 BST",29,10,1,3,C,Stadium of Light,41415
+9290,22,"Mon 30 Sep 2013, 20:00 BST",7,23,3,2,C,Goodison Park,33495
+9295,22,"Sat 5 Oct 2013, 12:45 BST",11,7,3,1,C,Etihad Stadium,47267
+9291,22,"Sat 5 Oct 2013, 15:00 BST",46,23,1,2,C,Cardiff City Stadium,27538
+9292,22,"Sat 5 Oct 2013, 15:00 BST",34,42,1,0,C,Craven Cottage,24634
+9293,22,"Sat 5 Oct 2013, 15:00 BST",41,2,0,0,C,MKM Stadium,24396
+9294,22,"Sat 5 Oct 2013, 15:00 BST",10,6,3,1,C,Anfield,44721
+9296,22,"Sat 5 Oct 2013, 17:30 BST",29,12,1,2,C,Stadium of Light,45426
+9297,22,"Sun 6 Oct 2013, 13:30 BST",14,4,1,3,C,Carrow Road,26840
+9298,22,"Sun 6 Oct 2013, 13:30 BST",20,45,2,0,C,St. Mary's Stadium,28570
+9299,22,"Sun 6 Oct 2013, 16:00 BST",21,25,0,3,C,White Hart Lane,35977
+9300,22,"Sun 6 Oct 2013, 16:00 BST",36,1,1,1,C,The Hawthorns,24839
+9305,22,"Sat 19 Oct 2013, 12:45 BST",23,10,2,2,C,St. James' Park,51703
+9301,22,"Sat 19 Oct 2013, 15:00 BST",1,14,4,1,C,Emirates Stadium,60009
+9302,22,"Sat 19 Oct 2013, 15:00 BST",4,46,4,1,C,Stamford Bridge,41475
+9303,22,"Sat 19 Oct 2013, 15:00 BST",7,41,2,1,C,Goodison Park,38828
+9304,22,"Sat 19 Oct 2013, 15:00 BST",12,20,1,1,C,Old Trafford,75220
+9306,22,"Sat 19 Oct 2013, 15:00 BST",42,36,0,0,C,Britannia Stadium,25904
+9307,22,"Sat 19 Oct 2013, 15:00 BST",45,29,4,0,C,Liberty Stadium,20245
+9308,22,"Sat 19 Oct 2013, 17:30 BST",25,11,1,3,C,Boleyn Ground,34507
+9309,22,"Sun 20 Oct 2013, 16:00 BST",2,21,0,2,C,Villa Park,35391
+9310,22,"Mon 21 Oct 2013, 20:00 BST",6,34,1,4,C,Selhurst Park,24881
+9312,22,"Sat 26 Oct 2013, 12:45 BST",6,1,0,2,C,Selhurst Park,20050
+9311,22,"Sat 26 Oct 2013, 15:00 BST",2,7,0,2,C,Villa Park,35154
+9313,22,"Sat 26 Oct 2013, 15:00 BST",10,36,4,1,C,Anfield,44747
+9314,22,"Sat 26 Oct 2013, 15:00 BST",12,42,3,2,C,Old Trafford,75274
+9315,22,"Sat 26 Oct 2013, 15:00 BST",14,46,0,0,C,Carrow Road,26846
+9316,22,"Sat 26 Oct 2013, 17:30 BST",20,34,2,0,C,St. Mary's Stadium,28631
+9318,22,"Sun 27 Oct 2013, 13:30 GMT",29,23,2,1,C,Stadium of Light,46313
+9317,22,"Sun 27 Oct 2013, 16:00 GMT",4,11,2,1,C,Stamford Bridge,41495
+9319,22,"Sun 27 Oct 2013, 16:00 GMT",45,25,0,0,C,Liberty Stadium,20455
+9320,22,"Sun 27 Oct 2013, 16:00 GMT",21,41,1,0,C,White Hart Lane,36080
+9325,22,"Sat 2 Nov 2013, 12:45 GMT",23,4,2,0,C,St. James' Park,51674
+9322,22,"Sat 2 Nov 2013, 15:00 GMT",34,12,1,3,C,Craven Cottage,25700
+9323,22,"Sat 2 Nov 2013, 15:00 GMT",41,29,1,0,C,MKM Stadium,24677
+9324,22,"Sat 2 Nov 2013, 15:00 GMT",11,14,7,0,C,Etihad Stadium,47066
+9326,22,"Sat 2 Nov 2013, 15:00 GMT",42,20,1,1,C,Britannia Stadium,26053
+9327,22,"Sat 2 Nov 2013, 15:00 GMT",36,6,2,0,C,The Hawthorns,26397
+9328,22,"Sat 2 Nov 2013, 15:00 GMT",25,2,0,0,C,Boleyn Ground,34977
+9321,22,"Sat 2 Nov 2013, 17:30 GMT",1,10,2,0,C,Emirates Stadium,60042
+9330,22,"Sun 3 Nov 2013, 13:30 GMT",7,21,0,0,C,Goodison Park,38378
+9329,22,"Sun 3 Nov 2013, 16:00 GMT",46,45,1,0,C,Cardiff City Stadium,27463
+9331,22,"Sat 9 Nov 2013, 15:00 GMT",2,46,2,0,C,Villa Park,35809
+9332,22,"Sat 9 Nov 2013, 15:00 GMT",4,36,2,2,C,Stamford Bridge,41623
+9333,22,"Sat 9 Nov 2013, 15:00 GMT",6,7,0,0,C,Selhurst Park,25231
+9334,22,"Sat 9 Nov 2013, 15:00 GMT",10,34,4,0,C,Anfield,44768
+9336,22,"Sat 9 Nov 2013, 15:00 GMT",20,41,4,1,C,St. Mary's Stadium,30022
+9335,22,"Sat 9 Nov 2013, 17:30 GMT",14,25,3,1,C,Carrow Road,26824
+9340,22,"Sun 10 Nov 2013, 12:00 GMT",21,23,0,1,C,White Hart Lane,36042
+9338,22,"Sun 10 Nov 2013, 14:05 GMT",29,11,1,0,C,Stadium of Light,40137
+9337,22,"Sun 10 Nov 2013, 16:10 GMT",12,1,1,0,C,Old Trafford,75138
+9339,22,"Sun 10 Nov 2013, 16:10 GMT",45,42,3,3,C,Liberty Stadium,19242
+9342,22,"Sat 23 Nov 2013, 12:45 GMT",7,10,3,3,C,Goodison Park,39576
+9341,22,"Sat 23 Nov 2013, 15:00 GMT",1,20,2,0,C,Emirates Stadium,60007
+9343,22,"Sat 23 Nov 2013, 15:00 GMT",34,45,1,2,C,Craven Cottage,25258
+9344,22,"Sat 23 Nov 2013, 15:00 GMT",41,6,0,1,C,MKM Stadium,23043
+9345,22,"Sat 23 Nov 2013, 15:00 GMT",23,14,2,1,C,St. James' Park,51328
+9346,22,"Sat 23 Nov 2013, 15:00 GMT",42,29,2,0,C,Britannia Stadium,26007
+9347,22,"Sat 23 Nov 2013, 17:30 GMT",25,4,0,3,C,Boleyn Ground,34977
+9349,22,"Sun 24 Nov 2013, 13:30 GMT",11,21,6,0,C,Etihad Stadium,47228
+9348,22,"Sun 24 Nov 2013, 16:00 GMT",46,12,2,2,C,Cardiff City Stadium,28016
+9350,22,"Mon 25 Nov 2013, 20:00 GMT",36,2,2,2,C,The Hawthorns,24902
+9351,22,"Sat 30 Nov 2013, 15:00 GMT",2,29,0,0,C,Villa Park,33036
+9352,22,"Sat 30 Nov 2013, 15:00 GMT",46,1,0,3,C,Cardiff City Stadium,27948
+9353,22,"Sat 30 Nov 2013, 15:00 GMT",7,42,4,0,C,Goodison Park,35513
+9355,22,"Sat 30 Nov 2013, 15:00 GMT",14,6,1,0,C,Carrow Road,26851
+9356,22,"Sat 30 Nov 2013, 15:00 GMT",25,34,3,0,C,Boleyn Ground,34946
+9354,22,"Sat 30 Nov 2013, 17:30 GMT",23,36,2,1,C,St. James' Park,49298
+9360,22,"Sun 1 Dec 2013, 12:00 GMT",21,12,2,2,C,White Hart Lane,35884
+9358,22,"Sun 1 Dec 2013, 14:05 GMT",41,10,3,1,C,MKM Stadium,24940
+9357,22,"Sun 1 Dec 2013, 16:10 GMT",4,20,3,1,C,Stamford Bridge,41568
+9359,22,"Sun 1 Dec 2013, 16:10 GMT",11,45,3,0,C,Etihad Stadium,46559
+9361,22,"Tue 3 Dec 2013, 20:00 GMT",6,25,1,0,C,Selhurst Park,23891
+9362,22,"Wed 4 Dec 2013, 19:45 GMT",1,41,2,0,C,Emirates Stadium,60017
+9364,22,"Wed 4 Dec 2013, 19:45 GMT",10,14,5,1,C,Anfield,44541
+9365,22,"Wed 4 Dec 2013, 19:45 GMT",12,7,0,1,C,Old Trafford,75210
+9366,22,"Wed 4 Dec 2013, 19:45 GMT",20,2,2,3,C,St. Mary's Stadium,29814
+9367,22,"Wed 4 Dec 2013, 19:45 GMT",42,46,0,0,C,Britannia Stadium,25014
+9368,22,"Wed 4 Dec 2013, 19:45 GMT",29,4,3,4,C,Stadium of Light,40652
+9369,22,"Wed 4 Dec 2013, 19:45 GMT",45,23,3,0,C,Liberty Stadium,20457
+9363,22,"Wed 4 Dec 2013, 20:00 GMT",34,21,1,2,C,Craven Cottage,24128
+9370,22,"Wed 4 Dec 2013, 20:00 GMT",36,11,2,3,C,The Hawthorns,22943
+9373,22,"Sat 7 Dec 2013, 12:45 GMT",12,23,0,1,C,Old Trafford,75233
+9371,22,"Sat 7 Dec 2013, 15:00 GMT",6,46,2,0,C,Selhurst Park,23705
+9372,22,"Sat 7 Dec 2013, 15:00 GMT",10,25,4,1,C,Anfield,44781
+9374,22,"Sat 7 Dec 2013, 15:00 GMT",20,11,1,1,C,St. Mary's Stadium,31229
+9375,22,"Sat 7 Dec 2013, 15:00 GMT",42,4,3,2,C,Britannia Stadium,25154
+9377,22,"Sat 7 Dec 2013, 15:00 GMT",36,14,0,2,C,The Hawthorns,23675
+9376,22,"Sat 7 Dec 2013, 17:30 GMT",29,21,1,2,C,Stadium of Light,37963
+9379,22,"Sun 8 Dec 2013, 13:30 GMT",34,2,2,0,C,Craven Cottage,22288
+9378,22,"Sun 8 Dec 2013, 16:00 GMT",1,7,1,1,C,Emirates Stadium,60001
+9380,22,"Mon 9 Dec 2013, 20:00 GMT",45,41,1,1,C,Liberty Stadium,19303
+9385,22,"Sat 14 Dec 2013, 12:45 GMT",11,1,6,3,C,Etihad Stadium,47229
+9381,22,"Sat 14 Dec 2013, 15:00 GMT",46,36,1,0,C,Cardiff City Stadium,26632
+9382,22,"Sat 14 Dec 2013, 15:00 GMT",4,6,2,1,C,Stamford Bridge,41608
+9383,22,"Sat 14 Dec 2013, 15:00 GMT",7,34,4,1,C,Goodison Park,33796
+9386,22,"Sat 14 Dec 2013, 15:00 GMT",23,20,1,1,C,St. James' Park,49164
+9387,22,"Sat 14 Dec 2013, 15:00 GMT",25,29,0,0,C,Boleyn Ground,31843
+9384,22,"Sat 14 Dec 2013, 17:30 GMT",41,42,0,0,C,MKM Stadium,23324
+9388,22,"Sun 15 Dec 2013, 13:30 GMT",2,12,0,3,C,Villa Park,42682
+9389,22,"Sun 15 Dec 2013, 13:30 GMT",14,45,1,1,C,Carrow Road,26876
+9390,22,"Sun 15 Dec 2013, 16:00 GMT",21,10,0,5,C,White Hart Lane,36069
+9393,22,"Sat 21 Dec 2013, 12:45 GMT",10,46,3,1,C,Anfield,44621
+9391,22,"Sat 21 Dec 2013, 15:00 GMT",6,23,0,3,C,Selhurst Park,24936
+9392,22,"Sat 21 Dec 2013, 15:00 GMT",34,11,2,4,C,Craven Cottage,25509
+9394,22,"Sat 21 Dec 2013, 15:00 GMT",12,25,3,1,C,Old Trafford,75350
+9395,22,"Sat 21 Dec 2013, 15:00 GMT",42,2,2,1,C,Britannia Stadium,26003
+9396,22,"Sat 21 Dec 2013, 15:00 GMT",29,14,0,0,C,Stadium of Light,37778
+9397,22,"Sat 21 Dec 2013, 15:00 GMT",36,41,1,1,C,The Hawthorns,24753
+9398,22,"Sun 22 Dec 2013, 13:30 GMT",20,21,2,3,C,St. Mary's Stadium,31455
+9399,22,"Sun 22 Dec 2013, 16:00 GMT",45,7,1,2,C,Liberty Stadium,20695
+9400,22,"Mon 23 Dec 2013, 20:00 GMT",1,4,0,0,C,Emirates Stadium,60039
+9405,22,"Thu 26 Dec 2013, 12:45 GMT",41,12,2,3,C,MKM Stadium,24826
+9401,22,"Thu 26 Dec 2013, 15:00 GMT",2,6,0,1,C,Villa Park,37752
+9402,22,"Thu 26 Dec 2013, 15:00 GMT",46,20,0,3,C,Cardiff City Stadium,27929
+9403,22,"Thu 26 Dec 2013, 15:00 GMT",4,45,1,0,C,Stamford Bridge,41111
+9404,22,"Thu 26 Dec 2013, 15:00 GMT",7,29,0,1,C,Goodison Park,39193
+9407,22,"Thu 26 Dec 2013, 15:00 GMT",23,42,5,1,C,St. James' Park,51665
+9408,22,"Thu 26 Dec 2013, 15:00 GMT",14,34,1,2,C,Carrow Road,26811
+9409,22,"Thu 26 Dec 2013, 15:00 GMT",21,36,1,1,C,White Hart Lane,35545
+9410,22,"Thu 26 Dec 2013, 15:00 GMT",25,1,1,3,C,Boleyn Ground,34977
+9406,22,"Thu 26 Dec 2013, 17:30 GMT",11,10,2,1,C,Etihad Stadium,47351
+9416,22,"Sat 28 Dec 2013, 12:45 GMT",25,36,3,3,C,Boleyn Ground,34946
+9411,22,"Sat 28 Dec 2013, 15:00 GMT",2,45,1,1,C,Villa Park,37028
+9413,22,"Sat 28 Dec 2013, 15:00 GMT",41,34,6,0,C,MKM Stadium,23925
+9414,22,"Sat 28 Dec 2013, 15:00 GMT",11,6,1,0,C,Etihad Stadium,47107
+9415,22,"Sat 28 Dec 2013, 15:00 GMT",14,12,0,1,C,Carrow Road,26851
+9412,22,"Sat 28 Dec 2013, 17:30 GMT",46,29,2,2,C,Cardiff City Stadium,27247
+9418,22,"Sun 29 Dec 2013, 13:30 GMT",7,20,2,1,C,Goodison Park,39092
+9419,22,"Sun 29 Dec 2013, 13:30 GMT",23,1,0,1,C,St. James' Park,52161
+9417,22,"Sun 29 Dec 2013, 16:00 GMT",4,10,2,1,C,Stamford Bridge,41614
+9420,22,"Sun 29 Dec 2013, 16:00 GMT",21,42,3,0,C,White Hart Lane,36072
+9429,22,"Wed 1 Jan 2014, 12:45 GMT",45,11,2,3,C,Liberty Stadium,20498
+9421,22,"Wed 1 Jan 2014, 15:00 GMT",1,46,2,0,C,Emirates Stadium,60004
+9422,22,"Wed 1 Jan 2014, 15:00 GMT",6,14,1,1,C,Selhurst Park,25189
+9423,22,"Wed 1 Jan 2014, 15:00 GMT",34,25,2,1,C,Craven Cottage,25335
+9424,22,"Wed 1 Jan 2014, 15:00 GMT",10,41,2,0,C,Anfield,44627
+9426,22,"Wed 1 Jan 2014, 15:00 GMT",20,4,0,3,C,St. Mary's Stadium,31271
+9427,22,"Wed 1 Jan 2014, 15:00 GMT",42,7,1,1,C,Britannia Stadium,25832
+9428,22,"Wed 1 Jan 2014, 15:00 GMT",29,2,0,1,C,Stadium of Light,39757
+9430,22,"Wed 1 Jan 2014, 15:00 GMT",36,23,1,0,C,The Hawthorns,26430
+9425,22,"Wed 1 Jan 2014, 17:30 GMT",12,21,1,2,C,Old Trafford,75265
+9434,22,"Sat 11 Jan 2014, 12:45 GMT",41,4,0,2,C,MKM Stadium,24924
+9431,22,"Sat 11 Jan 2014, 15:00 GMT",46,25,0,2,C,Cardiff City Stadium,27750
+9432,22,"Sat 11 Jan 2014, 15:00 GMT",7,14,2,0,C,Goodison Park,36827
+9433,22,"Sat 11 Jan 2014, 15:00 GMT",34,29,1,4,C,Craven Cottage,25564
+9436,22,"Sat 11 Jan 2014, 15:00 GMT",20,36,1,0,C,St. Mary's Stadium,28610
+9437,22,"Sat 11 Jan 2014, 15:00 GMT",21,6,2,0,C,White Hart Lane,36102
+9435,22,"Sat 11 Jan 2014, 17:30 GMT",12,45,2,0,C,Old Trafford,75035
+9438,22,"Sun 12 Jan 2014, 14:05 GMT",23,11,0,2,C,St. James' Park,49423
+9439,22,"Sun 12 Jan 2014, 16:10 GMT",42,10,3,5,C,Britannia Stadium,27160
+9440,22,"Mon 13 Jan 2014, 20:00 GMT",2,1,1,2,C,Villa Park,36097
+9446,22,"Sat 18 Jan 2014, 12:45 GMT",29,20,2,2,C,Stadium of Light,38115
+9441,22,"Sat 18 Jan 2014, 15:00 GMT",1,34,2,0,C,Emirates Stadium,60000
+9442,22,"Sat 18 Jan 2014, 15:00 GMT",6,42,1,0,C,Selhurst Park,24440
+9444,22,"Sat 18 Jan 2014, 15:00 GMT",11,46,4,2,C,Etihad Stadium,47213
+9445,22,"Sat 18 Jan 2014, 15:00 GMT",14,41,1,0,C,Carrow Road,26655
+9447,22,"Sat 18 Jan 2014, 15:00 GMT",25,23,1,3,C,Boleyn Ground,33343
+9443,22,"Sat 18 Jan 2014, 17:30 GMT",10,2,2,2,C,Anfield,44737
+9449,22,"Sun 19 Jan 2014, 13:30 GMT",45,21,1,3,C,Liberty Stadium,20769
+9448,22,"Sun 19 Jan 2014, 16:00 GMT",4,12,3,1,C,Stamford Bridge,41615
+9450,22,"Mon 20 Jan 2014, 20:00 GMT",36,7,1,1,C,The Hawthorns,24184
+9453,22,"Tue 28 Jan 2014, 19:45 GMT",12,46,2,0,C,Old Trafford,75301
+9454,22,"Tue 28 Jan 2014, 19:45 GMT",14,23,0,0,C,Carrow Road,26762
+9455,22,"Tue 28 Jan 2014, 19:45 GMT",20,1,2,2,C,St. Mary's Stadium,31284
+9456,22,"Tue 28 Jan 2014, 19:45 GMT",45,34,2,0,C,Liberty Stadium,20004
+9451,22,"Tue 28 Jan 2014, 20:00 GMT",6,41,1,0,C,Selhurst Park,22519
+9452,22,"Tue 28 Jan 2014, 20:00 GMT",10,7,4,0,C,Anfield,44450
+9457,22,"Wed 29 Jan 2014, 19:45 GMT",2,36,4,3,C,Villa Park,36083
+9458,22,"Wed 29 Jan 2014, 19:45 GMT",4,25,0,0,C,Stamford Bridge,41376
+9459,22,"Wed 29 Jan 2014, 19:45 GMT",29,42,1,0,C,Stadium of Light,34745
+9460,22,"Wed 29 Jan 2014, 19:45 GMT",21,11,1,5,C,White Hart Lane,36071
+9465,22,"Sat 1 Feb 2014, 12:45 GMT",23,29,0,3,C,St. James' Park,52280
+9467,22,"Sat 1 Feb 2014, 12:45 GMT",25,45,2,0,C,Boleyn Ground,31848
+9461,22,"Sat 1 Feb 2014, 15:00 GMT",46,14,2,1,C,Cardiff City Stadium,26748
+9462,22,"Sat 1 Feb 2014, 15:00 GMT",7,2,2,1,C,Goodison Park,39469
+9463,22,"Sat 1 Feb 2014, 15:00 GMT",34,20,0,3,C,Craven Cottage,25700
+9464,22,"Sat 1 Feb 2014, 15:00 GMT",41,21,1,1,C,MKM Stadium,24932
+9466,22,"Sat 1 Feb 2014, 15:00 GMT",42,12,2,1,C,Britannia Stadium,26547
+9469,22,"Sun 2 Feb 2014, 13:30 GMT",36,10,1,1,C,The Hawthorns,26132
+9468,22,"Sun 2 Feb 2014, 16:00 GMT",1,6,2,0,C,Emirates Stadium,60005
+9470,22,"Mon 3 Feb 2014, 20:00 GMT",11,4,0,1,C,Etihad Stadium,47364
+9474,22,"Sat 8 Feb 2014, 12:45 GMT",10,1,5,1,C,Anfield,44701
+9471,22,"Sat 8 Feb 2014, 15:00 GMT",2,25,0,2,C,Villa Park,36261
+9472,22,"Sat 8 Feb 2014, 15:00 GMT",4,23,3,0,C,Stamford Bridge,41387
+9473,22,"Sat 8 Feb 2014, 15:00 GMT",6,36,3,1,C,Selhurst Park,24501
+9475,22,"Sat 8 Feb 2014, 15:00 GMT",14,11,0,0,C,Carrow Road,26832
+9476,22,"Sat 8 Feb 2014, 15:00 GMT",20,42,2,2,C,St. Mary's Stadium,27987
+9477,22,"Sat 8 Feb 2014, 15:00 GMT",29,41,0,2,C,Stadium of Light,42810
+9478,22,"Sat 8 Feb 2014, 17:30 GMT",45,46,3,0,C,Liberty Stadium,20402
+9480,22,"Sun 9 Feb 2014, 13:30 GMT",21,7,1,0,C,White Hart Lane,35944
+9479,22,"Sun 9 Feb 2014, 16:00 GMT",12,34,2,2,C,Old Trafford,74966
+9481,22,"Tue 11 Feb 2014, 19:45 GMT",46,2,0,0,C,Cardiff City Stadium,27597
+9482,22,"Tue 11 Feb 2014, 19:45 GMT",41,20,0,1,C,MKM Stadium,23670
+9484,22,"Tue 11 Feb 2014, 19:45 GMT",25,14,2,0,C,Boleyn Ground,35153
+9483,22,"Tue 11 Feb 2014, 20:00 GMT",36,4,1,1,C,The Hawthorns,24327
+9485,22,"Wed 12 Feb 2014, 19:45 GMT",1,12,0,0,C,Emirates Stadium,60021
+9487,22,"Wed 12 Feb 2014, 19:45 GMT",23,21,0,4,C,St. James' Park,48264
+9488,22,"Wed 12 Feb 2014, 19:45 GMT",42,45,1,1,C,Britannia Stadium,24822
+9486,22,"Wed 12 Feb 2014, 20:00 GMT",34,10,2,3,C,Craven Cottage,25375
+9491,22,"Sat 22 Feb 2014, 12:45 GMT",4,7,1,0,C,Stamford Bridge,41580
+9489,22,"Sat 22 Feb 2014, 15:00 GMT",1,29,4,1,C,Emirates Stadium,60012
+9490,22,"Sat 22 Feb 2014, 15:00 GMT",46,41,0,4,C,Cardiff City Stadium,26167
+9493,22,"Sat 22 Feb 2014, 15:00 GMT",11,42,1,0,C,Etihad Stadium,47038
+9494,22,"Sat 22 Feb 2014, 15:00 GMT",36,34,1,1,C,The Hawthorns,25782
+9495,22,"Sat 22 Feb 2014, 15:00 GMT",25,20,3,1,C,Boleyn Ground,33148
+9492,22,"Sat 22 Feb 2014, 17:30 GMT",6,12,0,2,C,Selhurst Park,24571
+9496,22,"Sun 23 Feb 2014, 13:30 GMT",10,45,4,3,C,Anfield,44731
+9497,22,"Sun 23 Feb 2014, 13:30 GMT",23,2,1,0,C,St. James' Park,50417
+9498,22,"Sun 23 Feb 2014, 16:00 GMT",14,21,1,0,C,Carrow Road,26834
+9499,22,"Sat 1 Mar 2014, 15:00 GMT",7,25,1,0,C,Goodison Park,38286
+9500,22,"Sat 1 Mar 2014, 15:00 GMT",34,4,1,3,C,Craven Cottage,24577
+9501,22,"Sat 1 Mar 2014, 15:00 GMT",41,23,1,4,C,MKM Stadium,24903
+9503,22,"Sat 1 Mar 2014, 15:00 GMT",42,1,1,0,C,Britannia Stadium,26711
+9502,22,"Sat 1 Mar 2014, 17:30 GMT",20,10,0,3,C,St. Mary's Stadium,31659
+9504,22,"Sun 2 Mar 2014, 16:30 GMT",2,14,4,1,C,Villa Park,30303
+9505,22,"Sun 2 Mar 2014, 16:30 GMT",45,6,1,1,C,Liberty Stadium,20240
+9506,22,"Sun 2 Mar 2014, 16:30 GMT",21,46,1,0,C,White Hart Lane,35512
+9511,22,"Sat 8 Mar 2014, 12:45 GMT",36,12,0,3,C,The Hawthorns,26184
+9507,22,"Sat 8 Mar 2014, 15:00 GMT",46,34,3,1,C,Cardiff City Stadium,26796
+9509,22,"Sat 8 Mar 2014, 15:00 GMT",6,20,0,1,C,Selhurst Park,25073
+9510,22,"Sat 8 Mar 2014, 15:00 GMT",14,42,1,1,C,Carrow Road,26646
+9508,22,"Sat 8 Mar 2014, 17:30 GMT",4,21,4,0,C,Stamford Bridge,41598
+9515,22,"Sat 15 Mar 2014, 12:45 GMT",41,11,0,2,C,MKM Stadium,24895
+9513,22,"Sat 15 Mar 2014, 15:00 GMT",7,46,2,1,C,Goodison Park,38018
+9514,22,"Sat 15 Mar 2014, 15:00 GMT",34,23,1,0,C,Craven Cottage,25664
+9516,22,"Sat 15 Mar 2014, 15:00 GMT",20,14,4,2,C,St. Mary's Stadium,29828
+9517,22,"Sat 15 Mar 2014, 15:00 GMT",42,25,3,1,C,Britannia Stadium,27015
+9518,22,"Sat 15 Mar 2014, 15:00 GMT",29,6,0,0,C,Stadium of Light,43636
+9519,22,"Sat 15 Mar 2014, 15:00 GMT",45,36,1,2,C,Liberty Stadium,20703
+9512,22,"Sat 15 Mar 2014, 17:30 GMT",2,4,1,0,C,Villa Park,40084
+9520,22,"Sun 16 Mar 2014, 13:30 GMT",12,10,0,3,C,Old Trafford,75225
+9521,22,"Sun 16 Mar 2014, 16:00 GMT",21,1,0,1,C,White Hart Lane,35711
+9523,22,"Sat 22 Mar 2014, 12:45 GMT",4,1,6,0,C,Stamford Bridge,41614
+9522,22,"Sat 22 Mar 2014, 15:00 GMT",46,10,3,6,C,Cardiff City Stadium,28018
+9524,22,"Sat 22 Mar 2014, 15:00 GMT",7,45,3,2,C,Goodison Park,36260
+9525,22,"Sat 22 Mar 2014, 15:00 GMT",41,36,2,0,C,MKM Stadium,23486
+9526,22,"Sat 22 Mar 2014, 15:00 GMT",11,34,5,0,C,Etihad Stadium,47262
+9527,22,"Sat 22 Mar 2014, 15:00 GMT",23,6,1,0,C,St. James' Park,51588
+9528,22,"Sat 22 Mar 2014, 15:00 GMT",14,29,2,0,C,Carrow Road,26654
+9529,22,"Sat 22 Mar 2014, 17:30 GMT",25,12,0,2,C,Boleyn Ground,34237
+9531,22,"Sun 23 Mar 2014, 13:30 GMT",21,20,3,2,C,White Hart Lane,35460
+9530,22,"Sun 23 Mar 2014, 16:00 GMT",2,42,1,4,C,Villa Park,30292
+9532,22,"Tue 25 Mar 2014, 19:45 GMT",1,45,2,2,C,Emirates Stadium,59937
+9533,22,"Tue 25 Mar 2014, 19:45 GMT",12,11,0,3,C,Old Trafford,75203
+9534,22,"Tue 25 Mar 2014, 19:45 GMT",23,7,0,3,C,St. James' Park,47622
+9536,22,"Wed 26 Mar 2014, 19:45 GMT",25,41,2,1,C,Boleyn Ground,31033
+9535,22,"Wed 26 Mar 2014, 20:00 GMT",10,29,2,1,C,Anfield,44524
+9539,22,"Sat 29 Mar 2014, 12:45 GMT",12,2,4,1,C,Old Trafford,75368
+9538,22,"Sat 29 Mar 2014, 15:00 GMT",6,4,1,0,C,Selhurst Park,25166
+9540,22,"Sat 29 Mar 2014, 15:00 GMT",20,23,4,0,C,St. Mary's Stadium,31360
+9541,22,"Sat 29 Mar 2014, 15:00 GMT",42,41,1,0,C,Britannia Stadium,27029
+9542,22,"Sat 29 Mar 2014, 15:00 GMT",45,14,3,0,C,Liberty Stadium,20371
+9543,22,"Sat 29 Mar 2014, 15:00 GMT",36,46,3,3,C,The Hawthorns,25661
+9537,22,"Sat 29 Mar 2014, 17:30 GMT",1,11,1,1,C,Emirates Stadium,60060
+9544,22,"Sun 30 Mar 2014, 13:30 BST",34,7,1,3,C,Craven Cottage,25454
+9545,22,"Sun 30 Mar 2014, 16:00 BST",10,21,4,0,C,Anfield,44762
+9546,22,"Mon 31 Mar 2014, 20:00 BST",29,25,1,2,C,Stadium of Light,37396
+9551,22,"Sat 5 Apr 2014, 12:45 BST",11,20,4,1,C,Etihad Stadium,47009
+9547,22,"Sat 5 Apr 2014, 15:00 BST",2,34,1,2,C,Villa Park,33532
+9548,22,"Sat 5 Apr 2014, 15:00 BST",46,6,0,3,C,Cardiff City Stadium,27687
+9550,22,"Sat 5 Apr 2014, 15:00 BST",41,45,1,0,C,MKM Stadium,22744
+9552,22,"Sat 5 Apr 2014, 15:00 BST",23,12,0,4,C,St. James' Park,52081
+9553,22,"Sat 5 Apr 2014, 15:00 BST",14,36,0,1,C,Carrow Road,26859
+9549,22,"Sat 5 Apr 2014, 17:30 BST",4,42,3,0,C,Stamford Bridge,41168
+9554,22,"Sun 6 Apr 2014, 13:30 BST",7,1,3,0,C,Goodison Park,39504
+9555,22,"Sun 6 Apr 2014, 16:00 BST",25,10,1,2,C,Boleyn Ground,34977
+9556,22,"Mon 7 Apr 2014, 20:00 BST",21,29,5,1,C,White Hart Lane,34410
+9557,22,"Sat 12 Apr 2014, 15:07 BST",6,2,1,0,C,Selhurst Park,25564
+9558,22,"Sat 12 Apr 2014, 15:07 BST",34,14,1,0,C,Craven Cottage,25028
+9559,22,"Sat 12 Apr 2014, 15:07 BST",20,46,0,1,C,St. Mary's Stadium,30526
+9560,22,"Sat 12 Apr 2014, 15:07 BST",42,23,1,0,C,Britannia Stadium,27400
+9561,22,"Sat 12 Apr 2014, 15:07 BST",29,7,0,1,C,Stadium of Light,38445
+9562,22,"Sat 12 Apr 2014, 15:07 BST",36,21,3,3,C,The Hawthorns,25398
+9563,22,"Sun 13 Apr 2014, 13:37 BST",10,11,3,2,C,Anfield,44601
+9564,22,"Sun 13 Apr 2014, 16:07 BST",45,4,0,1,C,Liberty Stadium,20761
+9565,22,"Tue 15 Apr 2014, 19:45 BST",1,25,3,1,C,Emirates Stadium,59977
+9566,22,"Wed 16 Apr 2014, 19:45 BST",7,6,2,3,C,Goodison Park,39333
+9567,22,"Wed 16 Apr 2014, 19:45 BST",11,29,2,2,C,Etihad Stadium,47046
+9572,22,"Sat 19 Apr 2014, 12:45 BST",21,34,3,1,C,White Hart Lane,35841
+9568,22,"Sat 19 Apr 2014, 15:00 BST",2,20,0,0,C,Villa Park,35134
+9569,22,"Sat 19 Apr 2014, 15:00 BST",46,42,1,1,C,Cardiff City Stadium,27686
+9571,22,"Sat 19 Apr 2014, 15:00 BST",23,45,1,2,C,St. James' Park,51057
+9573,22,"Sat 19 Apr 2014, 15:00 BST",25,6,0,1,C,Boleyn Ground,34977
+9570,22,"Sat 19 Apr 2014, 17:30 BST",4,29,1,2,C,Stamford Bridge,41210
+9576,22,"Sun 20 Apr 2014, 12:00 BST",14,10,2,3,C,Carrow Road,26857
+9575,22,"Sun 20 Apr 2014, 14:05 BST",41,1,0,3,C,MKM Stadium,24762
+9574,22,"Sun 20 Apr 2014, 16:10 BST",7,12,2,0,C,Goodison Park,39436
+9577,22,"Mon 21 Apr 2014, 20:00 BST",11,36,3,1,C,Etihad Stadium,46564
+9580,22,"Sat 26 Apr 2014, 12:45 BST",20,7,2,0,C,St. Mary's Stadium,31313
+9578,22,"Sat 26 Apr 2014, 15:00 BST",34,41,2,2,C,Craven Cottage,25700
+9581,22,"Sat 26 Apr 2014, 15:00 BST",42,21,0,1,C,Britannia Stadium,26021
+9582,22,"Sat 26 Apr 2014, 15:00 BST",45,2,4,1,C,Liberty Stadium,20701
+9583,22,"Sat 26 Apr 2014, 15:00 BST",36,25,1,0,C,The Hawthorns,26541
+9579,22,"Sat 26 Apr 2014, 17:30 BST",12,14,4,0,C,Old Trafford,75208
+9586,22,"Sun 27 Apr 2014, 12:00 BST",29,46,4,0,C,Stadium of Light,42397
+9585,22,"Sun 27 Apr 2014, 14:05 BST",10,4,0,2,C,Anfield,44726
+9584,22,"Sun 27 Apr 2014, 16:10 BST",6,11,0,2,C,Selhurst Park,24769
+9587,22,"Mon 28 Apr 2014, 20:00 BST",1,23,3,0,C,Emirates Stadium,60023
+9594,22,"Sat 3 May 2014, 12:45 BST",25,21,2,0,C,Boleyn Ground,34977
+9588,22,"Sat 3 May 2014, 15:00 BST",2,41,3,1,C,Villa Park,37182
+9590,22,"Sat 3 May 2014, 15:00 BST",12,29,0,1,C,Old Trafford,75347
+9591,22,"Sat 3 May 2014, 15:00 BST",23,46,3,0,C,St. James' Park,50239
+9592,22,"Sat 3 May 2014, 15:00 BST",42,34,4,1,C,Britannia Stadium,27429
+9593,22,"Sat 3 May 2014, 15:00 BST",45,20,0,1,C,Liberty Stadium,20682
+9589,22,"Sat 3 May 2014, 17:30 BST",7,11,2,3,C,Goodison Park,39454
+9595,22,"Sun 4 May 2014, 13:30 BST",1,36,1,0,C,Emirates Stadium,60021
+9596,22,"Sun 4 May 2014, 16:00 BST",4,14,0,0,C,Stamford Bridge,41602
+9597,22,"Mon 5 May 2014, 20:00 BST",6,10,3,3,C,Selhurst Park,25261
+9598,22,"Tue 6 May 2014, 19:45 BST",12,41,3,1,C,Old Trafford,75341
+9599,22,"Wed 7 May 2014, 19:45 BST",11,2,4,0,C,Etihad Stadium,47023
+9600,22,"Wed 7 May 2014, 19:45 BST",29,36,2,0,C,Stadium of Light,45181
+9601,22,"Sun 11 May 2014, 15:00 BST",46,4,1,2,C,Cardiff City Stadium,27716
+9602,22,"Sun 11 May 2014, 15:00 BST",34,6,2,2,C,Craven Cottage,24447
+9603,22,"Sun 11 May 2014, 15:00 BST",41,7,0,2,C,MKM Stadium,24848
+9604,22,"Sun 11 May 2014, 15:00 BST",10,23,2,1,C,Anfield,44724
+9605,22,"Sun 11 May 2014, 15:00 BST",11,25,2,0,C,Etihad Stadium,47300
+9606,22,"Sun 11 May 2014, 15:00 BST",14,1,0,2,C,Carrow Road,26848
+9607,22,"Sun 11 May 2014, 15:00 BST",20,12,1,1,C,St. Mary's Stadium,31372
+9608,22,"Sun 11 May 2014, 15:00 BST",29,45,1,3,C,Stadium of Light,45580
+9609,22,"Sun 11 May 2014, 15:00 BST",21,2,3,0,C,White Hart Lane,35826
+9610,22,"Sun 11 May 2014, 15:00 BST",36,42,1,2,C,The Hawthorns,26613

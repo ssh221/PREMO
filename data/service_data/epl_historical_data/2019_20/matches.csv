@@ -1,0 +1,381 @@
+match_id,season_id,date,home_team,away_team,home_score,away_score,status,stadium,attendance
+46605,274,"Fri 9 Aug 2019, 20:00 BST",10,14,4,1,C,Anfield,53333
+46612,274,"Sat 10 Aug 2019, 12:30 BST",25,11,0,5,C,London Stadium,59870
+46606,274,"Sat 10 Aug 2019, 15:00 BST",127,18,1,1,C,Vitality Stadium,10714
+46607,274,"Sat 10 Aug 2019, 15:00 BST",43,20,3,0,C,Turf Moor,19784
+46608,274,"Sat 10 Aug 2019, 15:00 BST",6,7,0,0,C,Selhurst Park,25151
+46611,274,"Sat 10 Aug 2019, 15:00 BST",33,131,0,3,C,Vicarage Road,20245
+46610,274,"Sat 10 Aug 2019, 17:30 BST",21,2,3,1,C,Tottenham Hotspur Stadium,60407
+46609,274,"Sun 11 Aug 2019, 14:00 BST",26,38,0,0,C,King Power Stadium,32015
+46614,274,"Sun 11 Aug 2019, 14:00 BST",23,1,0,1,C,St. James' Park,47635
+46613,274,"Sun 11 Aug 2019, 16:30 BST",12,4,4,0,C,Old Trafford,73620
+46615,274,"Sat 17 Aug 2019, 12:30 BST",1,43,2,1,C,Emirates Stadium,60214
+46616,274,"Sat 17 Aug 2019, 15:00 BST",2,127,1,2,C,Villa Park,40996
+46617,274,"Sat 17 Aug 2019, 15:00 BST",131,25,1,1,C,American Express Stadium,30459
+46619,274,"Sat 17 Aug 2019, 15:00 BST",7,33,1,0,C,Goodison Park,39066
+46621,274,"Sat 17 Aug 2019, 15:00 BST",14,23,3,1,C,Carrow Road,27059
+46623,274,"Sat 17 Aug 2019, 15:00 BST",20,10,1,2,C,St. Mary's Stadium,31712
+46620,274,"Sat 17 Aug 2019, 17:30 BST",11,21,2,2,C,Etihad Stadium,54503
+46622,274,"Sun 18 Aug 2019, 14:00 BST",18,6,1,0,C,Bramall Lane,30197
+46618,274,"Sun 18 Aug 2019, 16:30 BST",4,26,1,1,C,Stamford Bridge,40629
+46624,274,"Mon 19 Aug 2019, 20:00 BST",38,12,1,1,C,Molineux Stadium,31314
+46625,274,"Fri 23 Aug 2019, 20:00 BST",2,7,2,0,C,Villa Park,41922
+46630,274,"Sat 24 Aug 2019, 12:30 BST",14,4,2,3,C,Carrow Road,27032
+46627,274,"Sat 24 Aug 2019, 15:00 BST",131,20,0,2,C,American Express Stadium,30019
+46629,274,"Sat 24 Aug 2019, 15:00 BST",12,6,1,2,C,Old Trafford,73454
+46631,274,"Sat 24 Aug 2019, 15:00 BST",18,26,1,2,C,Bramall Lane,30079
+46633,274,"Sat 24 Aug 2019, 15:00 BST",33,25,1,3,C,Vicarage Road,20035
+46628,274,"Sat 24 Aug 2019, 17:30 BST",10,1,3,1,C,Anfield,53298
+46626,274,"Sun 25 Aug 2019, 14:00 BST",127,11,1,3,C,Vitality Stadium,10486
+46632,274,"Sun 25 Aug 2019, 16:30 BST",21,23,0,1,C,Tottenham Hotspur Stadium,59245
+46634,274,"Sun 25 Aug 2019, 16:30 BST",38,43,1,1,C,Molineux Stadium,30522
+46643,274,"Sat 31 Aug 2019, 12:30 BST",20,12,1,1,C,St. Mary's Stadium,30499
+46637,274,"Sat 31 Aug 2019, 15:00 BST",4,18,2,2,C,Stamford Bridge,40560
+46638,274,"Sat 31 Aug 2019, 15:00 BST",6,2,1,0,C,Selhurst Park,25248
+46640,274,"Sat 31 Aug 2019, 15:00 BST",26,127,3,1,C,King Power Stadium,31613
+46641,274,"Sat 31 Aug 2019, 15:00 BST",11,131,4,0,C,Etihad Stadium,54386
+46642,274,"Sat 31 Aug 2019, 15:00 BST",23,33,1,1,C,St. James' Park,44157
+46644,274,"Sat 31 Aug 2019, 15:00 BST",25,14,2,0,C,London Stadium,59950
+46636,274,"Sat 31 Aug 2019, 17:30 BST",43,10,0,3,C,Turf Moor,21762
+46639,274,"Sun 1 Sep 2019, 14:00 BST",7,38,3,2,C,Goodison Park,39374
+46635,274,"Sun 1 Sep 2019, 16:30 BST",1,21,2,2,C,Emirates Stadium,60333
+46648,274,"Sat 14 Sep 2019, 12:30 BST",10,23,3,1,C,Anfield,51430
+46647,274,"Sat 14 Sep 2019, 15:00 BST",131,43,1,1,C,American Express Stadium,29398
+46649,274,"Sat 14 Sep 2019, 15:00 BST",12,26,1,0,C,Old Trafford,73689
+46651,274,"Sat 14 Sep 2019, 15:00 BST",18,20,0,1,C,Bramall Lane,30985
+46652,274,"Sat 14 Sep 2019, 15:00 BST",21,6,4,0,C,Tottenham Hotspur Stadium,59812
+46654,274,"Sat 14 Sep 2019, 15:00 BST",38,4,2,5,C,Molineux Stadium,31534
+46650,274,"Sat 14 Sep 2019, 17:30 BST",14,11,3,2,C,Carrow Road,27035
+46646,274,"Sun 15 Sep 2019, 14:00 BST",127,7,3,1,C,Vitality Stadium,10416
+46653,274,"Sun 15 Sep 2019, 16:30 BST",33,1,2,2,C,Vicarage Road,21360
+46645,274,"Mon 16 Sep 2019, 20:00 BST",2,25,0,0,C,Villa Park,42010
+46663,274,"Fri 20 Sep 2019, 20:00 BST",20,127,1,3,C,St. Mary's Stadium,30168
+46660,274,"Sat 21 Sep 2019, 12:30 BST",26,21,2,1,C,King Power Stadium,32129
+46656,274,"Sat 21 Sep 2019, 15:00 BST",43,14,2,0,C,Turf Moor,19712
+46659,274,"Sat 21 Sep 2019, 15:00 BST",7,18,0,2,C,Goodison Park,39354
+46661,274,"Sat 21 Sep 2019, 15:00 BST",11,33,8,0,C,Etihad Stadium,54273
+46662,274,"Sat 21 Sep 2019, 17:30 BST",23,131,0,0,C,St. James' Park,43316
+46658,274,"Sun 22 Sep 2019, 14:00 BST",6,38,1,1,C,Selhurst Park,25122
+46664,274,"Sun 22 Sep 2019, 14:00 BST",25,12,2,0,C,London Stadium,59936
+46655,274,"Sun 22 Sep 2019, 16:30 BST",1,2,3,2,C,Emirates Stadium,60331
+46657,274,"Sun 22 Sep 2019, 16:30 BST",4,10,1,2,C,Stamford Bridge,40638
+46672,274,"Sat 28 Sep 2019, 12:30 BST",18,10,0,1,C,Bramall Lane,31774
+46665,274,"Sat 28 Sep 2019, 15:00 BST",2,43,2,2,C,Villa Park,41546
+46666,274,"Sat 28 Sep 2019, 15:00 BST",127,25,2,2,C,Vitality Stadium,10729
+46667,274,"Sat 28 Sep 2019, 15:00 BST",4,131,2,0,C,Stamford Bridge,40683
+46668,274,"Sat 28 Sep 2019, 15:00 BST",6,14,2,0,C,Selhurst Park,25477
+46673,274,"Sat 28 Sep 2019, 15:00 BST",21,20,2,1,C,Tottenham Hotspur Stadium,59645
+46674,274,"Sat 28 Sep 2019, 15:00 BST",38,33,2,0,C,Molineux Stadium,30711
+46669,274,"Sat 28 Sep 2019, 17:30 BST",7,11,1,3,C,Goodison Park,39222
+46670,274,"Sun 29 Sep 2019, 16:30 BST",26,23,5,0,C,King Power Stadium,32168
+46671,274,"Mon 30 Sep 2019, 20:00 BST",12,1,1,1,C,Old Trafford,73201
+46676,274,"Sat 5 Oct 2019, 12:30 BST",131,21,3,0,C,American Express Stadium,30610
+46677,274,"Sat 5 Oct 2019, 15:00 BST",43,7,1,0,C,Turf Moor,20650
+46678,274,"Sat 5 Oct 2019, 15:00 BST",10,26,2,1,C,Anfield,53322
+46681,274,"Sat 5 Oct 2019, 15:00 BST",14,2,1,5,C,Carrow Road,27045
+46683,274,"Sat 5 Oct 2019, 15:00 BST",33,18,0,0,C,Vicarage Road,20811
+46684,274,"Sat 5 Oct 2019, 17:30 BST",25,6,1,2,C,London Stadium,59912
+46675,274,"Sun 6 Oct 2019, 14:00 BST",1,127,1,0,C,Emirates Stadium,60326
+46679,274,"Sun 6 Oct 2019, 14:00 BST",11,38,0,2,C,Etihad Stadium,54435
+46682,274,"Sun 6 Oct 2019, 14:00 BST",20,4,1,4,C,St. Mary's Stadium,31473
+46680,274,"Sun 6 Oct 2019, 16:30 BST",23,12,1,0,C,St. James' Park,51198
+46689,274,"Sat 19 Oct 2019, 12:30 BST",7,25,2,0,C,Goodison Park,39263
+46685,274,"Sat 19 Oct 2019, 15:00 BST",2,131,2,1,C,Villa Park,41826
+46686,274,"Sat 19 Oct 2019, 15:00 BST",127,14,0,0,C,Vitality Stadium,10669
+46687,274,"Sat 19 Oct 2019, 15:00 BST",4,23,1,0,C,Stamford Bridge,40513
+46690,274,"Sat 19 Oct 2019, 15:00 BST",26,43,2,1,C,King Power Stadium,32105
+46693,274,"Sat 19 Oct 2019, 15:00 BST",21,33,1,1,C,Tottenham Hotspur Stadium,58754
+46694,274,"Sat 19 Oct 2019, 15:00 BST",38,20,1,1,C,Molineux Stadium,30915
+46688,274,"Sat 19 Oct 2019, 17:30 BST",6,11,0,2,C,Selhurst Park,25480
+46691,274,"Sun 20 Oct 2019, 16:30 BST",12,10,1,1,C,Old Trafford,73737
+46692,274,"Mon 21 Oct 2019, 20:00 BST",18,1,1,0,C,Bramall Lane,30775
+46702,274,"Fri 25 Oct 2019, 20:00 BST",20,26,0,9,C,St. Mary's Stadium,28762
+46699,274,"Sat 26 Oct 2019, 12:30 BST",11,2,3,0,C,Etihad Stadium,54506
+46696,274,"Sat 26 Oct 2019, 15:00 BST",131,7,3,2,C,American Express Stadium,30529
+46703,274,"Sat 26 Oct 2019, 15:00 BST",33,127,0,0,C,Vicarage Road,20821
+46704,274,"Sat 26 Oct 2019, 15:00 BST",25,18,1,1,C,London Stadium,59878
+46697,274,"Sat 26 Oct 2019, 17:30 BST",43,4,2,4,C,Turf Moor,20975
+46700,274,"Sun 27 Oct 2019, 14:00 GMT",23,38,1,1,C,St. James' Park,46019
+46695,274,"Sun 27 Oct 2019, 16:30 GMT",1,6,2,2,C,Emirates Stadium,60345
+46698,274,"Sun 27 Oct 2019, 16:30 GMT",10,21,2,1,C,Anfield,53222
+46701,274,"Sun 27 Oct 2019, 16:30 GMT",14,12,1,3,C,Carrow Road,27108
+46707,274,"Sat 2 Nov 2019, 12:30 GMT",127,12,1,0,C,Vitality Stadium,10669
+46705,274,"Sat 2 Nov 2019, 15:00 GMT",1,38,1,1,C,Emirates Stadium,60383
+46706,274,"Sat 2 Nov 2019, 15:00 GMT",2,10,1,2,C,Villa Park,41878
+46708,274,"Sat 2 Nov 2019, 15:00 GMT",131,14,2,0,C,American Express Stadium,30539
+46711,274,"Sat 2 Nov 2019, 15:00 GMT",11,20,2,1,C,Etihad Stadium,53922
+46712,274,"Sat 2 Nov 2019, 15:00 GMT",18,43,3,0,C,Bramall Lane,31131
+46714,274,"Sat 2 Nov 2019, 15:00 GMT",25,23,2,3,C,London Stadium,59907
+46713,274,"Sat 2 Nov 2019, 17:30 GMT",33,4,1,2,C,Vicarage Road,21011
+46709,274,"Sun 3 Nov 2019, 14:00 GMT",6,26,0,2,C,Selhurst Park,25480
+46710,274,"Sun 3 Nov 2019, 16:30 GMT",7,21,1,1,C,Goodison Park,39001
+46721,274,"Fri 8 Nov 2019, 20:00 GMT",14,33,0,2,C,Carrow Road,27074
+46716,274,"Sat 9 Nov 2019, 12:30 GMT",4,6,2,0,C,Stamford Bridge,40525
+46715,274,"Sat 9 Nov 2019, 15:00 GMT",43,25,3,0,C,Turf Moor,20255
+46720,274,"Sat 9 Nov 2019, 15:00 GMT",23,127,2,1,C,St. James' Park,44424
+46722,274,"Sat 9 Nov 2019, 15:00 GMT",20,7,1,2,C,St. Mary's Stadium,29754
+46723,274,"Sat 9 Nov 2019, 15:00 GMT",21,18,1,1,C,Tottenham Hotspur Stadium,59781
+46717,274,"Sat 9 Nov 2019, 17:30 GMT",26,1,2,0,C,King Power Stadium,32209
+46719,274,"Sun 10 Nov 2019, 14:00 GMT",12,131,3,1,C,Old Trafford,73556
+46724,274,"Sun 10 Nov 2019, 14:00 GMT",38,2,2,1,C,Molineux Stadium,31607
+46718,274,"Sun 10 Nov 2019, 16:30 GMT",10,11,3,1,C,Anfield,53324
+46734,274,"Sat 23 Nov 2019, 12:30 GMT",25,21,2,3,C,London Stadium,59930
+46725,274,"Sat 23 Nov 2019, 15:00 GMT",1,20,2,2,C,Emirates Stadium,60295
+46727,274,"Sat 23 Nov 2019, 15:00 GMT",127,38,1,2,C,Vitality Stadium,10539
+46728,274,"Sat 23 Nov 2019, 15:00 GMT",131,26,0,2,C,American Express Stadium,30640
+46729,274,"Sat 23 Nov 2019, 15:00 GMT",6,10,1,2,C,Selhurst Park,25486
+46730,274,"Sat 23 Nov 2019, 15:00 GMT",7,14,0,2,C,Goodison Park,39241
+46733,274,"Sat 23 Nov 2019, 15:00 GMT",33,43,0,3,C,Vicarage Road,19711
+46731,274,"Sat 23 Nov 2019, 17:30 GMT",11,4,2,1,C,Etihad Stadium,54486
+46732,274,"Sun 24 Nov 2019, 16:30 GMT",18,12,3,3,C,Bramall Lane,32024
+46726,274,"Mon 25 Nov 2019, 20:00 GMT",2,23,2,0,C,Villa Park,41821
+46740,274,"Sat 30 Nov 2019, 12:30 GMT",23,11,2,2,C,St. James' Park,49937
+46735,274,"Sat 30 Nov 2019, 15:00 GMT",43,6,0,2,C,Turf Moor,19818
+46736,274,"Sat 30 Nov 2019, 15:00 GMT",4,25,0,1,C,Stamford Bridge,40595
+46738,274,"Sat 30 Nov 2019, 15:00 GMT",10,131,2,1,C,Anfield,53319
+46743,274,"Sat 30 Nov 2019, 15:00 GMT",21,127,3,2,C,Tottenham Hotspur Stadium,59626
+46742,274,"Sat 30 Nov 2019, 17:30 GMT",20,33,2,1,C,St. Mary's Stadium,26929
+46741,274,"Sun 1 Dec 2019, 14:00 GMT",14,1,2,2,C,Carrow Road,27067
+46744,274,"Sun 1 Dec 2019, 14:00 GMT",38,18,1,1,C,Molineux Stadium,31642
+46737,274,"Sun 1 Dec 2019, 16:30 GMT",26,7,2,1,C,King Power Stadium,32144
+46739,274,"Sun 1 Dec 2019, 16:30 GMT",12,2,2,2,C,Old Trafford,73381
+46752,274,"Tue 3 Dec 2019, 19:30 GMT",6,127,1,0,C,Selhurst Park,23497
+46746,274,"Tue 3 Dec 2019, 20:15 GMT",43,11,1,4,C,Turf Moor,20101
+46751,274,"Wed 4 Dec 2019, 19:30 GMT",4,2,2,1,C,Stamford Bridge,40628
+46747,274,"Wed 4 Dec 2019, 19:30 GMT",26,33,2,0,C,King Power Stadium,31763
+46748,274,"Wed 4 Dec 2019, 19:30 GMT",12,21,2,1,C,Old Trafford,73252
+46754,274,"Wed 4 Dec 2019, 19:30 GMT",20,14,2,1,C,St. Mary's Stadium,27019
+46750,274,"Wed 4 Dec 2019, 19:30 GMT",38,25,2,0,C,Molineux Stadium,31217
+46753,274,"Wed 4 Dec 2019, 20:15 GMT",10,7,5,2,C,Anfield,53094
+46749,274,"Thu 5 Dec 2019, 19:30 GMT",18,23,0,2,C,Bramall Lane,30409
+46745,274,"Thu 5 Dec 2019, 20:15 GMT",1,131,1,2,C,Emirates Stadium,60164
+46758,274,"Sat 7 Dec 2019, 12:30 GMT",7,4,3,1,C,Goodison Park,39114
+46756,274,"Sat 7 Dec 2019, 15:00 GMT",127,10,0,3,C,Vitality Stadium,10832
+46762,274,"Sat 7 Dec 2019, 15:00 GMT",21,43,5,0,C,Tottenham Hotspur Stadium,58401
+46763,274,"Sat 7 Dec 2019, 15:00 GMT",33,6,0,0,C,Vicarage Road,20070
+46759,274,"Sat 7 Dec 2019, 17:30 GMT",11,12,1,2,C,Etihad Stadium,54403
+46755,274,"Sun 8 Dec 2019, 14:00 GMT",2,26,1,4,C,Villa Park,41908
+46760,274,"Sun 8 Dec 2019, 14:00 GMT",23,20,2,1,C,St. James' Park,42303
+46761,274,"Sun 8 Dec 2019, 14:00 GMT",14,18,1,2,C,Carrow Road,26881
+46757,274,"Sun 8 Dec 2019, 16:30 GMT",131,38,2,2,C,American Express Stadium,30189
+46764,274,"Mon 9 Dec 2019, 20:00 GMT",25,1,1,3,C,London Stadium,59936
+46770,274,"Sat 14 Dec 2019, 12:30 GMT",10,33,2,0,C,Anfield,53311
+46766,274,"Sat 14 Dec 2019, 15:00 GMT",43,23,1,0,C,Turf Moor,19798
+46767,274,"Sat 14 Dec 2019, 15:00 GMT",4,127,0,1,C,Stamford Bridge,40243
+46769,274,"Sat 14 Dec 2019, 15:00 GMT",26,14,1,1,C,King Power Stadium,32101
+46772,274,"Sat 14 Dec 2019, 15:00 GMT",18,2,2,0,C,Bramall Lane,30396
+46773,274,"Sat 14 Dec 2019, 17:30 GMT",20,25,0,1,C,St. Mary's Stadium,27701
+46771,274,"Sun 15 Dec 2019, 14:00 GMT",12,7,1,1,C,Old Trafford,63328
+46774,274,"Sun 15 Dec 2019, 14:00 GMT",38,21,1,2,C,Molineux Stadium,31674
+46765,274,"Sun 15 Dec 2019, 16:30 GMT",1,11,0,3,C,Emirates Stadium,60031
+46768,274,"Mon 16 Dec 2019, 19:45 GMT",6,131,1,1,C,Selhurst Park,24175
+46778,274,"Sat 21 Dec 2019, 12:30 GMT",7,1,0,0,C,Goodison Park,39336
+46775,274,"Sat 21 Dec 2019, 15:00 GMT",2,20,1,3,C,Villa Park,41834
+46776,274,"Sat 21 Dec 2019, 15:00 GMT",127,43,0,1,C,Vitality Stadium,10020
+46777,274,"Sat 21 Dec 2019, 15:00 GMT",131,18,0,1,C,American Express Stadium,30505
+46780,274,"Sat 21 Dec 2019, 15:00 GMT",23,6,1,0,C,St. James' Park,45453
+46781,274,"Sat 21 Dec 2019, 15:00 GMT",14,38,1,2,C,Carrow Road,27053
+46779,274,"Sat 21 Dec 2019, 17:30 GMT",11,26,3,1,C,Etihad Stadium,54415
+46783,274,"Sun 22 Dec 2019, 14:00 GMT",33,12,2,0,C,Vicarage Road,21488
+46782,274,"Sun 22 Dec 2019, 16:30 GMT",21,4,0,2,C,Tottenham Hotspur Stadium,61104
+46793,274,"Thu 26 Dec 2019, 12:30 GMT",21,131,2,1,C,Tottenham Hotspur Stadium,56308
+46785,274,"Thu 26 Dec 2019, 15:00 GMT",2,14,1,0,C,Villa Park,41289
+46786,274,"Thu 26 Dec 2019, 15:00 GMT",127,1,1,1,C,Vitality Stadium,10234
+46787,274,"Thu 26 Dec 2019, 15:00 GMT",4,20,0,2,C,Stamford Bridge,40651
+46788,274,"Thu 26 Dec 2019, 15:00 GMT",6,25,2,1,C,Selhurst Park,25462
+46789,274,"Thu 26 Dec 2019, 15:00 GMT",7,43,1,0,C,Goodison Park,39177
+46792,274,"Thu 26 Dec 2019, 15:00 GMT",18,33,1,1,C,Bramall Lane,30222
+46791,274,"Thu 26 Dec 2019, 17:30 GMT",12,23,4,1,C,Old Trafford,73206
+46790,274,"Thu 26 Dec 2019, 20:00 GMT",26,10,0,4,C,King Power Stadium,32211
+46794,274,"Fri 27 Dec 2019, 19:45 GMT",38,11,3,2,C,Molineux Stadium,31737
+46796,274,"Sat 28 Dec 2019, 12:30 GMT",131,127,2,0,C,American Express Stadium,30441
+46800,274,"Sat 28 Dec 2019, 15:00 GMT",23,7,1,2,C,St. James' Park,52211
+46802,274,"Sat 28 Dec 2019, 15:00 GMT",20,6,1,1,C,St. Mary's Stadium,31108
+46803,274,"Sat 28 Dec 2019, 15:00 GMT",33,2,3,0,C,Vicarage Road,21348
+46801,274,"Sat 28 Dec 2019, 17:30 GMT",14,21,2,2,C,Carrow Road,27072
+46804,274,"Sat 28 Dec 2019, 17:30 GMT",25,26,1,2,C,London Stadium,59519
+46797,274,"Sat 28 Dec 2019, 19:45 GMT",43,12,0,2,C,Turf Moor,21924
+46795,274,"Sun 29 Dec 2019, 14:00 GMT",1,4,1,2,C,Emirates Stadium,60309
+46798,274,"Sun 29 Dec 2019, 16:30 GMT",10,38,1,0,C,Anfield,53326
+46799,274,"Sun 29 Dec 2019, 18:00 GMT",11,18,2,0,C,Etihad Stadium,54512
+46806,274,"Wed 1 Jan 2020, 12:30 GMT",131,4,1,1,C,American Express Stadium,30559
+46807,274,"Wed 1 Jan 2020, 12:30 GMT",43,2,1,2,C,Turf Moor,19561
+46810,274,"Wed 1 Jan 2020, 15:00 GMT",23,26,0,3,C,St. James' Park,52178
+46812,274,"Wed 1 Jan 2020, 15:00 GMT",20,21,1,0,C,St. Mary's Stadium,30976
+46813,274,"Wed 1 Jan 2020, 15:00 GMT",33,38,2,1,C,Vicarage Road,20584
+46809,274,"Wed 1 Jan 2020, 17:30 GMT",11,7,2,1,C,Etihad Stadium,54407
+46811,274,"Wed 1 Jan 2020, 17:30 GMT",14,6,1,1,C,Carrow Road,27021
+46814,274,"Wed 1 Jan 2020, 17:30 GMT",25,127,4,0,C,London Stadium,59917
+46805,274,"Wed 1 Jan 2020, 20:00 GMT",1,12,2,0,C,Emirates Stadium,60328
+46808,274,"Thu 2 Jan 2020, 20:00 GMT",10,18,2,0,C,Anfield,53321
+46822,274,"Fri 10 Jan 2020, 20:00 GMT",18,25,1,0,C,Bramall Lane,30124
+46818,274,"Sat 11 Jan 2020, 12:30 GMT",6,1,1,1,C,Selhurst Park,25468
+46817,274,"Sat 11 Jan 2020, 15:00 GMT",4,43,3,0,C,Stamford Bridge,40396
+46819,274,"Sat 11 Jan 2020, 15:00 GMT",7,131,1,0,C,Goodison Park,38772
+46820,274,"Sat 11 Jan 2020, 15:00 GMT",26,20,1,2,C,King Power Stadium,32115
+46821,274,"Sat 11 Jan 2020, 15:00 GMT",12,14,4,0,C,Old Trafford,73271
+46824,274,"Sat 11 Jan 2020, 15:00 GMT",38,23,1,1,C,Molineux Stadium,31570
+46823,274,"Sat 11 Jan 2020, 17:30 GMT",21,10,0,1,C,Tottenham Hotspur Stadium,61023
+46816,274,"Sun 12 Jan 2020, 14:00 GMT",127,33,0,3,C,Vitality Stadium,10384
+46815,274,"Sun 12 Jan 2020, 16:30 GMT",2,11,1,6,C,Villa Park,41823
+46833,274,"Sat 18 Jan 2020, 12:30 GMT",33,21,0,0,C,Vicarage Road,21366
+46825,274,"Sat 18 Jan 2020, 15:00 GMT",1,18,1,1,C,Emirates Stadium,60310
+46826,274,"Sat 18 Jan 2020, 15:00 GMT",131,2,1,1,C,American Express Stadium,30551
+46829,274,"Sat 18 Jan 2020, 15:00 GMT",11,6,2,2,C,Etihad Stadium,54439
+46831,274,"Sat 18 Jan 2020, 15:00 GMT",14,127,1,0,C,Carrow Road,26781
+46832,274,"Sat 18 Jan 2020, 15:00 GMT",20,38,2,3,C,St. Mary's Stadium,31152
+46834,274,"Sat 18 Jan 2020, 15:00 GMT",25,7,1,1,C,London Stadium,59915
+46830,274,"Sat 18 Jan 2020, 17:30 GMT",23,4,1,0,C,St. James' Park,52217
+46827,274,"Sun 19 Jan 2020, 14:00 GMT",43,26,2,1,C,Turf Moor,19788
+46828,274,"Sun 19 Jan 2020, 16:30 GMT",10,12,2,0,C,Anfield,52916
+46835,274,"Tue 21 Jan 2020, 19:30 GMT",2,33,2,1,C,Villa Park,40867
+46836,274,"Tue 21 Jan 2020, 19:30 GMT",127,131,3,1,C,Vitality Stadium,10065
+46843,274,"Tue 21 Jan 2020, 19:30 GMT",6,20,0,2,C,Selhurst Park,23739
+46837,274,"Tue 21 Jan 2020, 19:30 GMT",7,23,2,2,C,Goodison Park,38822
+46840,274,"Tue 21 Jan 2020, 19:30 GMT",18,11,0,1,C,Bramall Lane,31285
+46842,274,"Tue 21 Jan 2020, 20:15 GMT",4,1,2,2,C,Stamford Bridge,40577
+46838,274,"Wed 22 Jan 2020, 19:30 GMT",26,25,4,1,C,King Power Stadium,31968
+46844,274,"Wed 22 Jan 2020, 19:30 GMT",21,14,2,1,C,Tottenham Hotspur Stadium,58182
+46839,274,"Wed 22 Jan 2020, 20:15 GMT",12,43,0,2,C,Old Trafford,73198
+46841,274,"Thu 23 Jan 2020, 20:00 GMT",38,10,1,2,C,Molineux Stadium,31746
+46784,274,"Wed 29 Jan 2020, 19:45 GMT",25,10,0,2,C,London Stadium,59959
+46848,274,"Sat 1 Feb 2020, 12:30 GMT",26,4,2,2,C,King Power Stadium,32186
+46845,274,"Sat 1 Feb 2020, 15:00 GMT",127,2,2,1,C,Vitality Stadium,10722
+46847,274,"Sat 1 Feb 2020, 15:00 GMT",6,18,0,1,C,Selhurst Park,25170
+46849,274,"Sat 1 Feb 2020, 15:00 GMT",10,20,4,0,C,Anfield,53291
+46851,274,"Sat 1 Feb 2020, 15:00 GMT",23,14,0,0,C,St. James' Park,52204
+46853,274,"Sat 1 Feb 2020, 15:00 GMT",33,7,2,3,C,Vicarage Road,21229
+46854,274,"Sat 1 Feb 2020, 15:00 GMT",25,131,3,3,C,London Stadium,59952
+46850,274,"Sat 1 Feb 2020, 17:30 GMT",12,38,0,0,C,Old Trafford,73363
+46846,274,"Sun 2 Feb 2020, 14:00 GMT",43,1,0,0,C,Turf Moor,21048
+46852,274,"Sun 2 Feb 2020, 16:30 GMT",21,11,2,0,C,Tottenham Hotspur Stadium,61022
+46859,274,"Sat 8 Feb 2020, 12:30 GMT",7,6,3,1,C,Goodison Park,38987
+46857,274,"Sat 8 Feb 2020, 17:30 GMT",131,33,1,1,C,American Express Stadium,30443
+46862,274,"Sun 9 Feb 2020, 14:00 GMT",18,127,2,1,C,Bramall Lane,30361
+46864,274,"Fri 14 Feb 2020, 20:00 GMT",38,26,0,0,C,Molineux Stadium,31682
+46863,274,"Sat 15 Feb 2020, 12:30 GMT",20,43,1,2,C,St. Mary's Stadium,26302
+46861,274,"Sat 15 Feb 2020, 17:30 GMT",14,10,0,1,C,Carrow Road,27110
+46856,274,"Sun 16 Feb 2020, 14:00 GMT",2,21,2,3,C,Villa Park,41874
+46855,274,"Sun 16 Feb 2020, 16:30 GMT",1,23,4,0,C,Emirates Stadium,60188
+46858,274,"Mon 17 Feb 2020, 20:00 GMT",4,12,0,2,C,Stamford Bridge,40504
+46860,274,"Wed 19 Feb 2020, 19:30 GMT",11,25,2,0,C,Etihad Stadium,52159
+46867,274,"Sat 22 Feb 2020, 12:30 GMT",4,21,2,1,C,Stamford Bridge,40608
+46866,274,"Sat 22 Feb 2020, 15:00 GMT",43,127,3,0,C,Turf Moor,18227
+46868,274,"Sat 22 Feb 2020, 15:00 GMT",6,23,1,0,C,Selhurst Park,25486
+46872,274,"Sat 22 Feb 2020, 15:00 GMT",18,131,1,1,C,Bramall Lane,31888
+46873,274,"Sat 22 Feb 2020, 15:00 GMT",20,2,2,0,C,St. Mary's Stadium,31478
+46869,274,"Sat 22 Feb 2020, 17:30 GMT",26,11,0,1,C,King Power Stadium,32068
+46871,274,"Sun 23 Feb 2020, 14:00 GMT",12,33,3,0,C,Old Trafford,73347
+46874,274,"Sun 23 Feb 2020, 14:00 GMT",38,14,3,0,C,Molineux Stadium,31046
+46865,274,"Sun 23 Feb 2020, 16:30 GMT",1,7,3,2,C,Emirates Stadium,60296
+46870,274,"Mon 24 Feb 2020, 20:00 GMT",10,25,3,2,C,Anfield,53313
+46881,274,"Fri 28 Feb 2020, 20:00 GMT",14,26,1,0,C,Carrow Road,27010
+46877,274,"Sat 29 Feb 2020, 12:30 GMT",131,6,0,1,C,American Express Stadium,30124
+46876,274,"Sat 29 Feb 2020, 15:00 GMT",127,4,2,2,C,Vitality Stadium,10667
+46880,274,"Sat 29 Feb 2020, 15:00 GMT",23,43,0,0,C,St. James' Park,52219
+46884,274,"Sat 29 Feb 2020, 15:00 GMT",25,20,3,1,C,London Stadium,59962
+46883,274,"Sat 29 Feb 2020, 17:30 GMT",33,10,3,0,C,Vicarage Road,21634
+46878,274,"Sun 1 Mar 2020, 14:00 GMT",7,12,1,1,C,Goodison Park,39374
+46882,274,"Sun 1 Mar 2020, 14:00 GMT",21,38,2,3,C,Tottenham Hotspur Stadium,58064
+46890,274,"Sat 7 Mar 2020, 12:30 GMT",10,127,2,1,C,Anfield,53323
+46885,274,"Sat 7 Mar 2020, 15:00 GMT",1,25,1,0,C,Emirates Stadium,60335
+46888,274,"Sat 7 Mar 2020, 15:00 GMT",6,33,1,0,C,Selhurst Park,25461
+46892,274,"Sat 7 Mar 2020, 15:00 GMT",18,14,1,0,C,Bramall Lane,31379
+46893,274,"Sat 7 Mar 2020, 15:00 GMT",20,23,0,1,C,St. Mary's Stadium,30096
+46894,274,"Sat 7 Mar 2020, 15:00 GMT",38,131,0,0,C,Molineux Stadium,31490
+46886,274,"Sat 7 Mar 2020, 17:30 GMT",43,21,1,1,C,Turf Moor,20496
+46887,274,"Sun 8 Mar 2020, 14:00 GMT",4,7,4,0,C,Stamford Bridge,40694
+46891,274,"Sun 8 Mar 2020, 16:30 GMT",12,11,2,0,C,Old Trafford,73288
+46889,274,"Mon 9 Mar 2020, 20:00 GMT",26,2,4,0,C,King Power Stadium,32125
+46875,274,"Wed 17 Jun 2020, 18:00 BST",2,18,0,0,C,Villa Park,
+46879,274,"Wed 17 Jun 2020, 20:15 BST",11,1,3,0,C,Etihad Stadium,
+46901,274,"Fri 19 Jun 2020, 18:00 BST",14,20,0,3,C,Carrow Road,
+46902,274,"Fri 19 Jun 2020, 20:15 BST",21,12,1,1,C,Tottenham Hotspur Stadium,
+46903,274,"Sat 20 Jun 2020, 12:30 BST",33,26,1,1,C,Vicarage Road,
+46897,274,"Sat 20 Jun 2020, 15:00 BST",131,1,2,1,C,American Express Stadium,
+46904,274,"Sat 20 Jun 2020, 17:30 BST",25,38,0,2,C,London Stadium,
+46896,274,"Sat 20 Jun 2020, 19:45 BST",127,6,0,2,C,Vitality Stadium,
+46900,274,"Sun 21 Jun 2020, 14:00 BST",23,18,3,0,C,St. James' Park,
+46895,274,"Sun 21 Jun 2020, 16:15 BST",2,4,1,2,C,Villa Park,
+46898,274,"Sun 21 Jun 2020, 19:00 BST",7,10,0,0,C,Goodison Park,
+46899,274,"Mon 22 Jun 2020, 20:00 BST",11,43,5,0,C,Etihad Stadium,
+46907,274,"Tue 23 Jun 2020, 18:00 BST",26,131,0,0,C,King Power Stadium,
+46913,274,"Tue 23 Jun 2020, 20:15 BST",21,25,2,0,C,Tottenham Hotspur Stadium,
+46909,274,"Wed 24 Jun 2020, 18:00 BST",12,18,3,0,C,Old Trafford,
+46910,274,"Wed 24 Jun 2020, 18:00 BST",23,2,1,1,C,St. James' Park,
+46911,274,"Wed 24 Jun 2020, 18:00 BST",14,7,0,1,C,Carrow Road,
+46914,274,"Wed 24 Jun 2020, 18:00 BST",38,127,1,0,C,Molineux Stadium,
+46908,274,"Wed 24 Jun 2020, 20:15 BST",10,6,4,0,C,Anfield,
+46905,274,"Thu 25 Jun 2020, 18:00 BST",43,33,1,0,C,Turf Moor,
+46912,274,"Thu 25 Jun 2020, 18:00 BST",20,1,0,2,C,St. Mary's Stadium,
+46906,274,"Thu 25 Jun 2020, 20:15 BST",4,11,2,1,C,Stamford Bridge,
+46916,274,"Sat 27 Jun 2020, 12:30 BST",2,38,0,1,C,Villa Park,
+46923,274,"Sun 28 Jun 2020, 16:30 BST",33,20,1,3,C,Vicarage Road,
+46919,274,"Mon 29 Jun 2020, 20:00 BST",6,43,0,1,C,Selhurst Park,
+46918,274,"Tue 30 Jun 2020, 20:15 BST",131,12,0,3,C,American Express Stadium,
+46915,274,"Wed 1 Jul 2020, 18:00 BST",1,14,4,0,C,Emirates Stadium,
+46917,274,"Wed 1 Jul 2020, 18:00 BST",127,23,1,4,C,Vitality Stadium,
+46920,274,"Wed 1 Jul 2020, 18:00 BST",7,26,2,1,C,Goodison Park,
+46924,274,"Wed 1 Jul 2020, 20:15 BST",25,4,3,2,C,London Stadium,
+46922,274,"Thu 2 Jul 2020, 18:00 BST",18,21,3,1,C,Bramall Lane,
+46921,274,"Thu 2 Jul 2020, 20:15 BST",11,10,4,0,C,Etihad Stadium,
+46931,274,"Sat 4 Jul 2020, 12:30 BST",14,131,0,1,C,Carrow Road,
+46927,274,"Sat 4 Jul 2020, 15:00 BST",26,6,3,0,C,King Power Stadium,
+46929,274,"Sat 4 Jul 2020, 15:00 BST",12,127,5,2,C,Old Trafford,
+46934,274,"Sat 4 Jul 2020, 17:30 BST",38,1,0,2,C,Molineux Stadium,
+46926,274,"Sat 4 Jul 2020, 20:00 BST",4,33,3,0,C,Stamford Bridge,
+46925,274,"Sun 5 Jul 2020, 12:00 BST",43,18,1,1,C,Turf Moor,
+46930,274,"Sun 5 Jul 2020, 14:15 BST",23,25,2,2,C,St. James' Park,
+46928,274,"Sun 5 Jul 2020, 16:30 BST",10,2,2,0,C,Anfield,
+46932,274,"Sun 5 Jul 2020, 19:00 BST",20,11,1,0,C,St. Mary's Stadium,
+46933,274,"Mon 6 Jul 2020, 20:00 BST",21,7,1,0,C,Tottenham Hotspur Stadium,
+46939,274,"Tue 7 Jul 2020, 18:00 BST",6,4,2,3,C,Selhurst Park,
+46943,274,"Tue 7 Jul 2020, 18:00 BST",33,14,2,1,C,Vicarage Road,
+46935,274,"Tue 7 Jul 2020, 20:15 BST",1,26,1,1,C,Emirates Stadium,
+46941,274,"Wed 8 Jul 2020, 18:00 BST",11,23,5,0,C,Etihad Stadium,
+46942,274,"Wed 8 Jul 2020, 18:00 BST",18,38,1,0,C,Bramall Lane,
+46944,274,"Wed 8 Jul 2020, 18:00 BST",25,43,0,1,C,London Stadium,
+46938,274,"Wed 8 Jul 2020, 20:15 BST",131,10,1,3,C,American Express Stadium,
+46937,274,"Thu 9 Jul 2020, 18:00 BST",127,21,0,0,C,Vitality Stadium,
+46940,274,"Thu 9 Jul 2020, 18:00 BST",7,20,1,1,C,Goodison Park,
+46936,274,"Thu 9 Jul 2020, 20:15 BST",2,12,0,3,C,Villa Park,
+46950,274,"Sat 11 Jul 2020, 12:30 BST",14,25,0,4,C,Carrow Road,
+46953,274,"Sat 11 Jul 2020, 12:30 BST",33,23,2,1,C,Vicarage Road,
+46948,274,"Sat 11 Jul 2020, 15:00 BST",10,43,1,1,C,Anfield,
+46951,274,"Sat 11 Jul 2020, 17:30 BST",18,4,3,0,C,Bramall Lane,
+46947,274,"Sat 11 Jul 2020, 20:00 BST",131,11,0,5,C,American Express Stadium,
+46954,274,"Sun 12 Jul 2020, 12:00 BST",38,7,3,0,C,Molineux Stadium,
+46945,274,"Sun 12 Jul 2020, 14:15 BST",2,6,2,0,C,Villa Park,
+46952,274,"Sun 12 Jul 2020, 16:30 BST",21,1,2,1,C,Tottenham Hotspur Stadium,
+46946,274,"Sun 12 Jul 2020, 19:00 BST",127,26,4,1,C,Vitality Stadium,
+46949,274,"Mon 13 Jul 2020, 20:00 BST",12,20,2,2,C,Old Trafford,
+46957,274,"Tue 14 Jul 2020, 20:15 BST",4,14,1,0,C,Stamford Bridge,
+46956,274,"Wed 15 Jul 2020, 18:00 BST",43,38,1,1,C,Turf Moor,
+46961,274,"Wed 15 Jul 2020, 18:00 BST",11,127,2,1,C,Etihad Stadium,
+46962,274,"Wed 15 Jul 2020, 18:00 BST",23,21,1,3,C,St. James' Park,
+46955,274,"Wed 15 Jul 2020, 20:15 BST",1,10,2,1,C,Emirates Stadium,
+46959,274,"Thu 16 Jul 2020, 18:00 BST",7,2,1,1,C,Goodison Park,
+46960,274,"Thu 16 Jul 2020, 18:00 BST",26,18,2,0,C,King Power Stadium,
+46958,274,"Thu 16 Jul 2020, 20:15 BST",6,12,0,2,C,Selhurst Park,
+46963,274,"Thu 16 Jul 2020, 20:15 BST",20,131,1,1,C,St. Mary's Stadium,
+46964,274,"Fri 17 Jul 2020, 20:00 BST",25,33,3,1,C,London Stadium,
+46970,274,"Sat 18 Jul 2020, 17:30 BST",14,43,0,2,C,Carrow Road,
+46966,274,"Sun 19 Jul 2020, 14:00 BST",127,20,0,2,C,Vitality Stadium,
+46972,274,"Sun 19 Jul 2020, 16:00 BST",21,26,3,0,C,Tottenham Hotspur Stadium,
+46967,274,"Mon 20 Jul 2020, 18:00 BST",131,23,0,0,C,American Express Stadium,
+46971,274,"Mon 20 Jul 2020, 18:00 BST",18,7,0,1,C,Bramall Lane,
+46974,274,"Mon 20 Jul 2020, 20:15 BST",38,6,2,0,C,Molineux Stadium,
+46973,274,"Tue 21 Jul 2020, 18:00 BST",33,11,0,4,C,Vicarage Road,
+46965,274,"Tue 21 Jul 2020, 20:15 BST",2,1,1,0,C,Villa Park,
+46969,274,"Wed 22 Jul 2020, 18:00 BST",12,25,1,1,C,Old Trafford,
+46968,274,"Wed 22 Jul 2020, 20:15 BST",10,4,5,3,C,Anfield,
+46975,274,"Sun 26 Jul 2020, 16:00 BST",1,33,3,2,C,Emirates Stadium,
+46976,274,"Sun 26 Jul 2020, 16:00 BST",43,131,1,2,C,Turf Moor,
+46977,274,"Sun 26 Jul 2020, 16:00 BST",4,38,2,0,C,Stamford Bridge,
+46978,274,"Sun 26 Jul 2020, 16:00 BST",6,21,1,1,C,Selhurst Park,
+46979,274,"Sun 26 Jul 2020, 16:00 BST",7,127,1,3,C,Goodison Park,
+46980,274,"Sun 26 Jul 2020, 16:00 BST",26,12,0,2,C,King Power Stadium,
+46981,274,"Sun 26 Jul 2020, 16:00 BST",11,14,5,0,C,Etihad Stadium,
+46982,274,"Sun 26 Jul 2020, 16:00 BST",23,10,1,3,C,St. James' Park,
+46983,274,"Sun 26 Jul 2020, 16:00 BST",20,18,3,1,C,St. Mary's Stadium,
+46984,274,"Sun 26 Jul 2020, 16:00 BST",25,2,1,1,C,London Stadium,

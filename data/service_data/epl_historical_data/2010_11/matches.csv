@@ -1,0 +1,381 @@
+match_id,season_id,date,home_team,away_team,home_score,away_score,status,stadium,attendance
+7092,19,"Sat 14 Aug 2010, 12:45 BST",21,11,0,0,C,White Hart Lane,35928
+7087,19,"Sat 14 Aug 2010, 15:00 BST",2,25,3,0,C,Villa Park,36604
+7088,19,"Sat 14 Aug 2010, 15:00 BST",3,7,1,0,C,Ewood Park,25869
+7089,19,"Sat 14 Aug 2010, 15:00 BST",27,34,0,0,C,Macron Stadium,20352
+7091,19,"Sat 14 Aug 2010, 15:00 BST",29,35,2,2,C,Stadium of Light,38390
+7093,19,"Sat 14 Aug 2010, 15:00 BST",39,44,0,4,C,DW Stadium,16152
+7094,19,"Sat 14 Aug 2010, 15:00 BST",38,42,2,1,C,Molineux Stadium,27850
+7090,19,"Sat 14 Aug 2010, 17:30 BST",4,36,6,0,C,Stamford Bridge,41589
+7095,19,"Sun 15 Aug 2010, 16:00 BST",10,1,1,1,C,Anfield,44722
+7096,19,"Mon 16 Aug 2010, 20:00 BST",12,23,3,0,C,Old Trafford,75221
+7097,19,"Sat 21 Aug 2010, 15:00 BST",1,44,6,0,C,Emirates Stadium,60032
+7098,19,"Sat 21 Aug 2010, 15:00 BST",35,3,2,1,C,St Andrews,21394
+7099,19,"Sat 21 Aug 2010, 15:00 BST",7,38,1,1,C,Goodison Park,37767
+7100,19,"Sat 21 Aug 2010, 15:00 BST",42,21,1,2,C,Britannia Stadium,27243
+7101,19,"Sat 21 Aug 2010, 15:00 BST",36,29,1,0,C,The Hawthorns,23624
+7102,19,"Sat 21 Aug 2010, 15:00 BST",25,27,1,3,C,Boleyn Ground,32533
+7103,19,"Sat 21 Aug 2010, 17:15 BST",39,4,0,6,C,DW Stadium,14476
+7105,19,"Sun 22 Aug 2010, 13:30 BST",23,2,6,0,C,Sports Direct Arena,43546
+7104,19,"Sun 22 Aug 2010, 16:00 BST",34,12,2,2,C,Craven Cottage,25643
+7106,19,"Mon 23 Aug 2010, 20:00 BST",11,10,3,0,C,Etihad Stadium,47087
+7107,19,"Sat 28 Aug 2010, 12:45 BST",3,1,1,2,C,Ewood Park,25059
+7108,19,"Sat 28 Aug 2010, 15:00 BST",44,34,2,2,C,Bloomfield Road,15529
+7109,19,"Sat 28 Aug 2010, 15:00 BST",4,42,2,0,C,Stamford Bridge,40931
+7111,19,"Sat 28 Aug 2010, 15:00 BST",21,39,0,1,C,White Hart Lane,35101
+7112,19,"Sat 28 Aug 2010, 15:00 BST",38,23,1,1,C,Molineux Stadium,27745
+7110,19,"Sat 28 Aug 2010, 17:30 BST",12,25,3,0,C,Old Trafford,75061
+7114,19,"Sun 29 Aug 2010, 13:30 BST",27,35,2,2,C,Macron Stadium,18139
+7115,19,"Sun 29 Aug 2010, 15:00 BST",10,36,1,0,C,Anfield,41194
+7116,19,"Sun 29 Aug 2010, 15:00 BST",29,11,1,0,C,Stadium of Light,38610
+7113,19,"Sun 29 Aug 2010, 16:00 BST",2,7,1,0,C,Villa Park,34725
+7118,19,"Sat 11 Sep 2010, 12:45 BST",7,12,3,3,C,Goodison Park,36556
+7117,19,"Sat 11 Sep 2010, 15:00 BST",1,27,4,1,C,Emirates Stadium,59876
+7119,19,"Sat 11 Sep 2010, 15:00 BST",34,38,2,1,C,Craven Cottage,25280
+7120,19,"Sat 11 Sep 2010, 15:00 BST",11,3,1,1,C,Etihad Stadium,44246
+7121,19,"Sat 11 Sep 2010, 15:00 BST",23,44,0,2,C,Sports Direct Arena,49597
+7122,19,"Sat 11 Sep 2010, 15:00 BST",36,21,1,1,C,The Hawthorns,23642
+7123,19,"Sat 11 Sep 2010, 15:00 BST",25,4,1,3,C,Boleyn Ground,33014
+7124,19,"Sat 11 Sep 2010, 15:00 BST",39,29,1,1,C,DW Stadium,15844
+7125,19,"Sun 12 Sep 2010, 16:00 BST",35,10,0,0,C,St Andrews,27333
+7126,19,"Mon 13 Sep 2010, 20:00 BST",42,2,2,1,C,Britannia Stadium,25899
+7130,19,"Sat 18 Sep 2010, 12:45 BST",42,25,1,1,C,Britannia Stadium,27028
+7127,19,"Sat 18 Sep 2010, 15:00 BST",2,27,1,1,C,Villa Park,34655
+7128,19,"Sat 18 Sep 2010, 15:00 BST",3,34,1,1,C,Ewood Park,23759
+7129,19,"Sat 18 Sep 2010, 15:00 BST",7,23,0,1,C,Goodison Park,38019
+7132,19,"Sat 18 Sep 2010, 15:00 BST",21,38,3,1,C,White Hart Lane,35940
+7133,19,"Sat 18 Sep 2010, 15:00 BST",36,35,3,1,C,The Hawthorns,23062
+7131,19,"Sat 18 Sep 2010, 17:30 BST",29,1,1,1,C,Stadium of Light,38950
+7135,19,"Sun 19 Sep 2010, 13:30 BST",12,10,3,2,C,Old Trafford,75213
+7136,19,"Sun 19 Sep 2010, 15:00 BST",39,11,0,2,C,DW Stadium,15525
+7134,19,"Sun 19 Sep 2010, 16:00 BST",4,44,4,0,C,Stamford Bridge,41761
+7142,19,"Sat 25 Sep 2010, 12:45 BST",11,4,1,0,C,Etihad Stadium,47203
+7137,19,"Sat 25 Sep 2010, 15:00 BST",1,36,2,3,C,Emirates Stadium,60025
+7138,19,"Sat 25 Sep 2010, 15:00 BST",35,39,0,0,C,St Andrews,22186
+7139,19,"Sat 25 Sep 2010, 15:00 BST",44,3,1,2,C,Bloomfield Road,15901
+7140,19,"Sat 25 Sep 2010, 15:00 BST",34,7,0,0,C,Craven Cottage,25598
+7141,19,"Sat 25 Sep 2010, 15:00 BST",10,29,2,2,C,Anfield,43626
+7143,19,"Sat 25 Sep 2010, 15:00 BST",25,21,1,0,C,Boleyn Ground,34190
+7144,19,"Sun 26 Sep 2010, 12:00 BST",27,12,2,2,C,Macron Stadium,23926
+7146,19,"Sun 26 Sep 2010, 14:05 BST",38,2,1,2,C,Molineux Stadium,27511
+7145,19,"Sun 26 Sep 2010, 16:10 BST",23,42,1,2,C,Sports Direct Arena,41915
+7153,19,"Sat 2 Oct 2010, 12:45 BST",39,38,2,0,C,DW Stadium,14042
+7147,19,"Sat 2 Oct 2010, 15:00 BST",35,7,0,2,C,St Andrews,23138
+7148,19,"Sat 2 Oct 2010, 15:00 BST",42,3,1,0,C,Britannia Stadium,25515
+7149,19,"Sat 2 Oct 2010, 15:00 BST",29,12,0,0,C,Stadium of Light,41709
+7150,19,"Sat 2 Oct 2010, 15:00 BST",21,2,2,1,C,White Hart Lane,35871
+7151,19,"Sat 2 Oct 2010, 15:00 BST",36,27,1,1,C,The Hawthorns,22846
+7152,19,"Sat 2 Oct 2010, 15:00 BST",25,34,1,1,C,Boleyn Ground,34589
+7156,19,"Sun 3 Oct 2010, 13:30 BST",11,23,2,1,C,Etihad Stadium,46067
+7155,19,"Sun 3 Oct 2010, 15:00 BST",10,44,1,2,C,Anfield,43156
+7154,19,"Sun 3 Oct 2010, 16:00 BST",4,1,2,0,C,Stamford Bridge,41828
+7157,19,"Sat 16 Oct 2010, 15:00 BST",1,35,2,1,C,Emirates Stadium,60070
+7159,19,"Sat 16 Oct 2010, 15:00 BST",27,42,2,1,C,Macron Stadium,22975
+7160,19,"Sat 16 Oct 2010, 15:00 BST",34,21,1,2,C,Craven Cottage,25615
+7161,19,"Sat 16 Oct 2010, 15:00 BST",12,36,2,2,C,Old Trafford,75272
+7162,19,"Sat 16 Oct 2010, 15:00 BST",23,39,2,2,C,Sports Direct Arena,44415
+7163,19,"Sat 16 Oct 2010, 15:00 BST",38,25,1,1,C,Molineux Stadium,28582
+7158,19,"Sat 16 Oct 2010, 17:30 BST",2,4,0,0,C,Villa Park,40122
+7165,19,"Sun 17 Oct 2010, 13:30 BST",7,10,2,0,C,Goodison Park,39673
+7164,19,"Sun 17 Oct 2010, 16:00 BST",44,11,2,3,C,Bloomfield Road,16116
+7166,19,"Mon 18 Oct 2010, 20:00 BST",3,29,0,0,C,Ewood Park,21894
+7170,19,"Sat 23 Oct 2010, 12:45 BST",21,7,1,1,C,White Hart Lane,35967
+7167,19,"Sat 23 Oct 2010, 15:00 BST",35,44,2,0,C,St Andrews,26850
+7168,19,"Sat 23 Oct 2010, 15:00 BST",4,38,2,0,C,Stamford Bridge,41752
+7169,19,"Sat 23 Oct 2010, 15:00 BST",29,2,1,0,C,Stadium of Light,41506
+7171,19,"Sat 23 Oct 2010, 15:00 BST",36,34,2,1,C,The Hawthorns,25625
+7173,19,"Sat 23 Oct 2010, 15:00 BST",39,27,1,1,C,DW Stadium,17100
+7172,19,"Sat 23 Oct 2010, 17:30 BST",25,23,1,2,C,Boleyn Ground,34486
+7176,19,"Sun 24 Oct 2010, 13:30 BST",42,12,1,2,C,Britannia Stadium,27372
+7174,19,"Sun 24 Oct 2010, 15:00 BST",10,3,2,1,C,Anfield,43328
+7175,19,"Sun 24 Oct 2010, 16:00 BST",11,1,0,3,C,Etihad Stadium,47393
+7177,19,"Sat 30 Oct 2010, 15:00 BST",1,25,1,0,C,Emirates Stadium,60086
+7178,19,"Sat 30 Oct 2010, 15:00 BST",3,4,1,2,C,Ewood Park,25836
+7179,19,"Sat 30 Oct 2010, 15:00 BST",7,42,1,0,C,Goodison Park,35513
+7180,19,"Sat 30 Oct 2010, 15:00 BST",34,39,2,0,C,Craven Cottage,25448
+7182,19,"Sat 30 Oct 2010, 15:00 BST",38,11,2,1,C,Molineux Stadium,25971
+7181,19,"Sat 30 Oct 2010, 17:30 BST",12,21,2,0,C,Old Trafford,75223
+7183,19,"Sun 31 Oct 2010, 12:00 GMT",2,35,0,0,C,Villa Park,40688
+7185,19,"Sun 31 Oct 2010, 13:30 GMT",23,29,5,1,C,Sports Direct Arena,51988
+7184,19,"Sun 31 Oct 2010, 16:00 GMT",27,10,0,1,C,Macron Stadium,25171
+7186,19,"Mon 1 Nov 2010, 20:00 GMT",44,36,2,1,C,Bloomfield Road,15210
+7190,19,"Sat 6 Nov 2010, 12:45 GMT",27,21,4,2,C,Macron Stadium,20255
+7187,19,"Sat 6 Nov 2010, 15:00 GMT",35,25,2,2,C,St Andrews,26474
+7188,19,"Sat 6 Nov 2010, 15:00 GMT",3,39,2,1,C,Ewood Park,24413
+7189,19,"Sat 6 Nov 2010, 15:00 GMT",44,7,2,2,C,Bloomfield Road,16094
+7191,19,"Sat 6 Nov 2010, 15:00 GMT",34,2,1,1,C,Craven Cottage,23654
+7192,19,"Sat 6 Nov 2010, 15:00 GMT",12,38,2,1,C,Old Trafford,75285
+7193,19,"Sat 6 Nov 2010, 15:00 GMT",29,42,2,0,C,Stadium of Light,36541
+7194,19,"Sun 7 Nov 2010, 13:30 GMT",1,23,0,1,C,Emirates Stadium,60059
+7196,19,"Sun 7 Nov 2010, 15:00 GMT",36,11,0,2,C,The Hawthorns,23013
+7195,19,"Sun 7 Nov 2010, 16:00 GMT",10,4,2,0,C,Anfield,44238
+7197,19,"Tue 9 Nov 2010, 19:45 GMT",42,35,3,2,C,Britannia Stadium,26381
+7198,19,"Tue 9 Nov 2010, 20:00 GMT",21,29,1,1,C,White Hart Lane,35843
+7199,19,"Wed 10 Nov 2010, 19:45 GMT",2,44,3,2,C,Villa Park,34330
+7200,19,"Wed 10 Nov 2010, 19:45 GMT",4,34,1,0,C,Stamford Bridge,41593
+7203,19,"Wed 10 Nov 2010, 19:45 GMT",23,3,1,2,C,Sports Direct Arena,41053
+7204,19,"Wed 10 Nov 2010, 19:45 GMT",25,36,2,2,C,Boleyn Ground,33023
+7205,19,"Wed 10 Nov 2010, 19:45 GMT",39,10,1,1,C,DW Stadium,16754
+7206,19,"Wed 10 Nov 2010, 19:45 GMT",38,1,0,2,C,Molineux Stadium,27329
+7201,19,"Wed 10 Nov 2010, 20:00 GMT",7,27,1,1,C,Goodison Park,31808
+7202,19,"Wed 10 Nov 2010, 20:00 GMT",11,12,0,0,C,Etihad Stadium,47210
+7207,19,"Sat 13 Nov 2010, 12:45 GMT",2,12,2,2,C,Villa Park,40073
+7208,19,"Sat 13 Nov 2010, 15:00 GMT",11,35,0,0,C,Etihad Stadium,44321
+7209,19,"Sat 13 Nov 2010, 15:00 GMT",23,34,0,0,C,Sports Direct Arena,44686
+7211,19,"Sat 13 Nov 2010, 15:00 GMT",21,3,4,2,C,White Hart Lane,35700
+7212,19,"Sat 13 Nov 2010, 15:00 GMT",25,44,0,0,C,Boleyn Ground,31194
+7213,19,"Sat 13 Nov 2010, 15:00 GMT",39,36,1,0,C,DW Stadium,16085
+7214,19,"Sat 13 Nov 2010, 15:00 GMT",38,27,2,3,C,Molineux Stadium,27508
+7210,19,"Sat 13 Nov 2010, 17:30 GMT",42,10,2,0,C,Britannia Stadium,27286
+7216,19,"Sun 14 Nov 2010, 14:00 GMT",7,1,1,2,C,Goodison Park,36279
+7215,19,"Sun 14 Nov 2010, 16:10 GMT",4,29,0,3,C,Stamford Bridge,41072
+7217,19,"Sat 20 Nov 2010, 12:45 GMT",1,21,2,3,C,Emirates Stadium,60102
+7218,19,"Sat 20 Nov 2010, 15:00 GMT",35,4,1,0,C,St Andrews,24357
+7219,19,"Sat 20 Nov 2010, 15:00 GMT",44,38,2,1,C,Bloomfield Road,15922
+7220,19,"Sat 20 Nov 2010, 15:00 GMT",27,23,5,1,C,Macron Stadium,22203
+7222,19,"Sat 20 Nov 2010, 15:00 GMT",12,39,2,0,C,Old Trafford,74181
+7223,19,"Sat 20 Nov 2010, 15:00 GMT",36,42,0,3,C,The Hawthorns,24164
+7221,19,"Sat 20 Nov 2010, 17:30 GMT",10,25,3,0,C,Anfield,43024
+7224,19,"Sun 21 Nov 2010, 13:30 GMT",3,2,2,0,C,Ewood Park,21848
+7225,19,"Sun 21 Nov 2010, 16:00 GMT",34,11,1,4,C,Craven Cottage,25694
+7226,19,"Mon 22 Nov 2010, 20:00 GMT",29,7,2,2,C,Stadium of Light,37331
+7227,19,"Sat 27 Nov 2010, 12:45 GMT",2,1,2,4,C,Villa Park,38544
+7228,19,"Sat 27 Nov 2010, 15:00 GMT",27,44,2,2,C,Macron Stadium,25851
+7229,19,"Sat 27 Nov 2010, 15:00 GMT",7,36,1,4,C,Goodison Park,35237
+7230,19,"Sat 27 Nov 2010, 15:00 GMT",34,35,1,1,C,Craven Cottage,24391
+7231,19,"Sat 27 Nov 2010, 15:00 GMT",12,3,7,1,C,Old Trafford,74850
+7232,19,"Sat 27 Nov 2010, 15:00 GMT",42,11,1,1,C,Britannia Stadium,27405
+7233,19,"Sat 27 Nov 2010, 15:00 GMT",25,39,3,1,C,Boleyn Ground,34178
+7234,19,"Sat 27 Nov 2010, 15:00 GMT",38,29,3,2,C,Molineux Stadium,25112
+7235,19,"Sun 28 Nov 2010, 13:30 GMT",23,4,1,1,C,Sports Direct Arena,46469
+7236,19,"Sun 28 Nov 2010, 16:00 GMT",21,10,2,1,C,White Hart Lane,35962
+7237,19,"Sat 4 Dec 2010, 15:00 GMT",1,34,2,1,C,Emirates Stadium,60049
+7238,19,"Sat 4 Dec 2010, 15:00 GMT",35,21,1,1,C,St Andrews,25770
+7239,19,"Sat 4 Dec 2010, 15:00 GMT",3,38,3,0,C,Ewood Park,22314
+7240,19,"Sat 4 Dec 2010, 15:00 GMT",4,7,1,1,C,Stamford Bridge,41642
+7241,19,"Sat 4 Dec 2010, 15:00 GMT",11,27,1,0,C,Etihad Stadium,46860
+7242,19,"Sat 4 Dec 2010, 15:00 GMT",39,42,2,2,C,DW Stadium,15100
+7244,19,"Sun 5 Dec 2010, 13:30 GMT",36,23,3,1,C,The Hawthorns,23486
+7243,19,"Sun 5 Dec 2010, 16:00 GMT",29,25,1,0,C,Stadium of Light,36940
+7245,19,"Mon 6 Dec 2010, 20:00 GMT",10,2,3,0,C,Anfield,39079
+7246,19,"Sat 11 Dec 2010, 15:00 GMT",2,36,2,1,C,Villa Park,37015
+7247,19,"Sat 11 Dec 2010, 15:00 GMT",7,39,0,0,C,Goodison Park,32853
+7248,19,"Sat 11 Dec 2010, 15:00 GMT",34,29,0,0,C,Craven Cottage,24462
+7250,19,"Sat 11 Dec 2010, 15:00 GMT",42,44,0,1,C,Britannia Stadium,26879
+7251,19,"Sat 11 Dec 2010, 15:00 GMT",25,11,1,3,C,Boleyn Ground,32813
+7249,19,"Sat 11 Dec 2010, 17:30 GMT",23,10,3,1,C,Sports Direct Arena,50137
+7252,19,"Sun 12 Dec 2010, 13:30 GMT",27,3,2,1,C,Macron Stadium,24471
+7254,19,"Sun 12 Dec 2010, 13:30 GMT",38,35,1,0,C,Molineux Stadium,25150
+7253,19,"Sun 12 Dec 2010, 16:00 GMT",21,4,1,1,C,White Hart Lane,35787
+7255,19,"Mon 13 Dec 2010, 20:00 GMT",12,1,1,0,C,Old Trafford,75227
+7257,19,"Sat 18 Dec 2010, 12:45 GMT",29,27,1,0,C,Stadium of Light,35101
+7256,19,"Sat 18 Dec 2010, 15:00 GMT",3,25,1,1,C,Ewood Park,21934
+7258,19,"Mon 20 Dec 2010, 20:00 GMT",11,7,1,2,C,Etihad Stadium,45028
+7262,19,"Sun 26 Dec 2010, 12:00 GMT",34,25,1,3,C,Craven Cottage,25332
+7260,19,"Sun 26 Dec 2010, 15:00 GMT",3,42,0,2,C,Ewood Park,25440
+7261,19,"Sun 26 Dec 2010, 15:00 GMT",27,36,2,0,C,Macron Stadium,23413
+7263,19,"Sun 26 Dec 2010, 15:00 GMT",12,29,2,0,C,Old Trafford,75269
+7264,19,"Sun 26 Dec 2010, 15:00 GMT",23,11,1,3,C,Sports Direct Arena,51635
+7265,19,"Sun 26 Dec 2010, 15:00 GMT",38,39,1,2,C,Molineux Stadium,26901
+7259,19,"Sun 26 Dec 2010, 17:30 GMT",2,21,1,2,C,Villa Park,39411
+7266,19,"Mon 27 Dec 2010, 20:00 GMT",1,4,3,1,C,Emirates Stadium,60112
+7268,19,"Tue 28 Dec 2010, 15:00 GMT",11,2,4,0,C,Etihad Stadium,46716
+7269,19,"Tue 28 Dec 2010, 15:00 GMT",42,34,0,2,C,Britannia Stadium,26954
+7270,19,"Tue 28 Dec 2010, 15:00 GMT",29,44,0,2,C,Stadium of Light,42892
+7271,19,"Tue 28 Dec 2010, 15:00 GMT",21,23,2,0,C,White Hart Lane,35927
+7272,19,"Tue 28 Dec 2010, 15:00 GMT",36,3,1,3,C,The Hawthorns,24440
+7273,19,"Tue 28 Dec 2010, 17:30 GMT",25,7,1,1,C,Boleyn Ground,33422
+7267,19,"Tue 28 Dec 2010, 20:00 GMT",35,12,1,1,C,St Andrews,28242
+7274,19,"Wed 29 Dec 2010, 19:45 GMT",4,27,1,0,C,Stamford Bridge,40982
+7276,19,"Wed 29 Dec 2010, 19:45 GMT",39,1,2,2,C,DW Stadium,17014
+7275,19,"Wed 29 Dec 2010, 20:00 GMT",10,38,0,1,C,Anfield,41614
+7283,19,"Sat 1 Jan 2011, 12:45 GMT",36,12,1,2,C,The Hawthorns,25499
+7278,19,"Sat 1 Jan 2011, 15:00 GMT",10,27,2,1,C,Anfield,35400
+7279,19,"Sat 1 Jan 2011, 15:00 GMT",11,44,1,0,C,Etihad Stadium,47296
+7280,19,"Sat 1 Jan 2011, 15:00 GMT",42,7,2,0,C,Britannia Stadium,27418
+7281,19,"Sat 1 Jan 2011, 15:00 GMT",29,3,3,0,C,Stadium of Light,36242
+7282,19,"Sat 1 Jan 2011, 15:00 GMT",21,34,1,0,C,White Hart Lane,35603
+7284,19,"Sat 1 Jan 2011, 15:00 GMT",25,38,2,0,C,Boleyn Ground,33500
+7277,19,"Sat 1 Jan 2011, 17:30 GMT",35,1,0,3,C,St Andrews,24341
+7285,19,"Sun 2 Jan 2011, 13:30 GMT",4,2,3,3,C,Stamford Bridge,41222
+7286,19,"Sun 2 Jan 2011, 16:00 GMT",39,23,0,1,C,DW Stadium,15277
+7287,19,"Tue 4 Jan 2011, 20:00 GMT",44,35,1,2,C,Bloomfield Road,14550
+7288,19,"Tue 4 Jan 2011, 20:00 GMT",34,36,3,0,C,Craven Cottage,23654
+7289,19,"Tue 4 Jan 2011, 20:00 GMT",12,42,2,1,C,Old Trafford,73401
+7290,19,"Wed 5 Jan 2011, 19:45 GMT",1,11,0,0,C,Emirates Stadium,60085
+7291,19,"Wed 5 Jan 2011, 19:45 GMT",2,29,0,1,C,Villa Park,32627
+7295,19,"Wed 5 Jan 2011, 19:45 GMT",23,25,5,0,C,Sports Direct Arena,42387
+7296,19,"Wed 5 Jan 2011, 19:45 GMT",38,4,1,0,C,Molineux Stadium,26432
+7292,19,"Wed 5 Jan 2011, 20:00 GMT",3,10,3,1,C,Ewood Park,24522
+7293,19,"Wed 5 Jan 2011, 20:00 GMT",27,39,1,1,C,Macron Stadium,18852
+7294,19,"Wed 5 Jan 2011, 20:00 GMT",7,21,2,1,C,Goodison Park,34124
+7297,19,"Wed 12 Jan 2011, 20:00 GMT",44,10,2,1,C,Bloomfield Road,16089
+7298,19,"Sat 15 Jan 2011, 15:00 GMT",4,3,2,0,C,Stamford Bridge,40846
+7299,19,"Sat 15 Jan 2011, 15:00 GMT",11,38,4,3,C,Etihad Stadium,46672
+7300,19,"Sat 15 Jan 2011, 15:00 GMT",42,27,2,0,C,Britannia Stadium,26809
+7301,19,"Sat 15 Jan 2011, 15:00 GMT",36,44,3,2,C,The Hawthorns,25316
+7303,19,"Sat 15 Jan 2011, 15:00 GMT",39,34,1,1,C,DW Stadium,18820
+7302,19,"Sat 15 Jan 2011, 17:30 GMT",25,1,0,3,C,Boleyn Ground,32682
+7304,19,"Sun 16 Jan 2011, 12:00 GMT",35,2,1,1,C,St Andrews,22287
+7306,19,"Sun 16 Jan 2011, 12:00 GMT",29,23,1,1,C,Stadium of Light,47864
+7305,19,"Sun 16 Jan 2011, 14:05 GMT",10,7,2,2,C,Anfield,44795
+7307,19,"Sun 16 Jan 2011, 16:10 GMT",21,12,0,0,C,White Hart Lane,35828
+7315,19,"Sat 22 Jan 2011, 12:45 GMT",38,10,0,3,C,Molineux Stadium,28869
+7308,19,"Sat 22 Jan 2011, 15:00 GMT",1,39,3,0,C,Emirates Stadium,59552
+7310,19,"Sat 22 Jan 2011, 15:00 GMT",44,29,1,2,C,Bloomfield Road,16037
+7311,19,"Sat 22 Jan 2011, 15:00 GMT",7,25,2,2,C,Goodison Park,34179
+7312,19,"Sat 22 Jan 2011, 15:00 GMT",34,42,2,0,C,Craven Cottage,23766
+7313,19,"Sat 22 Jan 2011, 15:00 GMT",12,35,5,0,C,Old Trafford,75326
+7314,19,"Sat 22 Jan 2011, 15:00 GMT",23,21,1,1,C,Sports Direct Arena,51010
+7309,19,"Sat 22 Jan 2011, 17:30 GMT",2,11,1,0,C,Villa Park,37315
+7316,19,"Sun 23 Jan 2011, 16:00 GMT",3,36,2,0,C,Ewood Park,24057
+7317,19,"Mon 24 Jan 2011, 20:00 GMT",27,4,0,4,C,Macron Stadium,22837
+7318,19,"Tue 25 Jan 2011, 19:30 GMT",44,12,2,3,C,Bloomfield Road,15574
+7319,19,"Tue 25 Jan 2011, 19:45 GMT",39,2,1,2,C,DW Stadium,16442
+7320,19,"Wed 26 Jan 2011, 20:00 GMT",10,34,1,0,C,Anfield,40466
+7321,19,"Tue 1 Feb 2011, 19:45 GMT",1,7,2,1,C,Emirates Stadium,60014
+7323,19,"Tue 1 Feb 2011, 19:45 GMT",29,4,2,4,C,Stadium of Light,37855
+7322,19,"Tue 1 Feb 2011, 20:00 GMT",12,2,3,1,C,Old Trafford,75256
+7324,19,"Tue 1 Feb 2011, 20:00 GMT",36,39,2,2,C,The Hawthorns,25358
+7325,19,"Wed 2 Feb 2011, 19:45 GMT",35,11,2,2,C,St Andrews,24379
+7326,19,"Wed 2 Feb 2011, 20:00 GMT",3,21,0,1,C,Ewood Park,23253
+7327,19,"Wed 2 Feb 2011, 20:00 GMT",44,25,1,3,C,Bloomfield Road,15095
+7328,19,"Wed 2 Feb 2011, 20:00 GMT",27,38,1,0,C,Macron Stadium,18944
+7329,19,"Wed 2 Feb 2011, 20:00 GMT",34,23,1,0,C,Craven Cottage,25620
+7330,19,"Wed 2 Feb 2011, 20:00 GMT",10,42,2,0,C,Anfield,40254
+7335,19,"Sat 5 Feb 2011, 12:45 GMT",42,29,3,2,C,Britannia Stadium,26008
+7331,19,"Sat 5 Feb 2011, 15:00 GMT",2,34,2,2,C,Villa Park,35899
+7332,19,"Sat 5 Feb 2011, 15:00 GMT",7,44,5,3,C,Goodison Park,38202
+7333,19,"Sat 5 Feb 2011, 15:00 GMT",11,36,3,0,C,Etihad Stadium,46846
+7334,19,"Sat 5 Feb 2011, 15:00 GMT",23,1,4,4,C,Sports Direct Arena,51561
+7336,19,"Sat 5 Feb 2011, 15:00 GMT",21,27,2,1,C,White Hart Lane,36197
+7337,19,"Sat 5 Feb 2011, 15:00 GMT",39,3,4,3,C,DW Stadium,18567
+7338,19,"Sat 5 Feb 2011, 17:30 GMT",38,12,2,1,C,Molineux Stadium,28811
+7340,19,"Sun 6 Feb 2011, 13:30 GMT",25,35,0,1,C,Boleyn Ground,32927
+7339,19,"Sun 6 Feb 2011, 16:00 GMT",4,10,0,1,C,Stamford Bridge,41829
+7346,19,"Sat 12 Feb 2011, 12:45 GMT",12,11,2,1,C,Old Trafford,75322
+7341,19,"Sat 12 Feb 2011, 15:00 GMT",1,38,2,0,C,Emirates Stadium,60050
+7342,19,"Sat 12 Feb 2011, 15:00 GMT",35,42,1,0,C,St Andrews,23660
+7343,19,"Sat 12 Feb 2011, 15:00 GMT",3,23,0,0,C,Ewood Park,26781
+7344,19,"Sat 12 Feb 2011, 15:00 GMT",44,2,1,1,C,Bloomfield Road,16000
+7345,19,"Sat 12 Feb 2011, 15:00 GMT",10,39,1,1,C,Anfield,44609
+7348,19,"Sat 12 Feb 2011, 15:00 GMT",36,25,3,3,C,The Hawthorns,23916
+7347,19,"Sat 12 Feb 2011, 17:30 GMT",29,21,1,2,C,Stadium of Light,40986
+7349,19,"Sun 13 Feb 2011, 16:00 GMT",27,7,2,0,C,Macron Stadium,22986
+7350,19,"Mon 14 Feb 2011, 20:00 GMT",34,4,0,0,C,Craven Cottage,25685
+7351,19,"Tue 15 Feb 2011, 19:45 GMT",35,23,0,2,C,St Andrews,28270
+7352,19,"Sun 20 Feb 2011, 12:00 GMT",36,38,1,1,C,The Hawthorns,26170
+7353,19,"Tue 22 Feb 2011, 20:00 GMT",44,21,3,1,C,Bloomfield Road,16069
+7354,19,"Wed 23 Feb 2011, 19:45 GMT",1,42,1,0,C,Emirates Stadium,60041
+7355,19,"Sat 26 Feb 2011, 15:00 GMT",2,3,4,1,C,Villa Park,34309
+7356,19,"Sat 26 Feb 2011, 15:00 GMT",7,29,2,0,C,Goodison Park,37776
+7357,19,"Sat 26 Feb 2011, 15:00 GMT",23,27,1,1,C,Sports Direct Arena,48062
+7358,19,"Sat 26 Feb 2011, 15:00 GMT",39,12,0,4,C,DW Stadium,18140
+7359,19,"Sat 26 Feb 2011, 15:00 GMT",38,44,4,0,C,Molineux Stadium,29086
+7361,19,"Sun 27 Feb 2011, 13:30 GMT",25,10,3,1,C,Boleyn Ground,34941
+7360,19,"Sun 27 Feb 2011, 15:00 GMT",11,34,1,1,C,Etihad Stadium,43077
+7362,19,"Mon 28 Feb 2011, 20:00 GMT",42,36,1,1,C,Britannia Stadium,25019
+7363,19,"Tue 1 Mar 2011, 19:45 GMT",4,12,2,1,C,Stamford Bridge,41825
+7365,19,"Sat 5 Mar 2011, 12:45 GMT",35,36,1,3,C,St Andrews,27013
+7364,19,"Sat 5 Mar 2011, 15:00 GMT",1,29,0,0,C,Emirates Stadium,60081
+7366,19,"Sat 5 Mar 2011, 15:00 GMT",27,2,3,2,C,Macron Stadium,22533
+7367,19,"Sat 5 Mar 2011, 15:00 GMT",34,3,3,2,C,Craven Cottage,25687
+7369,19,"Sat 5 Mar 2011, 15:00 GMT",23,7,1,2,C,Sports Direct Arena,50128
+7370,19,"Sat 5 Mar 2011, 15:00 GMT",25,42,3,0,C,Boleyn Ground,33066
+7368,19,"Sat 5 Mar 2011, 17:30 GMT",11,39,1,0,C,Etihad Stadium,44864
+7371,19,"Sun 6 Mar 2011, 13:30 GMT",10,12,3,1,C,Anfield,44753
+7372,19,"Sun 6 Mar 2011, 16:00 GMT",38,21,3,3,C,Molineux Stadium,28669
+7373,19,"Mon 7 Mar 2011, 20:00 GMT",44,4,1,3,C,Bloomfield Road,15584
+7374,19,"Wed 9 Mar 2011, 20:00 GMT",7,35,1,1,C,Goodison Park,33974
+7380,19,"Sat 19 Mar 2011, 12:45 GMT",21,25,0,0,C,White Hart Lane,36010
+7375,19,"Sat 19 Mar 2011, 15:00 GMT",2,38,0,1,C,Villa Park,38965
+7376,19,"Sat 19 Mar 2011, 15:00 GMT",3,44,2,2,C,Ewood Park,27209
+7378,19,"Sat 19 Mar 2011, 15:00 GMT",12,27,1,0,C,Old Trafford,75486
+7379,19,"Sat 19 Mar 2011, 15:00 GMT",42,23,4,0,C,Britannia Stadium,27505
+7381,19,"Sat 19 Mar 2011, 15:00 GMT",36,1,2,2,C,The Hawthorns,25729
+7382,19,"Sat 19 Mar 2011, 15:00 GMT",39,35,2,1,C,DW Stadium,16421
+7377,19,"Sat 19 Mar 2011, 17:30 GMT",7,34,2,1,C,Goodison Park,33239
+7384,19,"Sun 20 Mar 2011, 13:30 GMT",29,10,0,2,C,Stadium of Light,47207
+7383,19,"Sun 20 Mar 2011, 16:00 GMT",4,11,2,0,C,Stamford Bridge,41741
+7391,19,"Sat 2 Apr 2011, 12:45 BST",25,12,2,4,C,Boleyn Ground,34546
+7386,19,"Sat 2 Apr 2011, 15:00 BST",35,27,2,1,C,St Andrews,26142
+7387,19,"Sat 2 Apr 2011, 15:00 GMT+01:00",7,2,2,2,C,Goodison Park,37619
+7388,19,"Sat 2 Apr 2011, 15:00 GMT+01:00",23,38,4,1,C,Sports Direct Arena,49939
+7389,19,"Sat 2 Apr 2011, 15:00 GMT+01:00",42,4,1,1,C,Britannia Stadium,27508
+7390,19,"Sat 2 Apr 2011, 15:00 GMT+01:00",36,10,2,1,C,The Hawthorns,26196
+7392,19,"Sat 2 Apr 2011, 15:00 GMT+01:00",39,21,0,0,C,DW Stadium,18578
+7385,19,"Sat 2 Apr 2011, 17:30 GMT+01:00",1,3,0,0,C,Emirates Stadium,60087
+7393,19,"Sun 3 Apr 2011, 13:30 GMT+01:00",34,44,3,0,C,Craven Cottage,25692
+7394,19,"Sun 3 Apr 2011, 16:00 GMT+01:00",11,29,5,0,C,Etihad Stadium,44197
+7401,19,"Sat 9 Apr 2011, 12:45 GMT+01:00",38,7,0,3,C,Molineux Stadium,28352
+7395,19,"Sat 9 Apr 2011, 15:00 GMT+01:00",3,35,1,1,C,Ewood Park,28426
+7396,19,"Sat 9 Apr 2011, 15:00 GMT+01:00",27,25,3,0,C,Macron Stadium,25857
+7397,19,"Sat 9 Apr 2011, 15:00 GMT+01:00",4,39,1,0,C,Stamford Bridge,40734
+7398,19,"Sat 9 Apr 2011, 15:00 GMT+01:00",12,34,2,0,C,Old Trafford,75339
+7399,19,"Sat 9 Apr 2011, 15:00 GMT+01:00",29,36,2,3,C,Stadium of Light,41586
+7400,19,"Sat 9 Apr 2011, 15:00 GMT+01:00",21,42,3,2,C,White Hart Lane,32702
+7403,19,"Sun 10 Apr 2011, 13:30 GMT+01:00",44,1,1,3,C,Bloomfield Road,16030
+7402,19,"Sun 10 Apr 2011, 16:00 GMT+01:00",2,23,1,0,C,Villa Park,37090
+7404,19,"Mon 11 Apr 2011, 20:00 GMT+01:00",10,11,3,0,C,Anfield,44776
+7405,19,"Sat 16 Apr 2011, 15:00 GMT+01:00",35,29,2,0,C,St Andrews,28108
+7406,19,"Sat 16 Apr 2011, 15:00 GMT+01:00",44,39,1,3,C,Bloomfield Road,16030
+7407,19,"Sat 16 Apr 2011, 15:00 GMT+01:00",7,3,2,0,C,Goodison Park,35857
+7408,19,"Sat 16 Apr 2011, 15:00 GMT+01:00",36,4,1,3,C,The Hawthorns,25163
+7409,19,"Sat 16 Apr 2011, 15:00 GMT+01:00",25,2,1,2,C,Boleyn Ground,
+7410,19,"Sun 17 Apr 2011, 16:00 GMT+01:00",1,10,1,1,C,Emirates Stadium,60029
+7411,19,"Tue 19 Apr 2011, 19:45 GMT+01:00",23,12,0,0,C,Sports Direct Arena,49025
+7412,19,"Wed 20 Apr 2011, 19:45 GMT+01:00",4,35,3,1,C,Stamford Bridge,40848
+7413,19,"Wed 20 Apr 2011, 19:45 GMT+01:00",21,1,3,3,C,White Hart Lane,36138
+7418,19,"Sat 23 Apr 2011, 12:45 GMT+01:00",12,7,1,0,C,Old Trafford,75300
+7414,19,"Sat 23 Apr 2011, 15:00 GMT+01:00",2,42,1,1,C,Villa Park,35235
+7415,19,"Sat 23 Apr 2011, 15:00 GMT+01:00",44,23,1,1,C,Bloomfield Road,16003
+7417,19,"Sat 23 Apr 2011, 15:00 GMT+01:00",10,35,5,0,C,Anfield,44734
+7419,19,"Sat 23 Apr 2011, 15:00 GMT+01:00",29,39,4,2,C,Stadium of Light,39650
+7420,19,"Sat 23 Apr 2011, 15:00 GMT+01:00",21,36,2,2,C,White Hart Lane,36160
+7421,19,"Sat 23 Apr 2011, 15:00 GMT+01:00",38,34,1,1,C,Molineux Stadium,28825
+7416,19,"Sat 23 Apr 2011, 17:30 GMT+01:00",4,25,3,0,C,Stamford Bridge,41656
+7422,19,"Sun 24 Apr 2011, 16:00 GMT+01:00",27,1,2,1,C,Macron Stadium,26881
+7423,19,"Mon 25 Apr 2011, 20:00 GMT+01:00",3,11,0,1,C,Ewood Park,23529
+7424,19,"Tue 26 Apr 2011, 19:45 GMT+01:00",42,38,3,0,C,Britannia Stadium,27030
+7425,19,"Wed 27 Apr 2011, 20:00 GMT+01:00",34,27,3,0,C,Craven Cottage,23222
+7426,19,"Sat 30 Apr 2011, 15:00 GMT+01:00",3,27,1,0,C,Ewood Park,28985
+7427,19,"Sat 30 Apr 2011, 15:00 GMT+01:00",44,42,0,0,C,Bloomfield Road,16003
+7429,19,"Sat 30 Apr 2011, 15:00 GMT+01:00",29,34,0,3,C,Stadium of Light,39576
+7430,19,"Sat 30 Apr 2011, 15:00 GMT+01:00",36,2,2,1,C,The Hawthorns,25889
+7431,19,"Sat 30 Apr 2011, 15:00 GMT+01:00",39,7,1,1,C,DW Stadium,17051
+7428,19,"Sat 30 Apr 2011, 17:30 GMT+01:00",4,21,2,1,C,Stamford Bridge,41681
+7433,19,"Sun 1 May 2011, 12:00 GMT+01:00",35,38,1,1,C,St Andrews,26072
+7434,19,"Sun 1 May 2011, 12:00 GMT+01:00",10,23,3,0,C,Anfield,44923
+7432,19,"Sun 1 May 2011, 14:05 GMT+01:00",1,12,1,0,C,Emirates Stadium,60107
+7435,19,"Sun 1 May 2011, 16:10 GMT+01:00",11,25,2,1,C,Etihad Stadium,44511
+7436,19,"Sat 7 May 2011, 15:00 GMT+01:00",2,39,1,1,C,Villa Park,36293
+7437,19,"Sat 7 May 2011, 15:00 GMT+01:00",27,29,1,2,C,Macron Stadium,22597
+7438,19,"Sat 7 May 2011, 15:00 GMT+01:00",7,11,2,1,C,Goodison Park,37351
+7439,19,"Sat 7 May 2011, 15:00 GMT+01:00",23,35,2,1,C,Sports Direct Arena,47409
+7441,19,"Sat 7 May 2011, 15:00 GMT+01:00",25,3,1,1,C,Boleyn Ground,33789
+7440,19,"Sat 7 May 2011, 17:30 GMT+01:00",21,44,1,1,C,White Hart Lane,35585
+7444,19,"Sun 8 May 2011, 12:00 GMT+01:00",38,36,3,1,C,Molineux Stadium,28510
+7443,19,"Sun 8 May 2011, 14:05 GMT+01:00",42,1,3,1,C,Britannia Stadium,27478
+7442,19,"Sun 8 May 2011, 16:10 GMT+01:00",12,4,2,1,C,Old Trafford,75445
+7445,19,"Mon 9 May 2011, 20:00 GMT+01:00",34,10,2,5,C,Craven Cottage,25693
+7446,19,"Tue 10 May 2011, 19:45 GMT+01:00",11,21,1,0,C,Etihad Stadium,47029
+7447,19,"Sat 14 May 2011, 12:45 GMT+01:00",3,12,1,1,C,Ewood Park,29867
+7448,19,"Sat 14 May 2011, 12:45 GMT+01:00",44,27,4,3,C,Bloomfield Road,15979
+7449,19,"Sat 14 May 2011, 12:45 GMT+01:00",29,38,1,3,C,Stadium of Light,41273
+7450,19,"Sat 14 May 2011, 12:45 GMT+01:00",36,7,1,0,C,The Hawthorns,25838
+7453,19,"Sun 15 May 2011, 13:30 GMT+01:00",4,23,2,2,C,Stamford Bridge,41739
+7451,19,"Sun 15 May 2011, 16:00 GMT+01:00",1,2,1,2,C,Emirates Stadium,60023
+7452,19,"Sun 15 May 2011, 16:00 GMT+01:00",35,34,0,2,C,St Andrews,27759
+7454,19,"Sun 15 May 2011, 16:00 GMT+01:00",10,21,0,2,C,Anfield,44893
+7455,19,"Sun 15 May 2011, 16:00 GMT+01:00",39,25,3,2,C,DW Stadium,22043
+7456,19,"Tue 17 May 2011, 19:45 GMT+01:00",11,42,3,0,C,Etihad Stadium,45103
+7457,19,"Sun 22 May 2011, 16:00 GMT+01:00",2,10,1,0,C,Villa Park,42785
+7458,19,"Sun 22 May 2011, 16:00 GMT+01:00",27,11,0,2,C,Macron Stadium,26285
+7459,19,"Sun 22 May 2011, 16:00 GMT+01:00",7,4,1,0,C,Goodison Park,38712
+7460,19,"Sun 22 May 2011, 16:00 GMT+01:00",34,1,2,2,C,Craven Cottage,25674
+7461,19,"Sun 22 May 2011, 16:00 GMT+01:00",12,44,4,2,C,Old Trafford,75400
+7462,19,"Sun 22 May 2011, 16:00 GMT+01:00",23,36,3,3,C,Sports Direct Arena,51678
+7463,19,"Sun 22 May 2011, 16:00 GMT+01:00",42,39,0,1,C,Britannia Stadium,27566
+7464,19,"Sun 22 May 2011, 16:00 GMT+01:00",21,35,2,1,C,White Hart Lane,36119
+7465,19,"Sun 22 May 2011, 16:00 GMT+01:00",25,29,0,3,C,Boleyn Ground,32792
+7466,19,"Sun 22 May 2011, 16:00 GMT+01:00",38,3,2,3,C,Molineux Stadium,29009
