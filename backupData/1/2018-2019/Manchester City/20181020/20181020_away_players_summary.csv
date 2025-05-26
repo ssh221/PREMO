@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sam Vokes,9,wls WAL,FW,28-364,68,0,0,0,0,2,0,0,0,24,0,0,0,0.2,0.2,0.0,0,0,10,17,58.8,1,7,0,0,0
+Chris Wood,11,nz NZL,FW,26-317,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,0,0,0,0
+Jeff Hendrick,13,ie IRL,"FW,LM",26-262,90,0,0,0,0,1,0,1,0,40,0,0,0,0.1,0.1,0.0,1,0,29,31,93.5,3,31,1,4,1
+Aaron Lennon,25,eng ENG,LM,31-187,68,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,12,15,80.0,1,9,1,0,0
+Ashley Westwood,18,eng ENG,CM,28-202,22,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,0,0,8,11,72.7,0,5,0,0,0
+Jack Cork,4,eng ENG,"CM,FW",29-117,90,0,0,0,0,0,0,1,0,38,2,0,1,0.0,0.0,0.0,3,0,29,31,93.5,5,17,0,2,2
+Steven Defour,16,be BEL,CM,30-188,74,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.0,1,0,24,33,72.7,2,15,1,0,0
+Ashley Barnes,10,eng ENG,FW,28-355,16,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,3,1,0,0
+Jóhann Berg Guðmundsson,7,is ISL,RM,27-358,90,0,0,0,0,1,0,0,0,33,1,4,1,0.0,0.0,0.2,2,0,12,19,63.2,0,20,2,1,0
+Charlie Taylor,3,eng ENG,LB,25-032,90,0,0,0,0,0,0,0,0,50,1,1,3,0.0,0.0,0.0,0,0,31,41,75.6,0,18,2,0,0
+Ben Mee,6,eng ENG,CB,29-029,90,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,0,0,22,29,75.9,1,12,0,0,0
+James Tarkowski,5,eng ENG,CB,25-335,90,0,0,0,0,0,0,0,0,44,2,2,5,0.0,0.0,0.0,0,0,20,27,74.1,2,16,0,0,0
+Matthew Lowton,2,eng ENG,RB,29-133,90,0,0,0,0,0,0,0,0,40,2,2,3,0.0,0.0,0.0,1,0,22,29,75.9,0,9,1,1,0
+Joe Hart,20,eng ENG,GK,31-184,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,8,0,0,0

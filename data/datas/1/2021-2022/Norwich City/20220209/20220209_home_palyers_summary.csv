@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Teemu Pukki,22,fi FIN,FW,31-317,90,1,0,0,0,2,1,0,0,16,1,0,1,0.2,0.2,0.0,0,0,4,8,50.0,0,8,0,0,0
+Adam Idah,35,ie IRL,"FW,RM",20-363,83,0,1,0,0,2,0,0,0,21,0,1,0,0.2,0.2,0.1,2,1,6,13,46.2,0,13,3,0,0
+Jon Rowe,46,eng ENG,RM,18-285,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Milot Rashica,17,xk KVX,LM,25-226,90,0,0,0,0,1,0,0,0,30,2,0,2,0.0,0.0,0.2,5,1,7,15,46.7,1,12,2,4,1
+Kenny McLean,23,sct SCO,"CM,DM",30-032,90,0,0,0,0,0,0,0,0,33,1,2,0,0.0,0.0,0.0,0,0,15,27,55.6,0,16,0,3,1
+Pierre Lees-Melou,20,fr FRA,CM,28-260,73,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.0,0,0,24,31,77.4,2,22,0,0,0
+Mathias Normann,16,no NOR,CM,25-257,17,0,0,0,0,0,0,0,0,10,0,1,1,0.0,0.0,0.0,0,0,3,8,37.5,0,4,0,0,0
+Przemysław Płacheta,11,pl POL,RM,23-323,63,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,0,0,7,9,77.8,0,10,0,3,0
+Billy Gilmour,8,sct SCO,CM,20-243,27,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,4,10,40.0,1,7,1,0,0
+Brandon Williams,21,eng ENG,LB,21-159,90,0,0,0,0,0,0,1,0,60,4,1,2,0.0,0.0,0.0,1,0,28,50,56.0,3,25,1,0,0
+Ben Gibson,4,eng ENG,CB,29-025,90,0,0,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.0,0,0,23,33,69.7,1,26,0,0,0
+Grant Hanley,5,sct SCO,CB,30-081,90,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,22,32,68.8,2,18,0,0,0
+Max Aarons,2,eng ENG,RB,22-036,90,0,0,0,0,0,0,0,0,46,2,4,1,0.0,0.0,0.0,0,0,17,31,54.8,1,19,0,2,2
+Angus Gunn,28,sct SCO,GK,26-018,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,34,67.6,0,18,0,0,0

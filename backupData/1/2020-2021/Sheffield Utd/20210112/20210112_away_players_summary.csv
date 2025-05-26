@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Wilson,13,eng ENG,FW,28-320,90,0,0,0,0,2,1,0,0,29,0,0,0,0.4,0.4,0.0,2,0,8,13,61.5,0,19,2,3,0
+Ryan Fraser,21,sct SCO,LM,26-323,44,0,0,0,0,0,0,2,1,17,0,0,0,0.0,0.0,0.1,1,0,9,15,60.0,0,11,2,0,0
+Jeff Hendrick,16,ie IRL,"LM,CM",28-347,90,0,0,0,0,0,0,0,0,45,0,2,0,0.0,0.0,0.1,1,0,33,39,84.6,2,33,0,2,2
+Isaac Hayden,14,eng ENG,"RM,CM",25-296,90,0,0,0,0,2,0,1,0,48,5,1,6,0.1,0.1,0.0,1,0,23,28,82.1,1,16,1,0,0
+Sean Longstaff,36,eng ENG,"RM,CM,DM",23-074,90,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,2,0,20,30,66.7,2,19,0,0,0
+Paul Dummett,3,wls WAL,LB,29-108,73,0,0,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,18,0,1,1
+Matt Ritchie,11,sct SCO,LB,31-124,17,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,11,17,64.7,2,10,0,0,0
+Ciaran Clark,2,ie IRL,CB,31-108,90,0,0,0,0,0,0,0,0,46,0,2,2,0.0,0.0,0.0,0,0,18,30,60.0,0,16,0,1,0
+Fabian Schär,5,ch SUI,"CB,DM",29-023,90,0,0,0,0,1,1,1,0,33,2,0,3,0.0,0.0,0.0,1,0,17,25,68.0,2,20,0,1,1
+Federico Fernández,18,ar ARG,CB,31-326,76,0,0,0,0,0,0,0,0,37,1,0,2,0.0,0.0,0.3,2,0,18,27,66.7,1,13,0,0,0
+Andy Carroll,7,eng ENG,FW,32-006,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,3,7,42.9,1,0,0,0,0
+DeAndre Yedlin,22,us USA,RB,27-187,83,0,0,0,0,0,0,0,0,42,3,1,1,0.0,0.0,0.0,1,0,20,31,64.5,1,6,0,0,0
+Jacob Murphy,23,eng ENG,RB,25-323,7,0,0,0,0,2,1,0,0,9,1,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,1,1,0,0
+Karl Darlow,26,wls WAL,GK,30-096,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,0,0,16,31,51.6,0,10,0,0,0

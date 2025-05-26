@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Taiwo Awoniyi,9,ng NGA,FW,26-189,66,1,0,0,0,4,2,1,0,16,0,1,1,0.7,0.7,0.0,1,0,8,9,88.9,1,10,0,1,0
+Divock Origi,27,be BEL,RW,28-305,24,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.0,1,1,4,6,66.7,1,7,1,0,0
+Callum Hudson-Odoi,14,eng ENG,LW,23-102,90,1,0,0,0,2,1,0,0,52,2,0,1,0.4,0.4,0.8,8,1,35,43,81.4,4,40,8,2,1
+Anthony Elanga,21,se SWE,"RW,FW",21-296,90,0,1,0,0,4,2,0,0,46,2,0,0,1.0,1.0,0.7,5,0,28,34,82.4,5,31,4,1,0
+Morgan Gibbs-White,10,eng ENG,AM,24-021,89,0,0,0,0,1,1,1,0,55,0,1,1,0.2,0.2,0.3,5,0,34,43,79.1,7,33,4,4,1
+Andrew Omobamidele,32,ie IRL,AM,21-239,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Danilo,28,br BRA,DM,22-294,90,0,0,0,0,4,2,0,0,66,2,0,2,0.3,0.3,0.0,4,0,45,52,86.5,6,44,1,0,0
+Nicolás Domínguez,16,ar ARG,DM,25-234,85,0,1,0,0,1,0,1,0,55,6,0,1,0.1,0.1,0.3,4,1,43,46,93.5,7,26,0,0,0
+Ryan Yates,22,eng ENG,DM,26-088,5,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,1,2,0,0,0
+Nuno Tavares,3,pt POR,LB,24-022,90,0,0,0,0,2,0,0,0,85,3,1,0,0.0,0.0,0.2,4,0,50,66,75.8,6,43,3,0,0
+Murillo,40,br BRA,CB,21-228,90,0,0,0,0,1,0,0,0,56,1,0,1,0.3,0.3,0.0,2,0,29,46,63.0,3,28,0,0,0
+Felipe,18,br BRA,CB,34-277,90,0,0,0,0,0,0,0,0,46,2,0,0,0.0,0.0,0.0,1,0,34,39,87.2,0,26,0,1,0
+Neco Williams,7,wls WAL,RB,22-310,90,0,0,0,0,0,0,1,0,55,3,2,2,0.0,0.0,0.0,1,1,28,39,71.8,2,24,2,3,2
+Matz Sels,26,be BEL,GK,31-356,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,22,72.7,0,14,0,0,0

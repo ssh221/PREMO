@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,24-119,90,1,0,0,0,6,3,0,0,32,0,0,1,1.1,1.1,0.1,4,1,15,21,71.4,3,21,3,1,0
+Marcus Rashford,19,eng ENG,LW,19-313,71,1,0,0,0,4,3,0,0,32,0,0,0,0.5,0.5,0.0,0,0,16,25,64.0,1,18,5,1,0
+Juan Mata,8,es ESP,RW,29-134,19,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,15,21,71.4,1,12,0,0,0
+Henrikh Mkhitaryan,22,am ARM,"RW,AM",28-231,83,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.4,4,0,32,47,68.1,2,26,4,1,0
+Jesse Lingard,14,eng ENG,AM,24-268,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,2,1,0,0,0
+Paul Pogba,6,fr FRA,"LM,DM",24-178,90,0,1,0,0,5,2,0,0,78,1,1,1,0.5,0.5,0.4,6,1,56,68,82.4,10,56,2,2,2
+Nemanja Matić,31,rs SRB,"CM,DM",29-039,90,0,0,0,0,1,0,0,0,72,1,3,0,0.0,0.0,0.3,1,0,58,66,87.9,4,35,2,1,1
+Ander Herrera,21,es ESP,RM,28-026,71,0,0,0,0,0,0,0,0,69,0,1,0,0.0,0.0,0.0,3,0,57,66,86.4,5,39,3,2,2
+Anthony Martial,11,fr FRA,LW,21-278,19,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.4,3,0,10,11,90.9,0,10,1,1,1
+Matteo Darmian,36,it ITA,LB,27-281,90,0,0,0,0,1,0,0,0,62,1,0,0,0.0,0.0,0.0,2,0,48,55,87.3,2,29,2,0,0
+Phil Jones,4,eng ENG,CB,25-200,90,0,0,0,0,0,0,0,0,64,1,1,0,0.0,0.0,0.0,0,0,58,59,98.3,0,50,1,1,0
+Eric Bailly,3,ci CIV,CB,23-150,90,0,0,0,0,0,0,0,0,87,2,2,1,0.0,0.0,0.1,2,0,72,79,91.1,5,55,1,1,1
+Antonio Valencia,25,ec ECU,RB,32-036,90,0,0,0,0,1,0,0,0,90,2,0,0,0.0,0.0,0.1,5,0,64,80,80.0,2,41,4,3,3
+David de Gea,1,es ESP,GK,26-306,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,21,26,80.8,0,14,0,0,0

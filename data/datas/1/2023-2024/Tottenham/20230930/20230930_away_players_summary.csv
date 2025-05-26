@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cody Gakpo,18,nl NED,"FW,RM",24-146,45,1,0,0,0,3,2,0,0,16,0,1,0,0.4,0.4,0.0,2,0,9,11,81.8,1,15,0,0,0
+Diogo Jota,20,pt POR,RM,26-300,23,0,0,0,0,0,0,2,1,11,1,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,2,0
+Luis Díaz,7,co COL,"LM,LW",26-260,72,0,0,0,0,2,0,0,0,32,1,0,1,0.7,0.7,0.0,3,0,16,24,66.7,2,25,2,4,3
+Wataru Endo,3,jp JPN,CM,30-233,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,4,8,50.0,1,5,0,0,0
+Mohamed Salah,11,eg EGY,"FW,RW,RM",31-107,73,0,0,0,0,1,0,1,0,30,0,0,0,0.0,0.0,0.7,3,0,13,21,61.9,3,22,6,5,1
+Trent Alexander-Arnold,66,eng ENG,WB,24-358,17,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,1,0,3,6,50.0,0,3,0,2,0
+Curtis Jones,17,eng ENG,LM,22-243,25,0,0,0,0,1,0,0,1,15,1,0,3,0.1,0.1,0.0,1,0,9,9,100.0,1,7,0,0,0
+Alexis Mac Allister,10,ar ARG,CM,24-280,79,0,0,0,0,1,0,1,0,51,4,0,2,0.0,0.0,0.0,0,0,36,41,87.8,1,32,0,0,0
+Ryan Gravenberch,38,nl NED,CM,21-137,11,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Dominik Szoboszlai,8,hu HUN,"CM,RM",22-340,90,0,0,0,0,1,1,0,0,60,1,1,2,0.0,0.0,0.1,3,1,38,49,77.6,5,33,1,4,1
+Andrew Robertson,26,sct SCO,"LB,WB",29-203,90,0,0,0,0,1,1,1,0,59,1,1,0,0.0,0.0,0.2,5,0,41,51,80.4,5,34,5,1,1
+Virgil van Dijk,4,nl NED,CB,32-084,90,0,1,0,0,1,0,1,0,65,2,2,7,0.0,0.0,0.3,2,1,40,42,95.2,0,38,0,0,0
+Joël Matip,32,cm CMR,CB,32-053,90,0,0,0,0,1,0,0,0,64,1,1,3,0.0,0.0,0.0,1,0,33,41,80.5,1,34,0,1,0
+Joe Gomez,2,eng ENG,RB,26-130,72,0,0,0,0,0,0,0,0,51,2,0,0,0.0,0.0,0.0,0,0,31,44,70.5,5,30,2,1,1
+Ibrahima Konaté,5,fr FRA,CB,24-128,18,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Alisson,1,br BRA,GK,30-363,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,37,54,68.5,0,39,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Daniel Podence,10,pt POR,FW,25-046,70,0,0,0,0,1,1,0,0,27,0,1,0,0.1,0.1,0.0,0,0,15,19,78.9,0,18,0,4,1
+Rayan Aït-Nouri,3,dz ALG,LM,19-183,20,0,0,0,0,1,1,0,0,12,1,1,0,0.1,0.1,0.0,0,0,5,9,55.6,1,8,0,1,0
+Pedro Neto,7,pt POR,"LW,RM,FW",20-272,78,0,0,0,0,0,0,0,0,42,0,2,0,0.0,0.0,0.1,5,0,28,36,77.8,1,18,1,2,2
+Vitinha,20,pt POR,CM,20-297,12,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,7,0,0,0
+Adama Traoré,37,es ESP,"RW,RM,LM",24-316,90,0,0,0,0,1,0,0,0,42,1,0,0,0.0,0.0,0.2,3,0,19,32,59.4,1,22,8,3,1
+Rúben Neves,8,pt POR,LM,23-268,61,0,0,0,0,1,0,0,0,31,1,2,2,0.1,0.1,0.0,0,0,18,22,81.8,4,14,0,0,0
+Fábio Silva,17,pt POR,FW,18-140,29,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,1,0
+João Moutinho,28,pt POR,"CM,DM",34-089,90,0,0,0,0,0,0,1,0,73,2,2,1,0.0,0.0,0.0,1,0,61,69,88.4,4,42,0,0,0
+Leander Dendoncker,32,be BEL,"RM,CM",25-235,90,0,0,0,0,4,1,0,0,44,3,0,2,0.2,0.2,0.0,2,0,27,28,96.4,2,15,1,1,0
+Fernando Marçal,5,br BRA,LB,31-291,90,0,0,0,0,1,0,0,0,62,1,4,0,0.0,0.0,0.0,1,0,40,51,78.4,4,30,2,1,0
+Conor Coady,16,eng ENG,CB,27-285,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,1,0,37,43,86.0,2,24,0,0,0
+Willy Boly,15,ci CIV,CB,29-307,90,0,0,0,0,0,0,0,0,52,4,0,1,0.0,0.0,0.0,0,0,34,43,79.1,0,26,0,0,0
+Nélson Semedo,22,pt POR,RB,27-020,90,0,0,0,0,0,0,0,0,56,5,1,0,0.0,0.0,0.0,3,0,37,49,75.5,4,29,7,2,2
+Rui Patrício,11,pt POR,GK,32-295,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,0,6,0,0,0

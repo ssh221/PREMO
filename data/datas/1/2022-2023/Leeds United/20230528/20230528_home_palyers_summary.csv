@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Rodrigo,19,es ESP,FW,32-083,90,0,0,0,0,2,0,0,0,33,0,0,0,0.1,0.1,0.3,2,1,15,21,71.4,1,15,1,4,1
+Jack Harrison,11,eng ENG,"LM,WB",26-189,87,1,0,0,0,2,1,0,0,57,1,0,3,0.1,0.1,0.1,2,0,29,44,65.9,9,34,9,3,0
+Wilfried Gnonto,29,it ITA,WB,19-204,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0
+Robin Koch,5,de GER,CM,26-315,90,0,0,0,0,2,0,0,0,53,4,0,0,0.3,0.3,0.1,1,0,29,40,72.5,4,26,0,1,0
+Adam Forshaw,4,eng ENG,CM,31-232,90,0,0,0,0,1,0,0,0,87,2,1,1,0.0,0.0,0.3,6,0,61,78,78.2,10,53,4,2,2
+Weston McKennie,28,us USA,RM,24-273,59,0,0,0,0,2,0,0,0,37,3,0,1,0.1,0.1,0.0,2,0,18,26,69.2,1,15,0,0,0
+Georginio Rutter,24,fr FRA,AM,21-038,31,0,1,0,0,1,0,0,0,15,1,0,1,0.1,0.1,0.1,1,1,6,10,60.0,1,9,0,1,1
+Pascal Struijk,21,nl NED,LB,23-290,58,0,0,0,0,2,0,1,0,38,2,0,0,0.1,0.1,0.0,2,0,16,26,61.5,1,18,1,0,0
+Brenden Aaronson,7,us USA,AM,22-218,32,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,9,14,64.3,0,10,0,0,0
+Maximilian Wöber,39,at AUT,CB,25-113,59,0,0,0,0,2,1,1,0,51,0,3,3,0.2,0.2,0.1,1,0,31,40,77.5,3,27,0,1,0
+Junior Firpo,3,do DOM,WB,26-279,31,0,0,0,0,1,0,0,0,22,0,1,2,0.0,0.0,0.0,0,0,12,18,66.7,3,10,1,1,1
+Liam Cooper,6,sct SCO,CB,31-271,90,0,0,0,0,0,0,1,0,68,4,2,1,0.0,0.0,0.0,0,0,48,60,80.0,7,36,1,0,0
+Rasmus Kristensen,25,dk DEN,CB,25-321,90,0,0,0,0,1,0,0,0,62,3,1,1,0.1,0.1,0.0,9,0,45,53,84.9,13,39,0,0,0
+Luke Ayling,2,eng ENG,"RB,CB",31-276,90,0,0,0,0,3,0,0,0,73,2,1,0,0.3,0.3,0.0,5,0,48,63,76.2,5,40,3,0,0
+Joel Robles,22,es ESP,GK,32-345,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,21,57.1,0,13,0,0,0

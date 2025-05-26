@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Glenn Murray,17,eng ENG,FW,34-128,76,1,0,1,1,1,1,0,0,36,1,0,1,0.8,0.1,0.0,2,0,13,26,50.0,2,9,0,1,0
+Leonardo Ulloa,16,ar ARG,FW,31-189,14,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,9,0,1,1
+Pascal Groß,13,de GER,FW,26-230,82,0,0,0,0,0,0,0,0,36,2,0,1,0.0,0.0,0.1,2,0,19,29,65.5,3,20,2,0,0
+Beram Kayal,7,il ISR,FW,29-274,8,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,1
+José Izquierdo,19,co COL,LM,25-208,90,0,0,0,0,1,0,0,0,35,0,2,0,0.1,0.1,0.0,3,1,17,25,68.0,0,14,4,2,2
+Davy Pröpper,24,nl NED,CM,26-151,90,0,0,0,0,1,0,0,0,46,2,2,1,0.0,0.0,0.0,1,0,27,31,87.1,5,15,0,1,0
+Dale Stephens,6,eng ENG,CM,28-233,90,0,0,0,0,0,0,0,0,46,3,3,4,0.0,0.0,0.0,2,0,28,35,80.0,1,20,0,0,0
+Solly March,20,eng ENG,RM,23-195,90,0,0,0,0,4,0,1,0,52,3,0,2,0.1,0.1,0.0,4,1,23,30,76.7,4,24,2,4,3
+Gaëtan Bong,3,cm CMR,LB,29-281,90,0,0,0,0,0,0,0,0,41,0,2,1,0.0,0.0,0.0,1,0,17,34,50.0,3,20,1,1,1
+Lewis Dunk,5,eng ENG,CB,26-071,90,0,0,0,0,0,0,0,0,44,2,5,1,0.0,0.0,0.0,0,0,16,25,64.0,0,13,0,0,0
+Shane Duffy,22,ie IRL,CB,26-030,90,0,0,0,0,0,0,0,0,50,1,0,3,0.0,0.0,0.0,0,0,21,33,63.6,2,13,0,1,1
+Ezequiel Schelotto,21,it ITA,RB,28-253,90,0,0,0,0,1,0,0,0,46,4,2,1,0.0,0.0,0.0,1,0,19,34,55.9,5,24,3,4,4
+Mathew Ryan,1,au AUS,GK,25-298,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,13,0,0,0

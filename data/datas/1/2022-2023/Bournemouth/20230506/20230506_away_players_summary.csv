@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kai Havertz,29,de GER,FW,23-329,83,0,0,0,0,1,0,0,0,37,0,0,1,0.3,0.3,0.0,0,0,24,27,88.9,1,19,2,4,1
+João Félix,11,pt POR,FW,23-177,7,1,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,5,6,83.3,0,6,0,1,0
+Mykhailo Mudryk,15,ua UKR,LW,22-121,62,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,0,0,17,22,77.3,2,16,3,2,1
+Raheem Sterling,17,eng ENG,LW,28-149,28,0,1,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,1,1,10,11,90.9,0,4,2,1,0
+Noni Madueke,31,eng ENG,RW,21-057,75,0,0,0,0,3,2,0,0,60,0,0,0,0.3,0.3,0.0,1,0,34,47,72.3,8,33,7,9,6
+Hakim Ziyech,22,ma MAR,RW,30-048,15,0,1,0,0,0,0,0,0,14,2,1,0,0.0,0.0,0.4,3,1,7,11,63.6,1,9,3,2,1
+Conor Gallagher,23,eng ENG,LM,23-089,90,1,0,0,0,1,1,0,0,57,2,1,2,0.1,0.1,0.0,2,0,38,44,86.4,7,33,2,1,0
+Enzo Fernández,5,ar ARG,CM,22-109,90,0,0,0,0,2,0,0,0,92,1,1,0,0.1,0.1,0.0,2,0,74,80,92.5,6,55,0,1,1
+N'Golo Kanté,7,fr FRA,RM,32-038,62,0,1,0,0,1,0,1,0,49,1,0,5,0.0,0.0,0.3,2,1,31,37,83.8,5,22,3,4,3
+Ruben Loftus-Cheek,12,eng ENG,RM,27-103,28,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,1,15,16,93.8,1,12,2,1,1
+Ben Chilwell,21,eng ENG,LB,26-136,74,0,0,0,0,0,0,0,0,45,0,0,1,0.0,0.0,0.0,0,0,31,38,81.6,0,16,1,0,0
+César Azpilicueta,28,es ESP,LB,33-251,16,0,0,0,0,1,0,0,0,10,1,1,1,0.0,0.0,0.0,0,0,5,6,83.3,0,1,0,0,0
+Benoît Badiashile,4,fr FRA,CB,22-041,90,1,0,0,0,1,1,1,0,107,0,2,0,0.4,0.4,0.0,0,0,89,104,85.6,3,59,1,1,1
+Thiago Silva,6,br BRA,CB,38-226,90,0,0,0,0,0,0,0,0,76,2,0,0,0.0,0.0,0.0,0,0,66,71,93.0,4,37,0,0,0
+Trevoh Chalobah,14,eng ENG,RB,23-305,90,0,0,0,0,0,0,0,0,100,2,2,1,0.0,0.0,0.0,2,1,78,89,87.6,14,37,2,0,0
+Kepa Arrizabalaga,1,es ESP,GK,28-215,90,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.0,0,0,35,39,89.7,0,20,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Wilson,13,eng ENG,FW,27-328,90,1,0,0,0,1,1,0,0,34,1,0,1,0.7,0.7,0.1,3,2,13,21,61.9,2,22,1,2,1
+Dominic Solanke,9,eng ENG,FW,22-129,84,0,1,0,0,1,0,0,0,30,0,1,3,0.1,0.1,0.2,4,1,8,15,53.3,2,15,4,2,0
+Dan Gosling,4,eng ENG,"CM,RM",29-354,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0
+Ryan Fraser,24,sct SCO,"LM,LW",25-331,90,0,0,0,0,1,0,0,0,56,1,4,2,0.0,0.0,0.3,6,1,29,45,64.4,3,39,4,0,0
+Philip Billing,29,dk DEN,"CM,LM",23-224,90,0,0,0,0,1,1,0,0,57,1,3,7,0.2,0.2,0.1,2,0,21,34,61.8,2,24,1,0,0
+Jefferson Lerma,8,co COL,CM,25-088,90,0,0,0,0,1,0,1,0,45,1,5,0,0.0,0.0,0.0,0,0,26,37,70.3,4,27,0,0,0
+Harry Wilson,22,wls WAL,"RM,RW",22-305,88,1,0,0,0,4,1,0,0,35,2,0,2,0.2,0.2,0.0,2,0,18,22,81.8,2,23,2,1,1
+Lewis Cook,16,eng ENG,RW,22-352,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Diego Rico,21,es ESP,LB,26-332,90,0,0,0,0,1,0,0,0,55,1,2,0,0.1,0.1,0.0,1,0,26,43,60.5,2,24,0,2,1
+Nathan Aké,5,nl NED,CB,24-337,90,0,0,0,0,1,0,0,0,36,0,3,3,0.0,0.0,0.0,0,0,18,23,78.3,0,15,0,0,0
+Simon Francis,2,eng ENG,CB,34-339,90,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,0,0,19,26,73.1,2,17,0,0,0
+Adam Smith,15,eng ENG,RB,28-267,90,0,0,0,0,0,0,0,0,36,3,3,1,0.0,0.0,0.0,0,0,17,26,65.4,1,22,1,3,1
+Aaron Ramsdale,12,eng ENG,GK,21-252,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,19,0,0,0

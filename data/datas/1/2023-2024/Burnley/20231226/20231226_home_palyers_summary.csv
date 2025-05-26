@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Zeki Amdouni,25,ch SUI,FW,23-022,84,0,0,0,0,1,0,0,0,27,1,0,0,0.1,0.1,0.0,1,0,14,19,73.7,1,16,2,3,1
+Jacob Bruun Larsen,34,dk DEN,FW,25-098,6,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0
+Lyle Foster,17,za RSA,FW,23-114,84,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.0,1,0,8,17,47.1,1,11,0,0,0
+Nathan Redmond,15,eng ENG,FW,29-295,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,1,0,0
+Mike Trésor,31,be BEL,LM,24-212,60,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.0,1,0,11,22,50.0,0,20,3,6,5
+Jóhann Berg Guðmundsson,7,is ISL,"LM,RM",33-060,30,0,0,0,0,1,0,0,0,12,2,1,1,0.1,0.1,0.0,0,0,5,8,62.5,2,8,0,0,0
+Josh Brownhill,8,eng ENG,CM,28-007,89,0,0,0,0,1,0,0,0,44,1,1,1,0.0,0.0,0.1,1,0,24,36,66.7,3,16,0,1,1
+Aaron Ramsey,21,eng ENG,CM,20-339,1,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,4,0,0,0
+Sander Berge,16,no NOR,CM,25-315,90,0,0,0,0,2,0,1,0,31,3,1,0,0.2,0.2,0.0,2,0,17,23,73.9,1,19,1,0,0
+Wilson Odobert,47,fr FRA,"RM,LM",19-028,90,0,0,0,0,1,0,0,0,31,2,0,0,0.0,0.0,0.1,6,0,14,20,70.0,1,24,8,12,6
+Charlie Taylor,3,eng ENG,LB,30-099,90,0,0,0,0,0,0,0,0,41,0,2,1,0.0,0.0,0.1,1,0,23,35,65.7,4,24,2,1,1
+Jordan Beyer,5,de GER,CB,23-221,90,0,0,0,0,1,0,0,0,53,6,3,5,0.2,0.2,0.0,0,0,20,30,66.7,1,18,0,1,0
+Dara O'Shea,2,ie IRL,CB,24-297,90,0,0,0,0,1,0,1,0,43,2,2,0,0.0,0.0,0.2,1,0,19,28,67.9,4,15,0,0,0
+Vitinho,22,br BRA,RB,24-156,90,0,0,0,0,0,0,0,0,44,3,0,1,0.0,0.0,0.0,1,0,25,34,73.5,3,17,0,0,0
+James Trafford,1,eng ENG,GK,21-077,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,16,44,36.4,0,30,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Anthony Martial,9,fr FRA,FW,24-289,90,0,0,0,0,1,0,0,0,43,0,0,1,0.0,0.0,0.0,1,0,26,33,78.8,5,23,1,3,0
+Marcus Rashford,10,eng ENG,"LW,AM",22-324,90,0,0,0,0,1,0,0,0,61,0,0,0,0.0,0.0,0.0,4,0,45,53,84.9,3,32,2,4,2
+Daniel James,21,wls WAL,RW,22-314,45,0,0,0,0,1,0,0,0,32,1,0,0,0.0,0.0,0.0,1,0,23,29,79.3,3,20,2,1,0
+Mason Greenwood,11,eng ENG,"RW,AM",18-354,45,0,0,0,0,3,0,0,0,28,0,0,0,0.3,0.3,0.0,1,0,20,23,87.0,2,18,3,0,0
+Bruno Fernandes,18,pt POR,"AM,DM",26-011,90,0,0,0,0,3,1,0,0,120,2,0,2,0.1,0.1,0.2,9,1,79,109,72.5,23,61,4,0,0
+Scott McTominay,39,sct SCO,"DM,RB",23-286,90,0,0,0,0,2,0,0,0,79,5,1,3,0.1,0.1,0.2,3,0,63,69,91.3,11,46,3,1,1
+Paul Pogba,6,fr FRA,DM,27-188,66,0,0,0,0,2,2,0,0,65,1,0,3,0.1,0.1,0.0,3,0,40,53,75.5,5,30,2,3,2
+Donny van de Beek,34,nl NED,"DM,AM",23-154,24,1,0,0,0,1,1,0,0,28,1,0,0,0.3,0.3,0.0,1,0,18,23,78.3,1,10,0,0,0
+Luke Shaw,23,eng ENG,LB,25-069,90,0,0,0,0,0,0,0,0,100,1,1,2,0.0,0.0,0.0,1,0,68,89,76.4,9,49,5,5,4
+Harry Maguire,5,eng ENG,CB,27-198,90,0,0,0,0,1,0,1,0,102,1,4,0,0.0,0.0,0.0,1,0,84,93,90.3,10,61,0,0,0
+Victor Lindelöf,2,se SWE,CB,26-064,90,0,0,0,0,1,0,0,0,99,0,0,2,0.1,0.1,0.0,1,1,82,85,96.5,5,60,3,0,0
+Timothy Fosu-Mensah,24,nl NED,RB,22-261,80,0,0,0,0,1,0,1,0,84,2,3,0,0.0,0.0,0.3,5,0,64,74,86.5,5,45,2,2,2
+Odion Ighalo,25,ng NGA,FW,31-095,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0
+David de Gea,1,es ESP,GK,29-317,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,8,0,1,1

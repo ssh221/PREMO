@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Salomón Rondón,9,ve VEN,FW,28-344,61,0,0,0,0,1,0,0,0,19,0,1,0,0.1,0.1,0.0,0,0,10,11,90.9,2,10,1,0,0
+Joselu,21,es ESP,FW,28-152,29,1,0,0,0,1,1,0,0,17,2,0,2,0.1,0.1,0.0,0,0,8,10,80.0,0,8,0,0,0
+Jacob Murphy,7,eng ENG,LM,23-183,72,0,0,0,0,1,1,0,0,19,1,1,1,0.0,0.0,0.0,1,0,5,8,62.5,0,9,1,4,2
+Ayoze Pérez,17,es ESP,LM,25-028,18,0,0,0,0,1,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,1,8,1,3,0
+Ki Sung-yueng,4,kr KOR,CM,29-214,90,0,0,0,0,1,0,0,0,30,2,1,0,0.0,0.0,0.0,0,0,20,25,80.0,0,10,0,0,0
+Mohamed Diamé,10,sn SEN,CM,31-073,90,0,0,0,0,1,0,0,0,30,4,2,2,0.0,0.0,0.0,0,0,9,16,56.3,1,13,0,0,0
+Matt Ritchie,11,sct SCO,RM,28-350,90,0,0,0,0,0,0,1,0,36,2,2,1,0.0,0.0,0.0,1,0,18,28,64.3,4,23,1,0,0
+Paul Dummett,3,wls WAL,LB,26-334,90,0,0,0,0,0,0,0,0,38,1,2,0,0.0,0.0,0.0,2,0,11,26,42.3,2,12,0,0,0
+Ciaran Clark,2,ie IRL,CB,28-334,90,0,0,0,0,0,0,0,0,33,3,2,0,0.0,0.0,0.0,2,0,12,20,60.0,2,11,0,0,0
+Federico Fernández,18,ar ARG,CB,29-186,90,0,0,0,0,0,0,1,0,27,1,1,1,0.0,0.0,0.1,2,0,7,16,43.8,2,7,0,0,0
+Fabian Schär,5,ch SUI,CB,26-249,78,0,0,0,0,0,0,1,0,30,1,2,7,0.0,0.0,0.0,0,0,8,12,66.7,1,7,0,0,0
+Yoshinori Mutō,13,jp JPN,FW,26-042,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,1,1,0,0
+DeAndre Yedlin,22,us USA,RB,25-048,90,0,1,0,0,0,0,0,0,50,4,2,0,0.0,0.0,0.1,2,1,25,34,73.5,2,17,1,1,0
+Martin Dúbravka,12,sk SVK,GK,29-223,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,11,24,45.8,0,12,0,0,0

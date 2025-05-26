@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,25-340,90,0,0,0,0,2,1,0,0,40,2,0,1,0.7,0.7,0.1,8,1,23,31,74.2,1,23,4,0,0
+Emi Buendía,10,ar ARG,LW,24-345,77,0,1,0,0,1,0,0,0,43,1,0,2,0.1,0.1,0.5,1,1,27,35,77.1,5,32,3,4,4
+Carney Chukwuemeka,33,eng ENG,"FW,LW",18-046,13,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,1,0,3,5,60.0,0,6,0,1,1
+Jacob Ramsey,41,eng ENG,RW,20-191,83,0,0,0,0,2,0,0,0,32,0,1,0,0.5,0.5,0.2,2,0,16,19,84.2,2,24,1,1,1
+Axel Tuanzebe,16,cd COD,CB,24-021,7,0,0,0,0,0,0,0,0,1,0,0,1,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Douglas Luiz,6,br BRA,LM,23-210,76,0,0,0,0,1,0,0,0,59,1,1,0,0.0,0.0,0.0,1,0,32,48,66.7,3,31,0,0,0
+Morgan Sanson,8,fr FRA,"CM,LM",27-109,14,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,3,7,42.9,1,5,1,0,0
+Marvelous Nakamba,19,zw ZIM,CM,27-320,90,0,0,0,0,0,0,1,0,53,2,1,2,0.0,0.0,0.0,1,0,39,42,92.9,2,27,0,1,1
+John McGinn,7,sct SCO,"RM,CM",27-048,90,0,1,0,0,0,0,0,0,45,3,0,1,0.0,0.0,1.0,6,1,33,38,86.8,14,30,1,2,1
+Ashley Young,18,eng ENG,LB,36-149,90,0,0,0,0,2,0,0,0,59,2,1,2,0.1,0.1,0.0,2,0,39,49,79.6,1,29,3,1,1
+Tyrone Mings,5,eng ENG,CB,28-267,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,19,0,0,0
+Ezri Konsa,4,eng ENG,CB,24-043,90,2,0,0,0,2,2,0,0,31,0,0,1,0.6,0.6,0.0,0,0,18,22,81.8,0,16,0,0,0
+Matty Cash,2,pl POL,RB,24-120,90,0,0,0,0,3,1,0,0,65,9,5,1,0.2,0.2,0.2,3,0,24,41,58.5,3,27,3,0,0
+Emiliano Martínez,1,ar ARG,GK,29-094,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,20,35,57.1,0,17,0,0,0

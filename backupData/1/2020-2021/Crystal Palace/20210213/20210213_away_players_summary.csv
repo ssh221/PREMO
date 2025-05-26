@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jay Rodriguez,19,eng ENG,FW,31-199,90,1,1,0,0,4,1,0,0,36,1,0,0,0.5,0.5,0.3,2,1,21,29,72.4,2,24,4,2,2
+Ashley Barnes,10,eng ENG,FW,31-106,90,0,0,0,0,4,1,0,0,42,2,0,1,0.4,0.4,0.1,6,1,16,28,57.1,2,17,0,1,1
+Dwight McNeil,11,eng ENG,LM,21-083,90,0,1,0,0,0,0,0,0,45,0,2,2,0.0,0.0,0.5,4,2,23,32,71.9,2,22,1,2,2
+Jack Cork,4,eng ENG,CM,31-233,90,0,0,0,0,1,0,0,0,35,2,0,0,0.1,0.1,0.0,1,0,21,25,84.0,2,15,0,0,0
+Ashley Westwood,18,eng ENG,CM,30-318,90,0,0,0,0,1,0,0,0,63,1,2,0,0.1,0.1,0.0,1,0,41,53,77.4,3,29,0,2,1
+Jóhann Berg Guðmundsson,7,is ISL,RM,30-109,71,1,0,0,0,3,1,0,0,33,1,2,0,0.2,0.2,0.0,4,0,22,26,84.6,1,21,2,2,1
+Robbie Brady,12,ie IRL,RM,29-030,19,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,5,11,45.5,1,4,0,0,0
+Erik Pieters,23,nl NED,LB,32-190,86,0,0,0,0,0,0,0,0,53,0,0,3,0.0,0.0,0.0,2,1,29,43,67.4,1,26,1,1,0
+Phil Bardsley,26,sct SCO,LB,35-230,4,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Ben Mee,6,eng ENG,CB,31-145,83,0,0,0,0,0,0,0,0,45,3,1,1,0.0,0.0,0.0,1,0,29,39,74.4,3,16,0,1,1
+Kevin Long,28,ie IRL,CB,30-179,7,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+James Tarkowski,5,eng ENG,CB,28-086,90,0,0,0,0,0,0,0,0,54,1,2,2,0.0,0.0,0.0,0,0,32,46,69.6,2,21,0,0,0
+Matthew Lowton,2,eng ENG,RB,31-249,90,1,0,0,0,3,1,0,0,72,3,3,1,0.3,0.3,0.1,5,1,46,56,82.1,7,34,1,4,3
+Nick Pope,1,eng ENG,GK,28-300,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,17,28,60.7,0,12,0,0,0

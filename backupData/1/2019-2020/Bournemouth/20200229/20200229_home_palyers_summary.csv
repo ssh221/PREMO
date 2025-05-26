@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Wilson,13,eng ENG,FW,28-002,90,0,0,0,0,3,2,1,0,33,1,0,1,0.2,0.2,0.0,0,0,6,14,42.9,0,19,1,2,1
+Joshua King,7,no NOR,LW,28-045,67,1,0,0,0,1,1,0,0,29,1,1,1,0.7,0.7,0.1,1,0,14,18,77.8,1,19,1,4,2
+Junior Stanislas,19,eng ENG,LW,30-095,23,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,9,55.6,1,7,1,0,0
+Ryan Fraser,24,sct SCO,RW,26-005,90,0,1,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.1,4,2,18,27,66.7,1,23,0,2,2
+Lewis Cook,16,eng ENG,LM,23-026,80,0,0,0,0,0,0,0,0,33,1,0,1,0.0,0.0,0.0,1,0,19,26,73.1,1,21,0,4,3
+Dan Gosling,4,eng ENG,RM,30-028,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,1,0
+Jefferson Lerma,8,co COL,CM,25-127,90,1,0,0,0,1,1,0,0,58,3,3,1,0.1,0.1,0.0,1,0,32,43,74.4,5,31,0,2,1
+Philip Billing,29,dk DEN,"RM,LM",23-263,90,0,0,0,0,2,1,0,0,53,0,5,3,0.2,0.2,0.0,5,1,19,34,55.9,3,23,2,1,1
+Adam Smith,15,eng ENG,LB,28-306,90,0,0,0,0,0,0,1,0,45,1,0,0,0.0,0.0,0.0,1,0,27,40,67.5,3,23,2,1,1
+Nathan Aké,5,nl NED,CB,25-011,90,0,0,0,0,1,0,0,0,50,0,1,1,0.0,0.0,0.1,1,0,24,29,82.8,3,20,0,0,0
+Steve Cook,3,eng ENG,CB,28-316,90,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,0,0,22,30,73.3,0,22,0,0,0
+Jack Stacey,17,eng ENG,RB,23-329,90,0,1,0,0,1,0,0,0,49,0,1,2,0.0,0.0,1.0,3,1,23,33,69.7,2,19,2,1,1
+Aaron Ramsdale,12,eng ENG,GK,21-291,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,13,0,0,0

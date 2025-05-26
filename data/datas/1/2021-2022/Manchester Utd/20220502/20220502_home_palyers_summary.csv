@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cristiano Ronaldo,7,pt POR,FW,37-086,90,1,0,1,1,1,1,0,0,83,1,0,0,0.8,0.0,0.1,4,1,68,75,90.7,2,59,9,1,0
+Bruno Fernandes,18,pt POR,"LW,CM",27-236,90,1,0,0,0,4,1,0,0,100,1,2,0,0.9,0.9,0.0,1,0,77,88,87.5,4,72,6,0,0
+Anthony Elanga,36,se SWE,RW,20-005,74,0,1,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.6,2,1,28,35,80.0,0,26,0,1,0
+Edinson Cavani,21,uy URU,FW,35-077,16,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,5,0,0,0
+Juan Mata,8,es ESP,AM,34-004,74,0,0,0,0,1,0,0,0,70,0,0,1,0.0,0.0,0.0,2,0,59,66,89.4,2,49,1,1,1
+Phil Jones,4,eng ENG,CB,30-070,16,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,11,11,100.0,0,8,0,0,0
+Nemanja Matić,31,rs SRB,DM,33-274,70,0,0,0,0,0,0,1,0,91,2,1,1,0.0,0.0,0.3,1,0,82,85,96.5,5,66,1,0,0
+Fred,17,br BRA,"CM,DM",29-058,20,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,2,1,19,19,100.0,2,15,0,1,0
+Scott McTominay,39,sct SCO,"DM,CM",25-145,90,0,0,0,0,1,1,0,0,95,0,2,4,0.1,0.1,0.0,1,0,78,80,97.5,4,66,0,1,1
+Alex Telles,27,br BRA,"LB,WB",29-138,90,0,1,0,0,0,0,0,0,77,2,1,0,0.0,0.0,0.1,2,1,57,64,89.1,1,49,2,3,2
+Raphaël Varane,19,fr FRA,CB,29-007,90,1,0,0,0,1,1,0,0,69,0,3,0,0.1,0.1,0.0,0,0,55,57,96.5,0,55,0,0,0
+Victor Lindelöf,2,se SWE,CB,27-289,90,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,47,49,95.9,2,37,0,0,0
+Diogo Dalot,20,pt POR,"RB,WB",23-045,90,0,0,0,0,0,0,0,0,88,4,1,0,0.0,0.0,0.0,2,2,61,73,83.6,7,56,1,0,0
+David de Gea,1,es ESP,GK,31-176,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,31,61.3,0,21,0,0,0

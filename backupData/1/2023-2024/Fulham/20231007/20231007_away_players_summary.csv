@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cameron Archer,10,eng ENG,FW,22-078,78,0,0,0,0,0,0,0,0,27,1,0,2,0.0,0.0,0.0,1,0,10,13,76.9,2,16,1,7,2
+Rhian Brewster,7,eng ENG,FW,23-189,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,4,0,0,0
+Oliver McBurnie,9,sct SCO,FW,27-125,90,0,0,0,0,2,2,1,0,36,2,1,1,0.1,0.1,0.0,0,0,11,24,45.8,1,8,0,2,1
+Gustavo Hamer,8,nl NED,CM,26-105,65,0,0,0,0,1,0,0,0,31,2,0,3,0.0,0.0,0.0,1,0,14,22,63.6,4,7,0,3,1
+James Mcatee,28,eng ENG,CM,20-354,25,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,2,0,4,6,66.7,0,6,2,2,0
+Oliver Norwood,16,nir NIR,CM,32-178,90,0,0,0,0,1,0,1,0,77,3,1,0,0.0,0.0,0.1,4,0,57,71,80.3,5,26,0,0,0
+Vinicius Souza,21,br BRA,CM,24-112,90,0,0,0,0,0,0,0,0,42,1,1,1,0.0,0.0,0.0,0,0,27,32,84.4,3,13,0,2,2
+Luke Thomas,14,eng ENG,WB,22-119,65,0,0,0,0,0,0,0,0,30,2,0,4,0.0,0.0,0.0,0,0,15,20,75.0,4,16,0,1,0
+Yasser Larouci,27,dz ALG,WB,22-279,25,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,8,1,0,0
+Jayden Bogle,20,eng ENG,WB,23-072,90,0,0,0,0,1,0,0,0,46,0,3,1,0.4,0.4,0.0,0,0,17,34,50.0,1,14,0,3,1
+Auston Trusty,5,us USA,CB,25-056,90,0,0,0,0,0,0,0,0,55,4,0,3,0.0,0.0,0.0,0,0,14,27,51.9,1,10,0,0,0
+Anel Ahmedhodžić,15,ba BIH,CB,24-195,90,0,0,0,0,0,0,0,0,43,2,3,2,0.0,0.0,0.0,1,0,22,34,64.7,0,15,0,0,0
+Chris Basham,6,eng ENG,CB,35-079,34,0,0,0,0,0,0,0,0,19,0,1,2,0.0,0.0,0.0,0,0,10,14,71.4,0,2,0,0,0
+Jack Robinson,19,eng ENG,CB,30-036,56,0,0,0,0,0,0,0,0,42,2,0,2,0.0,0.0,0.0,0,0,24,35,68.6,1,19,0,0,0
+Wes Foderingham,18,eng ENG,GK,32-266,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,23,38,60.5,0,18,0,1,1

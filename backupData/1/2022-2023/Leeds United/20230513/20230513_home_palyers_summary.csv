@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patrick Bamford,9,eng ENG,FW,29-250,89,0,0,0,1,3,0,1,0,29,0,0,1,0.9,0.1,0.1,3,1,14,20,70.0,1,18,1,2,0
+Pascal Struijk,21,nl NED,FW,23-275,1,0,0,0,0,0,0,0,0,4,1,1,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Jack Harrison,11,eng ENG,LW,26-174,63,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,1,0,10,14,71.4,2,15,0,3,1
+Wilfried Gnonto,29,it ITA,LW,19-189,27,0,0,0,0,0,0,1,0,17,1,0,1,0.0,0.0,0.0,2,0,8,10,80.0,0,10,1,2,0
+Rodrigo,19,es ESP,RW,32-068,86,0,0,0,0,1,1,0,0,31,2,0,2,0.2,0.2,0.0,2,1,14,18,77.8,0,16,1,1,0
+Brenden Aaronson,7,us USA,RW,22-203,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0
+Sam Greenwood,42,eng ENG,LM,21-107,45,0,0,0,0,1,0,0,0,18,3,0,1,0.1,0.1,0.0,1,0,2,10,20.0,0,8,0,1,1
+Adam Forshaw,4,eng ENG,LM,31-217,45,0,0,0,0,0,0,0,0,34,3,1,3,0.0,0.0,0.0,2,0,20,24,83.3,6,14,0,0,0
+Robin Koch,5,de GER,CM,26-300,90,0,0,0,0,0,0,0,0,32,1,0,3,0.0,0.0,0.1,2,0,12,19,63.2,3,12,0,1,0
+Weston McKennie,28,us USA,RM,24-258,90,0,0,0,0,1,0,0,0,40,2,2,1,0.1,0.1,0.0,1,0,16,25,64.0,4,19,2,1,0
+Junior Firpo,3,do DOM,LB,26-264,89,0,0,0,0,0,0,1,1,44,5,3,0,0.0,0.0,0.0,1,0,18,31,58.1,3,20,1,1,0
+Maximilian Wöber,39,at AUT,CB,25-098,90,0,0,0,0,0,0,0,0,29,0,4,2,0.0,0.0,0.0,0,0,11,18,61.1,3,10,0,0,0
+Rasmus Kristensen,25,dk DEN,CB,25-306,90,1,0,0,0,1,1,0,0,38,0,2,2,0.0,0.0,0.0,1,0,17,27,63.0,3,14,0,0,0
+Luke Ayling,2,eng ENG,RB,31-261,90,1,0,0,0,1,1,0,0,46,5,1,0,0.9,0.9,0.0,0,0,20,32,62.5,3,25,1,2,1
+Joel Robles,22,es ESP,GK,32-330,90,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,0,0,15,32,46.9,0,11,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cristiano Ronaldo,7,pt POR,FW,37-091,90,0,0,0,0,5,0,1,0,46,0,0,0,0.3,0.3,0.0,1,0,25,37,67.6,2,23,3,0,0
+Bruno Fernandes,18,pt POR,"LW,LM,AM",27-241,90,0,0,0,0,3,2,0,0,76,1,0,0,0.1,0.1,0.1,8,0,59,71,83.1,8,55,0,2,2
+Anthony Elanga,36,se SWE,RW,20-010,45,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.1,1,0,1,7,14.3,1,7,0,0,0
+Fred,17,br BRA,"DM,CM",29-063,45,0,0,0,0,0,0,0,0,49,3,1,1,0.0,0.0,0.0,1,0,32,42,76.2,5,30,0,1,1
+Juan Mata,8,es ESP,AM,34-009,69,0,0,0,0,2,1,0,0,53,0,0,0,0.1,0.1,0.2,2,0,41,45,91.1,5,34,1,1,1
+Harry Maguire,5,eng ENG,CB,29-063,21,0,0,0,0,2,1,0,0,24,1,0,0,0.1,0.1,0.0,1,0,18,22,81.8,1,16,2,0,0
+Nemanja Matić,31,rs SRB,DM,33-279,45,0,0,0,0,1,0,0,0,44,3,1,2,0.0,0.0,0.1,1,0,34,39,87.2,1,17,1,0,0
+Edinson Cavani,21,uy URU,FW,35-082,45,0,0,0,0,1,1,0,0,21,0,0,0,0.2,0.2,0.0,3,0,15,19,78.9,1,6,0,0,0
+Scott McTominay,39,sct SCO,"DM,RM,CM",25-150,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,2,0,39,44,88.6,5,32,0,0,0
+Alex Telles,27,br BRA,"LB,WB",29-143,90,0,0,0,0,0,0,0,0,72,0,3,1,0.0,0.0,0.0,5,0,54,61,88.5,2,40,0,0,0
+Raphaël Varane,19,fr FRA,CB,29-012,90,0,0,0,0,0,0,0,0,72,0,1,0,0.0,0.0,0.0,0,0,60,63,95.2,1,41,0,0,0
+Victor Lindelöf,2,se SWE,CB,27-294,90,0,0,0,0,0,0,0,0,50,0,0,1,0.0,0.0,0.0,0,0,36,41,87.8,3,24,0,0,0
+Diogo Dalot,20,pt POR,"RB,WB",23-050,90,0,0,0,0,1,0,1,0,70,4,5,3,0.0,0.0,0.0,3,0,31,53,58.5,3,36,5,6,5
+David de Gea,1,es ESP,GK,31-181,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,18,22,81.8,0,9,0,0,0

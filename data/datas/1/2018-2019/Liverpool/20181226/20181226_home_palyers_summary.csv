@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mohamed Salah,11,eg EGY,FW,26-194,90,1,1,1,1,0,0,0,0,45,0,0,1,0.8,0.0,0.5,4,2,23,36,63.9,2,31,3,0,0
+Sadio Mané,10,sn SEN,LW,26-260,90,0,0,0,0,3,0,0,0,48,2,0,0,0.3,0.3,0.4,2,0,27,33,81.8,3,30,5,2,0
+Xherdan Shaqiri,23,ch SUI,RW,27-077,90,1,0,0,0,5,2,0,0,71,1,1,1,1.1,1.1,0.0,5,2,44,60,73.3,10,39,2,1,1
+Roberto Firmino,9,br BRA,AM,27-085,68,0,0,0,0,1,1,0,0,48,1,0,3,0.1,0.1,0.0,4,0,31,38,81.6,7,32,1,2,1
+Daniel Sturridge,15,eng ENG,AM,29-116,22,0,0,0,0,1,0,0,0,15,1,0,0,0.1,0.1,0.0,1,0,10,12,83.3,1,8,0,0,0
+Jordan Henderson,14,eng ENG,DM,28-192,90,0,0,0,0,1,0,0,0,106,1,1,0,0.0,0.0,0.0,1,1,85,95,89.5,10,59,2,1,0
+Georginio Wijnaldum,5,nl NED,DM,28-045,61,0,0,0,0,0,0,0,0,39,0,0,1,0.0,0.0,0.0,2,0,35,36,97.2,2,25,0,1,1
+Fabinho,3,br BRA,DM,25-064,29,1,0,0,0,1,1,0,0,30,1,1,0,0.4,0.4,0.0,0,0,22,25,88.0,2,18,1,0,0
+Andrew Robertson,26,sct SCO,LB,24-290,81,0,0,0,0,0,0,0,0,124,0,0,1,0.0,0.0,0.0,2,0,99,119,83.2,10,65,4,0,0
+Nathaniel Clyne,2,eng ENG,LB,27-265,9,0,0,0,0,1,1,0,0,15,0,1,0,0.0,0.0,0.0,0,0,9,11,81.8,0,9,0,0,0
+Virgil van Dijk,4,nl NED,CB,27-171,90,0,0,0,0,1,1,0,0,106,0,3,0,0.1,0.1,0.0,2,0,94,100,94.0,10,60,0,0,0
+Dejan Lovren,6,hr CRO,CB,29-174,90,1,0,0,0,1,1,0,0,88,0,1,0,0.0,0.0,0.1,1,0,74,81,91.4,2,48,0,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,20-080,90,0,1,0,0,0,0,0,0,109,1,1,0,0.0,0.0,0.8,5,2,83,103,80.6,13,58,4,1,1
+Alisson,13,br BRA,GK,26-085,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,13,0,0,0

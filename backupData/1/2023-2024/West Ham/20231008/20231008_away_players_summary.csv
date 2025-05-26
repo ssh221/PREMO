@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,"FW,RW",24-017,85,2,0,0,0,3,2,0,0,29,0,0,1,1.6,1.6,0.0,2,0,17,21,81.0,0,18,4,7,4
+Callum Wilson,9,eng ENG,FW,31-223,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,0,0
+Elliot Anderson,32,eng ENG,LW,20-336,89,0,0,0,0,2,0,0,0,44,0,1,0,0.1,0.1,0.0,1,0,29,35,82.9,0,32,4,2,2
+Matt Targett,13,eng ENG,LW,28-020,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Miguel Almirón,24,py PAR,RW,29-240,81,0,0,0,0,1,0,1,0,48,0,0,0,0.0,0.0,0.0,0,0,36,43,83.7,4,35,6,0,0
+Jacob Murphy,23,eng ENG,"RW,FW",28-226,9,0,0,0,0,0,0,0,0,7,2,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0
+Sandro Tonali,8,it ITA,LM,23-153,90,0,0,0,0,0,0,0,0,61,1,0,1,0.0,0.0,0.0,2,1,52,59,88.1,4,31,5,0,0
+Bruno Guimarães,39,br BRA,CM,25-326,90,0,0,0,0,1,0,1,0,92,1,0,0,0.0,0.0,0.0,1,0,82,90,91.1,8,67,3,0,0
+Sean Longstaff,36,eng ENG,RM,25-343,90,0,0,0,0,0,0,1,0,45,0,0,1,0.0,0.0,0.0,1,1,33,41,80.5,6,28,1,0,0
+Dan Burn,33,eng ENG,LB,31-152,90,0,0,0,0,3,1,0,0,77,0,1,2,0.2,0.2,0.4,2,0,51,61,83.6,5,30,0,0,0
+Fabian Schär,5,ch SUI,CB,31-292,90,0,0,0,0,0,0,0,0,82,1,1,0,0.0,0.0,0.0,0,0,60,70,85.7,3,52,0,1,0
+Jamaal Lascelles,6,eng ENG,CB,29-331,90,0,0,0,0,0,0,0,0,81,2,0,1,0.0,0.0,0.0,2,0,64,75,85.3,3,52,0,1,0
+Kieran Trippier,2,eng ENG,RB,33-019,90,0,1,0,0,0,0,0,0,117,1,0,5,0.0,0.0,0.9,7,2,101,115,87.8,10,55,3,0,0
+Nick Pope,22,eng ENG,GK,31-172,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,32,81.3,0,15,0,0,0

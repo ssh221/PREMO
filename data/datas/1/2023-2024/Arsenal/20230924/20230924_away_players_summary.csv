@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Son Heung-min,7,kr KOR,FW,31-078,78,2,0,0,0,3,2,0,0,17,0,0,0,0.5,0.5,0.4,2,0,13,14,92.9,2,11,0,0,0
+Richarlison,9,br BRA,FW,26-137,12,0,0,0,0,3,1,0,0,7,0,0,0,0.2,0.2,0.0,0,0,2,3,66.7,0,4,0,1,0
+Brennan Johnson,22,wls WAL,LW,22-124,62,0,0,0,0,3,2,0,0,18,0,1,0,0.6,0.6,0.0,1,0,7,10,70.0,0,14,3,1,0
+Manor Solomon,27,il ISR,LW,24-062,28,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,1,1,1
+Dejan Kulusevski,21,se SWE,RW,23-152,90,0,0,0,0,0,0,0,0,41,2,1,0,0.0,0.0,0.2,6,0,24,33,72.7,5,29,4,3,0
+James Maddison,10,eng ENG,AM,26-305,77,0,2,0,0,1,0,0,0,37,2,0,0,0.0,0.0,0.5,8,4,25,30,83.3,3,24,3,5,2
+Pierre Højbjerg,5,dk DEN,LM,28-050,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,1,11,0,0,0
+Yves Bissouma,8,ml MLI,"DM,CM",27-025,90,0,0,0,0,1,0,1,0,71,4,0,3,0.0,0.0,0.0,2,0,56,60,93.3,1,35,1,1,1
+Pape Matar Sarr,29,sn SEN,"DM,RM",21-010,90,0,0,0,0,2,0,1,0,68,3,0,1,0.1,0.1,0.0,2,0,46,54,85.2,7,43,1,2,1
+Destiny Udogie,38,it ITA,LB,20-300,90,0,0,0,0,0,0,1,0,44,8,0,1,0.0,0.0,0.0,0,0,23,29,79.3,2,19,1,1,0
+Micky van de Ven,37,nl NED,CB,22-158,90,0,0,0,0,0,0,0,0,57,1,1,0,0.0,0.0,0.0,0,0,49,52,94.2,1,34,0,1,0
+Cristian Romero,17,ar ARG,CB,25-150,90,0,0,0,0,0,0,1,0,86,3,1,0,0.0,0.0,0.0,0,0,69,74,93.2,3,55,1,1,0
+Pedro Porro,23,es ESP,RB,24-011,90,0,0,0,0,0,0,0,0,65,5,1,2,0.0,0.0,0.0,1,0,38,56,67.9,2,25,0,1,1
+Guglielmo Vicario,13,it ITA,GK,26-352,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,36,48,75.0,0,29,0,0,0

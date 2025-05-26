@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Steve Mounié,24,bj BEN,FW,23-190,90,1,0,0,0,4,2,0,0,33,0,0,2,0.8,0.8,0.0,2,1,13,25,52.0,3,20,0,1,1
+Alex Pritchard,21,eng ENG,FW,24-339,90,0,0,0,0,2,0,0,0,50,2,1,0,0.1,0.1,0.1,4,0,30,46,65.2,11,22,2,2,2
+Rajiv van La Parra,17,nl NED,LM,26-307,89,0,0,0,0,0,0,0,0,46,3,1,1,0.0,0.0,0.1,4,0,24,30,80.0,3,32,2,4,2
+Collin Quaner,23,de GER,LM,26-293,1,0,0,0,0,1,0,0,0,7,1,0,0,0.2,0.2,0.0,1,0,5,5,100.0,1,4,0,0,0
+Aaron Mooy,10,au AUS,CM,27-204,90,0,0,0,0,3,2,0,0,74,2,1,0,0.1,0.1,0.0,3,0,54,67,80.6,9,30,5,0,0
+Jonathan Hogg,6,eng ENG,CM,29-122,79,0,0,0,0,1,0,0,0,81,1,2,0,0.0,0.0,0.0,3,0,66,76,86.8,8,32,2,0,0
+Philip Billing,8,dk DEN,CM,21-300,11,0,0,0,0,1,0,0,0,18,4,0,1,0.0,0.0,0.0,1,0,10,12,83.3,2,7,1,1,1
+Tom Ince,22,eng ENG,RM,26-067,89,0,0,0,0,2,1,0,0,42,0,1,2,0.1,0.1,0.0,2,0,27,33,81.8,0,16,2,2,1
+Laurent Depoitre,20,be BEL,RM,29-121,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Terence Kongolo,5,nl NED,LB,24-052,90,0,0,0,0,0,0,0,0,67,3,4,1,0.0,0.0,0.1,5,0,41,53,77.4,8,14,1,3,3
+Christopher Schindler,26,de GER,CB,27-343,90,0,0,0,0,0,0,0,0,71,1,0,1,0.0,0.0,0.0,0,0,51,65,78.5,4,27,0,0,0
+Mathias Jørgensen,25,dk DEN,CB,27-349,90,0,0,0,0,1,0,0,0,80,0,1,3,0.1,0.1,0.2,1,0,56,69,81.2,3,33,3,0,0
+Florent Hadergjonaj,33,xk KVX,RB,23-250,90,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.1,2,0,31,49,63.3,0,16,2,0,0
+Jonas Lössl,1,dk DEN,GK,29-065,90,0,0,0,0,0,0,0,0,48,1,0,0,0.0,0.0,0.1,1,0,27,43,62.8,0,12,0,0,0

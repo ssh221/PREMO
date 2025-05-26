@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Glenn Murray,17,eng ENG,FW,35-092,78,0,0,0,0,2,1,1,0,19,1,0,0,0.2,0.2,0.0,0,0,8,12,66.7,3,13,1,0,0
+Florin Andone,10,ro ROU,FW,25-259,12,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,1,0
+Jürgen Locadia,9,cw CUW,LW,25-049,85,1,0,0,0,2,1,0,0,39,1,2,1,0.6,0.6,0.0,4,1,23,29,79.3,2,22,5,1,1
+Anthony Knockaert,11,fr FRA,LW,27-036,5,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,1,0
+Solly March,20,eng ENG,RW,24-159,90,0,0,0,0,2,0,0,0,45,1,1,1,0.1,0.1,0.2,3,0,22,35,62.9,2,29,2,1,1
+Davy Pröpper,24,nl NED,CM,27-115,90,0,0,0,0,3,1,0,0,54,3,2,1,0.2,0.2,0.0,2,0,29,43,67.4,2,27,2,2,0
+Dale Stephens,6,eng ENG,CM,29-197,90,0,0,0,0,0,0,0,0,47,2,1,0,0.0,0.0,0.1,3,0,33,39,84.6,4,28,0,0,0
+Pascal Groß,13,de GER,CM,27-194,90,0,0,0,0,2,0,0,0,52,4,0,0,0.1,0.1,0.0,5,0,30,45,66.7,11,30,3,0,0
+Bernardo,30,br BRA,LB,23-226,90,0,0,0,0,0,0,0,0,54,2,1,2,0.0,0.0,0.0,1,0,26,40,65.0,3,23,4,1,0
+Leon Balogun,14,ng NGA,CB,30-181,90,0,0,0,0,0,0,0,0,22,1,2,0,0.0,0.0,0.0,0,0,12,18,66.7,1,14,0,0,0
+Shane Duffy,4,ie IRL,CB,26-359,90,0,0,0,0,0,0,0,0,35,0,2,0,0.0,0.0,0.0,0,0,20,29,69.0,2,16,0,0,0
+Martín Montoya,22,es ESP,RB,27-256,90,0,0,0,0,1,0,1,0,56,2,2,2,0.0,0.0,0.1,4,0,40,46,87.0,0,19,1,0,0
+Mathew Ryan,1,au AUS,GK,26-262,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,20,75.0,0,9,0,0,0

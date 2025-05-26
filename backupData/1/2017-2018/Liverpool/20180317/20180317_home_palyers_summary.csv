@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Firmino,9,br BRA,FW,26-166,78,1,0,0,0,4,3,0,0,42,3,1,3,0.4,0.4,0.0,0,0,14,29,48.3,2,20,2,3,2
+Danny Ings,28,eng ENG,FW,25-237,12,0,0,0,0,2,2,0,0,5,0,0,1,0.2,0.2,0.0,1,1,1,1,100.0,0,3,1,0,0
+Sadio Mané,19,sn SEN,LW,25-341,90,0,2,0,0,0,0,0,0,47,1,2,2,0.0,0.0,0.6,4,2,32,41,78.0,6,37,3,2,1
+Mohamed Salah,11,eg EGY,RW,25-275,90,4,1,0,0,4,4,0,0,48,1,0,1,1.7,1.7,0.4,7,4,19,35,54.3,4,25,4,9,5
+Georginio Wijnaldum,5,nl NED,LM,27-126,70,0,0,0,0,1,0,0,0,34,3,1,3,0.0,0.0,0.0,0,0,20,25,80.0,1,22,0,2,1
+Alex Oxlade-Chamberlain,21,eng ENG,"AM,LM",24-214,20,0,0,0,0,1,1,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,4,1,1,1
+Jordan Henderson,14,eng ENG,"CM,DM",27-273,90,0,0,0,0,0,0,0,0,103,2,1,1,0.0,0.0,0.0,3,1,80,97,82.5,11,60,1,1,0
+Emre Can,23,de GER,RM,24-064,26,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,16,75.0,1,11,0,0,0
+James Milner,7,eng ENG,"RM,DM",32-072,64,0,0,0,0,1,0,0,0,64,3,1,1,0.0,0.0,0.0,3,0,47,56,83.9,5,34,2,0,0
+Andrew Robertson,26,sct SCO,LB,24-006,90,0,1,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.6,1,1,50,59,84.7,4,43,2,0,0
+Virgil van Dijk,4,nl NED,CB,26-252,90,0,0,0,0,0,0,0,0,80,0,1,0,0.0,0.0,0.0,0,0,68,74,91.9,5,45,1,0,0
+Joël Matip,32,cm CMR,CB,26-221,90,0,0,0,0,0,0,0,0,83,0,0,2,0.0,0.0,0.0,0,0,63,75,84.0,2,44,0,0,0
+Joe Gomez,12,eng ENG,RB,20-298,90,0,0,0,0,0,0,1,0,94,3,1,1,0.0,0.0,0.1,3,0,71,84,84.5,5,42,5,4,4
+Loris Karius,1,de GER,GK,24-268,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,23,32,71.9,0,15,0,0,0

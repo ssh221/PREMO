@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ashley Barnes,10,eng ENG,FW,29-361,62,0,0,0,0,4,1,0,0,20,0,1,0,1.5,1.5,0.1,1,0,5,10,50.0,0,17,1,0,0
+Matěj Vydra,27,cz CZE,FW,27-178,28,0,0,0,0,2,0,0,0,5,0,0,1,0.2,0.2,0.0,0,0,2,2,100.0,0,2,0,0,0
+Jay Rodriguez,19,eng ENG,"FW,RM",30-089,90,1,0,0,0,3,2,0,0,26,2,0,2,0.2,0.2,0.0,1,1,9,14,64.3,1,16,1,0,0
+Dwight McNeil,11,eng ENG,"LM,RM",19-338,90,1,0,0,0,2,1,0,0,47,0,0,1,0.1,0.1,0.1,5,1,24,31,77.4,0,31,5,9,6
+Jack Cork,4,eng ENG,CM,30-123,90,0,0,0,0,0,0,0,0,47,1,2,0,0.0,0.0,0.4,2,0,34,42,81.0,7,31,0,1,1
+Ashley Westwood,18,eng ENG,CM,29-208,90,0,0,0,0,1,0,0,0,60,3,0,0,0.1,0.1,0.0,3,0,39,55,70.9,5,30,0,0,0
+Jeff Hendrick,13,ie IRL,"RM,FW",27-268,83,0,0,0,0,0,0,1,0,43,0,1,2,0.0,0.0,0.1,2,0,19,29,65.5,1,25,2,1,0
+Robbie Brady,12,ie IRL,LM,27-285,7,0,2,0,0,0,0,1,0,11,1,0,0,0.0,0.0,0.2,3,2,7,10,70.0,1,9,0,0,0
+Erik Pieters,23,nl NED,LB,31-080,90,0,0,0,0,1,1,1,0,62,1,0,1,0.0,0.0,0.0,0,0,39,55,70.9,1,37,0,0,0
+Ben Mee,6,eng ENG,CB,30-035,90,0,0,0,0,0,0,0,0,63,2,0,2,0.0,0.0,0.6,1,0,36,53,67.9,2,35,0,0,0
+James Tarkowski,5,eng ENG,CB,26-341,90,0,0,0,0,0,0,0,0,58,2,3,2,0.0,0.0,0.6,1,0,39,49,79.6,5,33,0,3,3
+Matthew Lowton,2,eng ENG,RB,30-139,90,0,0,0,0,0,0,0,0,69,4,6,1,0.0,0.0,0.1,5,0,38,50,76.0,7,35,0,1,1
+Nick Pope,1,eng ENG,GK,27-190,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,13,27,48.1,0,20,0,0,0

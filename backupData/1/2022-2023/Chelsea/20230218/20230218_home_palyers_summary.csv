@@ -1,0 +1,18 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+David Datro Fofana,27,ci CIV,FW,20-058,45,0,0,0,0,2,1,0,0,18,1,0,1,0.0,0.0,0.1,3,0,3,4,75.0,1,18,2,4,3
+Raheem Sterling,17,eng ENG,"LW,WB",28-072,45,0,0,0,0,4,0,0,0,36,0,0,0,0.9,0.9,0.0,4,0,17,26,65.4,2,31,2,5,2
+Mason Mount,19,eng ENG,"LW,FW",24-039,63,0,0,0,0,1,0,0,0,21,1,0,2,0.0,0.0,0.0,2,0,8,14,57.1,1,15,1,2,0
+Kai Havertz,29,de GER,FW,23-252,27,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.6,3,0,14,19,73.7,3,16,1,3,2
+Noni Madueke,31,eng ENG,RW,20-345,63,0,0,0,0,1,1,0,0,32,1,0,4,0.0,0.0,0.0,3,0,13,18,72.2,1,21,2,6,2
+Mykhailo Mudryk,15,ua UKR,"RW,WB",22-044,27,0,0,0,0,1,0,0,0,19,0,0,1,0.1,0.1,0.0,1,0,5,10,50.0,1,14,1,3,0
+João Félix,11,pt POR,"AM,FW",23-100,90,0,0,0,0,3,1,0,0,44,1,0,1,0.3,0.3,0.0,0,0,24,32,75.0,4,27,4,8,2
+Enzo Fernández,5,ar ARG,"DM,CM",22-032,90,0,0,0,0,0,0,0,0,77,4,2,2,0.0,0.0,0.0,0,0,62,67,92.5,9,59,2,4,2
+Mateo Kovačić,8,hr CRO,"DM,CM",28-288,90,0,0,0,0,1,0,1,0,69,1,0,0,0.0,0.0,0.1,4,0,60,64,93.8,9,53,3,5,3
+Ben Chilwell,21,eng ENG,LB,26-059,83,0,0,0,0,1,0,0,0,66,1,2,0,0.0,0.0,0.0,1,0,42,59,71.2,4,37,3,1,0
+Conor Gallagher,23,eng ENG,CM,23-012,7,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,1,0,6,7,85.7,0,6,1,1,1
+Benoît Badiashile,4,fr FRA,CB,21-329,90,0,0,0,0,0,0,0,0,83,3,1,0,0.0,0.0,0.1,3,0,69,76,90.8,10,58,2,1,0
+Kalidou Koulibaly,26,sn SEN,CB,31-243,45,0,0,0,0,0,0,1,0,33,1,0,1,0.0,0.0,0.0,0,0,28,31,90.3,4,28,0,0,0
+Wesley Fofana,33,fr FRA,CB,22-063,45,0,0,0,0,0,0,0,0,39,0,1,1,0.0,0.0,0.0,1,0,30,37,81.1,2,30,1,0,0
+César Azpilicueta,28,es ESP,RB,33-174,83,0,0,0,0,2,0,0,0,55,3,1,1,0.1,0.1,0.2,1,0,39,46,84.8,5,33,2,0,0
+Trevoh Chalobah,14,eng ENG,CB,23-228,7,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,9,11,81.8,0,8,0,0,0
+Kepa Arrizabalaga,1,es ESP,GK,28-138,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,40,41,97.6,0,29,0,0,0

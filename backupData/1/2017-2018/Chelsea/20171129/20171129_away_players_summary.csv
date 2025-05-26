@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,18,gh GHA,FW,26-079,83,0,0,0,0,0,0,0,0,44,7,1,2,0.0,0.0,0.0,3,0,22,26,84.6,0,24,1,2,1
+Wayne Routledge,15,eng ENG,FW,32-326,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,2,0,0,0
+Wilfried Bony,2,ci CIV,FW,28-354,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,17,23,73.9,0,16,0,3,0
+Renato Sanches,35,pt POR,AM,20-103,45,0,0,0,0,0,0,0,0,29,2,0,1,0.0,0.0,0.0,0,0,15,22,68.2,2,9,1,1,0
+Leroy Fer,8,nl NED,AM,27-328,45,0,0,0,0,1,0,0,0,36,3,1,4,0.0,0.0,0.0,1,0,19,26,73.1,1,18,2,1,1
+Tom Carroll,14,eng ENG,LM,25-185,90,0,0,0,0,1,0,0,0,61,1,1,3,0.0,0.0,0.0,0,0,45,55,81.8,6,24,1,0,0
+Roque Mesa,51,es ESP,CM,28-175,64,0,0,0,0,0,0,0,0,27,0,1,1,0.0,0.0,0.0,0,0,22,24,91.7,0,10,0,0,0
+Oliver McBurnie,62,sct SCO,CM,21-178,26,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,2,4,1,0,0
+Ki Sung-yueng,4,kr KOR,RM,28-309,90,0,0,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.0,0,0,40,48,83.3,1,18,2,2,2
+Martin Olsson,16,se SWE,LB,29-196,90,0,0,0,0,0,0,0,0,43,0,2,1,0.0,0.0,0.0,0,0,25,33,75.8,0,16,3,1,0
+Alfie Mawson,6,eng ENG,CB,23-314,90,0,0,0,0,0,0,0,0,59,0,3,2,0.0,0.0,0.0,0,0,34,39,87.2,2,13,0,0,0
+Mike van der Hoorn,5,nl NED,CB,25-045,90,0,0,0,0,0,0,0,0,46,2,2,0,0.0,0.0,0.0,0,0,30,35,85.7,0,12,0,0,0
+Kyle Naughton,26,eng ENG,RB,29-012,90,0,0,0,0,0,0,0,0,79,0,2,3,0.0,0.0,0.0,0,0,34,58,58.6,1,16,1,0,0
+Łukasz Fabiański,1,pl POL,GK,32-225,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,16,31,51.6,0,13,0,0,0

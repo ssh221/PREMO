@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,17,no NOR,FW,27-015,90,2,1,0,0,5,2,0,0,39,0,0,1,0.8,0.8,1.0,7,1,19,25,76.0,5,25,4,2,2
+David Brooks,20,wls WAL,FW,21-206,67,1,1,0,0,3,3,0,0,27,0,3,0,0.9,0.9,0.3,3,2,10,17,58.8,3,15,3,3,1
+Jordon Ibe,10,eng ENG,RM,23-053,23,0,1,0,0,0,0,0,0,16,0,2,0,0.0,0.0,0.1,1,1,8,11,72.7,1,11,0,2,0
+Ryan Fraser,24,sct SCO,LM,24-340,89,0,0,0,0,0,0,0,0,37,1,1,0,0.0,0.0,0.0,1,1,19,30,63.3,2,24,3,0,0
+Charlie Daniels,11,eng ENG,LM,32-145,1,1,0,0,0,1,1,0,0,3,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,2,0,0,0
+Andrew Surman,6,eng ENG,CM,32-163,90,0,0,0,0,1,0,1,0,49,0,0,0,0.0,0.0,0.0,0,0,37,43,86.0,2,26,0,0,0
+Dan Gosling,4,eng ENG,CM,28-363,90,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,25,33,75.8,4,19,0,0,0
+Junior Stanislas,19,eng ENG,"RM,FW",29-065,89,0,1,0,0,2,1,0,0,43,1,0,1,0.2,0.2,0.4,3,1,27,31,87.1,1,26,1,1,0
+Chris Mepham,33,wls WAL,"CB,FW",21-086,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Adam Smith,15,eng ENG,LB,27-276,90,0,0,0,0,0,0,0,0,54,1,1,2,0.0,0.0,0.0,3,1,31,39,79.5,1,25,1,3,1
+Nathan Aké,5,nl NED,CB,23-346,90,0,0,0,0,0,0,0,0,51,3,2,0,0.0,0.0,0.0,0,0,25,33,75.8,0,27,0,0,0
+Steve Cook,3,eng ENG,CB,27-286,90,0,0,0,0,0,0,0,0,41,0,2,3,0.0,0.0,0.1,1,0,23,26,88.5,0,19,0,0,0
+Nathaniel Clyne,23,eng ENG,RB,27-300,90,0,0,0,0,0,0,0,0,59,3,1,1,0.0,0.0,0.0,2,1,38,47,80.9,4,25,1,0,0
+Artur Boruc,1,pl POL,GK,38-344,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,0,22,0,0,0

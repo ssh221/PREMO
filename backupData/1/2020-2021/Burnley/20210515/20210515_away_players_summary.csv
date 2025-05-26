@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patrick Bamford,9,eng ENG,FW,27-252,57,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,5,0,0,0
+Rodrigo,20,es ESP,FW,30-070,33,2,0,0,0,3,2,0,0,15,1,0,0,0.9,0.9,0.1,3,1,8,10,80.0,1,11,1,1,1
+Jack Harrison,22,eng ENG,LW,24-176,90,1,2,0,0,1,1,0,0,44,1,0,0,0.1,0.1,0.9,5,2,23,38,60.5,5,26,7,2,1
+Raphinha,18,br BRA,RW,24-152,80,0,1,0,0,3,0,0,0,53,1,1,0,0.2,0.2,0.0,1,1,25,39,64.1,4,40,2,4,2
+Ian Poveda,7,eng ENG,AM,21-095,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,1,0,0
+Mateusz Klich,43,pl POL,AM,30-336,75,1,0,0,0,1,1,0,0,30,2,0,0,0.0,0.0,0.0,6,1,21,28,75.0,2,23,3,0,0
+Tyler Roberts,11,wls WAL,RW,22-123,15,0,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,9,2,0,0
+Ezgjan Alioski,10,mk MKD,CM,29-092,90,0,1,0,0,2,0,0,0,55,0,0,0,0.1,0.1,0.2,3,1,40,50,80.0,5,24,1,0,0
+Kalvin Phillips,23,eng ENG,CM,25-164,90,0,0,0,0,0,0,1,0,47,2,1,3,0.0,0.0,0.0,4,1,33,40,82.5,3,17,1,0,0
+Stuart Dallas,15,nir NIR,CM,30-026,90,0,0,0,0,3,0,0,0,67,0,2,1,0.1,0.1,0.0,3,0,42,56,75.0,4,35,1,1,0
+Pascal Struijk,21,nl NED,CB,21-277,90,0,0,0,0,1,0,0,0,54,0,0,1,0.0,0.0,0.0,0,0,32,42,76.2,2,25,0,0,0
+Diego Llorente,14,es ESP,CB,27-272,90,0,0,0,0,0,0,0,0,63,1,2,2,0.0,0.0,0.0,0,0,42,54,77.8,1,35,0,0,0
+Luke Ayling,2,eng ENG,CB,29-263,90,0,0,0,0,0,0,0,0,89,3,2,1,0.0,0.0,0.0,2,0,56,74,75.7,4,44,3,0,0
+Illan Meslier,1,fr FRA,GK,21-074,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,27,42,64.3,0,23,0,0,0

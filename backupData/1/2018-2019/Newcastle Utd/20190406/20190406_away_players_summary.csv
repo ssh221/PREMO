@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Zaha,11,ci CIV,FW,26-147,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.1,4,2,25,32,78.1,2,32,5,5,4
+Michy Batshuayi,23,be BEL,FW,25-186,64,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,8,14,57.1,0,13,0,1,0
+Christian Benteke,17,be BEL,FW,28-124,26,0,0,0,0,0,0,1,0,18,2,0,0,0.0,0.0,0.0,0,0,7,12,58.3,2,7,0,0,0
+Jeffrey Schlupp,15,gh GHA,LM,26-104,90,0,0,0,0,2,0,0,0,46,2,2,0,0.1,0.1,0.0,0,0,20,33,60.6,5,27,2,1,0
+Luka Milivojević,4,rs SRB,CM,27-364,90,1,0,1,1,0,0,0,0,65,2,1,1,0.8,0.0,0.0,0,0,47,57,82.5,5,37,0,1,0
+James McArthur,18,sct SCO,"CM,RM",31-181,90,0,0,0,0,0,0,0,0,57,3,0,0,0.0,0.0,0.0,0,0,37,47,78.7,4,37,1,0,0
+Andros Townsend,10,eng ENG,RM,27-264,84,0,0,0,0,0,0,0,0,38,1,2,2,0.0,0.0,0.0,0,0,21,30,70.0,3,27,3,0,0
+Cheikhou Kouyaté,8,sn SEN,CM,29-106,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Patrick van Aanholt,3,nl NED,LB,28-220,90,0,0,0,0,0,0,0,0,60,0,1,1,0.0,0.0,0.0,0,0,48,56,85.7,4,36,2,0,0
+James Tomkins,5,eng ENG,CB,30-008,72,0,0,0,0,0,0,0,0,48,1,0,2,0.0,0.0,0.0,0,0,36,43,83.7,0,26,0,0,0
+Scott Dann,6,eng ENG,CB,32-051,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Martin Kelly,34,eng ENG,CB,28-344,90,0,0,0,0,0,0,1,0,41,3,0,0,0.0,0.0,0.0,0,0,20,29,69.0,2,19,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,21-131,90,0,0,0,0,0,0,0,0,66,2,2,2,0.0,0.0,0.0,1,0,35,45,77.8,8,26,5,2,1
+Vicente Guaita,31,es ESP,GK,32-086,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,12,0,0,0

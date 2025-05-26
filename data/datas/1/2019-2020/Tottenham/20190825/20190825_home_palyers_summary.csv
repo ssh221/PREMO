@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,26-028,90,0,0,0,0,1,0,0,0,21,0,0,0,0.1,0.1,0.0,0,0,11,18,61.1,2,19,2,1,1
+Son Heung-min,7,kr KOR,"LW,RW",27-048,90,0,0,0,0,6,2,0,0,76,0,0,1,0.2,0.2,0.1,5,0,53,59,89.8,4,56,2,5,2
+Lucas Moura,27,br BRA,"AM,RW",27-012,90,0,0,0,0,5,0,0,0,45,0,1,1,0.6,0.6,0.0,2,0,27,31,87.1,5,31,1,2,2
+Érik Lamela,11,ar ARG,"AM,LW",27-174,61,0,0,0,0,1,0,0,0,46,1,0,0,0.1,0.1,0.0,1,0,28,40,70.0,1,35,0,2,1
+Giovani Lo Celso,18,ar ARG,RW,23-138,29,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.1,5,0,16,18,88.9,0,16,0,0,0
+Harry Winks,8,eng ENG,DM,23-204,90,0,0,0,0,0,0,1,0,141,3,0,1,0.0,0.0,0.0,3,0,127,136,93.4,19,119,6,3,3
+Moussa Sissoko,17,fr FRA,"DM,RB",30-009,90,0,0,0,0,0,0,0,0,110,0,0,0,0.0,0.0,0.5,4,0,98,103,95.1,10,79,4,1,1
+Danny Rose,3,eng ENG,LB,29-054,87,0,0,0,0,0,0,1,0,111,1,2,2,0.0,0.0,0.0,2,0,85,106,80.2,11,79,3,1,1
+Ben Davies,33,wls WAL,LB,26-123,3,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,12,3,0,0
+Davinson Sánchez,6,co COL,CB,23-074,90,0,0,0,0,0,0,0,0,78,2,2,0,0.0,0.0,0.0,0,0,64,71,90.1,4,59,1,0,0
+Toby Alderweireld,4,be BEL,CB,30-176,90,0,0,0,0,0,0,0,0,101,2,1,0,0.0,0.0,0.0,2,0,87,98,88.8,9,78,6,0,0
+Kyle Walker-Peters,16,eng ENG,RB,22-134,61,0,0,0,0,0,0,0,0,75,1,1,1,0.0,0.0,0.0,1,0,59,69,85.5,3,60,4,2,1
+Christian Eriksen,23,dk DEN,DM,27-192,29,0,0,0,0,2,0,0,0,52,0,0,0,0.0,0.0,0.1,6,0,40,47,85.1,9,45,5,0,0
+Hugo Lloris,1,fr FRA,GK,32-242,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,21,100.0,0,17,0,0,0

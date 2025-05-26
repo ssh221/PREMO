@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Tyrique George,32,eng ENG,FW,19-101,80,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,5,8,62.5,1,8,0,1,0
+Roméo Lavia,45,be BEL,DM,21-130,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0
+Noni Madueke,11,eng ENG,LW,23-067,90,0,0,0,0,2,0,0,0,38,1,1,0,0.5,0.5,0.0,1,0,20,27,74.1,2,20,6,5,2
+Pedro Neto,7,pt POR,RW,25-068,89,0,0,0,0,1,1,0,0,47,1,0,0,0.0,0.0,0.0,1,0,27,35,77.1,1,30,4,3,1
+Malo Gusto,27,fr FRA,RW,21-362,1,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Cole Palmer,20,eng ENG,"AM,FW",23-010,90,0,0,0,0,2,1,1,0,46,3,0,1,0.1,0.1,0.5,6,0,30,36,83.3,9,35,7,1,0
+Moisés Caicedo,25,ec ECU,DM,23-195,90,0,0,0,0,1,0,0,0,68,3,0,2,0.0,0.0,0.0,2,0,50,58,86.2,10,38,3,4,2
+Enzo Fernández,8,ar ARG,"DM,AM",24-119,90,0,0,0,0,1,0,0,0,55,1,0,4,0.0,0.0,0.0,2,0,31,42,73.8,4,24,0,3,1
+Marc Cucurella,3,es ESP,LB,26-298,90,1,0,0,0,1,1,0,0,53,3,3,1,0.2,0.2,0.0,2,0,31,41,75.6,1,22,0,1,0
+Levi Colwill,6,eng ENG,CB,22-079,90,0,0,0,0,0,0,0,0,54,2,0,1,0.0,0.0,0.0,0,0,36,47,76.6,3,24,0,2,0
+Tosin Adarabioyo,4,eng ENG,CB,27-234,90,0,0,0,0,1,0,0,0,57,3,0,0,0.0,0.0,0.0,2,0,40,44,90.9,2,20,0,0,0
+Reece James,24,eng ENG,RB,25-159,90,0,1,0,0,2,0,0,0,77,0,0,0,0.1,0.1,0.2,2,2,57,70,81.4,3,37,1,1,1
+Robert Sánchez,1,es ESP,GK,27-179,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,17,30,56.7,0,21,0,0,0

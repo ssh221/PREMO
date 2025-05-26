@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Andy Carroll,9,eng ENG,FW,28-322,90,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,1,0,22,30,73.3,3,19,0,1,1
+Arthur Masuaku,26,cd COD,LW,24-017,89,0,0,0,0,1,1,0,0,64,1,2,2,0.0,0.0,0.0,2,0,29,44,65.9,2,40,8,12,8
+Diafra Sakho,15,sn SEN,AM,27-335,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Marko Arnautović,7,at AUT,RW,28-219,68,0,0,0,0,1,0,0,0,34,3,0,1,0.1,0.1,0.0,0,0,19,28,67.9,2,24,3,3,3
+André Ayew,20,gh GHA,RW,27-342,22,0,0,0,0,2,0,1,0,16,1,0,0,0.2,0.2,0.0,1,0,8,9,88.9,0,13,1,1,1
+Manuel Lanzini,10,ar ARG,"AM,LW",24-282,90,0,1,0,0,1,1,0,0,85,1,0,0,0.1,0.1,0.6,7,2,65,78,83.3,9,56,6,3,1
+Pedro Obiang,14,gq EQG,DM,25-242,90,0,0,0,0,0,0,0,0,53,2,0,1,0.0,0.0,0.0,0,0,34,43,79.1,3,30,0,1,1
+Cheikhou Kouyaté,8,sn SEN,DM,27-338,90,1,0,0,0,2,1,0,0,31,3,0,1,0.4,0.4,0.0,0,0,18,22,81.8,1,12,1,1,1
+Aaron Cresswell,3,eng ENG,LB,27-344,90,0,0,0,0,0,0,0,0,71,2,1,2,0.0,0.0,0.1,3,0,37,54,68.5,2,32,0,3,1
+Angelo Ogbonna,21,it ITA,CB,29-185,90,0,0,0,0,1,1,0,0,38,0,0,0,0.1,0.1,0.0,0,0,31,34,91.2,5,24,0,1,1
+Winston Reid,2,nz NZL,CB,29-144,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.1,1,0,15,25,60.0,1,16,1,0,0
+Pablo Zabaleta,5,ar ARG,RB,32-312,90,0,0,0,0,0,0,0,0,57,5,0,3,0.0,0.0,0.0,0,0,31,49,63.3,3,22,1,0,0
+Joe Hart,25,eng ENG,GK,30-219,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,10,0,0,0

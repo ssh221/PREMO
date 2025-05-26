@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Teemu Pukki,22,fi FIN,FW,31-260,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,9,15,60.0,2,4,0,1,0
+Todd Cantwell,14,eng ENG,LW,23-290,60,0,0,0,0,1,0,0,0,23,1,0,0,0.0,0.0,0.0,0,0,16,21,76.2,1,15,1,1,1
+Adam Idah,35,ie IRL,LW,20-306,30,0,0,0,0,1,1,0,0,21,3,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,10,0,1,0
+Przemysław Płacheta,11,pl POL,RW,23-266,74,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,3,0,20,26,76.9,2,25,5,5,4
+Kieran Dowell,10,eng ENG,RW,24-065,16,0,0,0,0,0,0,0,0,12,1,1,2,0.0,0.0,0.1,1,0,5,10,50.0,0,3,0,0,0
+Kenny McLean,23,sct SCO,LM,29-340,90,0,0,0,0,2,0,0,0,26,0,0,0,0.3,0.3,0.0,0,0,15,19,78.9,3,17,0,0,0
+Jakob Sørensen,19,dk DEN,"CB,CM",23-286,90,0,0,0,0,2,1,0,0,69,4,2,2,0.1,0.1,0.0,0,0,41,47,87.2,1,32,0,0,0
+Billy Gilmour,8,sct SCO,RM,20-186,90,0,0,0,0,0,0,0,0,78,4,1,0,0.0,0.0,0.1,5,0,48,66,72.7,4,37,3,0,0
+Brandon Williams,21,eng ENG,LB,21-102,90,0,0,0,0,0,0,1,0,72,4,0,1,0.0,0.0,0.0,1,0,54,64,84.4,3,46,5,2,2
+Ben Gibson,4,eng ENG,CB,28-333,90,0,0,0,0,1,1,0,0,81,2,2,1,0.0,0.0,0.0,1,0,66,71,93.0,4,53,0,1,1
+Ozan Kabak,15,tr TUR,CB,21-264,44,0,0,0,0,0,0,0,0,41,0,1,2,0.0,0.0,0.0,0,0,30,34,88.2,1,30,0,0,0
+Sam Byram,3,eng ENG,CM,28-089,46,0,0,0,0,0,0,1,0,25,0,3,0,0.0,0.0,0.0,0,0,14,20,70.0,1,9,0,0,0
+Max Aarons,2,eng ENG,RB,21-344,90,0,0,0,0,0,0,1,0,87,3,2,3,0.0,0.0,0.0,0,0,54,69,78.3,11,46,3,2,0
+Tim Krul,1,nl NED,GK,33-255,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,23,26,88.5,0,19,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,9,eng ENG,FW,28-292,75,2,0,0,0,2,2,0,0,36,1,0,3,0.5,0.5,0.0,0,0,15,20,75.0,1,21,1,4,1
+Michael Obafemi,14,ie IRL,FW,20-309,15,0,0,0,0,0,0,0,0,7,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,4,1,0,0
+Che Adams,10,sct SCO,FW,24-302,90,1,1,0,0,2,2,0,0,28,1,0,0,0.3,0.3,0.6,3,1,17,21,81.0,3,14,1,0,0
+Nathan Redmond,11,eng ENG,LM,27-066,90,0,1,0,0,3,1,0,0,67,0,0,3,0.1,0.1,0.2,6,1,44,54,81.5,5,36,3,1,1
+Stuart Armstrong,17,sct SCO,CM,29-042,90,0,1,0,0,1,0,0,0,64,1,1,0,0.0,0.0,0.3,3,1,51,54,94.4,5,44,2,1,1
+James Ward-Prowse,8,eng ENG,CM,26-191,90,0,0,0,0,2,1,0,0,105,3,1,1,0.1,0.1,0.1,4,1,75,93,80.6,8,50,1,0,0
+Takumi Minamino,19,jp JPN,RM,26-115,90,0,0,0,0,1,0,0,0,50,1,0,2,0.1,0.1,0.0,3,0,24,41,58.5,4,31,2,1,0
+Jack Stephens,5,eng ENG,"CB,LB",27-104,90,0,0,0,0,1,0,0,0,87,2,0,2,0.0,0.0,0.0,1,0,74,79,93.7,2,48,1,0,0
+Jannik Vestergaard,4,dk DEN,CB,28-281,90,0,0,0,0,0,0,1,0,77,0,0,0,0.0,0.0,0.0,1,0,61,68,89.7,1,43,0,0,0
+Jan Bednarek,35,pl POL,CB,25-029,45,0,0,0,0,0,0,1,0,44,1,0,1,0.0,0.0,0.0,1,1,33,38,86.8,2,35,0,0,0
+Mohammed Salisu,22,gh GHA,LB,22-024,45,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.0,0,0,22,25,88.0,0,19,0,2,1
+Kyle Walker-Peters,2,eng ENG,RB,24-028,90,0,0,0,0,1,0,0,0,63,1,1,2,0.0,0.0,0.0,0,0,46,54,85.2,4,39,3,0,0
+Fraser Forster,44,eng ENG,GK,33-055,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,10,0,0,0

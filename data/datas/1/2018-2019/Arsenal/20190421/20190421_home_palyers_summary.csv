@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,"RW,FW",29-307,90,1,0,0,0,1,1,0,0,31,0,0,0,0.1,0.1,0.1,1,0,15,23,65.2,4,17,3,2,1
+Alexandre Lacazette,9,fr FRA,FW,27-328,90,0,1,0,0,3,0,0,0,46,0,0,0,0.2,0.2,0.4,4,1,25,33,75.8,7,23,1,5,4
+Mesut Özil,10,de GER,AM,30-188,90,1,0,0,0,2,2,1,0,102,1,0,1,0.4,0.4,0.1,4,0,80,89,89.9,12,63,6,4,3
+Mohamed Elneny,4,eg EGY,"CM,DM",26-284,67,0,0,0,0,1,0,0,0,55,3,0,1,0.1,0.1,0.0,0,0,42,48,87.5,6,31,1,0,0
+Lucas Torreira,11,uy URU,DM,23-069,23,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,0,0,19,23,82.6,3,12,0,1,0
+Mattéo Guendouzi,29,fr FRA,"DM,CM",20-007,90,0,0,0,0,0,0,1,0,92,2,0,1,0.0,0.0,0.1,4,0,77,86,89.5,23,63,8,2,2
+Sead Kolašinac,31,ba BIH,"LB,WB",25-305,90,0,0,0,0,1,1,0,0,99,1,1,0,0.0,0.0,0.1,1,0,76,92,82.6,4,52,7,2,1
+Carl Jenkinson,25,eng ENG,WB,27-072,45,0,0,0,0,0,0,0,0,26,0,0,2,0.0,0.0,0.0,1,0,16,21,76.2,1,12,1,0,0
+Ainsley Maitland-Niles,15,eng ENG,RB,21-235,45,0,0,0,0,0,0,0,0,54,2,2,2,0.0,0.0,0.0,1,0,39,47,83.0,7,27,5,2,2
+Konstantinos Mavropanos,27,gr GRE,CB,21-131,45,0,0,0,0,2,0,1,0,63,1,2,0,0.1,0.1,0.3,2,0,54,57,94.7,7,42,2,1,1
+Alex Iwobi,17,ng NGA,LW,22-353,45,0,0,0,0,1,1,0,0,50,1,0,0,0.1,0.1,0.0,1,1,26,40,65.0,6,33,6,4,2
+Laurent Koscielny,6,fr FRA,CB,33-223,90,0,0,0,0,0,0,0,0,86,2,2,1,0.0,0.0,0.0,1,0,72,76,94.7,3,62,2,1,1
+Shkodran Mustafi,20,de GER,CB,27-004,90,0,0,0,0,1,0,1,0,73,1,2,1,0.3,0.3,0.0,1,0,58,64,90.6,5,36,1,0,0
+Bernd Leno,19,de GER,GK,27-048,90,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,17,19,89.5,0,8,0,0,0

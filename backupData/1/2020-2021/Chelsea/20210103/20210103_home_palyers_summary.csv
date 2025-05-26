@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Timo Werner,11,de GER,FW,24-303,90,0,0,0,0,1,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,27,35,77.1,4,29,6,1,1
+Christian Pulisic,10,us USA,"LW,LM",22-107,90,0,0,0,0,1,0,1,0,56,1,2,4,0.0,0.0,0.2,2,1,31,36,86.1,3,42,2,14,9
+Hakim Ziyech,22,ma MAR,RW,27-290,63,0,0,0,0,2,0,0,0,45,0,1,1,0.2,0.2,0.0,3,0,25,38,65.8,3,29,1,0,0
+Callum Hudson-Odoi,20,eng ENG,"RM,RW",20-057,27,1,0,0,0,1,1,0,0,24,1,0,0,0.3,0.3,0.1,2,0,21,22,95.5,1,19,3,1,1
+Mason Mount,19,eng ENG,"LM,FW",21-359,90,0,0,0,0,0,0,0,0,73,1,1,0,0.0,0.0,0.2,3,0,56,68,82.4,9,52,5,3,2
+N'Golo Kanté,7,fr FRA,CM,29-280,63,0,0,0,0,0,0,1,0,57,4,2,0,0.0,0.0,0.0,0,0,43,49,87.8,1,35,0,2,1
+Billy Gilmour,23,sct SCO,CM,19-206,27,0,0,0,0,0,0,0,0,31,1,1,0,0.0,0.0,0.0,1,0,26,29,89.7,2,23,1,0,0
+Mateo Kovačić,17,hr CRO,RM,26-242,76,0,0,0,0,2,0,1,0,67,0,1,0,0.1,0.1,0.0,1,0,57,63,90.5,2,58,1,1,1
+Kai Havertz,29,de GER,CM,21-206,14,0,1,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.3,2,1,7,7,100.0,3,7,1,0,0
+Ben Chilwell,21,eng ENG,LB,24-013,90,0,0,0,0,0,0,0,0,83,2,1,1,0.0,0.0,0.0,0,0,65,76,85.5,7,59,3,2,1
+Thiago Silva,6,br BRA,CB,36-103,90,0,0,0,0,0,0,0,0,89,0,3,0,0.0,0.0,0.0,0,0,85,88,96.6,0,73,0,0,0
+Kurt Zouma,15,fr FRA,CB,26-068,90,0,0,0,0,0,0,0,0,85,0,4,2,0.0,0.0,0.0,0,0,69,76,90.8,2,61,1,0,0
+César Azpilicueta,28,es ESP,RB,31-128,90,0,0,0,0,1,1,0,0,73,1,2,2,0.2,0.2,0.0,1,0,61,65,93.8,5,52,0,0,0
+Edouard Mendy,16,sn SEN,GK,28-308,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,42,45,93.3,0,36,0,0,0

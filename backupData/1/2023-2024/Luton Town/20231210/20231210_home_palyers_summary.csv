@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Elijah Adebayo,11,eng ENG,FW,25-337,90,1,0,0,0,1,1,0,0,30,0,0,4,0.3,0.3,0.0,1,0,11,14,78.6,2,17,0,3,1
+Jacob Brown,19,sct SCO,"LW,RB",25-244,90,0,0,0,0,0,0,0,0,29,1,2,1,0.0,0.0,0.0,0,0,10,17,58.8,2,14,1,3,1
+Andros Townsend,30,eng ENG,RW,32-147,71,0,1,0,0,1,1,0,0,28,1,2,0,0.0,0.0,0.3,1,1,17,22,77.3,0,14,1,0,0
+Carlton Morris,9,eng ENG,"RW,FW",27-359,19,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,3,0,0,0
+Ryan Giles,26,eng ENG,LM,23-318,83,0,0,0,0,0,0,0,0,41,3,0,1,0.0,0.0,0.0,0,0,25,32,78.1,3,23,0,2,2
+Tahith Chong,14,nl NED,LM,24-006,7,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,1,3,0,1,1
+Ross Barkley,6,eng ENG,CM,30-005,90,0,0,0,0,1,0,0,0,38,2,0,1,0.0,0.0,0.0,1,0,24,30,80.0,7,21,1,4,2
+Marvelous Nakamba,13,zw ZIM,CM,29-325,71,0,0,0,0,0,0,1,0,31,2,1,5,0.0,0.0,0.0,0,0,17,20,85.0,1,12,0,0,0
+Albert Sambi Lokonga,28,be BEL,CM,24-049,19,0,0,0,0,0,0,0,0,13,2,1,0,0.0,0.0,0.0,0,0,10,10,100.0,1,8,0,0,0
+Alfie Doughty,45,eng ENG,"RM,LB",23-354,90,0,0,0,0,0,0,1,0,48,3,1,0,0.0,0.0,0.0,1,1,21,38,55.3,3,17,4,4,2
+Amari'i Bell,29,jm JAM,CB,29-219,90,0,0,0,0,0,0,0,0,56,0,3,2,0.0,0.0,0.0,1,0,36,47,76.6,2,37,1,1,0
+Tom Lockyer,4,wls WAL,CB,29-007,89,0,0,0,0,0,0,0,0,50,6,2,3,0.0,0.0,0.0,0,0,25,34,73.5,2,21,0,1,0
+Jordan Clark,18,eng ENG,RM,30-079,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Teden Mengi,15,eng ENG,CB,21-224,90,0,0,0,0,0,0,0,0,37,0,2,0,0.0,0.0,0.0,0,0,23,31,74.2,0,17,1,1,0
+Thomas Kaminski,24,be BEL,GK,31-048,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,25,43,58.1,0,25,0,0,0

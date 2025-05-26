@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Hwang Hee-chan,11,kr KOR,FW,28-106,90,0,0,0,0,1,0,0,0,25,0,1,0,0.6,0.6,0.0,1,0,14,20,70.0,1,10,0,1,0
+Matheus Cunha,12,br BRA,"FW,AM",24-350,90,1,0,0,0,4,3,1,0,47,0,0,1,0.4,0.4,0.0,3,1,23,33,69.7,4,27,5,5,2
+Boubacar Traoré,6,ml MLI,DM,22-265,45,0,0,0,0,0,0,1,0,40,2,0,0,0.0,0.0,0.2,1,0,31,35,88.6,0,14,0,1,1
+Jean-Ricner Bellegarde,27,fr FRA,"WB,DM",25-319,45,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.1,2,0,8,14,57.1,1,7,1,1,1
+Mario Lemina,5,ga GAB,"DM,CB,CM",30-253,90,0,0,0,0,2,1,0,0,87,5,1,0,0.1,0.1,0.0,0,0,63,73,86.3,2,36,0,2,0
+João Gomes,8,br BRA,"DM,CM",23-089,90,0,0,0,0,2,0,0,0,70,7,0,2,0.1,0.1,0.1,4,0,38,50,76.0,6,24,1,4,2
+Rayan Aït-Nouri,3,dz ALG,WB,22-340,60,0,0,0,0,2,2,0,0,32,1,0,1,0.2,0.2,0.1,2,0,21,26,80.8,3,13,1,2,2
+Pablo Sarabia,21,es ESP,"AM,WB",32-000,30,0,0,0,0,1,1,1,0,28,1,1,0,0.1,0.1,0.0,5,0,12,25,48.0,2,10,0,1,0
+Matt Doherty,2,ie IRL,WB,32-116,78,0,0,0,0,1,1,0,0,66,2,1,1,0.1,0.1,0.0,1,0,48,58,82.8,4,17,0,0,0
+Tommy Doyle,20,eng ENG,CM,22-207,12,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,3,7,1,0,0
+Toti Gomes,24,pt POR,CB,25-116,89,0,0,0,0,0,0,0,0,69,1,1,2,0.0,0.0,0.0,0,0,52,62,83.9,5,34,3,0,0
+Enso Gonzalez,30,py PAR,"AM,CB",19-112,1,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,0,4,0,0,0
+Max Kilman,23,eng ENG,CB,26-354,90,0,0,0,0,1,0,0,0,86,0,2,2,0.0,0.0,0.0,0,0,75,81,92.6,3,49,0,0,0
+Nélson Semedo,22,pt POR,"CB,WB",30-177,90,0,0,0,0,0,0,0,0,79,3,2,2,0.0,0.0,0.0,4,1,54,62,87.1,11,32,4,6,1
+Daniel Bentley,25,eng ENG,GK,30-303,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,1,0,29,46,63.0,0,23,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Yoshinori Mutō,13,jp JPN,FW,26-083,77,1,0,0,0,2,2,0,0,29,2,1,2,0.4,0.4,0.7,1,0,14,18,77.8,1,15,0,1,0
+Christian Atsu,30,gh GHA,FW,26-269,13,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,1,5,0,0,0
+Ayoze Pérez,17,es ESP,FW,25-069,87,0,1,0,0,1,1,0,0,33,1,2,1,0.0,0.0,0.1,2,1,12,21,57.1,2,18,4,3,2
+Joselu,21,es ESP,FW,28-193,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0
+Kenedy,15,br BRA,LM,22-240,67,1,0,0,0,2,1,0,0,32,2,2,0,0.1,0.1,0.0,2,0,10,15,66.7,3,17,2,0,0
+Jacob Murphy,7,eng ENG,LM,23-224,23,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,1,0,0,0
+Mohamed Diamé,10,sn SEN,CM,31-114,90,0,0,0,0,2,1,1,0,27,3,2,2,0.1,0.1,0.0,2,0,8,11,72.7,2,10,1,2,1
+Jonjo Shelvey,8,eng ENG,CM,26-221,90,0,1,0,0,2,1,0,0,66,5,1,0,0.0,0.0,0.3,6,1,28,51,54.9,3,26,0,1,1
+Matt Ritchie,11,sct SCO,RM,29-026,90,0,0,0,0,3,2,1,0,40,2,2,0,0.8,0.8,0.2,4,0,10,23,43.5,1,18,1,1,0
+Javier Manquillo,19,es ESP,LB,24-154,90,0,0,0,0,0,0,0,0,56,1,3,0,0.0,0.0,0.0,2,0,25,41,61.0,1,11,2,0,0
+Federico Fernández,18,ar ARG,CB,29-227,90,0,0,0,0,0,0,0,0,21,0,2,1,0.0,0.0,0.0,0,0,5,10,50.0,2,6,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,24-329,90,0,0,0,0,1,0,0,0,41,2,2,1,0.1,0.1,0.3,1,0,8,18,44.4,2,2,0,0,0
+DeAndre Yedlin,22,us USA,RB,25-089,90,0,0,0,0,0,0,0,0,30,0,3,0,0.0,0.0,0.0,3,2,14,22,63.6,2,6,0,0,0
+Martin Dúbravka,12,sk SVK,GK,29-264,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,14,29,48.3,0,15,0,0,0

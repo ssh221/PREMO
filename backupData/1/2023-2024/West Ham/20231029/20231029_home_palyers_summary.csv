@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,33-215,56,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,2,0,7,13,53.8,0,15,2,3,3
+Saïd Benrahma,22,dz ALG,FW,28-080,34,0,0,0,0,1,1,1,0,33,0,0,1,0.0,0.0,0.0,2,0,21,25,84.0,0,25,3,5,2
+Lucas Paquetá,10,br BRA,LW,26-063,90,0,0,0,0,2,0,1,0,72,1,0,0,0.1,0.1,0.2,4,0,45,63,71.4,6,55,4,5,4
+Jarrod Bowen,20,eng ENG,RW,26-313,90,0,0,0,0,4,0,0,0,43,1,3,2,0.4,0.4,0.0,4,0,17,27,63.0,1,23,1,6,4
+Mohammed Kudus,14,gh GHA,AM,23-088,90,0,0,0,0,0,0,1,0,65,1,0,2,0.0,0.0,0.0,1,0,43,48,89.6,4,45,5,7,4
+James Ward-Prowse,7,eng ENG,DM,28-362,72,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.2,3,0,54,59,91.5,6,39,1,0,0
+Tomáš Souček,28,cz CZE,DM,28-244,18,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,19,21,90.5,3,16,0,0,0
+Edson Álvarez,19,mx MEX,DM,26-005,90,0,0,0,0,2,0,1,0,94,4,0,2,0.0,0.0,0.0,0,0,67,77,87.0,4,70,1,1,1
+Aaron Cresswell,3,eng ENG,LB,33-318,84,0,0,0,0,0,0,0,0,71,1,0,0,0.0,0.0,0.1,2,0,61,69,88.4,8,44,1,0,0
+Danny Ings,18,eng ENG,LB,31-098,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Nayef Aguerd,27,ma MAR,CB,27-213,90,0,0,0,0,2,0,0,0,109,4,3,0,0.1,0.1,0.0,1,0,73,95,76.8,3,76,4,0,0
+Kurt Zouma,4,fr FRA,CB,29-002,90,0,0,0,0,1,1,0,0,82,0,0,1,0.0,0.0,0.0,1,0,66,76,86.8,4,63,1,0,0
+Vladimír Coufal,5,cz CZE,RB,31-068,90,0,0,0,0,0,0,0,0,102,3,2,1,0.0,0.0,0.0,2,0,73,93,78.5,8,57,4,2,0
+Alphonse Areola,23,fr FRA,GK,30-244,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,35,39,89.7,1,30,0,0,0

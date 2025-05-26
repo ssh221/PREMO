@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,9,gh GHA,"FW,LW,LM",31-226,90,0,0,0,0,1,0,0,0,32,0,0,1,0.1,0.1,0.0,3,0,15,19,78.9,2,27,2,4,3
+Eberechi Eze,10,eng ENG,"LW,RM",24-300,90,0,0,0,0,5,2,0,0,54,0,0,0,0.2,0.2,0.2,7,0,28,39,71.8,9,39,2,8,5
+Michael Olise,7,fr FRA,RW,21-134,90,0,0,0,0,1,0,0,0,67,1,2,1,0.0,0.0,0.2,8,0,34,56,60.7,3,36,5,4,1
+Will Hughes,19,eng ENG,"LM,CM",28-008,88,0,0,0,0,0,0,0,0,44,2,1,1,0.0,0.0,0.2,3,0,31,36,86.1,2,23,1,1,1
+Jean-Philippe Mateta,14,fr FRA,LW,25-301,2,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0
+Luka Milivojević,4,rs SRB,CM,32-018,64,0,0,0,0,1,0,1,0,33,0,0,2,0.0,0.0,0.0,1,0,23,29,79.3,0,16,0,0,0
+Jeffrey Schlupp,15,gh GHA,"LM,CM",30-123,26,0,0,0,0,1,0,1,0,16,2,0,0,0.0,0.0,0.0,1,0,6,12,50.0,3,6,1,0,0
+Albert Sambi Lokonga,8,be BEL,RM,23-185,64,0,0,0,0,2,1,1,0,26,0,0,1,0.2,0.2,0.0,1,0,17,20,85.0,3,16,0,0,0
+Odsonne Édouard,22,fr FRA,FW,25-099,26,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,8,0,1,0
+Tyrick Mitchell,3,eng ENG,LB,23-236,90,0,0,0,0,0,0,0,0,71,2,2,2,0.0,0.0,0.1,0,0,49,64,76.6,3,36,1,3,2
+Marc Guéhi,6,eng ENG,CB,22-286,90,0,0,0,0,1,1,0,0,86,0,1,0,0.2,0.2,0.0,0,0,71,79,89.9,3,55,2,0,0
+Joachim Andersen,16,dk DEN,CB,26-329,45,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,24,29,82.8,3,26,1,0,0
+Joel Ward,2,eng ENG,RB,33-178,45,0,0,0,0,1,0,0,0,34,1,0,0,0.0,0.0,0.1,3,0,25,30,83.3,2,22,2,0,0
+Chris Richards,26,us USA,"CB,RB",23-028,90,0,0,0,0,0,0,0,0,66,2,0,1,0.0,0.0,0.0,0,0,49,57,86.0,5,38,2,0,0
+Sam Johnstone,21,eng ENG,GK,30-031,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,21,0,0,0

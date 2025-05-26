@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,29-250,45,0,1,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,0,0,9,9,100.0,1,5,0,0,0
+Gabriel Magalhães,6,br BRA,CB,23-045,45,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,1,0,33,37,89.2,0,31,1,0,0
+Nicolas Pépé,19,ci CIV,LW,25-249,60,1,0,0,0,2,2,0,0,32,2,1,0,0.1,0.1,0.0,4,2,17,20,85.0,2,19,2,4,2
+Pierre-Emerick Aubameyang,14,ga GAB,LW,31-229,30,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,1,0,8,8,100.0,0,6,0,0,0
+Bukayo Saka,7,eng ENG,RW,19-150,90,0,0,0,0,3,1,0,0,44,2,2,1,0.5,0.5,0.0,0,0,21,31,67.7,1,21,1,1,1
+Emile Smith Rowe,32,eng ENG,"AM,DM",20-189,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.1,1,0,43,47,91.5,4,34,3,0,0
+Granit Xhaka,34,ch SUI,DM,28-128,90,0,0,0,0,0,0,1,0,88,3,0,2,0.0,0.0,0.0,3,0,73,79,92.4,8,55,1,1,1
+Thomas Partey,18,gh GHA,DM,27-234,74,0,0,0,0,2,0,1,0,67,1,0,1,0.1,0.1,0.3,1,0,50,60,83.3,7,52,2,3,3
+Rúnar Alex Rúnarsson,13,is ISL,"GK,DM",25-350,16,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,7,11,63.6,0,5,0,0,0
+Cédric Soares,17,pt POR,LB,29-155,90,0,0,0,0,1,0,0,0,36,2,0,1,0.0,0.0,0.0,1,0,18,26,69.2,2,20,2,2,1
+David Luiz,23,br BRA,CB,33-286,44,0,0,0,0,0,0,0,1,38,0,0,1,0.0,0.0,0.0,0,0,30,34,88.2,0,29,0,0,0
+Rob Holding,16,eng ENG,CB,25-135,90,0,0,0,0,0,0,0,0,78,0,0,0,0.0,0.0,0.0,2,0,62,68,91.2,7,63,0,0,0
+Héctor Bellerín,2,es ESP,RB,25-320,90,0,0,0,0,0,0,0,0,69,2,0,1,0.0,0.0,0.1,1,0,58,64,90.6,6,39,2,0,0
+Bernd Leno,1,de GER,GK,28-335,71,0,0,0,0,0,0,0,1,25,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,14,0,0,0

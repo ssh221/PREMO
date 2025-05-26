@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Firmino,9,br BRA,FW,31-238,56,1,0,0,0,1,1,0,0,25,1,1,0,0.2,0.2,0.2,3,0,14,21,66.7,2,18,3,1,0
+Luis Díaz,23,co COL,"LM,FW",26-135,34,0,0,0,0,2,0,0,0,28,1,0,0,0.1,0.1,0.1,7,1,18,25,72.0,5,22,3,5,4
+Diogo Jota,20,pt POR,"LW,FW",26-175,90,2,0,0,0,4,2,0,0,34,3,0,1,1.0,1.0,0.0,2,0,19,21,90.5,0,14,0,1,0
+Mohamed Salah,11,eg EGY,"RW,RM",30-347,90,0,1,0,0,8,1,0,0,60,2,0,1,1.2,1.2,0.2,6,1,27,38,71.1,5,40,9,6,4
+Curtis Jones,17,eng ENG,LM,22-118,56,0,0,0,0,1,0,0,0,42,1,0,1,0.0,0.0,0.0,2,0,37,37,100.0,5,33,1,2,0
+Cody Gakpo,18,nl NED,"CM,LM",24-021,34,1,0,0,0,3,1,0,0,25,4,0,0,1.1,1.1,0.2,2,0,11,15,73.3,3,16,0,1,1
+Fabinho,3,br BRA,CM,29-217,56,0,1,0,0,0,0,0,0,51,0,1,2,0.0,0.0,0.2,1,1,42,46,91.3,8,39,0,1,0
+Jordan Henderson,14,eng ENG,"DM,CM",32-345,34,0,0,0,0,1,1,0,0,36,1,1,0,0.0,0.0,0.2,4,0,28,32,87.5,8,23,0,0,0
+James Milner,7,eng ENG,"RM,LB",37-144,90,0,0,0,0,1,0,0,0,78,2,0,0,0.0,0.0,0.0,3,0,60,71,84.5,7,53,3,1,0
+Kostas Tsimikas,21,gr GRE,LB,27-016,56,0,0,0,0,0,0,1,0,60,0,3,0,0.0,0.0,0.1,1,0,47,54,87.0,3,37,3,1,0
+Harvey Elliott,19,eng ENG,"CM,LB",20-054,34,0,0,0,0,4,1,1,0,35,2,1,0,0.1,0.1,0.3,8,1,23,29,79.3,10,22,4,0,0
+Joe Gomez,2,eng ENG,CB,26-005,90,0,0,0,0,1,1,0,0,93,0,2,1,0.0,0.0,0.0,1,0,80,86,93.0,5,74,0,0,0
+Joël Matip,32,cm CMR,CB,31-293,90,0,0,0,0,1,0,0,0,77,0,4,0,0.0,0.0,0.0,1,0,61,69,88.4,4,59,1,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,24-233,90,0,1,0,0,3,0,0,0,101,3,0,0,0.2,0.2,1.4,10,2,73,94,77.7,12,63,2,1,1
+Caoimhín Kelleher,62,ie IRL,GK,24-186,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,18,0,0,0

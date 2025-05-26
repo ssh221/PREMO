@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,"FW,LW",25-296,90,0,0,0,0,3,1,1,0,32,1,0,1,0.7,0.7,0.0,1,0,16,21,76.2,2,26,5,3,2
+Danny Ings,20,eng ENG,FW,29-091,76,0,0,0,0,1,0,0,0,20,1,0,0,0.2,0.2,0.0,2,0,8,15,53.3,0,11,1,0,0
+Anwar El Ghazi,21,nl NED,LW,26-172,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0
+Emi Buendía,10,ar ARG,AM,24-301,67,0,0,0,0,1,1,0,0,44,3,2,0,0.2,0.2,0.3,2,0,24,32,75.0,2,29,0,3,1
+Jacob Ramsey,41,eng ENG,AM,20-147,23,1,0,0,0,2,1,0,0,12,1,0,1,0.2,0.2,0.1,1,0,5,6,83.3,1,7,1,0,0
+Douglas Luiz,6,br BRA,"DM,CM",23-166,90,0,0,0,0,0,0,1,0,56,2,5,2,0.0,0.0,0.0,2,1,36,44,81.8,4,40,2,3,3
+John McGinn,7,sct SCO,"DM,CM",27-004,90,0,0,0,0,1,0,1,0,47,0,1,1,0.0,0.0,0.0,4,1,29,41,70.7,4,35,2,4,3
+Matt Targett,3,eng ENG,"LB,WB",26-034,90,0,0,0,0,0,0,1,0,50,1,0,1,0.0,0.0,0.4,4,0,35,41,85.4,7,29,3,0,0
+Matty Cash,2,pl POL,"RB,WB",24-076,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.6,1,0,34,49,69.4,4,27,4,0,0
+Tyrone Mings,5,eng ENG,CB,28-223,90,0,0,0,0,0,0,1,0,62,1,1,0,0.0,0.0,0.0,1,0,38,52,73.1,2,35,0,0,0
+Axel Tuanzebe,16,cd COD,CB,23-342,45,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,15,18,83.3,0,16,0,0,0
+Leon Bailey,31,jm JAM,RW,24-074,45,0,1,0,0,2,1,0,0,22,1,0,2,0.1,0.1,0.1,1,0,10,13,76.9,1,15,4,2,0
+Ezri Konsa,4,eng ENG,CB,23-364,90,0,0,0,0,0,0,0,0,60,0,1,2,0.0,0.0,0.0,0,0,44,53,83.0,1,40,1,0,0
+Emiliano Martínez,1,ar ARG,GK,29-050,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,36,41,87.8,0,28,0,0,0

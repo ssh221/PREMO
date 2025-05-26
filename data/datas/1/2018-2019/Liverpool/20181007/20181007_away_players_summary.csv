@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sergio Agüero,10,ar ARG,FW,30-127,65,0,0,0,0,0,0,1,0,14,0,0,0,0.0,0.0,0.0,1,0,7,12,58.3,1,13,2,1,0
+Gabriel Jesus,33,br BRA,FW,21-187,25,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,9,1,3,2
+Raheem Sterling,7,eng ENG,LW,23-303,75,0,0,0,0,0,0,0,0,34,1,2,3,0.0,0.0,0.1,2,0,24,28,85.7,1,25,2,1,0
+Leroy Sané,19,de GER,LW,22-269,15,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,7,0,0,0
+Riyad Mahrez,26,dz ALG,RW,27-228,90,0,0,0,1,3,2,0,0,62,1,2,0,0.9,0.2,0.0,0,0,31,49,63.3,0,45,6,3,2
+David Silva,21,es ESP,AM,32-272,90,0,0,0,0,1,0,0,0,58,1,0,2,0.1,0.1,0.1,3,0,37,50,74.0,9,38,7,1,0
+Fernandinho,25,br BRA,DM,33-156,90,0,0,0,0,1,0,0,0,67,3,3,1,0.0,0.0,0.0,0,0,42,52,80.8,6,40,5,2,2
+Bernardo Silva,20,pt POR,DM,24-058,90,0,0,0,0,0,0,1,0,71,4,0,1,0.0,0.0,0.1,2,0,51,60,85.0,4,50,4,1,0
+Benjamin Mendy,22,fr FRA,LB,24-082,90,0,0,0,0,0,0,1,0,82,2,2,2,0.0,0.0,0.0,1,0,50,72,69.4,8,48,6,0,0
+Aymeric Laporte,14,es ESP,CB,24-133,90,0,0,0,0,0,0,0,0,71,1,3,0,0.0,0.0,0.0,0,0,52,62,83.9,2,45,0,0,0
+John Stones,5,eng ENG,CB,24-132,90,0,0,0,0,0,0,0,0,91,1,1,1,0.0,0.0,0.0,0,0,78,80,97.5,2,68,0,0,0
+Kyle Walker,2,eng ENG,RB,28-132,90,0,0,0,0,0,0,0,0,60,2,0,1,0.0,0.0,0.0,0,0,46,53,86.8,3,39,2,1,1
+Ederson,31,br BRA,GK,25-051,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,25,0,0,0

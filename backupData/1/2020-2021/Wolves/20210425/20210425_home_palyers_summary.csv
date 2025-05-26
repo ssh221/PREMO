@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Willian José,12,br BRA,FW,29-153,90,0,0,0,0,3,0,0,0,24,0,0,0,0.1,0.1,0.0,3,0,14,18,77.8,1,19,2,2,2
+Adama Traoré,37,es ESP,"FW,RW,WB",25-090,90,0,0,0,0,1,0,1,0,57,2,0,2,0.0,0.0,0.1,5,0,28,44,63.6,2,35,11,4,3
+Daniel Podence,10,pt POR,AM,25-186,68,0,0,0,0,2,1,0,0,28,0,0,0,0.1,0.1,0.0,1,0,16,21,76.2,2,18,2,2,0
+Morgan Gibbs-White,18,eng ENG,CM,21-088,22,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,1,0,12,12,100.0,2,11,2,0,0
+Leander Dendoncker,32,be BEL,"CM,DM",26-010,90,0,0,0,0,0,0,0,0,72,6,0,2,0.0,0.0,0.0,0,0,47,59,79.7,1,30,0,3,2
+Rúben Neves,8,pt POR,CM,24-043,68,0,0,0,0,2,1,0,0,64,1,3,1,0.1,0.1,0.1,2,0,44,55,80.0,6,26,0,1,0
+Vitinha,20,pt POR,CM,21-071,22,0,0,0,0,0,0,0,0,20,0,1,0,0.0,0.0,0.0,0,0,12,17,70.6,2,12,2,1,1
+Rayan Aït-Nouri,3,dz ALG,"WB,LW",19-323,90,0,0,0,0,1,0,0,0,50,1,1,1,0.0,0.0,0.0,2,0,34,45,75.6,3,24,4,3,1
+Nélson Semedo,22,pt POR,WB,27-160,57,0,0,0,0,1,0,0,0,53,0,1,0,0.0,0.0,0.0,1,0,38,48,79.2,0,22,3,1,0
+Fábio Silva,17,pt POR,FW,18-280,33,0,0,0,0,1,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,1,10,1,0,0
+Willy Boly,15,ci CIV,CB,30-081,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.1,1,0,40,52,76.9,3,35,0,0,0
+Conor Coady,16,eng ENG,CB,28-059,90,0,0,0,0,0,0,0,0,53,1,2,0,0.0,0.0,0.0,1,0,40,47,85.1,1,30,0,0,0
+Romain Saïss,27,ma MAR,CB,31-030,90,0,0,0,0,1,0,0,0,90,5,5,0,0.0,0.0,0.0,0,0,53,74,71.6,7,39,0,0,0
+Rui Patrício,11,pt POR,GK,33-069,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,1,0,14,26,53.8,0,16,0,0,0

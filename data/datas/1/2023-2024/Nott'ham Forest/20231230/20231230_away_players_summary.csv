@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,10,eng ENG,FW,26-060,90,1,0,0,0,1,1,0,0,24,2,0,1,0.1,0.1,0.0,0,0,11,21,52.4,2,8,1,1,1
+Alejandro Garnacho,17,ar ARG,LW,19-182,90,0,1,0,0,2,0,1,0,44,1,2,0,0.1,0.1,0.2,3,2,19,29,65.5,1,27,6,7,4
+Antony,21,br BRA,RW,23-309,53,0,0,0,0,0,0,0,0,36,2,1,1,0.0,0.0,0.0,0,0,19,24,79.2,0,16,0,3,1
+Amad Diallo,16,ci CIV,RW,21-172,37,0,0,0,0,1,1,0,0,20,1,0,0,0.1,0.1,0.1,3,0,17,18,94.4,1,11,1,1,0
+Bruno Fernandes,8,pt POR,AM,29-113,90,0,0,0,0,1,0,0,0,69,1,0,1,0.0,0.0,0.2,4,0,38,61,62.3,7,30,1,0,0
+Christian Eriksen,14,dk DEN,DM,31-319,90,0,0,0,0,2,1,1,0,65,1,0,1,0.2,0.2,0.1,4,0,50,58,86.2,5,26,0,1,1
+Kobbie Mainoo,37,eng ENG,DM,18-255,45,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,9,11,81.8,0,3,0,3,0
+Scott McTominay,39,sct SCO,DM,27-022,45,0,0,0,0,1,1,0,0,35,3,1,1,0.1,0.1,0.0,0,0,19,21,90.5,1,13,0,1,0
+Diogo Dalot,20,pt POR,"LB,RB",24-287,90,0,0,0,0,1,0,1,0,58,1,0,1,0.1,0.1,0.0,1,0,37,49,75.5,2,22,2,2,1
+Jonny Evans,35,nir NIR,CB,35-361,90,0,0,0,0,0,0,0,0,71,0,2,0,0.0,0.0,0.0,1,0,56,64,87.5,6,35,0,2,2
+Raphaël Varane,19,fr FRA,CB,30-249,90,0,0,0,0,0,0,1,0,75,1,1,1,0.0,0.0,0.0,0,0,58,68,85.3,11,38,6,1,0
+Aaron Wan-Bissaka,29,eng ENG,RB,26-034,89,0,0,0,0,1,1,0,0,79,1,1,1,0.0,0.0,0.1,1,0,56,71,78.9,4,24,3,2,1
+Sergio Reguilón,15,es ESP,LB,27-014,1,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.1,2,0,11,11,100.0,4,3,0,0,0
+André Onana,24,cm CMR,GK,27-272,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,18,0,0,0

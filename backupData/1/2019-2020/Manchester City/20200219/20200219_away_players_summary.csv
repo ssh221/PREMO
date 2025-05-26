@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,30,jm JAM,FW,29-328,90,0,0,0,0,2,0,0,0,28,1,1,1,0.1,0.1,0.0,0,0,10,17,58.8,0,24,4,3,3
+Robert Snodgrass,11,sct SCO,FW,32-165,79,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,1,0,14,16,87.5,0,14,1,1,0
+Jarrod Bowen,17,eng ENG,FW,23-061,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,1,0
+Mark Noble,16,eng ENG,CM,32-287,90,0,0,0,0,1,0,0,0,44,2,1,2,0.0,0.0,0.0,2,0,29,36,80.6,2,19,1,1,1
+Tomáš Souček,28,cz CZE,CM,24-357,90,0,0,0,0,0,0,0,0,38,2,3,2,0.0,0.0,0.0,0,0,15,26,57.7,1,16,0,0,0
+Declan Rice,41,eng ENG,CM,21-036,90,0,0,0,0,0,0,0,0,47,2,4,1,0.0,0.0,0.0,2,0,28,39,71.8,5,32,5,2,1
+Arthur Masuaku,26,cd COD,LB,26-104,90,0,0,0,0,0,0,1,0,46,4,0,0,0.0,0.0,0.0,0,0,21,33,63.6,2,26,4,2,2
+Aaron Cresswell,3,eng ENG,CB,30-066,90,0,0,0,0,0,0,0,0,42,1,0,5,0.0,0.0,0.0,1,0,20,27,74.1,1,20,0,0,0
+Angelo Ogbonna,21,it ITA,CB,31-272,90,0,0,0,0,0,0,0,0,31,0,1,2,0.0,0.0,0.0,0,0,14,17,82.4,1,10,0,0,0
+Issa Diop,23,fr FRA,CB,23-041,90,0,0,0,0,0,0,0,0,31,0,3,1,0.0,0.0,0.0,0,0,10,16,62.5,0,11,0,0,0
+Ryan Fredericks,24,eng ENG,RB,27-132,59,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,6,11,54.5,0,10,2,2,1
+Pablo Zabaleta,5,ar ARG,RB,35-034,31,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.0,0,0,11,15,73.3,0,6,0,0,0
+Łukasz Fabiański,1,pl POL,GK,34-307,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,17,31,54.8,0,16,0,0,0

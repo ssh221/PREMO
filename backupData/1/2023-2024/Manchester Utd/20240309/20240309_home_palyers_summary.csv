@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Bruno Fernandes,8,pt POR,FW,29-183,90,1,0,1,1,4,2,0,0,69,0,0,1,1.1,0.3,0.4,7,0,46,60,76.7,6,42,6,0,0
+Scott McTominay,39,sct SCO,FW,27-092,90,0,0,0,0,0,0,1,0,35,1,0,2,0.0,0.0,0.0,3,0,19,26,73.1,4,24,1,0,0
+Marcus Rashford,10,eng ENG,LW,26-130,90,1,0,1,1,1,0,0,0,32,3,0,0,0.9,0.1,0.0,4,1,19,22,86.4,3,16,3,3,2
+Alejandro Garnacho,17,ar ARG,RW,19-252,82,0,0,0,0,3,0,0,0,46,0,0,2,0.3,0.3,0.1,8,3,26,33,78.8,4,31,2,6,2
+Antony,21,br BRA,RW,24-014,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,0,0
+Casemiro,18,br BRA,CM,32-015,90,0,0,0,0,2,1,0,0,86,3,1,7,0.1,0.1,0.1,1,0,53,70,75.7,1,45,0,0,0
+Kobbie Mainoo,37,eng ENG,CM,18-325,78,0,0,0,0,0,0,0,0,30,1,1,0,0.0,0.0,0.0,2,0,20,25,80.0,1,19,0,0,0
+Sofyan Amrabat,4,ma MAR,CM,27-201,12,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,15,15,100.0,0,8,0,0,0
+Victor Lindelöf,2,se SWE,"LB,CB",29-236,90,0,0,0,0,2,2,0,0,52,2,0,1,0.4,0.4,0.0,0,0,44,47,93.6,2,20,0,0,0
+Raphaël Varane,19,fr FRA,CB,30-319,90,0,0,0,0,0,0,0,0,69,2,1,1,0.0,0.0,0.0,3,0,53,64,82.8,2,36,0,0,0
+Jonny Evans,35,nir NIR,CB,36-066,88,0,0,0,0,0,0,0,0,61,0,2,4,0.0,0.0,0.3,1,0,42,48,87.5,3,37,0,2,1
+Willy Kambwala,53,fr FRA,RB,19-197,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,1,0
+Diogo Dalot,20,pt POR,"RB,LB",24-357,90,0,0,0,0,1,1,0,0,60,2,0,0,0.0,0.0,0.0,0,0,43,48,89.6,2,30,0,0,0
+André Onana,24,cm CMR,GK,27-342,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,1,0,34,54,63.0,0,44,0,0,0

@@ -1,0 +1,12 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,24-356,90,0,0,0,0,2,1,0,0,37,0,0,1,0.1,0.1,0.0,4,1,22,23,95.7,2,18,0,2,1
+Anwar El Ghazi,21,nl NED,LW,25-231,90,2,0,1,1,7,5,0,0,54,0,0,0,1.6,0.8,0.0,5,0,29,41,70.7,5,36,4,2,2
+Bertrand Traoré,15,bf BFA,RW,25-105,90,1,1,0,0,3,2,0,0,72,0,1,1,0.2,0.2,0.5,5,1,53,59,89.8,6,52,4,6,3
+Jack Grealish,10,eng ENG,AM,25-101,90,0,1,0,0,1,1,0,0,90,0,0,0,0.0,0.0,0.6,11,2,72,84,85.7,16,66,13,5,4
+John McGinn,7,sct SCO,DM,26-063,90,0,0,0,0,4,0,0,0,64,4,1,1,0.4,0.4,0.0,2,1,44,50,88.0,14,48,2,2,2
+Douglas Luiz,6,br BRA,DM,22-225,90,0,0,0,0,1,0,0,0,76,1,1,0,0.0,0.0,0.1,5,0,61,68,89.7,4,51,1,2,1
+Matt Targett,18,eng ENG,LB,25-093,90,0,0,0,0,0,0,0,0,90,2,3,0,0.0,0.0,0.1,2,0,62,83,74.7,7,51,0,0,0
+Tyrone Mings,5,eng ENG,CB,27-282,90,0,0,0,0,0,0,1,0,81,1,2,0,0.0,0.0,0.0,2,0,58,75,77.3,7,53,0,0,0
+Kortney Hause,30,eng ENG,CB,25-157,90,0,0,0,0,0,0,1,0,65,2,1,0,0.0,0.0,0.0,0,0,48,55,87.3,3,41,0,0,0
+Matty Cash,2,pl POL,RB,23-135,90,0,0,0,0,0,0,0,0,83,1,1,0,0.0,0.0,0.0,1,0,59,80,73.8,7,55,3,1,1
+Emiliano Martínez,26,ar ARG,GK,28-109,90,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,9,0,0,0

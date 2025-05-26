@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eddie Nketiah,30,eng ENG,FW,22-351,90,0,0,0,0,1,0,1,0,23,0,1,1,0.0,0.0,0.1,2,0,10,14,71.4,1,13,1,1,0
+Emile Smith Rowe,10,eng ENG,LW,21-292,52,0,0,0,0,0,0,0,0,18,2,1,0,0.0,0.0,0.0,0,0,6,10,60.0,1,7,0,2,0
+Gabriel Martinelli,35,br BRA,LW,20-332,38,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.0,0,0,12,18,66.7,0,16,3,1,0
+Bukayo Saka,7,eng ENG,"RW,CM",20-253,90,0,0,0,0,4,1,0,0,30,0,0,0,0.2,0.2,0.1,3,0,15,21,71.4,2,17,4,0,0
+Martin Ødegaard,8,no NOR,"AM,DM",23-150,90,0,0,0,0,1,0,0,0,37,2,0,1,0.1,0.1,0.1,5,0,26,31,83.9,6,18,2,4,2
+Granit Xhaka,34,ch SUI,"DM,LB",29-231,90,0,0,0,0,1,0,1,0,59,1,0,1,0.0,0.0,0.0,2,0,43,50,86.0,5,22,1,2,2
+Mohamed Elneny,25,eg EGY,DM,29-309,90,0,0,0,0,2,1,0,0,49,1,0,0,0.0,0.0,0.0,2,0,39,41,95.1,5,20,0,0,0
+Nuno Tavares,20,pt POR,LB,22-110,61,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,1,0,15,21,71.4,2,9,1,0,0
+Alexandre Lacazette,9,fr FRA,"CM,AM",30-353,29,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,4,0,0,0
+Gabriel Magalhães,6,br BRA,CB,24-148,72,0,0,0,0,0,0,0,0,28,2,0,1,0.0,0.0,0.0,0,0,21,23,91.3,3,13,0,0,0
+Nicolas Pépé,19,ci CIV,RW,26-352,18,0,0,0,0,0,0,0,0,19,2,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,11,1,1,0
+Ben White,4,eng ENG,CB,24-220,90,0,0,0,0,0,0,1,0,49,1,0,4,0.0,0.0,0.0,1,0,26,36,72.2,3,21,1,0,0
+Takehiro Tomiyasu,18,jp JPN,RB,23-192,38,0,0,0,0,1,0,0,0,19,0,1,0,0.1,0.1,0.0,0,0,8,10,80.0,1,4,0,1,0
+Cédric Soares,17,pt POR,RB,30-258,52,0,0,0,0,1,0,0,0,33,3,0,1,0.0,0.0,0.0,1,0,24,30,80.0,2,16,0,0,0
+Aaron Ramsdale,32,eng ENG,GK,24-002,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,18,39,46.2,0,14,0,0,0

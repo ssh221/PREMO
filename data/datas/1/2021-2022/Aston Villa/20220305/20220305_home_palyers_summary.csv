@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,26-065,90,1,0,0,0,2,2,1,0,25,0,1,1,0.7,0.7,0.8,6,1,10,12,83.3,2,14,3,2,1
+Danny Ings,20,eng ENG,FW,29-225,70,1,2,0,0,2,2,0,0,30,2,1,1,0.2,0.2,0.4,2,2,14,18,77.8,1,14,0,4,0
+Morgan Sanson,8,fr FRA,"LM,FW",27-199,20,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,5,0,1,1
+Philippe Coutinho,23,br BRA,"AM,LW",29-266,80,1,1,0,0,4,2,0,0,43,0,1,1,0.9,0.9,1.0,5,2,30,34,88.2,7,33,2,4,2
+Emi Buendía,10,ar ARG,LW,25-070,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,5,0,1,0
+Jacob Ramsey,41,eng ENG,LM,20-281,76,0,0,0,0,1,0,0,0,39,3,1,2,0.2,0.2,0.0,1,0,22,27,81.5,2,21,0,2,1
+Leon Bailey,31,jm JAM,RW,24-208,14,0,0,0,0,1,0,0,0,6,1,0,0,0.1,0.1,0.0,0,0,1,1,100.0,1,4,0,0,0
+Douglas Luiz,6,br BRA,CM,23-300,90,1,0,0,0,3,2,0,0,56,2,1,1,0.6,0.6,0.0,1,0,37,44,84.1,2,19,0,0,0
+John McGinn,7,sct SCO,RM,27-138,90,0,0,0,0,0,0,0,0,32,0,1,1,0.0,0.0,0.3,5,1,14,22,63.6,3,21,1,1,1
+Ashley Young,18,eng ENG,LB,36-239,90,0,0,0,0,1,1,0,0,56,1,1,0,0.0,0.0,0.0,0,0,40,49,81.6,1,30,2,0,0
+Tyrone Mings,5,eng ENG,CB,28-357,90,0,0,0,0,0,0,0,0,44,0,4,0,0.0,0.0,0.0,0,0,27,39,69.2,1,21,0,0,0
+Calum Chambers,16,eng ENG,CB,27-044,90,0,0,0,0,0,0,0,0,54,1,0,2,0.0,0.0,0.0,2,1,27,42,64.3,2,28,0,0,0
+Matty Cash,2,pl POL,RB,24-210,90,0,1,0,0,0,0,0,0,60,3,1,2,0.0,0.0,0.2,3,1,26,49,53.1,5,31,3,1,1
+Emiliano Martínez,1,ar ARG,GK,29-184,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,21,31,67.7,0,13,0,0,0

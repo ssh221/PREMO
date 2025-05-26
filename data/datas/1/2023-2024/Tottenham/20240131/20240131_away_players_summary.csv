@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ivan Toney,17,eng ENG,FW,27-321,90,1,0,0,0,5,3,0,0,30,3,0,0,1.1,1.1,0.0,3,1,13,23,56.5,1,20,5,1,1
+Neal Maupay,7,fr FRA,FW,27-170,90,1,0,0,0,1,1,1,0,34,0,1,1,0.2,0.2,0.4,2,0,13,22,59.1,5,20,1,2,0
+Vitaly Janelt,27,de GER,CM,25-266,87,0,0,0,0,0,0,0,0,28,1,2,1,0.0,0.0,0.0,0,0,14,19,73.7,1,18,1,1,0
+Shandon Baptiste,26,gd GRN,CM,25-298,3,0,0,0,0,1,1,0,0,4,0,0,1,0.2,0.2,0.0,0,0,1,1,100.0,1,1,1,0,0
+Christian Nørgaard,6,dk DEN,CM,29-327,90,0,0,0,0,0,0,1,0,54,3,7,3,0.0,0.0,0.1,3,0,31,39,79.5,6,26,0,0,0
+Mathias Jensen,8,dk DEN,CM,28-030,56,0,0,0,0,0,0,0,0,38,3,3,0,0.0,0.0,0.1,3,0,16,26,61.5,1,14,1,2,1
+Yehor Yarmoliuk,33,ua UKR,CM,19-336,34,0,0,0,0,0,0,1,0,14,0,0,1,0.0,0.0,0.0,1,0,8,11,72.7,5,7,0,1,0
+Keane Lewis-Potter,23,eng ENG,WB,22-343,87,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.0,1,0,16,23,69.6,2,19,2,3,1
+Mikkel Damsgaard,24,dk DEN,WB,23-212,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0
+Mads Roerslev,30,dk DEN,WB,24-221,77,0,0,0,0,0,0,0,0,30,1,1,2,0.0,0.0,0.0,0,0,10,19,52.6,1,10,1,4,0
+Josh Dasilva,10,eng ENG,WB,25-100,13,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.2,1,0,6,13,46.2,2,11,2,3,1
+Ben Mee,16,eng ENG,CB,34-132,90,0,0,0,0,1,0,0,0,45,4,1,3,0.1,0.1,0.0,0,0,17,28,60.7,5,9,1,0,0
+Ethan Pinnock,5,jm JAM,CB,30-247,90,0,0,0,0,1,0,0,0,40,1,1,4,0.1,0.1,0.0,0,0,17,25,68.0,2,19,1,0,0
+Nathan Collins,22,ie IRL,CB,22-276,77,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,0,0,16,22,72.7,1,15,0,1,1
+Kristoffer Ajer,20,no NOR,CB,25-289,13,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,7,10,70.0,2,5,1,0,0
+Mark Flekken,1,nl NED,GK,30-232,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,18,35,51.4,0,19,0,0,0

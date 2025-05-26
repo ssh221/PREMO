@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,17,no NOR,"FW,LM",27-025,90,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,4,0,22,29,75.9,2,20,1,3,2
+Ryan Fraser,24,sct SCO,"LW,RM,LM",24-350,90,0,0,0,0,2,1,0,0,49,2,0,0,0.1,0.1,0.0,3,0,21,35,60.0,5,29,3,5,3
+Jordon Ibe,10,eng ENG,RW,23-063,58,0,0,0,0,1,0,0,0,27,0,0,0,0.0,0.0,0.0,2,0,13,18,72.2,3,18,2,5,2
+Dominic Solanke,29,eng ENG,FW,21-148,32,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,3,0,8,10,80.0,1,11,0,2,1
+Andrew Surman,6,eng ENG,CM,32-173,90,0,0,0,0,1,0,0,0,52,1,1,1,0.1,0.1,0.1,3,0,33,41,80.5,3,33,0,1,1
+Jefferson Lerma,8,co COL,CM,24-107,72,0,0,0,0,1,0,0,0,43,0,3,0,0.0,0.0,0.0,0,0,30,33,90.9,2,22,0,1,0
+Lys Mousset,9,fr FRA,FW,23-001,18,0,0,0,0,2,1,0,0,10,0,0,0,0.1,0.1,0.0,1,0,3,5,60.0,1,7,0,0,0
+Dan Gosling,4,eng ENG,"CM,RM",29-008,90,0,0,0,0,0,0,0,0,48,3,0,1,0.0,0.0,0.0,0,0,26,37,70.3,2,24,0,1,0
+Diego Rico,21,es ESP,LB,25-351,79,0,0,0,0,1,0,1,0,56,4,3,3,0.0,0.0,0.0,1,0,29,38,76.3,2,20,1,0,0
+Chris Mepham,33,wls WAL,CB,21-096,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,5,0,0,0
+Nathan Aké,5,nl NED,"CB,LB",23-356,90,0,0,0,0,1,0,0,0,42,1,4,0,0.0,0.0,0.0,1,0,25,33,75.8,1,19,0,0,0
+Steve Cook,3,eng ENG,CB,27-296,90,0,0,0,0,0,0,0,0,56,0,1,2,0.0,0.0,0.0,1,0,32,44,72.7,1,26,1,0,0
+Adam Smith,15,eng ENG,RB,27-286,90,0,0,0,0,2,0,1,0,52,1,2,1,0.1,0.1,0.0,1,0,29,35,82.9,3,30,3,6,2
+Artur Boruc,1,pl POL,GK,38-354,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,3,0,19,32,59.4,0,11,0,0,0

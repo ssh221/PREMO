@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Edinson Cavani,7,uy URU,FW,33-295,45,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,13,61.5,0,10,0,0,0
+Marcus Rashford,10,eng ENG,LW,23-035,45,1,0,0,0,4,1,0,0,24,0,0,1,1.0,1.0,0.1,3,1,16,17,94.1,1,15,5,4,3
+Anthony Martial,9,fr FRA,"LW,FW",25-000,61,0,0,0,0,2,1,0,0,33,0,0,2,0.1,0.1,0.0,2,0,18,22,81.8,0,20,1,2,0
+Juan Mata,8,es ESP,RW,32-221,29,0,1,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.5,2,1,15,17,88.2,2,11,1,0,0
+Mason Greenwood,11,eng ENG,"RW,FW",19-065,90,1,0,0,0,5,1,0,0,45,1,0,1,0.4,0.4,0.0,3,0,28,35,80.0,1,26,2,3,2
+Donny van de Beek,34,nl NED,AM,23-231,45,0,0,0,0,0,0,0,0,27,0,1,1,0.0,0.0,0.0,0,0,20,21,95.2,1,13,1,0,0
+Bruno Fernandes,18,pt POR,AM,26-088,45,0,1,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.9,9,2,33,43,76.7,7,28,0,0,0
+Paul Pogba,6,fr FRA,DM,27-265,90,1,0,0,0,2,2,0,0,116,0,1,3,0.1,0.1,0.0,3,0,91,104,87.5,8,73,2,2,1
+Scott McTominay,39,sct SCO,DM,23-363,90,0,0,0,0,1,0,0,0,90,2,1,2,0.1,0.1,0.0,0,0,71,79,89.9,5,61,1,0,0
+Alex Telles,27,br BRA,LB,27-356,90,0,1,0,0,0,0,0,0,72,0,2,0,0.0,0.0,0.1,3,1,57,65,87.7,9,31,1,0,0
+Harry Maguire,5,eng ENG,CB,27-275,90,0,0,0,0,1,1,0,0,92,0,3,0,0.0,0.0,0.0,2,0,69,81,85.2,2,54,0,0,0
+Victor Lindelöf,2,se SWE,CB,26-141,90,0,0,0,0,0,0,0,0,83,0,1,2,0.0,0.0,0.0,0,0,69,77,89.6,1,42,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,23-009,90,0,0,0,0,0,0,0,0,83,8,0,2,0.0,0.0,0.0,1,0,52,65,80.0,4,45,2,1,0
+Dean Henderson,26,eng ENG,GK,23-268,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,1,22,28,78.6,0,12,0,0,0

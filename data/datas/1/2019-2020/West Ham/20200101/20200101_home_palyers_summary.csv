@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sébastien Haller,22,ci CIV,FW,25-193,90,1,0,0,0,2,1,0,0,39,0,0,1,0.2,0.2,0.0,1,0,17,32,53.1,5,18,2,3,0
+Felipe Anderson,8,br BRA,FW,26-261,67,1,0,0,0,2,1,0,0,42,1,2,0,0.5,0.5,0.0,4,3,19,27,70.4,2,26,3,7,3
+Manuel Lanzini,10,ar ARG,FW,26-320,23,0,0,0,0,1,1,0,0,24,0,0,0,0.4,0.4,0.1,2,0,21,21,100.0,3,18,2,1,0
+Pablo Fornals,18,es ESP,LM,23-313,90,0,0,0,0,4,1,0,0,65,2,2,2,0.2,0.2,0.0,2,0,35,47,74.5,4,27,1,2,1
+Mark Noble,16,eng ENG,CM,32-238,90,2,0,1,1,1,1,0,0,71,2,2,1,0.9,0.1,0.0,3,1,49,57,86.0,3,36,0,1,1
+Declan Rice,41,eng ENG,CM,20-352,90,0,1,0,0,0,0,0,0,69,5,0,0,0.0,0.0,0.5,2,1,55,61,90.2,8,36,0,3,2
+Robert Snodgrass,11,sct SCO,RM,32-116,82,0,1,0,0,0,0,0,0,43,2,0,1,0.0,0.0,0.3,7,2,25,35,71.4,5,18,3,1,1
+Arthur Masuaku,26,cd COD,RM,26-055,8,0,0,0,0,1,1,0,0,19,0,0,0,0.0,0.0,0.0,1,0,16,17,94.1,1,14,1,1,0
+Aaron Cresswell,3,eng ENG,LB,30-017,90,0,0,0,0,1,0,1,0,69,2,0,1,0.1,0.1,0.1,2,0,42,59,71.2,6,31,2,2,1
+Angelo Ogbonna,21,it ITA,CB,31-223,90,0,0,0,0,1,0,0,0,49,4,0,2,0.1,0.1,0.0,0,0,30,37,81.1,0,16,0,0,0
+Fabián Balbuena,4,py PAR,CB,28-131,90,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,0,0,25,33,75.8,1,16,0,0,0
+Ryan Fredericks,24,eng ENG,RB,27-083,90,0,1,0,0,0,0,0,0,47,4,1,1,0.0,0.0,0.5,2,1,28,39,71.8,5,19,0,2,1
+Łukasz Fabiański,1,pl POL,GK,34-258,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,10,24,41.7,0,15,0,0,0

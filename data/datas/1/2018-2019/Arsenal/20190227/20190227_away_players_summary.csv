@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lys Mousset,9,fr FRA,FW,23-019,90,1,0,0,0,1,1,0,0,33,1,1,0,0.3,0.3,0.0,2,0,16,20,80.0,2,17,0,0,0
+Joshua King,17,no NOR,"FW,AM",27-043,90,0,0,0,0,3,1,1,0,39,4,1,2,0.2,0.2,0.1,4,0,19,26,73.1,2,28,3,4,3
+Ryan Fraser,24,sct SCO,"LM,AM",25-003,79,0,0,0,0,2,2,0,0,35,1,0,1,0.1,0.1,0.0,3,0,22,28,78.6,0,23,2,0,0
+Sam Surridge,44,eng ENG,AM,20-214,11,0,0,0,0,1,0,0,0,5,1,0,0,0.1,0.1,0.0,1,0,2,3,66.7,0,5,0,0,0
+Andrew Surman,6,eng ENG,CM,32-191,90,0,0,0,0,0,0,0,0,67,1,2,2,0.0,0.0,0.0,2,0,49,58,84.5,5,31,1,0,0
+Dan Gosling,4,eng ENG,CM,29-026,90,0,1,0,0,3,1,0,0,51,3,0,3,0.1,0.1,0.3,3,2,30,40,75.0,4,34,0,3,2
+Jordon Ibe,10,eng ENG,RM,23-081,55,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,9,11,81.8,1,17,4,0,0
+Charlie Daniels,11,eng ENG,CB,32-173,35,0,0,0,0,1,0,1,0,17,0,0,0,0.0,0.0,0.0,1,0,13,15,86.7,0,13,0,1,0
+Adam Smith,15,eng ENG,"LB,WB",27-304,69,0,0,0,0,0,0,0,0,52,3,2,1,0.0,0.0,0.1,2,0,30,34,88.2,4,26,2,1,1
+Diego Rico,21,es ESP,WB,26-004,21,0,0,0,0,1,0,0,0,21,0,0,2,0.1,0.1,0.0,3,0,10,17,58.8,3,7,1,0,0
+Nathan Aké,5,nl NED,CB,24-009,90,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,0,0,25,31,80.6,1,20,0,0,0
+Chris Mepham,33,wls WAL,CB,21-114,90,0,0,0,0,0,0,0,0,46,0,1,4,0.0,0.0,0.0,0,0,31,36,86.1,2,28,1,0,0
+Nathaniel Clyne,23,eng ENG,"RB,WB",27-328,90,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.1,1,0,34,44,77.3,2,27,1,0,0
+Artur Boruc,1,pl POL,GK,39-007,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,11,22,50.0,0,13,0,0,0

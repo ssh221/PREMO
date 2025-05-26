@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kelechi Iheanacho,14,ng NGA,FW,25-084,90,1,2,0,0,3,3,0,0,20,0,0,0,1.0,1.0,0.9,4,2,10,12,83.3,4,15,2,0,0
+James Maddison,10,eng ENG,"RM,FW",25-033,90,1,0,0,0,6,3,1,0,33,0,1,0,0.6,0.6,0.3,7,3,21,25,84.0,4,25,4,3,3
+Ademola Lookman,37,ng NGA,LM,24-067,90,1,0,0,0,1,1,0,0,30,3,2,1,0.5,0.5,0.1,5,0,12,16,75.0,2,21,4,5,5
+Kiernan Dewsbury-Hall,22,eng ENG,CM,23-111,90,0,0,0,0,1,0,0,0,51,2,1,1,0.1,0.1,0.0,3,0,33,38,86.8,5,33,1,2,2
+Youri Tielemans,8,be BEL,CM,24-233,70,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.1,1,0,25,28,89.3,1,17,0,0,0
+Hamza Choudhury,20,bd BAN,CM,24-086,20,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,6,6,100.0,1,7,0,0,0
+Ayoze Pérez,17,es ESP,RM,28-150,45,0,0,0,0,1,1,0,0,8,0,0,1,0.1,0.1,0.0,1,0,4,5,80.0,0,4,2,1,1
+Timothy Castagne,27,be BEL,CB,26-021,45,0,0,0,0,0,0,0,0,23,0,1,1,0.0,0.0,0.0,0,0,18,20,90.0,1,16,0,0,0
+Luke Thomas,33,eng ENG,LB,20-199,90,0,0,0,0,0,0,0,0,43,4,1,2,0.0,0.0,0.4,2,0,22,30,73.3,2,24,1,1,0
+Jannik Vestergaard,23,dk DEN,CB,29-145,90,0,0,0,0,0,0,1,0,47,3,0,1,0.0,0.0,0.0,1,0,33,37,89.2,2,31,0,1,1
+Daniel Amartey,18,gh GHA,CB,27-005,90,0,0,0,0,0,0,0,0,51,0,1,2,0.0,0.0,0.0,0,0,39,41,95.1,0,40,0,0,0
+Marc Albrighton,11,eng ENG,RB,32-038,90,0,0,0,0,2,0,0,0,31,2,1,0,0.4,0.4,0.0,2,0,14,19,73.7,2,22,0,1,0
+Kasper Schmeichel,1,dk DEN,GK,35-051,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,17,0,0,0

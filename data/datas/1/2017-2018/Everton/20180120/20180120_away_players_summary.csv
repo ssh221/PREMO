@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Salomón Rondón,9,ve VEN,FW,28-126,90,0,0,0,0,8,2,0,0,56,1,0,2,0.4,0.4,0.0,4,1,25,35,71.4,3,33,2,3,2
+Jay Rodriguez,19,eng ENG,FW,28-175,78,1,0,0,0,1,1,0,0,32,1,0,0,0.4,0.4,0.1,2,0,18,24,75.0,3,20,1,0,0
+James McClean,14,ie IRL,FW,28-273,12,0,0,0,0,0,0,0,0,12,2,1,0,0.0,0.0,0.0,1,0,2,7,28.6,0,3,0,0,0
+Chris Brunt,11,nir NIR,LM,33-037,78,0,0,0,0,0,0,0,0,41,1,0,3,0.0,0.0,0.1,3,0,20,35,57.1,4,20,2,1,1
+Jake Livermore,8,eng ENG,LM,28-067,12,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,2,0,0,0
+Gareth Barry,18,eng ENG,CM,36-331,90,0,0,0,0,0,0,0,0,46,2,1,1,0.0,0.0,0.0,1,0,19,36,52.8,2,19,0,1,1
+Grzegorz Krychowiak,20,pl POL,CM,27-356,90,0,1,0,0,3,1,0,0,49,1,1,2,0.1,0.1,0.4,4,1,20,35,57.1,6,23,2,2,2
+Matt Phillips,10,sct SCO,RM,26-313,90,0,0,0,0,3,1,0,0,44,0,1,4,0.2,0.2,0.1,2,0,17,25,68.0,1,25,2,2,2
+Kieran Gibbs,3,eng ENG,LB,28-116,90,0,0,0,0,0,0,0,0,76,3,3,0,0.0,0.0,0.1,3,0,47,67,70.1,3,21,2,0,0
+Ahmed Hegazi,26,eg EGY,CB,26-360,90,0,0,0,0,0,0,0,0,40,1,2,2,0.0,0.0,0.1,1,0,21,29,72.4,0,12,0,0,0
+Jonny Evans,6,nir NIR,CB,30-017,79,0,0,0,0,0,0,0,0,32,0,3,4,0.0,0.0,0.0,1,0,14,23,60.9,0,10,1,0,0
+Gareth McAuley,23,nir NIR,CB,38-046,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,1,2,0,0,0
+Craig Dawson,25,eng ENG,RB,27-259,90,0,0,0,0,0,0,1,0,54,1,3,1,0.0,0.0,0.0,1,0,28,45,62.2,3,12,0,0,0
+Ben Foster,1,eng ENG,GK,34-292,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,18,37,48.6,0,19,0,0,0

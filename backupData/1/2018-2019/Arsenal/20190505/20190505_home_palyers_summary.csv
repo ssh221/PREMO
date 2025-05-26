@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,FW,29-321,90,1,0,1,1,4,2,0,0,38,0,0,1,1.5,0.7,0.1,2,0,19,27,70.4,3,26,6,5,3
+Alexandre Lacazette,9,fr FRA,FW,27-342,90,0,0,0,0,7,1,0,0,47,2,0,1,0.6,0.6,0.0,5,0,19,28,67.9,2,25,3,8,4
+Mesut Özil,10,de GER,AM,30-202,90,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.2,7,0,57,66,86.4,12,44,7,3,3
+Henrikh Mkhitaryan,7,am ARM,LM,30-104,76,0,0,0,0,2,1,0,0,60,0,1,0,0.1,0.1,0.3,5,0,45,52,86.5,6,33,6,1,1
+Mattéo Guendouzi,29,fr FRA,CM,20-021,14,0,0,0,0,0,0,1,0,20,0,0,2,0.0,0.0,0.0,2,0,13,18,72.2,5,11,3,0,0
+Granit Xhaka,34,ch SUI,CM,26-220,76,0,0,0,0,2,0,1,0,112,2,0,1,0.1,0.1,0.2,7,0,85,106,80.2,17,50,3,0,0
+Alex Iwobi,17,ng NGA,WB,23-002,14,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,6,16,37.5,1,13,5,1,0
+Lucas Torreira,11,uy URU,"RM,CM",23-083,90,0,0,0,0,2,0,0,0,65,2,2,0,0.0,0.0,0.0,2,0,48,51,94.1,9,39,4,0,0
+Nacho Monreal,18,es ESP,"LB,CB",33-068,90,0,0,0,0,0,0,0,0,62,0,2,0,0.0,0.0,0.0,4,2,44,54,81.5,5,24,1,2,2
+Sokratis Papastathopoulos,5,gr GRE,CB,30-330,90,0,0,0,0,0,0,1,0,76,3,1,1,0.0,0.0,0.0,1,0,59,64,92.2,3,36,0,1,1
+Shkodran Mustafi,20,de GER,CB,27-018,90,0,0,0,0,2,2,1,0,84,1,0,1,0.1,0.1,0.0,1,0,62,72,86.1,9,42,6,2,1
+Stephan Lichtsteiner,12,ch SUI,RB,35-109,76,0,0,0,0,0,0,1,0,51,1,2,0,0.0,0.0,0.0,0,0,36,45,80.0,3,22,2,0,0
+Sead Kolašinac,31,ba BIH,WB,25-319,14,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,1,0,8,10,80.0,0,3,1,0,0
+Bernd Leno,19,de GER,GK,27-062,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,2,13,0,0,0

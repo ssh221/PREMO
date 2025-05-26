@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Fábio Silva,17,pt POR,FW,18-288,90,1,0,0,0,4,4,0,0,28,0,1,0,0.2,0.2,0.0,2,0,14,18,77.8,2,12,1,0,0
+Adama Traoré,37,es ESP,"LW,RW",25-098,90,0,0,0,0,3,2,0,0,38,0,0,1,0.1,0.1,0.1,2,0,19,25,76.0,0,33,7,6,3
+Owen Otasowie,54,us USA,RW,20-117,70,0,0,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.0,2,1,11,18,61.1,0,23,2,4,2
+Daniel Podence,10,pt POR,LW,25-194,20,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.1,1,0,5,8,62.5,2,8,1,0,0
+Vitinha,20,pt POR,AM,21-079,79,0,0,0,0,1,1,0,0,78,1,1,2,0.0,0.0,0.2,9,1,57,69,82.6,3,45,2,4,3
+Morgan Gibbs-White,18,eng ENG,AM,21-096,11,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,1,0,4,9,44.4,1,7,0,0,0
+Rúben Neves,8,pt POR,DM,24-051,90,0,0,0,0,4,0,0,0,85,6,1,1,0.1,0.1,0.1,7,0,63,72,87.5,8,43,1,0,0
+Leander Dendoncker,32,be BEL,DM,26-018,90,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.0,0,0,33,43,76.7,1,20,0,0,0
+Rayan Aït-Nouri,3,dz ALG,LB,19-331,81,0,0,0,0,2,1,0,0,62,2,1,0,0.1,0.1,0.1,6,0,44,46,95.7,8,32,5,5,3
+Max Kilman,49,eng ENG,LB,23-345,9,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,1,1,0,0
+Romain Saïss,27,ma MAR,CB,31-038,90,0,0,0,0,2,1,0,0,57,0,0,1,0.1,0.1,0.0,1,0,32,50,64.0,3,27,0,0,0
+Conor Coady,16,eng ENG,CB,28-067,90,0,0,0,0,0,0,0,0,56,2,1,0,0.0,0.0,0.0,1,0,38,48,79.2,5,28,0,1,1
+Nélson Semedo,22,pt POR,RB,27-168,90,0,0,0,0,1,1,0,0,85,5,2,1,0.1,0.1,0.0,2,0,48,73,65.8,4,38,5,1,1
+Rui Patrício,11,pt POR,GK,33-077,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,13,0,0,0

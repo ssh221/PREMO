@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Odsonne Édouard,22,fr FRA,FW,25-327,45,0,0,0,0,0,0,0,0,12,2,1,1,0.0,0.0,0.0,0,0,3,3,100.0,0,5,0,2,1
+Jean-Philippe Mateta,14,fr FRA,FW,26-164,45,1,0,1,1,1,0,0,0,12,0,0,0,0.9,0.1,0.1,2,1,5,6,83.3,0,9,1,1,0
+Jeffrey Schlupp,15,gh GHA,LW,30-351,83,0,0,0,0,2,1,0,0,29,3,2,0,0.1,0.1,0.0,2,0,11,15,73.3,3,14,2,2,1
+Naouirou Ahamada,29,fr FRA,LM,21-255,7,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,1,0
+Jordan Ayew,9,gh GHA,"RW,LM",32-089,74,0,0,0,0,0,0,2,1,25,2,0,2,0.0,0.0,0.5,1,0,6,11,54.5,0,16,1,3,1
+Jefferson Lerma,8,co COL,LM,29-045,67,0,0,0,0,3,1,1,0,38,1,0,1,0.5,0.5,0.0,1,0,18,28,64.3,3,16,0,0,0
+Michael Olise,7,fr FRA,"RM,RW",21-362,23,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.3,3,0,5,11,45.5,0,8,0,2,0
+Chris Richards,26,us USA,CM,23-256,90,0,0,0,0,0,0,1,0,30,4,1,2,0.0,0.0,0.0,1,0,9,15,60.0,1,5,0,0,0
+Will Hughes,19,eng ENG,"RM,CM",28-236,89,0,0,0,0,0,0,0,0,36,3,0,4,0.0,0.0,0.1,4,1,15,24,62.5,3,10,1,0,0
+David Ozoh,52,eng ENG,CM,18-192,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Nathaniel Clyne,17,eng ENG,LB,32-248,90,0,0,0,0,0,0,0,0,26,0,0,2,0.0,0.0,0.0,0,0,13,19,68.4,2,11,1,2,1
+Marc Guéhi,6,eng ENG,CB,23-149,90,0,0,0,0,0,0,0,0,28,2,1,0,0.0,0.0,0.0,0,0,13,19,68.4,1,9,1,1,0
+Joachim Andersen,16,dk DEN,CB,27-192,90,0,0,0,0,1,1,1,0,29,2,0,2,0.2,0.2,0.0,1,0,11,20,55.0,2,14,0,1,1
+Joel Ward,2,eng ENG,RB,34-041,90,0,0,0,0,0,0,1,0,38,3,0,0,0.0,0.0,0.0,0,0,13,26,50.0,3,7,0,1,1
+Sam Johnstone,1,eng ENG,GK,30-259,86,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,5,24,20.8,0,8,0,0,0
+Remi Matthews,31,eng ENG,GK,29-302,4,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,0,5,0.0,0,2,0,0,0

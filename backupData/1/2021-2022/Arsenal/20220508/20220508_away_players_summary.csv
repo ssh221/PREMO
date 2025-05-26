@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joe Gelhardt,30,eng ENG,FW,20-004,28,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,0,0,0,0
+Pascal Struijk,21,nl NED,CB,22-270,62,0,0,0,0,0,0,0,0,37,3,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,10,0,0,0
+Jack Harrison,22,eng ENG,"CM,LW",25-169,90,0,0,0,0,0,0,0,0,38,3,0,1,0.0,0.0,0.0,0,0,14,27,51.9,0,25,2,6,2
+Raphinha,10,br BRA,"RB,RW",25-145,59,0,0,0,0,0,0,1,0,32,1,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,15,1,1,0
+Rodrigo,19,es ESP,FW,31-063,31,0,0,0,0,1,1,0,0,8,0,0,1,0.1,0.1,0.0,1,0,5,6,83.3,1,5,0,0,0
+Daniel James,20,wls WAL,"RB,FW,AM",24-179,90,0,0,0,0,0,0,0,0,26,4,0,2,0.0,0.0,0.0,0,0,10,15,66.7,2,17,1,1,0
+Kalvin Phillips,23,eng ENG,"CM,DM",26-157,90,0,0,0,0,1,0,0,0,47,5,0,0,0.0,0.0,0.0,3,1,35,39,89.7,2,13,1,0,0
+Mateusz Klich,43,pl POL,"DM,CM",31-329,45,0,0,0,0,0,0,1,0,32,1,0,0,0.0,0.0,0.0,0,0,22,28,78.6,1,22,0,0,0
+Lewis Bate,26,eng ENG,CM,19-191,45,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,16,23,69.6,4,13,0,0,0
+Junior Firpo,3,do DOM,LB,25-259,90,0,1,0,0,0,0,0,0,53,5,1,1,0.0,0.0,0.3,2,1,29,41,70.7,1,17,1,2,0
+Diego Llorente,14,es ESP,CB,28-265,90,1,0,0,0,1,1,0,0,51,1,1,1,0.2,0.2,0.0,0,0,38,41,92.7,0,30,0,0,0
+Robin Koch,5,de GER,CB,25-295,90,0,0,0,0,0,0,0,0,57,0,0,3,0.0,0.0,0.0,0,0,41,47,87.2,0,22,0,1,0
+Luke Ayling,2,eng ENG,RB,30-256,26,0,0,0,0,0,0,0,1,23,1,0,0,0.0,0.0,0.0,0,0,19,21,90.5,0,13,0,0,0
+Illan Meslier,1,fr FRA,GK,22-067,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,23,36,63.9,0,23,0,0,0

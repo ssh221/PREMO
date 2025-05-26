@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ivan Perišić,14,hr CRO,"FW,LB,WB",33-277,90,0,0,0,0,3,1,0,0,54,2,0,2,0.4,0.4,0.5,5,0,23,45,51.1,2,22,6,1,1
+Harry Kane,10,eng ENG,FW,29-101,90,1,0,0,0,3,1,0,0,31,0,0,2,0.1,0.1,0.1,1,0,12,18,66.7,0,14,0,1,0
+Pierre Højbjerg,5,dk DEN,CM,27-093,90,0,0,0,0,1,1,0,0,69,0,3,2,0.1,0.1,0.0,3,0,49,60,81.7,8,35,2,0,0
+Yves Bissouma,38,ml MLI,CM,26-068,87,0,0,0,0,1,0,0,0,70,2,1,4,0.0,0.0,0.0,2,0,51,57,89.5,4,35,2,2,2
+Lucas Moura,27,br BRA,AM,30-085,3,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0
+Rodrigo Bentancur,30,uy URU,CM,25-134,90,0,0,0,0,1,1,0,0,65,4,1,0,0.1,0.1,0.0,3,0,51,56,91.1,6,33,1,4,4
+Ryan Sessegnon,19,eng ENG,LB,22-172,67,0,0,0,0,3,0,0,0,38,0,0,1,0.1,0.1,0.1,2,0,18,29,62.1,2,13,2,3,1
+Dejan Kulusevski,21,se SWE,"FW,AM",22-195,23,0,1,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,1,9,13,69.2,2,13,0,0,0
+Ben Davies,33,wls WAL,CB,29-196,90,0,0,0,0,0,0,0,0,69,1,2,2,0.0,0.0,0.0,1,0,46,58,79.3,8,40,0,1,0
+Clément Lenglet,34,fr FRA,CB,27-142,90,0,0,0,0,1,0,0,0,88,1,0,1,0.2,0.2,0.0,1,0,71,79,89.9,4,62,1,1,0
+Eric Dier,15,eng ENG,CB,28-295,90,0,0,0,0,1,1,0,0,93,2,3,2,0.1,0.1,0.1,2,0,73,79,92.4,14,52,2,1,1
+Emerson,12,br BRA,RB,23-296,67,0,0,0,0,0,0,0,0,50,2,1,2,0.0,0.0,0.0,2,0,28,40,70.0,4,26,5,0,0
+Matt Doherty,2,ie IRL,"RB,WB",30-294,23,0,0,0,0,0,0,0,0,27,0,2,0,0.0,0.0,0.0,2,1,15,19,78.9,3,13,1,1,0
+Hugo Lloris,1,fr FRA,GK,35-315,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,11,19,57.9,0,8,0,0,0

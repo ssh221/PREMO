@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-021,90,0,0,0,0,3,1,0,0,39,1,0,0,0.1,0.1,0.1,5,0,23,34,67.6,1,11,0,0,0
+André Schürrle,14,de GER,LW,27-335,90,1,0,0,0,7,2,1,0,39,1,0,2,0.5,0.5,0.0,2,0,19,23,82.6,2,28,2,1,0
+Luciano Vietto,19,ar ARG,"RW,AM",24-306,82,0,1,0,0,2,1,1,0,38,2,0,1,0.1,0.1,0.5,6,1,25,30,83.3,8,22,5,0,0
+Stefan Johansen,8,no NOR,"DM,AM",27-272,8,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,3,0,0,0
+Ryan Sessegnon,3,eng ENG,"LM,LB",18-142,90,0,0,0,0,1,0,0,0,57,1,1,0,0.1,0.1,0.1,5,0,31,43,72.1,9,25,2,0,0
+Jean Seri,24,ci CIV,"CM,DM,AM",27-080,90,0,0,0,0,1,0,0,0,76,2,0,1,0.0,0.0,0.0,6,0,56,71,78.9,4,29,1,0,0
+Andre-Frank Zambo Anguissa,29,cm CMR,"CM,DM",22-325,61,0,0,0,0,4,0,0,0,59,1,3,2,0.1,0.1,0.0,2,1,35,41,85.4,6,20,0,2,1
+Kevin McDonald,6,sct SCO,DM,29-337,29,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,17,21,81.0,3,10,0,0,0
+Cyrus Christie,22,ie IRL,"RM,RB",26-007,90,0,0,0,0,1,0,0,0,63,2,1,0,0.0,0.0,0.5,7,0,37,52,71.2,5,33,3,1,0
+Maxime Le Marchand,20,fr FRA,CB,28-361,90,0,0,0,0,0,0,0,0,73,2,3,1,0.0,0.0,0.0,1,0,55,61,90.2,8,26,1,1,1
+Tim Ream,13,us USA,CB,31-002,53,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,1,7,0,0,0
+Aboubakar Kamara,47,mr MTN,RW,23-214,37,0,0,0,0,2,0,0,0,16,0,0,0,0.4,0.4,0.0,1,0,6,9,66.7,0,10,1,1,0
+Denis Odoi,4,gh GHA,CB,30-133,90,0,0,0,0,0,0,0,0,71,3,2,1,0.0,0.0,0.0,1,0,46,61,75.4,7,27,1,2,1
+Marcus Bettinelli,1,eng ENG,GK,26-136,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,27,35,77.1,0,13,0,0,0

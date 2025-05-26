@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gonzalo Higuaín,9,ar ARG,FW,31-051,64,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,17,22,77.3,2,25,0,1,1
+Olivier Giroud,18,fr FRA,FW,32-122,26,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,2,0,7,7,100.0,0,4,0,0,0
+Eden Hazard,10,be BEL,LW,28-023,90,0,0,0,0,3,2,0,0,78,0,0,0,0.1,0.1,0.2,6,0,55,71,77.5,13,59,3,2,1
+Pedro,11,es ESP,RW,31-186,60,0,0,0,0,2,2,0,0,62,0,0,0,0.1,0.1,0.3,3,0,46,57,80.7,6,59,2,4,3
+Willian,22,br BRA,RW,30-174,30,0,0,0,0,1,0,0,0,32,1,2,0,0.0,0.0,0.0,1,0,14,25,56.0,2,21,3,0,0
+Mateo Kovačić,17,hr CRO,LM,24-269,76,0,0,0,0,2,1,0,0,68,1,0,0,0.3,0.3,0.0,1,0,55,57,96.5,1,55,2,5,3
+Ruben Loftus-Cheek,12,eng ENG,LM,23-007,14,0,0,0,0,1,0,0,0,12,0,1,0,0.0,0.0,0.0,1,0,7,8,87.5,0,8,0,1,0
+Jorginho,5,it ITA,CM,27-041,90,0,0,0,0,0,0,0,0,70,2,4,0,0.0,0.0,0.0,1,0,51,60,85.0,5,48,0,0,0
+N'Golo Kanté,7,fr FRA,RM,27-307,90,0,0,0,0,0,0,0,0,92,3,0,2,0.0,0.0,0.0,2,0,79,85,92.9,9,71,2,0,0
+Emerson Palmieri,33,it ITA,LB,24-180,90,0,0,0,0,0,0,0,0,71,3,1,4,0.0,0.0,0.0,1,0,48,58,82.8,5,46,4,2,2
+David Luiz,30,br BRA,CB,31-283,90,0,0,0,0,0,0,0,0,87,2,0,1,0.0,0.0,0.0,1,0,64,75,85.3,8,66,1,1,0
+Antonio Rüdiger,2,de GER,CB,25-333,90,0,0,0,0,0,0,0,0,119,0,0,2,0.0,0.0,0.0,0,0,107,115,93.0,13,105,2,1,1
+César Azpilicueta,28,es ESP,RB,29-155,90,0,0,0,0,2,2,0,0,112,1,1,2,0.1,0.1,0.0,2,0,87,105,82.9,8,84,1,1,0
+Kepa Arrizabalaga,1,es ESP,GK,24-119,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,31,33,93.9,0,29,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,28-177,90,0,0,0,0,3,0,0,0,36,0,0,3,0.2,0.2,0.0,0,0,14,21,66.7,2,19,0,2,1
+Manor Solomon,11,il ISR,LW,23-231,74,0,0,0,0,1,0,0,0,31,5,0,0,0.0,0.0,0.1,1,0,21,24,87.5,0,18,0,4,3
+Daniel James,21,wls WAL,LW,25-122,16,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,1,0
+Bobby De Cordova-Reid,14,jm JAM,"RW,AM",30-038,90,0,0,0,0,1,1,0,0,36,0,0,0,0.1,0.1,0.0,4,0,24,29,82.8,1,20,1,5,3
+Andreas Pereira,18,br BRA,AM,27-070,75,0,0,0,0,4,0,0,0,45,0,0,0,0.4,0.4,0.1,6,0,23,38,60.5,6,28,2,5,2
+Harry Wilson,8,wls WAL,RW,25-355,15,0,0,0,0,1,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0
+Saša Lukić,28,rs SRB,DM,26-211,90,0,0,0,0,0,0,0,0,59,1,0,3,0.0,0.0,0.0,2,0,48,54,88.9,4,36,1,0,0
+Harrison Reed,6,eng ENG,DM,28-044,90,0,0,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.3,3,0,36,42,85.7,3,24,1,1,0
+Antonee Robinson,33,us USA,LB,25-216,90,0,0,0,0,0,0,0,0,62,2,4,3,0.0,0.0,0.1,1,0,35,49,71.4,2,29,0,1,0
+Tim Ream,13,us USA,CB,35-158,90,0,0,0,0,0,0,0,0,84,1,1,2,0.0,0.0,0.0,1,0,67,77,87.0,4,57,1,2,1
+Tosin Adarabioyo,4,eng ENG,CB,25-169,90,0,0,0,0,1,1,0,0,68,1,1,1,0.1,0.1,0.0,2,0,52,60,86.7,4,41,1,0,0
+Kenny Tete,2,nl NED,RB,27-154,90,0,0,0,0,1,0,0,0,51,2,1,2,0.0,0.0,0.0,0,0,32,42,76.2,1,22,2,1,0
+Bernd Leno,17,de GER,GK,31-008,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,33,84.8,0,24,0,0,0

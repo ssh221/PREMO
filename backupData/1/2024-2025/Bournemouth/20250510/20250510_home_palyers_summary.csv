@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Evanilson,9,br BRA,FW,25-216,90,0,0,0,0,2,2,0,0,21,0,0,1,0.1,0.1,0.0,0,0,9,10,90.0,1,14,0,1,0
+Antoine Semenyo,24,gh GHA,"LW,RW",25-123,90,0,0,0,0,2,1,0,0,53,0,0,2,0.1,0.1,0.0,4,0,31,43,72.1,1,27,4,6,3
+Marcus Tavernier,16,eng ENG,"RW,LW,LB",26-049,90,0,0,0,0,1,0,0,0,65,1,0,0,0.0,0.0,0.1,3,0,41,56,73.2,7,31,8,2,2
+Lewis Cook,4,eng ENG,"AM,DM,RB",28-096,90,0,0,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.0,1,0,34,43,79.1,2,11,0,1,1
+Tyler Adams,12,us USA,DM,26-085,75,0,0,0,0,0,0,0,0,76,3,0,0,0.0,0.0,0.0,1,0,60,68,88.2,4,36,1,0,0
+Marcos Senesi,5,ar ARG,CB,28-000,15,0,0,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,7,10,70.0,3,5,0,0,0
+Alex Scott,8,eng ENG,DM,21-262,45,0,0,0,0,1,0,1,0,27,1,0,0,0.0,0.0,0.0,1,0,21,23,91.3,3,10,0,0,0
+Justin Kluivert,19,nl NED,AM,26-005,45,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,2,0,17,22,77.3,5,17,3,2,2
+Milos Kerkez,3,hu HUN,LB,21-184,87,0,0,0,0,1,0,0,0,52,2,2,0,0.0,0.0,0.0,1,0,35,46,76.1,6,24,2,1,1
+Daniel Jebbison,21,eng ENG,LW,21-270,3,0,0,0,0,1,0,0,0,3,0,0,0,0.5,0.5,0.0,0,0,2,2,100.0,0,1,0,0,0
+Dean Huijsen,2,es ESP,CB,20-026,90,0,0,0,0,0,0,1,0,107,3,1,0,0.0,0.0,0.0,2,0,77,91,84.6,12,47,4,0,0
+Illia Zabarnyi,27,ua UKR,"CB,RB",22-251,87,0,0,0,0,1,1,1,0,57,2,1,0,0.0,0.0,0.0,0,0,38,43,88.4,1,24,1,0,0
+Julian Araujo,22,mx MEX,RB,23-270,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0
+Adam Smith,15,eng ENG,RB,34-011,69,0,0,0,0,0,0,1,0,36,1,0,0,0.0,0.0,0.0,0,0,19,28,67.9,3,13,0,1,0
+David Brooks,7,wls WAL,DM,27-306,21,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.1,4,0,23,24,95.8,7,15,4,0,0
+Kepa Arrizabalaga,13,es ESP,GK,30-219,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,0,15,0,0,0

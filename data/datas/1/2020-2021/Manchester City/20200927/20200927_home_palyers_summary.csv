@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Raheem Sterling,7,eng ENG,"FW,LW",25-294,90,0,0,0,0,3,1,0,0,38,3,0,1,0.3,0.3,0.0,2,1,20,27,74.1,1,21,2,3,0
+Phil Foden,47,eng ENG,"LW,LM",20-122,63,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,16,17,94.1,1,8,0,1,1
+Ferrán Torres,21,es ESP,RW,20-211,27,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,13,18,72.2,0,12,0,4,1
+Riyad Mahrez,26,dz ALG,"RW,LM",29-219,90,1,1,0,0,3,1,0,0,62,0,0,0,0.1,0.1,0.2,4,1,43,56,76.8,7,37,1,0,0
+Kevin De Bruyne,17,be BEL,"AM,RM",29-091,90,0,0,0,0,2,0,0,0,76,1,0,0,0.1,0.1,0.2,7,0,45,66,68.2,5,50,5,5,2
+Rodri,16,es ESP,"DM,CM",24-097,90,0,0,0,0,1,0,0,0,90,3,2,0,0.0,0.0,0.0,3,1,77,82,93.9,12,54,2,1,1
+Fernandinho,25,br BRA,DM,35-146,50,0,0,0,0,2,1,0,0,79,2,0,0,0.2,0.2,0.0,2,0,68,74,91.9,15,55,3,0,0
+Liam Delap,48,eng ENG,FW,17-232,40,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,5,6,83.3,0,5,0,0,0
+Benjamin Mendy,22,fr FRA,LB,26-072,90,0,0,0,0,0,0,0,0,76,1,0,0,0.0,0.0,0.0,1,0,59,72,81.9,3,37,2,0,0
+Nathan Aké,6,nl NED,CB,25-222,90,1,0,0,0,1,1,1,0,111,0,2,0,0.1,0.1,0.0,2,1,101,107,94.4,11,83,0,0,0
+Eric García,50,es ESP,CB,19-262,90,0,0,0,0,0,0,0,0,104,2,3,0,0.0,0.0,0.0,2,0,94,97,96.9,12,79,5,0,0
+Kyle Walker,2,eng ENG,RB,30-122,90,0,0,0,0,2,1,0,0,105,0,1,1,0.0,0.0,0.0,3,0,87,98,88.8,2,58,6,2,2
+Ederson,31,br BRA,GK,27-041,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,15,15,100.0,0,11,0,0,0

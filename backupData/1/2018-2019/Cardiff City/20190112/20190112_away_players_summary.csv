@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Steve Mounié,24,bj BEN,FW,24-105,86,0,0,0,0,3,1,0,0,40,0,0,0,0.1,0.1,0.1,1,0,14,28,50.0,2,12,1,2,2
+Laurent Depoitre,20,be BEL,FW,30-036,4,0,0,0,0,1,1,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0
+Alex Pritchard,21,eng ENG,AM,25-254,72,0,0,0,0,2,0,0,0,53,1,0,2,0.1,0.1,0.1,8,0,23,42,54.8,1,27,6,2,1
+Isaac Mbenza,18,be BEL,"RM,AM",22-310,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,1,7,0,0,0
+Elias Kachunga,9,cd COD,AM,26-265,90,0,0,0,0,3,0,0,0,41,1,0,1,0.1,0.1,0.0,1,0,15,28,53.6,3,21,3,2,1
+Philip Billing,8,dk DEN,LM,22-215,90,0,0,0,0,1,0,0,0,77,3,1,2,0.1,0.1,0.1,3,0,41,64,64.1,6,27,3,1,1
+Jonathan Hogg,6,eng ENG,CM,30-037,90,0,0,0,0,0,0,0,0,68,2,2,2,0.0,0.0,0.0,2,0,49,62,79.0,6,38,0,1,1
+Jason Puncheon,42,eng ENG,"RM,AM",32-208,90,0,0,0,0,3,0,0,0,75,1,0,0,0.1,0.1,0.1,4,0,45,60,75.0,8,40,3,3,1
+Erik Durm,37,de GER,LB,26-245,90,0,0,0,0,0,0,0,0,54,1,4,4,0.0,0.0,0.0,1,0,28,45,62.2,1,20,2,1,1
+Christopher Schindler,26,de GER,CB,28-258,90,0,0,0,0,0,0,1,0,43,2,1,1,0.0,0.0,0.0,0,0,24,32,75.0,0,15,0,0,0
+Mathias Jørgensen,25,dk DEN,CB,28-264,90,0,0,0,0,1,0,0,0,52,1,3,0,0.0,0.0,0.0,2,0,26,38,68.4,1,24,0,0,0
+Florent Hadergjonaj,33,xk KVX,RB,24-165,90,0,0,0,0,0,0,0,0,47,1,2,1,0.0,0.0,0.1,3,0,34,39,87.2,3,14,2,0,0
+Jonas Lössl,1,dk DEN,GK,29-345,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,18,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Anthony Martial,9,fr FRA,FW,24-048,90,0,0,0,0,5,2,0,0,36,0,0,0,0.3,0.3,0.1,6,0,26,29,89.7,4,26,1,1,1
+Daniel James,21,wls WAL,LW,22-073,68,0,0,0,0,2,1,0,0,40,0,0,0,0.2,0.2,0.0,1,0,25,35,71.4,2,23,6,0,0
+Jesse Lingard,14,eng ENG,LW,27-038,22,0,0,0,0,3,1,0,0,16,0,0,0,0.1,0.1,0.0,0,0,9,10,90.0,1,8,1,0,0
+Juan Mata,8,es ESP,RW,31-269,90,0,0,0,0,2,0,0,0,78,2,0,1,0.2,0.2,0.2,10,0,58,71,81.7,10,50,2,0,0
+Andreas Pereira,15,br BRA,AM,24-021,45,0,0,0,0,4,1,0,0,46,0,0,0,0.2,0.2,0.0,3,0,31,40,77.5,6,33,6,0,0
+Mason Greenwood,26,eng ENG,RW,18-113,45,0,0,0,0,1,0,0,0,28,0,1,0,0.0,0.0,0.0,3,0,19,21,90.5,2,17,1,2,1
+Nemanja Matić,31,rs SRB,DM,31-174,90,0,0,0,0,0,0,0,0,104,0,1,0,0.0,0.0,0.1,5,0,84,97,86.6,12,66,6,1,1
+Fred,17,br BRA,DM,26-323,90,0,0,0,0,4,1,0,0,108,3,2,1,0.1,0.1,0.1,6,0,87,94,92.6,6,65,2,0,0
+Brandon Williams,53,eng ENG,LB,19-141,68,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,2,0,45,51,88.2,4,40,4,3,3
+Luke Shaw,23,eng ENG,LB,24-194,22,0,0,0,0,1,0,0,0,37,0,0,0,0.0,0.0,0.1,3,0,28,35,80.0,4,25,6,0,0
+Harry Maguire,5,eng ENG,CB,26-323,90,0,0,0,0,0,0,0,0,82,1,0,0,0.0,0.0,0.0,2,0,66,76,86.8,3,53,1,0,0
+Phil Jones,4,eng ENG,CB,27-335,90,0,0,0,0,2,1,0,0,86,1,1,0,0.1,0.1,0.0,0,0,60,75,80.0,4,36,2,1,1
+Aaron Wan-Bissaka,29,eng ENG,RB,22-057,90,0,0,0,0,0,0,0,0,106,3,2,1,0.0,0.0,0.4,5,0,68,92,73.9,1,61,7,7,3
+David de Gea,1,es ESP,GK,29-076,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,33,78.8,0,24,0,0,0

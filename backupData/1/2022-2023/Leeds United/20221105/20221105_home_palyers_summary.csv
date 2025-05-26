@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Rodrigo,19,es ESP,FW,31-244,80,1,0,1,1,2,0,0,0,34,1,0,1,0.9,0.1,0.0,0,0,14,22,63.6,0,20,2,2,1
+Joe Gelhardt,30,eng ENG,FW,20-185,10,0,0,0,0,1,0,1,0,5,2,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,4,0,0,0
+Crysencio Summerville,10,nl NED,"LW,LM",21-006,90,1,0,0,0,1,1,0,0,51,2,1,1,0.5,0.5,0.2,9,1,32,39,82.1,5,42,3,3,1
+Jack Harrison,11,eng ENG,RW,25-350,45,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.1,1,0,22,34,64.7,2,23,1,1,1
+Wilfried Gnonto,29,it ITA,"RW,RM",19-000,45,0,1,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.6,3,1,6,11,54.5,2,10,1,1,0
+Brenden Aaronson,7,us USA,AM,22-014,85,0,0,0,0,2,0,0,0,50,0,0,3,0.1,0.1,0.0,4,1,29,39,74.4,5,36,3,1,0
+Luke Ayling,2,eng ENG,CB,31-072,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,0,0,0,0
+Marc Roca,8,es ESP,DM,25-344,53,0,0,0,0,1,0,0,0,34,2,0,0,0.0,0.0,0.0,0,0,24,29,82.8,5,22,1,0,0
+Sam Greenwood,42,eng ENG,"DM,CM",20-283,37,1,1,0,0,3,1,0,0,34,2,0,0,0.1,0.1,0.2,6,2,18,26,69.2,5,18,2,1,0
+Tyler Adams,12,us USA,"DM,CM",23-264,90,0,0,0,0,0,0,0,0,52,5,1,0,0.0,0.0,0.0,3,0,39,44,88.6,6,34,0,0,0
+Pascal Struijk,21,nl NED,LB,23-086,90,0,0,0,0,2,0,0,0,81,2,1,3,0.1,0.1,0.1,2,1,54,66,81.8,6,40,0,0,0
+Liam Cooper,6,sct SCO,CB,31-067,90,1,0,0,0,2,1,0,0,69,0,2,0,0.2,0.2,0.0,1,1,50,59,84.7,1,38,0,0,0
+Robin Koch,5,de GER,CB,26-111,90,0,0,0,0,2,0,0,0,66,2,1,2,0.1,0.1,0.0,1,0,52,59,88.1,12,50,0,0,0
+Rasmus Kristensen,25,dk DEN,RB,25-117,90,0,0,0,0,1,0,1,0,74,5,0,2,0.1,0.1,0.0,2,0,48,63,76.2,8,36,2,3,2
+Illan Meslier,1,fr FRA,GK,22-248,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,6,13,46.2,0,10,0,0,0

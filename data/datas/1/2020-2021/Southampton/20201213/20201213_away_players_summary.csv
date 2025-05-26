@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Billy Sharp,10,eng ENG,FW,34-312,59,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,2,6,0,2,1
+Rhian Brewster,24,eng ENG,"LW,FW",20-256,31,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,3,5,60.0,0,5,0,1,0
+Oliver McBurnie,9,sct SCO,FW,24-192,47,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,3,10,30.0,2,9,0,1,0
+David McGoldrick,17,ie IRL,"RW,FW",33-014,43,0,0,0,0,0,0,0,0,19,1,1,0,0.0,0.0,0.1,1,0,11,15,73.3,2,12,1,1,0
+John Fleck,4,sct SCO,"CM,LM",29-111,90,0,0,0,0,0,0,0,0,37,4,2,0,0.0,0.0,0.2,2,0,21,30,70.0,2,16,0,0,0
+Ethan Ampadu,22,wls WAL,CM,20-090,90,0,0,0,0,0,0,0,0,36,2,4,1,0.0,0.0,0.0,0,0,22,27,81.5,2,23,0,1,1
+Sander Berge,8,no NOR,"CM,RM",22-303,90,0,0,0,0,2,0,0,0,32,1,0,0,0.1,0.1,0.0,0,0,17,24,70.8,0,22,1,4,2
+Enda Stevens,3,ie IRL,LB,30-157,90,0,0,0,0,0,0,1,0,53,1,2,2,0.0,0.0,0.1,2,0,32,43,74.4,3,24,1,0,0
+Phil Jagielka,15,eng ENG,CB,38-118,90,0,0,0,0,0,0,0,0,46,3,1,1,0.0,0.0,0.0,0,0,26,33,78.8,5,16,0,0,0
+John Egan,12,ie IRL,CB,28-054,90,0,0,0,0,1,0,0,0,35,0,1,2,0.2,0.2,0.0,0,0,19,22,86.4,4,16,0,0,0
+Chris Basham,6,eng ENG,CB,32-146,69,0,0,0,0,0,0,0,0,27,2,0,2,0.0,0.0,0.0,0,0,11,20,55.0,2,8,0,1,1
+Lys Mousset,11,fr FRA,FW,24-309,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,5,0,1,0
+George Baldock,2,gr GRE,RB,27-279,90,0,0,0,0,0,0,0,0,28,3,1,1,0.0,0.0,0.0,0,0,10,19,52.6,2,8,0,1,0
+Aaron Ramsdale,1,eng ENG,GK,22-213,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,17,40,42.5,0,24,0,1,1

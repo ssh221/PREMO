@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Zaha,11,ci CIV,"FW,LM",27-343,90,1,0,1,1,0,0,0,0,38,1,0,1,0.8,0.0,0.0,0,0,14,21,66.7,1,27,2,3,1
+Michy Batshuayi,23,be BEL,FW,27-016,82,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,1,1,7,13,53.8,1,9,0,1,0
+Luka Milivojević,4,rs SRB,CM,29-194,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,2,0,0,0
+Jeffrey Schlupp,15,gh GHA,LM,27-300,87,0,0,0,0,0,0,0,0,40,4,1,2,0.0,0.0,0.0,0,0,13,22,59.1,1,13,1,4,3
+Christian Benteke,20,be BEL,FW,29-320,3,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0
+James McArthur,18,sct SCO,"CM,DM",33-011,90,0,0,0,0,0,0,1,0,42,1,0,0,0.0,0.0,0.0,0,0,34,38,89.5,2,20,0,0,0
+Jaïro Riedewald,44,nl NED,CM,24-039,90,0,0,0,0,0,0,0,0,36,2,1,1,0.0,0.0,0.0,0,0,23,25,92.0,2,18,0,1,1
+Andros Townsend,10,eng ENG,RM,29-094,90,0,0,0,0,0,0,0,0,36,5,1,4,0.0,0.0,0.0,1,1,13,23,56.5,0,17,4,1,1
+Tyrick Mitchell,27,eng ENG,LB,21-047,90,0,0,0,0,0,0,1,0,55,2,0,1,0.0,0.0,0.0,0,0,28,43,65.1,9,35,0,0,0
+Gary Cahill,24,eng ENG,CB,34-304,90,0,0,0,0,0,0,0,0,42,2,0,2,0.0,0.0,0.0,0,0,26,32,81.3,1,16,0,0,0
+Cheikhou Kouyaté,8,sn SEN,CB,30-302,90,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,0,0,14,23,60.9,0,14,0,0,0
+Joel Ward,2,eng ENG,RB,30-355,90,0,0,0,0,0,0,0,0,38,1,0,2,0.0,0.0,0.0,0,0,20,28,71.4,2,16,1,0,0
+Vicente Guaita,31,es ESP,GK,33-282,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,11,34,32.4,0,8,0,0,0

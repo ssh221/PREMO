@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ivan Cavaleiro,17,pt POR,FW,27-059,90,0,0,0,0,2,1,0,0,39,1,0,0,0.1,0.1,0.1,4,0,20,23,87.0,2,20,2,3,0
+Ademola Lookman,19,ng NGA,AM,23-057,90,0,0,0,0,3,2,0,0,50,1,2,3,0.7,0.7,0.0,3,0,23,27,85.2,4,30,0,7,4
+Ruben Loftus-Cheek,15,eng ENG,AM,24-328,76,0,0,0,0,1,1,0,0,33,0,1,0,0.1,0.1,0.0,0,0,17,25,68.0,2,12,3,1,1
+Aleksandar Mitrović,9,rs SRB,AM,26-091,14,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.1,1,0,6,7,85.7,1,2,0,0,0
+Harrison Reed,21,eng ENG,CM,25-324,61,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.0,0,0,31,38,81.6,0,20,0,0,0
+Mario Lemina,18,ga GAB,CM,27-106,29,0,0,0,0,0,0,0,0,17,2,1,1,0.0,0.0,0.0,0,0,8,12,66.7,1,8,0,0,0
+Andre-Frank Zambo Anguissa,29,cm CMR,CM,25-030,90,0,0,0,0,0,0,0,0,45,3,2,2,0.0,0.0,0.0,2,0,23,35,65.7,4,19,1,1,1
+Antonee Robinson,33,us USA,WB,23-130,90,0,0,0,0,0,0,1,0,73,2,2,0,0.0,0.0,0.1,2,0,34,61,55.7,1,26,1,4,4
+Bobby De Cordova-Reid,14,jm JAM,WB,27-318,61,0,0,0,0,0,0,0,0,31,2,2,0,0.0,0.0,0.0,0,0,12,21,57.1,0,8,0,0,0
+Aboubakar Kamara,47,mr MTN,WB,25-284,29,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,8,12,66.7,1,8,0,1,1
+Tosin Adarabioyo,16,eng ENG,CB,23-083,90,0,0,0,0,2,0,0,0,63,3,2,0,0.1,0.1,0.0,0,0,43,53,81.1,1,31,0,1,1
+Joachim Andersen,5,dk DEN,CB,24-199,90,0,0,0,0,0,0,0,0,71,1,1,2,0.0,0.0,0.0,0,0,41,54,75.9,4,31,1,2,1
+Ola Aina,34,ng NGA,CB,24-069,90,0,0,0,0,0,0,0,0,75,0,3,0,0.0,0.0,0.0,1,0,50,66,75.8,8,33,1,0,0
+Alphonse Areola,1,fr FRA,GK,27-293,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,14,28,50.0,0,14,0,0,0

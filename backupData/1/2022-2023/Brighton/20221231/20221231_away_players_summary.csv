@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eddie Nketiah,14,eng ENG,FW,23-215,90,1,0,0,0,2,1,0,0,34,2,0,1,0.8,0.8,0.0,1,1,19,24,79.2,2,24,4,0,0
+Gabriel Martinelli,11,br BRA,"LW,FW",21-196,90,1,0,0,0,5,2,0,0,37,2,0,0,0.6,0.6,0.0,3,2,16,24,66.7,1,27,8,3,1
+Bukayo Saka,7,eng ENG,"RW,CM",21-117,90,1,0,0,0,1,1,1,0,34,4,2,1,0.4,0.4,0.1,1,0,9,19,47.4,1,10,2,0,0
+Granit Xhaka,34,ch SUI,"LM,CM",30-095,90,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.1,2,1,26,29,89.7,2,21,0,1,1
+Thomas Partey,5,gh GHA,CM,29-201,73,0,0,0,0,1,0,1,0,33,2,0,0,0.2,0.2,0.1,5,0,20,27,74.1,8,18,0,0,0
+Mohamed Elneny,25,eg EGY,CM,30-173,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0
+Martin Ødegaard,8,no NOR,RM,24-014,86,1,1,0,0,1,1,0,0,42,1,0,0,0.1,0.1,0.8,6,2,29,36,80.6,7,27,2,4,1
+Rob Holding,16,eng ENG,"CB,RM",27-102,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Oleksandr Zinchenko,35,ua UKR,LB,26-016,59,0,0,0,0,1,1,0,0,43,2,1,0,0.5,0.5,0.0,3,0,31,34,91.2,6,25,0,0,0
+Kieran Tierney,3,sct SCO,LB,25-209,31,0,0,0,0,0,0,0,0,12,2,2,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0
+Gabriel Magalhães,6,br BRA,CB,25-012,90,0,0,0,0,2,1,1,0,34,0,1,1,0.4,0.4,0.0,1,0,22,28,78.6,1,17,0,0,0
+William Saliba,12,fr FRA,CB,21-282,90,0,0,0,0,1,0,0,0,40,2,1,1,0.1,0.1,0.0,0,0,19,24,79.2,0,18,0,1,1
+Ben White,4,eng ENG,RB,25-084,59,0,0,0,0,0,0,0,0,17,2,1,0,0.0,0.0,0.0,0,0,9,12,75.0,1,7,0,1,1
+Takehiro Tomiyasu,18,jp JPN,RB,24-056,31,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0
+Aaron Ramsdale,1,eng ENG,GK,24-231,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,14,37,37.8,0,21,0,0,0

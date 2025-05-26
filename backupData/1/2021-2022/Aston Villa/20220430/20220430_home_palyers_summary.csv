@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,26-121,90,1,0,0,0,6,1,0,0,37,2,0,1,0.6,0.6,0.2,3,0,16,23,69.6,2,27,6,1,0
+Philippe Coutinho,23,br BRA,"LM,AM",29-322,75,0,0,0,0,4,0,0,0,50,2,1,2,0.2,0.2,0.2,7,0,26,37,70.3,5,33,7,1,0
+Emi Buendía,10,ar ARG,AM,25-126,15,0,1,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.4,3,0,20,22,90.9,3,19,2,3,3
+Jacob Ramsey,41,eng ENG,"LM,CM",20-337,90,0,0,0,0,2,1,1,0,61,2,2,2,0.4,0.4,0.2,5,1,41,50,82.0,5,43,9,3,2
+John McGinn,7,sct SCO,"RM,CM",27-194,90,0,0,0,0,1,0,0,0,47,6,1,1,0.1,0.1,0.0,2,0,31,40,77.5,5,30,3,3,3
+Leon Bailey,31,jm JAM,RM,24-264,39,0,0,0,0,1,1,0,0,17,1,0,0,0.0,0.0,0.0,0,0,8,13,61.5,1,12,1,2,0
+Danny Ings,20,eng ENG,FW,29-281,51,1,1,0,0,4,2,1,0,26,1,0,2,0.4,0.4,0.2,6,1,11,16,68.8,2,15,1,0,0
+Tim Iroegbunam,47,eng ENG,DM,18-304,72,0,0,0,0,1,0,1,0,24,3,2,0,0.1,0.1,0.0,0,0,14,17,82.4,2,11,0,0,0
+Douglas Luiz,6,br BRA,DM,23-356,18,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.0,1,0,15,15,100.0,0,13,0,0,0
+Lucas Digne,27,fr FRA,LB,28-284,90,0,0,0,0,0,0,0,0,64,1,2,1,0.0,0.0,0.2,8,1,48,56,85.7,4,37,3,0,0
+Tyrone Mings,5,eng ENG,CB,29-048,90,0,0,0,0,0,0,0,0,40,0,3,0,0.0,0.0,0.0,0,0,23,35,65.7,1,26,0,0,0
+Calum Chambers,16,eng ENG,CB,27-100,90,0,0,0,0,0,0,1,0,52,5,1,0,0.0,0.0,0.0,0,0,35,42,83.3,1,35,0,0,0
+Matty Cash,2,pl POL,RB,24-266,90,0,0,0,0,1,1,0,0,57,1,1,0,0.0,0.0,0.0,1,0,38,49,77.6,2,30,4,2,1
+Emiliano Martínez,1,ar ARG,GK,29-240,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,16,0,0,0

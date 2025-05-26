@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Bobby De Cordova-Reid,14,jm JAM,FW,25-327,90,0,0,0,0,2,0,0,0,29,0,0,0,0.3,0.3,0.1,2,0,17,22,77.3,1,13,1,1,0
+Junior Hoilett,33,ca CAN,LM,28-204,89,0,0,0,0,2,2,1,0,40,1,0,0,0.1,0.1,0.0,1,0,18,31,58.1,2,24,3,1,0
+Harry Arter,7,ie IRL,LM,28-363,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Joe Ralls,8,eng ENG,CM,25-075,90,0,0,0,0,1,1,0,0,46,3,0,2,0.0,0.0,0.0,1,0,27,31,87.1,3,18,1,0,0
+Víctor Camarasa,21,es ESP,CM,24-212,89,0,0,0,0,1,0,1,0,54,3,2,0,0.0,0.0,0.1,4,0,35,44,79.5,6,28,3,3,2
+Aron Gunnarsson,17,is ISL,CM,29-248,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.1,0,0,0,1,0.0,0,1,0,0,0
+Kadeem Harris,23,eng ENG,RM,25-201,90,0,0,0,0,2,1,0,0,39,3,1,0,0.3,0.3,0.3,2,0,13,25,52.0,3,21,2,2,1
+Joe Bennett,3,eng ENG,LB,28-273,90,0,0,0,0,0,0,0,0,43,1,2,3,0.0,0.0,0.0,2,0,24,32,75.0,1,10,1,1,1
+Sol Bamba,22,ci CIV,CB,33-347,90,0,0,0,0,0,0,1,0,44,5,2,4,0.0,0.0,0.0,1,0,13,19,68.4,1,9,0,1,0
+Sean Morrison,4,eng ENG,CB,27-352,90,0,0,0,0,0,0,0,0,55,0,2,4,0.0,0.0,0.0,0,0,23,35,65.7,2,9,0,0,0
+Bruno Ecuele Manga,5,ga GAB,CB,30-163,90,0,0,0,0,1,0,0,0,43,2,2,2,0.1,0.1,0.0,0,0,17,25,68.0,4,13,0,1,1
+Lee Peltier,2,eng ENG,RB,32-015,90,0,0,0,0,0,0,0,0,42,2,2,3,0.0,0.0,0.0,1,0,22,34,64.7,2,10,0,0,0
+Neil Etheridge,1,ph PHI,GK,28-322,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,13,38,34.2,0,14,0,0,0

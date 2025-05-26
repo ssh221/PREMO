@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,24-296,90,1,0,0,0,1,1,0,0,33,0,0,0,0.1,0.1,0.4,3,0,19,27,70.4,2,12,1,0,0
+Alexis Sánchez,7,cl CHI,"AM,LW",29-076,90,0,0,0,0,2,1,0,0,82,1,0,1,0.1,0.1,0.1,3,1,52,76,68.4,13,60,4,5,5
+Jesse Lingard,14,eng ENG,"RW,RB",25-080,90,0,0,0,0,2,0,0,0,70,0,1,0,0.4,0.4,0.1,4,0,53,64,82.8,4,45,4,1,1
+Paul Pogba,6,fr FRA,"DM,LM",24-355,90,0,0,0,0,4,2,0,0,116,0,0,1,0.1,0.1,0.0,5,2,88,102,86.3,14,88,9,2,2
+Nemanja Matić,31,rs SRB,"DM,CM",29-216,90,1,0,0,0,3,1,1,0,86,0,0,2,0.1,0.1,0.0,2,0,64,74,86.5,4,47,1,2,2
+Scott McTominay,39,sct SCO,RM,21-087,45,0,0,0,0,0,0,1,0,30,1,1,0,0.0,0.0,0.0,0,0,21,23,91.3,2,16,0,0,0
+Marcus Rashford,19,eng ENG,LW,20-125,45,0,0,0,0,2,0,0,0,23,0,1,0,0.1,0.1,0.1,3,0,10,17,58.8,2,14,4,6,4
+Ashley Young,18,eng ENG,LB,32-239,66,0,0,0,0,0,0,1,0,52,0,1,0,0.0,0.0,0.0,2,0,35,48,72.9,0,25,4,2,1
+Juan Mata,8,es ESP,RW,29-311,24,0,0,0,0,1,1,0,0,24,0,0,0,0.1,0.1,0.1,4,0,17,22,77.3,2,13,0,0,0
+Victor Lindelöf,2,se SWE,CB,23-231,90,0,0,0,0,0,0,0,0,78,1,0,0,0.0,0.0,0.0,0,0,68,72,94.4,4,46,1,0,0
+Chris Smalling,12,eng ENG,CB,28-103,90,1,0,0,0,1,1,0,0,96,3,0,1,0.1,0.1,0.0,0,0,68,75,90.7,6,55,0,0,0
+Antonio Valencia,25,ec ECU,RB,32-213,66,0,1,0,0,1,0,0,0,74,2,1,2,0.0,0.0,0.1,4,1,55,68,80.9,4,39,3,1,1
+Luke Shaw,23,eng ENG,LB,22-236,24,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,15,17,88.2,1,4,2,1,0
+David de Gea,1,es ESP,GK,27-118,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,9,0,0,0

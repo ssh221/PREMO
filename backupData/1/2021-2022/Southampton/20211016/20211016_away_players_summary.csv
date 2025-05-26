@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Rodrigo,19,es ESP,FW,30-224,63,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,8,0,2,0
+Adam Forshaw,4,eng ENG,DM,30-008,27,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,15,23,65.2,1,11,0,0,0
+Daniel James,20,wls WAL,"LW,RW",23-340,90,0,0,0,0,1,0,0,0,29,0,1,0,0.1,0.1,0.0,0,0,15,22,68.2,2,19,2,4,2
+Jack Harrison,22,eng ENG,"RW,LW",24-330,90,0,0,0,0,1,0,0,0,37,2,0,0,0.1,0.1,0.0,1,0,18,26,69.2,2,29,4,3,1
+Tyler Roberts,11,wls WAL,"AM,FW",22-277,80,0,0,0,0,1,0,1,0,27,2,1,0,0.0,0.0,0.1,1,0,14,19,73.7,2,16,0,1,1
+Crysencio Summerville,38,nl NED,FW,19-351,10,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,4,6,66.7,0,5,0,0,0
+Stuart Dallas,15,nir NIR,"CM,LM",30-180,90,0,0,0,0,0,0,0,0,60,2,2,2,0.0,0.0,0.0,0,0,35,46,76.1,6,24,0,3,2
+Mateusz Klich,43,pl POL,"CM,AM",31-125,76,0,0,0,0,0,0,0,0,49,3,0,2,0.0,0.0,0.0,1,0,31,41,75.6,5,16,2,1,1
+Joe Gelhardt,30,eng ENG,AM,19-165,14,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,7,0,1,1
+Jamie Shackleton,46,eng ENG,"CM,RM",22-008,90,0,0,0,0,0,0,0,0,66,6,5,0,0.0,0.0,0.0,0,0,44,53,83.0,5,25,2,4,3
+Liam Cooper,6,sct SCO,CB,30-047,90,0,0,0,0,0,0,0,0,72,2,4,2,0.0,0.0,0.0,0,0,49,63,77.8,1,32,0,0,0
+Pascal Struijk,21,nl NED,CB,22-066,90,0,0,0,0,0,0,1,0,70,2,2,0,0.0,0.0,0.0,0,0,53,64,82.8,2,36,0,0,0
+Diego Llorente,14,es ESP,CB,28-061,90,0,0,0,0,0,0,1,0,70,0,0,3,0.0,0.0,0.0,0,0,48,60,80.0,1,39,0,0,0
+Illan Meslier,1,fr FRA,GK,21-228,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,38,53,71.7,0,29,0,0,0

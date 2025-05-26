@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Tammy Abraham,9,eng ENG,FW,21-355,76,0,0,0,0,3,1,0,0,24,0,1,0,0.6,0.6,0.0,1,0,10,16,62.5,1,12,2,0,0
+Michy Batshuayi,23,be BEL,FW,25-355,14,0,0,0,0,2,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,4,0,0,0
+Mason Mount,19,eng ENG,LW,20-255,90,0,0,0,0,1,0,0,0,42,2,0,2,0.3,0.3,0.1,3,0,20,29,69.0,1,21,2,1,0
+Willian,10,br BRA,RW,31-044,90,0,0,0,0,1,0,0,0,63,1,0,2,0.0,0.0,0.0,2,0,36,50,72.0,4,43,3,2,2
+Mateo Kovačić,17,hr CRO,LM,25-139,90,0,0,0,0,1,0,1,0,66,1,2,2,0.0,0.0,0.0,2,1,48,56,85.7,10,38,3,1,1
+Jorginho,5,it ITA,CM,27-276,90,0,0,0,0,1,0,0,0,86,1,2,0,0.0,0.0,0.0,3,0,61,74,82.4,7,45,0,0,0
+N'Golo Kanté,7,fr FRA,RM,28-177,90,1,0,0,0,2,1,0,0,52,2,2,1,0.1,0.1,0.0,1,0,31,39,79.5,3,25,2,3,2
+Emerson Palmieri,33,it ITA,LB,25-050,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,2,0,0,0
+Marcos Alonso,3,es ESP,LB,28-268,76,0,0,0,0,1,0,1,0,90,1,4,1,0.0,0.0,0.4,4,0,55,75,73.3,1,48,6,0,0
+Fikayo Tomori,29,eng ENG,CB,21-277,90,0,0,0,0,1,0,1,0,66,5,1,0,0.1,0.1,0.0,3,0,43,53,81.1,3,39,1,1,1
+Andreas Christensen,4,dk DEN,CB,23-165,41,0,0,0,0,0,0,0,0,22,0,1,1,0.0,0.0,0.4,1,0,18,18,100.0,2,13,0,0,0
+Kurt Zouma,15,fr FRA,CB,24-330,49,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.0,1,0,28,38,73.7,2,25,0,1,1
+César Azpilicueta,28,es ESP,RB,30-025,90,0,1,0,0,0,0,0,0,83,1,1,1,0.0,0.0,0.3,4,1,54,72,75.0,4,38,4,0,0
+Kepa Arrizabalaga,1,es ESP,GK,24-354,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,19,0,0,0

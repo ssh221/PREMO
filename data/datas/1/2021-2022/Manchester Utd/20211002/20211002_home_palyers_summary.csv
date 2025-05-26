@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Edinson Cavani,21,uy URU,FW,34-230,56,0,0,0,0,1,1,0,0,29,0,0,2,0.1,0.1,0.0,1,0,17,22,77.3,0,9,0,0,0
+Cristiano Ronaldo,7,pt POR,FW,36-239,34,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,2,0,12,14,85.7,0,9,2,0,0
+Anthony Martial,9,fr FRA,LW,25-301,56,1,0,0,0,3,2,0,0,47,0,0,0,0.3,0.3,0.0,2,0,34,40,85.0,5,30,6,2,0
+Jadon Sancho,25,eng ENG,LW,21-191,34,0,0,0,0,1,1,0,0,29,1,1,0,0.0,0.0,0.1,5,0,19,22,86.4,3,19,2,5,2
+Mason Greenwood,11,eng ENG,RW,20-001,90,0,0,0,0,2,2,1,0,68,0,0,0,0.0,0.0,0.0,1,1,45,57,78.9,6,44,2,6,4
+Bruno Fernandes,18,pt POR,AM,27-024,90,0,1,0,0,1,0,0,0,104,2,0,1,0.0,0.0,0.3,4,1,70,95,73.7,11,45,1,2,0
+Fred,17,br BRA,DM,28-211,69,0,0,0,0,0,0,0,0,76,1,0,0,0.0,0.0,0.1,2,0,62,71,87.3,7,34,1,1,1
+Paul Pogba,6,fr FRA,DM,28-201,21,0,0,0,0,2,0,0,0,28,1,1,0,0.3,0.3,0.1,2,0,17,23,73.9,7,17,0,0,0
+Scott McTominay,39,sct SCO,DM,24-298,90,0,0,0,0,1,0,0,0,77,1,2,1,0.1,0.1,0.0,1,0,62,70,88.6,6,49,1,0,0
+Luke Shaw,23,eng ENG,LB,26-082,90,0,0,0,0,0,0,0,0,114,1,1,2,0.0,0.0,0.1,2,0,92,107,86.0,9,56,4,1,1
+Raphaël Varane,19,fr FRA,CB,28-160,90,0,0,0,0,1,0,0,0,82,0,0,0,0.0,0.0,0.0,0,0,66,75,88.0,7,55,1,0,0
+Victor Lindelöf,2,se SWE,CB,27-077,90,0,0,0,0,0,0,0,0,83,0,1,3,0.0,0.0,0.0,0,0,68,72,94.4,6,51,3,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,23-310,90,0,0,0,0,0,0,0,0,91,0,0,1,0.0,0.0,0.2,3,0,65,76,85.5,3,55,5,7,3
+David de Gea,1,es ESP,GK,30-329,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,18,19,94.7,0,6,0,0,0

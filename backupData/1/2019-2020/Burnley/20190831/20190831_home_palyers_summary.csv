@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,9,nz NZL,FW,27-267,90,0,0,0,0,1,1,0,0,22,0,0,0,0.1,0.1,0.1,1,0,9,15,60.0,0,14,1,0,0
+Ashley Barnes,10,eng ENG,FW,29-305,72,0,0,0,0,2,0,0,0,21,0,0,0,0.1,0.1,0.0,2,0,9,17,52.9,0,20,1,1,1
+Jay Rodriguez,19,eng ENG,FW,30-033,18,0,0,0,0,1,1,0,0,6,0,0,0,0.6,0.6,0.0,1,0,3,3,100.0,0,4,2,1,1
+Dwight McNeil,11,eng ENG,LM,19-282,90,0,0,0,0,2,0,0,0,44,0,1,2,0.1,0.1,0.1,2,0,16,32,50.0,0,22,4,5,2
+Jack Cork,4,eng ENG,CM,30-067,90,0,0,0,0,0,0,0,0,37,2,0,1,0.0,0.0,0.1,2,0,19,29,65.5,2,18,0,1,1
+Ashley Westwood,18,eng ENG,CM,29-152,90,0,0,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.6,1,0,25,42,59.5,4,20,0,0,0
+Aaron Lennon,25,eng ENG,RM,32-137,90,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,1,0,11,18,61.1,0,12,2,1,0
+Erik Pieters,23,nl NED,LB,31-024,90,0,0,0,0,0,0,0,0,62,4,2,1,0.0,0.0,0.0,0,0,33,48,68.8,3,19,0,0,0
+Ben Mee,6,eng ENG,CB,29-344,90,0,0,0,0,0,0,0,0,42,0,1,4,0.0,0.0,0.0,0,0,20,32,62.5,1,14,0,0,0
+James Tarkowski,5,eng ENG,CB,26-285,90,0,0,0,0,1,0,0,0,53,4,3,2,0.1,0.1,0.0,0,0,22,37,59.5,4,16,0,1,1
+Matthew Lowton,2,eng ENG,RB,30-083,90,0,0,0,0,0,0,0,0,60,0,3,0,0.0,0.0,0.1,1,0,32,52,61.5,5,29,1,0,0
+Nick Pope,1,eng ENG,GK,27-134,90,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,1,0,17,35,48.6,0,23,0,0,0

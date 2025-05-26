@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Armando Broja,18,al ALB,FW,20-127,77,0,0,0,0,1,1,0,0,22,0,0,0,0.0,0.0,0.0,1,0,8,13,61.5,0,12,1,2,0
+Adam Armstrong,9,eng ENG,FW,24-339,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,1,0,0
+Nathan Redmond,11,eng ENG,FW,27-315,90,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,4,1,26,35,74.3,3,21,7,2,2
+Ibrahima Diallo,27,fr FRA,CM,22-313,45,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.0,2,0,16,21,76.2,3,16,2,2,1
+Che Adams,10,sct SCO,CM,25-186,45,0,0,0,0,1,1,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,6,0,0,0
+Oriol Romeu,6,es ESP,CM,30-113,90,0,0,0,0,1,1,0,0,69,1,1,0,0.0,0.0,0.2,4,0,57,66,86.4,6,41,2,4,4
+James Ward-Prowse,8,eng ENG,CM,27-075,90,1,0,0,0,3,2,1,0,80,3,0,1,0.1,0.1,0.0,3,0,54,70,77.1,7,40,3,1,1
+Romain Perraud,15,fr FRA,WB,24-115,90,0,0,0,0,2,1,0,0,55,1,1,2,0.1,0.1,0.0,2,0,29,43,67.4,5,31,4,1,1
+Nathan Tella,23,ng NGA,WB,22-194,70,0,0,0,0,0,0,0,0,28,1,1,2,0.0,0.0,0.0,1,0,8,16,50.0,2,14,1,2,1
+Stuart Armstrong,17,sct SCO,WB,29-291,20,0,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,1,0,8,11,72.7,3,8,0,0,0
+Mohammed Salisu,22,gh GHA,CB,22-273,90,0,0,0,0,2,2,1,0,85,2,3,0,0.2,0.2,0.2,2,0,63,74,85.1,8,46,1,1,0
+Lyanco,4,br BRA,CB,24-348,90,0,0,0,0,1,0,1,0,68,2,1,1,0.0,0.0,0.0,0,0,43,59,72.9,3,43,0,0,0
+Jan Bednarek,35,pl POL,CB,25-278,90,0,0,0,0,1,1,0,0,65,0,2,2,0.2,0.2,0.1,2,0,41,55,74.5,2,27,0,0,0
+Fraser Forster,44,eng ENG,GK,33-304,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,12,0,0,0

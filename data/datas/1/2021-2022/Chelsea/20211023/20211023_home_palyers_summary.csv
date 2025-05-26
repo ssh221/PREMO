@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kai Havertz,29,de GER,FW,22-134,69,0,0,0,0,2,1,0,0,37,1,0,2,0.3,0.3,0.0,1,0,22,26,84.6,1,25,3,3,2
+Ross Barkley,18,eng ENG,FW,27-322,21,0,0,0,0,2,1,0,0,17,0,0,1,0.2,0.2,0.0,2,0,10,11,90.9,0,14,2,0,0
+Callum Hudson-Odoi,20,eng ENG,AM,20-350,69,1,0,0,0,1,1,0,0,37,1,1,0,0.5,0.5,0.2,1,0,23,29,79.3,6,26,5,0,0
+Hakim Ziyech,22,ma MAR,AM,28-218,21,0,0,0,0,3,1,0,0,13,0,0,0,0.1,0.1,0.0,4,1,5,7,71.4,4,12,0,2,2
+Mason Mount,19,eng ENG,AM,22-286,90,3,1,1,1,4,3,0,0,53,1,0,0,1.6,0.8,0.7,4,1,37,45,82.2,5,39,4,1,0
+Mateo Kovačić,8,hr CRO,CM,27-170,90,0,2,0,0,1,0,0,0,94,5,0,3,0.0,0.0,0.9,9,2,79,84,94.0,10,66,5,0,0
+Jorginho,5,it ITA,CM,29-307,63,0,1,0,0,0,0,0,0,81,2,1,0,0.0,0.0,0.1,4,3,64,75,85.3,6,58,0,0,0
+Ruben Loftus-Cheek,12,eng ENG,CM,25-273,27,0,1,0,0,2,2,0,0,28,2,0,0,0.1,0.1,0.5,3,1,18,20,90.0,2,18,2,1,1
+Ben Chilwell,21,eng ENG,WB,24-306,90,1,0,0,0,2,1,0,0,58,2,0,2,0.1,0.1,0.0,3,0,36,47,76.6,2,34,1,1,1
+Reece James,24,eng ENG,WB,21-319,90,1,0,0,0,1,1,0,0,75,2,0,2,0.4,0.4,0.1,4,0,59,65,90.8,5,51,2,2,1
+Antonio Rüdiger,2,de GER,CB,28-234,90,0,0,0,0,4,1,0,0,70,1,1,1,0.2,0.2,0.0,5,3,59,63,93.7,6,53,2,1,1
+Thiago Silva,6,br BRA,CB,37-031,90,0,0,0,0,0,0,0,0,98,1,2,2,0.0,0.0,0.1,1,0,87,93,93.5,3,62,0,0,0
+Trevoh Chalobah,14,eng ENG,CB,22-110,90,0,0,0,0,0,0,0,0,66,1,0,0,0.0,0.0,0.0,2,0,60,64,93.8,5,45,2,0,0
+Edouard Mendy,16,sn SEN,GK,29-236,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,23,25,92.0,0,15,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,30-227,75,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.1,2,0,9,18,50.0,3,9,1,0,0
+Islam Slimani,19,dz ALG,FW,29-069,15,0,0,0,0,2,1,0,0,9,0,0,0,0.5,0.5,0.0,1,0,6,6,100.0,1,3,0,0,0
+Shinji Okazaki,20,jp JPN,FW,31-132,59,0,0,0,0,1,1,0,0,19,3,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,8,0,0,0
+Andy King,10,wls WAL,"CM,FW",28-301,31,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,1,0,9,11,81.8,1,6,0,0,0
+Marc Albrighton,11,eng ENG,LM,27-281,59,0,0,0,0,0,0,0,0,20,0,1,1,0.0,0.0,0.0,0,0,6,14,42.9,0,8,0,1,0
+Demarai Gray,7,jm JAM,"LW,LM",21-059,31,0,0,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.6,4,0,11,16,68.8,1,12,6,0,0
+Wilfred Ndidi,25,ng NGA,CM,20-253,90,0,0,0,0,1,0,0,0,45,6,1,2,0.0,0.0,0.0,2,0,24,34,70.6,2,17,1,3,3
+Matty James,22,eng ENG,CM,26-035,90,0,0,0,0,1,0,1,0,58,2,2,1,0.0,0.0,0.0,1,0,30,41,73.2,4,16,0,1,0
+Riyad Mahrez,26,dz ALG,"RM,RW",26-186,90,0,0,0,0,4,1,0,0,49,0,0,0,0.2,0.2,0.0,4,0,29,38,76.3,1,33,4,6,5
+Christian Fuchs,28,at AUT,LB,31-141,90,0,0,0,0,0,0,0,0,39,1,4,3,0.0,0.0,0.1,3,0,18,27,66.7,3,9,0,0,0
+Harry Maguire,15,eng ENG,CB,24-174,90,0,0,0,0,0,0,0,0,46,1,3,2,0.0,0.0,0.0,0,0,25,32,78.1,3,13,0,2,2
+Wes Morgan,5,jm JAM,CB,33-217,90,0,0,0,0,0,0,0,0,36,4,0,4,0.0,0.0,0.0,0,0,9,16,56.3,1,8,1,0,0
+Danny Simpson,2,eng ENG,RB,30-234,90,0,0,0,0,0,0,0,0,44,2,2,1,0.0,0.0,0.0,0,0,18,29,62.1,2,9,0,1,0
+Kasper Schmeichel,1,dk DEN,GK,30-294,90,0,0,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,1,17,0,0,0

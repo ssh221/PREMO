@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Carlton Morris,9,eng ENG,FW,27-291,90,0,0,0,0,4,0,0,0,46,0,0,1,0.3,0.3,0.0,7,0,20,30,66.7,3,20,1,4,3
+Chiedozie Ogbene,7,ie IRL,AM,26-155,90,0,0,0,0,2,0,0,0,57,1,0,2,0.2,0.2,0.0,4,0,31,41,75.6,4,28,3,3,1
+Jacob Brown,19,sct SCO,AM,25-176,68,0,0,0,0,3,0,1,0,32,1,1,1,0.4,0.4,0.2,4,0,13,19,68.4,2,9,3,1,1
+Tahith Chong,14,nl NED,AM,23-303,22,0,0,0,0,1,0,1,0,13,0,0,0,0.0,0.0,0.0,2,1,10,12,83.3,2,10,1,1,1
+Marvelous Nakamba,13,zw ZIM,CM,29-257,90,0,0,0,0,0,0,1,0,50,5,0,3,0.0,0.0,0.0,2,0,31,36,86.1,5,16,0,0,0
+Pelly Ruddock Mpanzu,17,cd COD,CM,30-078,90,0,0,0,0,2,0,0,0,42,0,0,1,0.1,0.1,0.1,1,0,22,32,68.8,4,23,1,1,0
+Alfie Doughty,45,eng ENG,WB,23-286,90,0,0,0,0,1,0,0,0,51,0,1,2,0.0,0.0,0.3,9,0,25,43,58.1,5,19,4,1,1
+Issa Kaboré,12,bf BFA,WB,22-144,61,0,0,0,0,0,0,0,0,43,2,0,0,0.0,0.0,0.1,1,0,22,38,57.9,0,14,2,0,0
+Elijah Adebayo,11,eng ENG,WB,25-269,29,1,0,0,0,2,1,0,0,16,0,0,0,0.2,0.2,0.0,1,0,4,5,80.0,0,9,1,4,1
+Amari'i Bell,29,jm JAM,CB,29-151,20,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,2,0,0,0
+Reece Burke,16,eng ENG,CB,27-031,70,0,1,0,0,1,1,1,0,30,1,0,0,0.0,0.0,0.1,2,1,15,25,60.0,4,9,0,1,1
+Tom Lockyer,4,wls WAL,CB,28-304,90,0,0,0,0,2,0,0,0,65,2,2,0,0.1,0.1,0.0,0,0,34,51,66.7,2,28,0,0,0
+Teden Mengi,15,eng ENG,CB,21-156,90,0,0,0,0,0,0,0,0,67,2,4,1,0.0,0.0,0.0,0,0,43,57,75.4,4,34,1,0,0
+Thomas Kaminski,24,be BEL,GK,30-345,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,19,41,46.3,0,18,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,33,br BRA,FW,20-159,56,2,0,0,0,4,3,0,0,16,1,0,0,0.8,0.8,0.0,1,0,4,7,57.1,0,11,1,0,0
+Leroy Sané,19,de GER,LW,21-241,34,2,0,0,0,2,2,0,0,21,0,0,1,0.3,0.3,0.5,3,1,14,16,87.5,3,15,0,0,0
+Sergio Agüero,10,ar ARG,FW,29-099,90,1,1,0,0,3,2,0,0,35,0,0,3,1.0,1.0,0.4,4,2,20,20,100.0,2,25,2,5,1
+Benjamin Mendy,22,fr FRA,"LB,LW",23-054,90,0,1,0,0,0,0,0,0,77,2,1,2,0.0,0.0,0.3,3,3,48,64,75.0,9,46,4,5,2
+Kyle Walker,2,eng ENG,"RB,RW",27-104,90,0,1,0,0,0,0,0,0,87,1,0,0,0.0,0.0,0.0,4,1,67,84,79.8,4,61,4,1,1
+David Silva,21,es ESP,"CM,AM,RM",31-244,90,0,0,0,0,0,0,0,0,108,0,2,1,0.0,0.0,0.0,0,0,96,104,92.3,13,90,6,1,0
+Kevin De Bruyne,17,be BEL,"CM,RW,LM",26-073,90,0,2,0,0,2,1,0,0,69,2,0,1,0.1,0.1,0.9,5,2,46,62,74.2,10,55,4,0,0
+Fernandinho,25,br BRA,"DM,CM",32-128,90,0,0,0,0,1,1,1,0,93,1,4,1,0.0,0.0,0.0,1,1,78,87,89.7,9,73,3,0,0
+Nicolás Otamendi,30,ar ARG,CB,29-209,70,0,0,0,0,0,0,1,0,71,3,1,1,0.0,0.0,0.0,0,0,56,62,90.3,1,55,0,0,0
+Eliaquim Mangala,15,fr FRA,CB,26-208,20,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,25,25,100.0,0,22,0,0,0
+John Stones,5,eng ENG,CB,23-104,90,0,0,0,0,1,1,0,0,110,2,3,0,0.1,0.1,0.0,0,0,98,101,97.0,4,81,1,0,0
+Danilo,3,br BRA,"CB,DM,CM",26-056,90,0,0,0,0,0,0,0,0,120,2,1,0,0.0,0.0,0.0,1,0,108,116,93.1,8,101,4,0,0
+Ederson,31,br BRA,GK,24-023,44,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,13,17,76.5,0,12,0,0,0
+Claudio Bravo,1,cl CHI,GK,34-149,46,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,14,0,0,0

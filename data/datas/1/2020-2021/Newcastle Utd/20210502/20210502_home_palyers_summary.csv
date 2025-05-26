@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Allan Saint-Maximin,10,fr FRA,"FW,LM",24-051,90,0,0,0,0,2,1,0,0,33,1,0,0,0.1,0.1,0.0,1,0,21,26,80.8,1,30,8,10,8
+Callum Wilson,13,eng ENG,FW,29-064,90,0,0,0,0,1,0,0,0,18,1,0,0,0.1,0.1,0.0,1,0,9,10,90.0,1,11,1,0,0
+Miguel Almirón,24,py PAR,CM,27-081,72,0,0,0,0,0,0,1,0,29,1,0,2,0.0,0.0,0.0,0,0,19,23,82.6,1,23,3,0,0
+Joelinton,9,br BRA,RM,24-261,18,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,2,0,5,7,71.4,0,6,0,2,2
+Jonjo Shelvey,8,eng ENG,"CM,CB",29-064,90,0,0,0,0,1,0,0,0,55,0,1,0,0.0,0.0,0.0,0,0,43,53,81.1,2,39,0,0,0
+Sean Longstaff,36,eng ENG,CM,23-184,90,0,0,0,0,0,0,0,0,53,4,0,3,0.0,0.0,0.1,2,0,34,43,79.1,0,31,1,1,1
+Matt Ritchie,11,sct SCO,"LB,LM",31-234,90,0,0,0,0,0,0,0,0,47,0,1,1,0.0,0.0,0.1,3,0,31,43,72.1,3,31,2,3,2
+Paul Dummett,3,wls WAL,"CB,LB",29-218,90,0,0,0,0,0,0,0,0,52,1,1,0,0.0,0.0,0.0,0,0,44,47,93.6,1,41,0,0,0
+Ciaran Clark,2,ie IRL,CB,31-218,83,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,0,0,35,40,87.5,1,33,0,0,0
+Dwight Gayle,12,eng ENG,"FW,CM",30-197,7,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Federico Fernández,18,ar ARG,CB,32-070,71,0,0,0,0,1,0,1,0,51,0,1,2,0.0,0.0,0.0,0,0,41,43,95.3,2,34,0,0,0
+Fabian Schär,5,ch SUI,CB,29-133,18,0,0,0,0,0,0,0,1,18,1,1,0,0.0,0.0,0.0,0,0,13,15,86.7,1,14,0,1,0
+Jacob Murphy,23,eng ENG,RB,26-067,90,0,0,0,0,0,0,0,0,64,2,1,1,0.0,0.0,0.0,1,0,39,52,75.0,1,40,2,1,1
+Martin Dúbravka,1,sk SVK,GK,32-107,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,22,0,0,0

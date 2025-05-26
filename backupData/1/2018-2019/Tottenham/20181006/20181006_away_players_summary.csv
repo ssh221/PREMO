@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Paterson,13,sct SCO,FW,23-358,77,0,0,0,0,0,0,0,0,25,0,0,2,0.0,0.0,0.5,3,0,6,18,33.3,3,11,1,3,0
+Danny Ward,9,eng ENG,FW,26-299,7,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,4,1,1,0
+Bobby De Cordova-Reid,14,jm JAM,FW,25-246,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0
+Josh Murphy,11,eng ENG,"LM,RM",23-224,90,0,0,0,0,3,2,0,0,28,1,0,3,0.5,0.5,0.0,1,0,10,14,71.4,1,17,2,2,1
+Harry Arter,7,ie IRL,CM,28-282,90,0,0,0,0,2,2,1,0,33,3,3,0,0.1,0.1,0.0,0,0,19,25,76.0,4,11,0,0,0
+Víctor Camarasa,21,es ESP,CM,24-131,90,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.2,3,0,20,27,74.1,3,18,1,2,0
+Junior Hoilett,33,ca CAN,RM,28-123,77,0,0,0,0,1,0,0,0,28,0,2,1,0.7,0.7,0.0,1,0,10,14,71.4,1,18,0,3,2
+Kadeem Harris,23,eng ENG,LM,25-120,13,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Joe Ralls,8,eng ENG,DM,24-359,57,0,0,0,0,0,0,0,1,23,2,0,0,0.0,0.0,0.0,1,0,17,21,81.0,1,12,0,0,0
+Joe Bennett,3,eng ENG,LB,28-192,90,0,0,0,0,0,0,0,0,51,3,3,2,0.0,0.0,0.0,0,0,24,32,75.0,2,15,0,3,2
+Sol Bamba,22,ci CIV,CB,33-266,90,0,0,0,0,1,0,0,0,37,1,2,4,0.0,0.0,0.0,0,0,13,19,68.4,3,12,0,0,0
+Sean Morrison,4,eng ENG,CB,27-271,90,0,0,0,0,1,1,0,0,37,0,2,5,0.1,0.1,0.0,0,0,5,16,31.3,1,7,0,0,0
+Bruno Ecuele Manga,5,ga GAB,RB,30-082,90,0,0,0,0,0,0,0,0,46,4,4,0,0.0,0.0,0.0,0,0,18,29,62.1,3,20,0,0,0
+Neil Etheridge,1,ph PHI,GK,28-241,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,2,0,11,31,35.5,0,17,0,0,0

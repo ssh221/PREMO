@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,17,no NOR,"FW,RM",27-053,89,0,0,0,0,3,1,0,0,42,1,0,2,0.6,0.6,0.0,2,1,15,26,57.7,3,29,10,6,4
+Lys Mousset,9,fr FRA,RM,23-029,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,1,1
+Callum Wilson,13,eng ENG,FW,27-010,90,1,1,0,0,2,2,0,0,28,0,0,0,0.8,0.8,0.3,4,1,14,21,66.7,2,19,1,1,0
+Ryan Fraser,24,sct SCO,LM,25-013,90,1,1,0,0,1,1,1,0,70,3,0,2,0.3,0.3,1.3,4,1,41,61,67.2,7,40,6,2,1
+Andrew Surman,6,eng ENG,CM,32-201,90,0,0,0,0,0,0,0,0,41,1,1,5,0.0,0.0,0.0,0,0,24,30,80.0,1,11,0,0,0
+Jefferson Lerma,8,co COL,CM,24-135,90,0,0,0,0,0,0,0,0,59,5,2,1,0.0,0.0,0.0,0,0,36,46,78.3,1,17,0,0,0
+David Brooks,20,wls WAL,RM,21-244,64,0,0,0,0,0,0,0,0,28,0,0,1,0.0,0.0,0.1,2,1,12,19,63.2,4,17,3,3,1
+Dominic Solanke,29,eng ENG,FW,21-176,26,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.1,3,0,4,8,50.0,1,8,1,2,2
+Charlie Daniels,11,eng ENG,LB,32-183,90,0,0,0,0,0,0,0,0,70,2,2,1,0.0,0.0,0.0,0,0,45,62,72.6,0,20,3,2,2
+Nathan Aké,5,nl NED,CB,24-019,90,0,0,0,0,1,0,0,0,52,2,1,1,0.1,0.1,0.0,0,0,26,37,70.3,0,22,0,0,0
+Chris Mepham,33,wls WAL,CB,21-124,90,0,0,0,0,0,0,0,0,37,2,0,1,0.0,0.0,0.0,0,0,17,22,77.3,3,14,1,0,0
+Adam Smith,15,eng ENG,RB,27-314,43,0,0,0,0,0,0,0,0,26,2,0,2,0.0,0.0,0.0,0,0,14,19,73.7,1,11,0,1,0
+Nathaniel Clyne,23,eng ENG,RB,27-338,47,0,0,0,0,1,0,0,0,30,1,2,2,0.1,0.1,0.0,1,0,13,19,68.4,4,11,1,2,0
+Artur Boruc,1,pl POL,GK,39-017,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,18,32,56.3,0,8,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Oliver Burke,14,sct SCO,FW,23-280,57,0,0,0,0,4,0,0,0,31,0,0,2,0.2,0.2,0.6,4,0,11,15,73.3,2,17,2,4,1
+Billy Sharp,10,eng ENG,FW,34-342,33,1,0,1,1,0,0,1,0,15,0,0,0,0.8,0.0,0.0,1,0,3,8,37.5,1,7,1,0,0
+David McGoldrick,17,ie IRL,"FW,AM",33-044,89,0,0,0,0,2,1,1,0,52,2,0,0,0.2,0.2,0.0,4,0,33,40,82.5,4,33,0,3,2
+Phil Jagielka,15,eng ENG,AM,38-148,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+John Fleck,4,sct SCO,"CM,LM",29-141,90,0,0,0,0,1,0,0,0,79,1,1,0,0.0,0.0,0.1,4,0,62,67,92.5,11,40,3,3,1
+Oliver Norwood,16,nir NIR,"CM,DM",29-275,90,0,0,0,0,0,0,0,0,83,1,0,0,0.0,0.0,0.0,2,0,58,78,74.4,5,55,0,0,0
+John Lundstram,7,eng ENG,"CM,RM",26-329,90,0,0,0,0,4,0,0,0,85,0,0,2,0.2,0.2,0.1,5,0,69,75,92.0,8,52,5,1,1
+Ben Osborn,23,eng ENG,"WB,LB",26-160,90,0,0,0,0,0,0,0,0,83,1,0,1,0.0,0.0,0.1,3,0,65,78,83.3,9,56,0,1,1
+Jayden Bogle,20,eng ENG,"WB,RB",20-169,90,0,0,0,0,3,2,0,0,59,0,0,0,0.6,0.6,0.1,3,0,39,45,86.7,2,29,1,3,1
+Ethan Ampadu,22,wls WAL,CB,20-120,90,0,0,0,0,0,0,0,0,97,3,4,0,0.0,0.0,0.3,2,0,72,83,86.7,10,53,2,0,0
+John Egan,12,ie IRL,CB,28-084,90,0,0,0,0,0,0,0,0,63,3,1,0,0.0,0.0,0.0,0,0,49,53,92.5,2,35,2,0,0
+Chris Basham,6,eng ENG,CB,32-176,50,0,0,0,0,0,0,0,0,42,0,2,0,0.0,0.0,0.0,0,0,38,41,92.7,5,30,1,0,0
+Rhian Brewster,24,eng ENG,FW,20-286,40,0,0,0,0,2,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,4,7,57.1,0,10,3,0,0
+Aaron Ramsdale,1,eng ENG,GK,22-243,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,11,22,50.0,0,15,0,0,0

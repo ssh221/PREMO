@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lucas Moura,27,br BRA,"LW,FW",26-173,59,0,0,0,0,2,0,0,0,22,0,0,0,0.2,0.2,0.3,1,0,12,12,100.0,0,10,0,3,0
+Fernando Llorente,18,es ESP,FW,33-341,31,0,1,0,0,4,0,0,0,19,0,0,1,0.5,0.5,0.3,2,1,7,9,77.8,0,6,0,0,0
+Son Heung-min,7,kr KOR,"FW,LW,AM",26-209,88,1,0,0,0,5,1,0,0,61,1,0,1,0.2,0.2,0.5,4,0,39,45,86.7,4,41,5,6,4
+Eric Dier,15,eng ENG,DM,25-018,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0
+Érik Lamela,11,ar ARG,RW,26-335,77,0,0,0,0,3,0,0,0,59,0,1,1,0.4,0.4,0.2,7,0,47,52,90.4,2,37,3,3,2
+Danny Rose,3,eng ENG,WB,28-215,13,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,7,0,1,0
+Christian Eriksen,23,dk DEN,"AM,FW",26-353,90,0,0,0,0,3,0,0,0,104,4,0,4,0.8,0.8,0.4,10,0,62,84,73.8,8,59,4,2,1
+Harry Winks,8,eng ENG,"DM,CM",23-000,90,0,0,0,0,0,0,0,0,116,1,0,1,0.0,0.0,0.0,3,0,99,112,88.4,9,89,9,0,0
+Moussa Sissoko,17,fr FRA,"DM,CM",29-170,90,0,0,0,0,1,1,0,0,71,0,0,1,0.0,0.0,0.0,0,0,58,67,86.6,3,39,1,1,1
+Jan Vertonghen,5,be BEL,"LB,CB",31-284,90,0,0,0,0,1,0,0,0,138,2,4,2,0.1,0.1,0.0,1,0,97,123,78.9,10,68,7,1,1
+Toby Alderweireld,4,be BEL,CB,29-337,90,0,0,0,0,0,0,0,0,90,0,0,4,0.0,0.0,0.0,3,1,70,78,89.7,10,59,4,0,0
+Davinson Sánchez,6,co COL,CB,22-235,90,0,0,0,0,2,0,0,0,92,2,2,0,0.1,0.1,0.0,0,0,74,81,91.4,7,50,2,0,0
+Kieran Trippier,2,eng ENG,"RB,WB",28-136,90,0,0,0,0,0,0,0,0,106,0,0,1,0.0,0.0,0.2,6,0,83,104,79.8,10,58,2,0,0
+Hugo Lloris,1,fr FRA,GK,32-038,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,18,0,0,0

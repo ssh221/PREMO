@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,26-227,88,1,0,0,0,2,1,0,0,35,0,0,0,0.2,0.2,0.1,4,1,19,27,70.4,3,21,4,2,1
+Youssef Chermiti,28,pt POR,FW,19-158,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,1,0,0,0
+Abdoulaye Doucouré,16,ml MLI,FW,30-301,90,0,0,0,0,2,1,0,0,46,1,1,0,0.2,0.2,0.0,2,0,22,29,75.9,1,26,3,2,0
+Dwight McNeil,7,eng ENG,LM,23-341,90,0,0,0,0,2,1,0,0,55,5,1,1,0.1,0.1,0.2,3,0,23,38,60.5,5,30,5,3,2
+Amadou Onana,8,be BEL,CM,22-074,90,0,0,0,0,1,0,0,0,63,6,0,2,0.1,0.1,0.1,2,0,41,47,87.2,5,32,2,3,1
+James Garner,37,eng ENG,CM,22-230,90,0,0,0,0,0,0,0,0,45,4,3,1,0.0,0.0,0.0,0,0,27,33,81.8,2,24,2,0,0
+Jack Harrison,11,eng ENG,RM,26-343,90,0,1,0,0,2,1,0,0,26,2,0,0,0.2,0.2,0.2,2,1,12,14,85.7,2,15,2,2,0
+Vitaliy Mykolenko,19,ua UKR,LB,24-153,90,0,0,0,0,0,0,0,0,59,6,4,0,0.0,0.0,0.0,2,0,35,46,76.1,2,21,0,0,0
+Jarrad Branthwaite,32,eng ENG,CB,21-124,90,0,0,0,0,0,0,0,0,64,2,2,4,0.0,0.0,0.0,1,0,33,46,71.7,1,25,0,0,0
+James Tarkowski,6,eng ENG,CB,30-344,90,0,0,0,0,1,0,0,0,48,0,1,1,0.0,0.0,0.0,0,0,33,42,78.6,2,19,0,1,1
+Nathan Patterson,2,sct SCO,RB,22-013,90,0,0,0,0,0,0,0,0,55,3,2,2,0.0,0.0,0.0,0,0,32,42,76.2,5,21,0,1,0
+Jordan Pickford,1,eng ENG,GK,29-236,90,0,0,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.0,0,0,25,38,65.8,0,23,0,0,0

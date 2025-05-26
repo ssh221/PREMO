@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,20,fr FRA,FW,26-090,73,0,0,0,0,2,1,0,0,20,1,0,0,0.3,0.3,0.0,1,0,8,12,66.7,0,13,0,0,0
+Thomas Cannon,47,ie IRL,FW,19-319,17,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,5,1,2,1
+Demarai Gray,11,jm JAM,LW,26-137,90,0,0,0,0,3,0,0,0,62,1,1,1,0.1,0.1,0.0,7,0,38,53,71.7,3,41,6,3,3
+Dwight McNeil,7,eng ENG,RW,22-355,74,0,0,0,0,2,0,0,0,50,4,1,0,0.1,0.1,0.0,3,0,32,38,84.2,1,29,1,2,0
+Anthony Gordon,10,eng ENG,RW,21-261,16,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.1,2,0,9,10,90.0,0,8,0,0,0
+Amadou Onana,8,be BEL,LM,21-088,74,0,0,0,0,1,0,0,0,40,3,0,1,0.1,0.1,0.0,2,0,19,22,86.4,3,24,1,5,1
+Abdoulaye Doucouré,16,ml MLI,LM,29-315,16,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,5,10,50.0,0,9,1,0,0
+Idrissa Gana Gueye,27,sn SEN,CM,33-047,90,0,0,0,0,0,0,0,0,86,7,1,0,0.0,0.0,0.1,3,0,54,71,76.1,3,44,1,2,0
+Alex Iwobi,17,ng NGA,RM,26-193,90,0,0,0,0,1,1,0,0,55,4,0,0,0.0,0.0,0.2,2,0,39,46,84.8,5,39,3,1,0
+Vitaliy Mykolenko,19,ua UKR,LB,23-167,28,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,20,23,87.0,5,14,0,0,0
+Séamus Coleman,23,ie IRL,LB,34-032,62,0,0,0,0,1,0,0,0,58,2,1,0,0.0,0.0,0.0,1,0,48,52,92.3,6,38,2,2,1
+James Tarkowski,2,eng ENG,CB,29-358,90,0,0,0,0,1,0,0,0,80,3,0,4,0.0,0.0,0.0,1,0,60,71,84.5,6,41,1,1,1
+Conor Coady,30,eng ENG,CB,29-260,90,0,0,0,0,0,0,0,0,86,0,1,0,0.0,0.0,0.1,4,0,75,82,91.5,8,63,2,0,0
+Nathan Patterson,3,sct SCO,RB,21-027,90,0,0,0,0,3,0,0,0,74,3,1,0,0.1,0.1,0.0,1,0,53,61,86.9,1,35,1,1,1
+Jordan Pickford,1,eng ENG,GK,28-250,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,18,0,0,0

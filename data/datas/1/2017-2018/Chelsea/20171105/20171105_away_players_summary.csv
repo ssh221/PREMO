@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,19,eng ENG,"FW,RW",20-005,90,0,0,0,0,4,0,0,0,40,0,0,1,0.5,0.5,0.0,1,0,14,28,50.0,0,20,0,3,0
+Romelu Lukaku,9,be BEL,FW,24-176,90,0,0,0,0,1,1,0,0,24,0,0,0,0.0,0.0,0.0,2,0,11,16,68.8,2,10,0,0,0
+Henrikh Mkhitaryan,22,am ARM,AM,28-288,61,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,0,0,19,20,95.0,1,10,0,2,1
+Anthony Martial,11,fr FRA,LW,21-335,29,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,0,14,0,0,0
+Nemanja Matić,31,rs SRB,"CM,LM",29-096,90,0,0,0,0,0,0,0,0,74,2,2,1,0.0,0.0,0.0,5,0,51,63,81.0,7,47,0,1,1
+Ander Herrera,21,es ESP,CM,28-083,90,0,0,0,0,2,0,1,0,56,2,3,4,0.0,0.0,0.0,0,0,35,42,83.3,4,20,0,0,0
+Ashley Young,18,eng ENG,"WB,LB",32-119,77,0,0,0,0,1,0,0,0,54,1,0,1,0.0,0.0,0.3,1,0,31,45,68.9,1,20,2,2,2
+Jesse Lingard,14,eng ENG,LB,24-325,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,6,0,0,0
+Antonio Valencia,25,ec ECU,"WB,RB",32-093,90,0,0,0,0,0,0,0,0,74,1,2,0,0.0,0.0,0.0,2,0,50,66,75.8,3,34,2,1,0
+Phil Jones,4,eng ENG,CB,25-257,61,0,0,0,0,0,0,1,0,28,0,1,1,0.0,0.0,0.0,0,0,20,23,87.0,1,13,1,0,0
+Marouane Fellaini,27,be BEL,RM,29-348,29,0,0,0,0,1,1,1,0,22,1,0,0,0.1,0.1,0.1,3,0,10,16,62.5,1,11,0,0,0
+Chris Smalling,12,eng ENG,CB,27-348,90,0,0,0,0,0,0,0,0,38,3,1,1,0.0,0.0,0.0,1,0,24,27,88.9,3,15,0,0,0
+Eric Bailly,3,ci CIV,CB,23-207,90,0,0,0,0,0,0,0,0,54,2,5,1,0.0,0.0,0.1,1,0,31,40,77.5,1,24,0,0,0
+David de Gea,1,es ESP,GK,26-363,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,18,39,46.2,0,19,0,0,0

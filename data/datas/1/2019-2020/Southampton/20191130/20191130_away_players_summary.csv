@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gerard Deulofeu,7,es ESP,FW,25-262,66,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,19,28,67.9,1,15,1,2,0
+Andre Gray,18,jm JAM,FW,28-157,24,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,1,5,2,1,0
+Ismaila Sarr,23,sn SEN,FW,21-278,90,1,0,0,0,4,3,0,0,28,0,0,0,0.4,0.4,0.0,1,0,9,12,75.0,0,19,2,6,3
+Will Hughes,19,eng ENG,CM,24-227,73,0,0,0,0,0,0,0,0,25,2,1,0,0.0,0.0,0.0,1,0,15,22,68.2,2,14,1,1,1
+Nathaniel Chalobah,14,eng ENG,CM,24-353,17,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,4,0,0,0
+Étienne Capoue,29,fr FRA,CM,31-142,90,0,0,0,0,0,0,0,0,68,2,5,2,0.0,0.0,0.0,1,0,36,51,70.6,6,28,0,2,1
+Abdoulaye Doucouré,16,ml MLI,CM,26-333,90,0,0,0,0,1,0,0,0,55,3,0,3,0.0,0.0,0.1,2,0,28,46,60.9,1,32,1,1,1
+José Holebas,25,gr GRE,LB,35-156,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.1,2,0,32,50,64.0,7,22,0,1,0
+Adam Masina,11,ma MAR,CB,25-332,90,0,0,0,0,0,0,0,0,40,2,0,0,0.0,0.0,0.0,0,0,13,32,40.6,2,16,0,0,0
+Adrian Mariappa,6,jm JAM,CB,33-058,90,0,0,0,0,0,0,0,0,34,0,2,0,0.0,0.0,0.0,0,0,15,24,62.5,1,13,0,0,0
+Craig Cathcart,15,nir NIR,CB,30-297,90,0,0,0,0,0,0,0,0,41,1,2,3,0.0,0.0,0.0,0,0,22,28,78.6,1,13,0,0,0
+Kiko Femenía,21,es ESP,RB,28-301,81,0,0,0,0,0,0,0,0,48,5,3,2,0.0,0.0,0.0,1,1,24,33,72.7,2,14,0,0,0
+Dimitri Foulquier,36,fr FRA,RB,26-252,9,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,1,1,1,1
+Ben Foster,26,eng ENG,GK,36-241,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,15,33,45.5,0,15,0,0,0

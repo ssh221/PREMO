@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,33-340,90,0,0,0,0,3,1,0,0,17,1,0,0,0.4,0.4,0.1,2,0,5,13,38.5,0,6,0,0,0
+Harvey Barnes,15,eng ENG,LW,23-007,90,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.0,2,0,21,27,77.8,2,24,5,5,4
+Cengiz Ünder,19,tr TUR,RW,23-155,61,0,0,0,0,3,1,0,0,35,1,1,0,0.1,0.1,0.0,3,0,16,22,72.7,1,18,2,6,3
+Ayoze Pérez,17,es ESP,RW,27-140,29,0,0,0,0,2,0,0,0,18,1,0,0,0.1,0.1,0.1,2,0,9,11,81.8,2,10,3,0,0
+James Maddison,10,eng ENG,"AM,DM",24-023,90,0,0,0,0,2,0,0,0,71,4,0,1,0.1,0.1,0.2,5,0,51,58,87.9,5,35,5,1,0
+Nampalys Mendy,24,sn SEN,DM,28-176,72,0,0,0,0,0,0,1,0,61,0,0,0,0.0,0.0,0.0,1,0,54,58,93.1,0,41,1,1,1
+Kelechi Iheanacho,14,ng NGA,AM,24-074,18,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,7,2,1,1
+Youri Tielemans,8,be BEL,DM,23-223,90,0,0,0,0,2,0,0,0,60,2,1,0,0.1,0.1,0.0,3,0,40,54,74.1,8,26,3,1,1
+Christian Fuchs,28,at AUT,LB,34-253,90,0,0,0,0,0,0,1,0,92,1,0,0,0.0,0.0,0.0,1,0,71,85,83.5,4,44,0,0,0
+Wilfred Ndidi,25,ng NGA,CB,24-000,90,0,0,0,0,0,0,0,0,99,6,2,1,0.0,0.0,0.0,0,0,78,86,90.7,1,52,1,0,0
+Wesley Fofana,3,fr FRA,CB,19-365,90,0,0,0,0,1,0,0,0,106,2,4,4,0.1,0.1,0.0,2,0,77,86,89.5,3,69,3,1,1
+James Justin,2,eng ENG,RB,22-297,90,0,0,0,0,0,0,0,0,72,2,1,1,0.0,0.0,0.3,4,0,45,65,69.2,3,21,5,0,0
+Kasper Schmeichel,1,dk DEN,GK,34-041,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,0,18,19,94.7,0,12,0,0,0

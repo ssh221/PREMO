@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Taiwo Awoniyi,9,ng NGA,FW,25-260,53,0,0,0,0,1,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,8,14,57.1,1,8,0,1,1
+André Ayew,34,gh GHA,FW,33-133,37,0,0,0,0,0,0,1,0,14,0,0,2,0.0,0.0,0.0,1,0,7,8,87.5,4,3,0,2,0
+Morgan Gibbs-White,10,eng ENG,AM,23-092,90,0,0,0,0,2,1,0,0,32,1,0,1,0.1,0.1,0.0,1,1,17,23,73.9,4,16,2,0,0
+Brennan Johnson,20,wls WAL,AM,21-341,65,0,0,0,0,0,0,0,0,17,2,0,1,0.0,0.0,0.0,1,0,6,9,66.7,0,3,0,1,0
+Cheikhou Kouyaté,21,sn SEN,AM,33-129,25,0,0,0,0,0,0,0,0,6,2,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0
+Danilo,28,br BRA,CM,22-000,90,1,0,0,0,1,1,0,0,34,3,2,0,0.5,0.5,0.0,0,0,10,21,47.6,3,12,0,0,0
+Orel Mangala,5,be BEL,CM,25-042,80,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,1,0,23,30,76.7,1,18,1,0,0
+Ryan Yates,22,eng ENG,CM,25-159,10,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0
+Renan Lodi,32,br BRA,WB,25-021,90,0,0,0,0,0,0,0,0,35,2,1,1,0.0,0.0,0.0,1,0,14,25,56.0,2,15,0,0,0
+Serge Aurier,24,ci CIV,WB,30-126,90,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,1,0,15,24,62.5,2,10,0,0,0
+Moussa Niakhate,19,sn SEN,CB,27-052,90,0,0,0,0,1,1,0,0,58,4,2,1,0.0,0.0,0.0,0,0,28,39,71.8,2,18,0,0,0
+Felipe,38,br BRA,CB,33-348,90,0,0,0,0,0,0,1,0,34,3,1,0,0.0,0.0,0.0,1,0,17,27,63.0,2,10,1,0,0
+Joe Worrall,4,eng ENG,CB,26-109,90,0,0,0,0,0,0,0,0,47,2,0,0,0.0,0.0,0.0,0,0,24,38,63.2,1,5,0,0,0
+Keylor Navas,12,cr CRC,GK,36-135,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,12,25,48.0,0,16,0,0,0

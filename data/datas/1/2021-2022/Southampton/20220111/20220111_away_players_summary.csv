@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ivan Toney,17,eng ENG,FW,25-301,90,0,0,0,0,2,1,1,0,44,0,0,2,0.2,0.2,0.0,1,0,10,22,45.5,5,23,0,3,1
+Bryan Mbeumo,19,cm CMR,FW,22-157,90,0,1,0,0,1,1,0,0,26,1,0,1,0.2,0.2,0.1,1,1,9,17,52.9,3,22,2,1,1
+Shandon Baptiste,26,gd GRN,CM,23-278,55,0,0,0,0,0,0,0,0,26,1,2,0,0.0,0.0,0.0,1,0,13,18,72.2,2,17,1,2,1
+Yoane Wissa,11,cd COD,CM,25-130,35,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,4,1,2,0
+Christian Nørgaard,6,dk DEN,CM,27-307,90,0,0,0,0,0,0,0,0,80,1,0,3,0.0,0.0,0.0,0,0,54,70,77.1,6,41,1,1,1
+Vitaly Janelt,27,de GER,"CM,CB",23-246,90,1,0,0,0,2,2,0,0,61,3,0,0,0.1,0.1,0.0,1,0,38,50,76.0,6,37,1,2,2
+Sergi Canós,7,es ESP,WB,24-343,75,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,0,0,12,21,57.1,0,20,1,0,0
+Finley Stevens,36,wls WAL,WB,18-276,15,0,0,0,0,0,0,0,0,9,3,0,0,0.0,0.0,0.1,1,0,5,7,71.4,2,5,0,0,0
+Mads Roerslev,30,dk DEN,WB,22-201,90,0,0,0,0,0,0,0,0,43,0,2,0,0.0,0.0,0.0,1,1,22,31,71.0,1,24,0,2,1
+Ethan Pinnock,5,jm JAM,CB,28-227,67,0,0,0,0,0,0,0,0,66,0,1,3,0.0,0.0,0.0,0,0,41,54,75.9,3,32,2,2,1
+Mathias Jensen,8,dk DEN,"CM,CB",26-010,23,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.2,1,0,10,17,58.8,3,8,0,1,1
+Pontus Jansson,18,se SWE,CB,30-332,90,0,0,0,0,0,0,0,0,59,1,0,1,0.0,0.0,0.0,0,0,48,54,88.9,1,36,0,0,0
+Kristoffer Ajer,20,no NOR,CB,23-269,90,0,0,0,0,0,0,0,0,69,2,0,0,0.0,0.0,0.0,1,0,45,61,73.8,3,34,0,1,1
+Álvaro Fernández,40,es ESP,GK,23-273,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,34,46,73.9,0,31,0,0,0

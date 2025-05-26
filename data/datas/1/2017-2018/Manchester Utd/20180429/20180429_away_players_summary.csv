@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,FW,28-315,90,0,0,0,0,1,1,0,0,30,0,0,0,0.2,0.2,0.0,1,0,17,25,68.0,0,16,1,0,0
+Reiss Nelson,61,eng ENG,LW,18-140,63,0,0,0,0,2,0,0,0,31,0,1,1,0.1,0.1,0.0,2,0,19,22,86.4,3,22,3,2,1
+Danny Welbeck,23,eng ENG,LW,27-154,27,0,0,0,0,1,1,0,0,18,5,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,12,0,1,0
+Henrikh Mkhitaryan,7,am ARM,RW,29-098,75,1,0,0,0,3,1,0,0,45,2,0,1,0.1,0.1,0.1,1,0,25,35,71.4,3,39,3,3,3
+Joe Willock,69,eng ENG,LM,18-252,15,0,0,0,0,0,0,0,0,10,0,0,2,0.0,0.0,0.0,0,0,3,5,60.0,0,4,1,0,0
+Alex Iwobi,17,ng NGA,"AM,RW",21-361,90,0,0,0,0,0,0,0,0,51,2,0,1,0.0,0.0,0.0,1,0,42,46,91.3,6,40,3,3,2
+Granit Xhaka,29,ch SUI,"DM,CM",25-214,90,0,1,0,0,0,0,1,0,90,4,2,0,0.0,0.0,0.1,5,2,72,81,88.9,10,63,4,1,1
+Ainsley Maitland-Niles,30,eng ENG,"DM,RM",20-243,90,0,0,0,0,1,0,0,0,52,3,0,3,0.1,0.1,0.1,2,0,35,38,92.1,5,36,4,3,2
+Sead Kolašinac,31,ba BIH,LB,24-313,63,0,0,0,0,0,0,0,0,50,5,1,0,0.0,0.0,0.0,0,0,32,43,74.4,3,25,1,0,0
+Nacho Monreal,18,es ESP,LB,32-062,27,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,7,2,1,1
+Konstantinos Mavropanos,27,gr GRE,CB,20-139,90,0,0,0,0,0,0,0,0,47,1,3,3,0.0,0.0,0.0,0,0,34,37,91.9,2,27,1,1,1
+Calum Chambers,21,eng ENG,CB,23-099,90,0,0,0,0,0,0,0,0,69,3,3,2,0.0,0.0,0.0,0,0,35,49,71.4,2,42,0,1,1
+Héctor Bellerín,24,es ESP,RB,23-041,90,0,0,0,0,0,0,0,0,66,3,3,5,0.0,0.0,0.2,2,0,41,49,83.7,2,28,1,1,1
+David Ospina,13,co COL,GK,29-241,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,10,0,0,0

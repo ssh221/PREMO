@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Javier Hernández,17,mx MEX,FW,29-247,90,1,0,0,0,1,1,0,0,30,1,0,0,0.1,0.1,0.0,2,2,17,25,68.0,1,17,2,5,4
+João Mário,18,pt POR,"AM,LM",25-015,90,0,1,0,0,1,0,0,0,56,1,0,0,0.1,0.1,0.1,1,0,34,45,75.6,4,35,2,7,3
+Cheikhou Kouyaté,8,sn SEN,"AM,CM,RM",28-044,90,0,0,0,0,0,0,0,0,45,4,1,1,0.0,0.0,0.0,1,0,22,30,73.3,1,20,1,1,1
+Mark Noble,16,eng ENG,CM,30-271,90,0,0,0,0,0,0,0,0,64,2,2,1,0.0,0.0,0.0,1,0,46,55,83.6,8,31,0,0,0
+Pablo Zabaleta,5,ar ARG,"CM,RB",33-018,90,0,0,0,0,0,0,0,0,51,0,4,5,0.0,0.0,0.0,0,0,28,35,80.0,5,21,0,0,0
+Aaron Cresswell,3,eng ENG,"WB,LB",28-050,90,0,0,0,0,0,0,1,0,59,1,2,1,0.0,0.0,0.3,3,0,40,53,75.5,2,28,0,1,1
+Sam Byram,22,eng ENG,"WB,RB",24-140,79,0,0,0,0,2,0,0,0,55,4,2,2,0.2,0.2,0.0,0,0,16,34,47.1,2,11,1,1,1
+Jordan Hugill,12,eng ENG,"FW,RB",25-244,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,1,1
+Declan Rice,41,eng ENG,CB,19-020,65,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,0,0,25,32,78.1,4,17,3,0,0
+Michail Antonio,30,jm JAM,"RM,FW,CB",27-312,25,0,0,0,0,0,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,7,11,63.6,1,10,1,0,0
+Angelo Ogbonna,21,it ITA,CB,29-256,90,0,0,0,0,0,0,0,0,56,2,2,2,0.0,0.0,0.0,0,0,30,42,71.4,4,26,0,0,0
+James Collins,19,wls WAL,CB,34-164,90,0,0,0,0,0,0,0,0,42,1,4,1,0.0,0.0,0.0,0,0,22,28,78.6,2,18,0,0,0
+Adrián,13,es ESP,GK,31-031,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,15,32,46.9,0,12,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,7,fr FRA,FW,23-066,80,0,0,0,0,6,2,0,0,32,0,0,0,0.3,0.3,0.1,4,0,20,23,87.0,3,20,3,1,1
+Steven Alzate,46,co COL,LM,21-041,10,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,1,2,1
+Aaron Connolly,44,ie IRL,FW,19-264,45,0,0,0,0,2,1,0,0,14,0,0,0,0.2,0.2,0.0,1,0,4,5,80.0,2,7,1,0,0
+Solly March,20,eng ENG,"LM,FW",25-091,45,0,0,0,0,2,0,1,0,27,0,2,0,0.1,0.1,0.0,1,0,15,20,75.0,3,18,6,0,0
+Aaron Mooy,18,au AUS,LM,29-034,34,0,0,0,0,0,0,2,1,19,1,0,0,0.0,0.0,0.0,2,0,12,17,70.6,4,12,1,1,0
+Dale Stephens,6,eng ENG,CM,30-129,90,0,0,0,0,1,0,0,0,94,0,2,2,0.0,0.0,0.1,4,0,79,85,92.9,12,48,1,0,0
+Davy Pröpper,24,nl NED,CM,28-047,90,0,0,0,0,1,0,0,0,75,2,1,1,0.0,0.0,0.1,5,0,55,64,85.9,9,38,1,1,1
+Pascal Groß,13,de GER,RM,28-126,90,0,1,0,0,3,0,0,0,66,3,2,3,0.1,0.1,0.6,10,1,41,53,77.4,9,31,6,3,3
+Dan Burn,33,eng ENG,LB,27-163,90,0,0,0,0,0,0,0,0,59,1,1,1,0.0,0.0,0.1,2,0,36,50,72.0,6,25,3,1,1
+Lewis Dunk,5,eng ENG,CB,27-332,90,0,0,0,0,0,0,0,0,59,0,2,1,0.0,0.0,0.0,2,0,44,50,88.0,0,38,0,0,0
+Adam Webster,15,eng ENG,"CB,RB",24-288,90,1,0,0,0,3,1,0,0,63,2,0,3,0.2,0.2,0.0,1,0,38,48,79.2,1,33,1,0,0
+Martín Montoya,22,es ESP,RB,28-188,69,0,0,0,0,2,1,1,0,55,2,0,0,0.3,0.3,0.1,4,1,40,48,83.3,4,25,5,1,1
+Shane Duffy,4,ie IRL,CB,27-291,21,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0
+Mathew Ryan,1,au AUS,GK,27-194,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,32,39,82.1,0,18,0,0,0

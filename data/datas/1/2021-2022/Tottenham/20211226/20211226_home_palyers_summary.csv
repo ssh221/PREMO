@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,28-151,63,1,0,0,0,2,1,0,0,27,0,0,0,0.5,0.5,0.0,1,1,17,19,89.5,3,22,2,1,1
+Steven Bergwijn,23,nl NED,FW,24-079,27,0,0,0,0,2,1,0,0,13,0,0,0,0.0,0.0,0.0,3,0,5,7,71.4,0,11,1,1,0
+Son Heung-min,7,kr KOR,AM,29-171,75,1,0,0,0,2,2,0,0,40,1,2,0,0.4,0.4,0.1,4,0,30,34,88.2,6,26,4,2,2
+Bryan Gil,11,es ESP,AM,20-318,15,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,2,0,9,11,81.8,1,8,0,0,0
+Lucas Moura,27,br BRA,AM,29-135,90,1,2,0,0,5,1,0,0,39,0,0,0,0.9,0.9,0.9,4,2,26,30,86.7,2,28,2,2,2
+Pierre Højbjerg,5,dk DEN,CM,26-143,78,0,0,0,0,0,0,0,0,80,2,2,1,0.0,0.0,0.0,2,0,65,74,87.8,12,61,1,2,1
+Tanguy Ndombele,28,fr FRA,CM,24-363,12,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,7,0,0,0
+Oliver Skipp,29,eng ENG,CM,21-101,90,0,0,0,0,1,0,0,0,97,3,0,2,0.1,0.1,0.2,2,1,80,83,96.4,11,70,3,2,1
+Sergio Reguilón,3,es ESP,WB,25-010,90,0,0,0,0,1,0,0,0,70,5,2,0,0.0,0.0,0.5,6,0,45,58,77.6,2,53,6,3,2
+Emerson,12,br BRA,WB,22-346,90,0,1,0,0,1,1,0,0,88,6,0,1,0.1,0.1,0.5,5,2,63,71,88.7,6,57,2,4,0
+Japhet Tanganga,25,eng ENG,CB,22-270,90,0,0,0,0,2,0,0,0,81,2,2,1,0.1,0.1,0.0,1,0,66,71,93.0,5,60,3,0,0
+Eric Dier,15,eng ENG,CB,27-345,90,0,0,0,0,0,0,0,0,88,0,1,0,0.0,0.0,0.0,0,0,80,85,94.1,6,76,0,0,0
+Davinson Sánchez,6,co COL,CB,25-197,90,0,0,0,0,1,0,1,0,86,3,3,1,0.1,0.1,0.0,2,0,73,76,96.1,9,70,2,1,0
+Hugo Lloris,1,fr FRA,GK,35-000,90,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,6,0,0,0

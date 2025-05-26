@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marko Arnautović,7,at AUT,FW,30-015,90,2,0,0,0,6,2,0,0,35,0,0,0,1.5,1.5,0.1,1,0,19,26,73.1,1,27,2,1,1
+Michail Antonio,30,jm JAM,"LM,RW",29-037,90,0,0,0,0,2,2,0,0,46,0,1,2,0.1,0.1,0.1,4,0,21,28,75.0,2,33,6,6,4
+Manuel Lanzini,10,ar ARG,"CM,LW",26-078,82,0,0,0,0,3,1,1,0,84,3,0,0,0.1,0.1,0.0,5,0,63,74,85.1,6,64,2,4,4
+Lucas Pérez,27,es ESP,LW,30-236,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,6,6,100.0,1,6,0,0,0
+Mark Noble,16,eng ENG,"CM,DM",31-361,77,0,1,0,0,0,0,0,0,75,3,0,1,0.0,0.0,0.4,4,2,58,68,85.3,7,52,0,1,1
+Carlos Sánchez,15,co COL,DM,33-087,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,0,6,0,1,1
+Grady Diangana,45,cd COD,RM,21-015,67,0,0,0,0,2,0,0,0,37,0,1,2,0.1,0.1,0.0,1,0,18,25,72.0,2,25,2,4,3
+Jack Wilshere,19,eng ENG,AM,27-123,23,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,3,0,14,16,87.5,0,13,0,0,0
+Pedro Obiang,14,gq EQG,DM,27-038,90,0,0,0,0,1,0,0,0,73,4,2,4,0.0,0.0,0.1,4,0,52,60,86.7,5,43,3,1,1
+Arthur Masuaku,26,cd COD,LB,25-178,90,0,0,0,0,1,0,0,0,94,0,1,0,0.0,0.0,0.1,3,0,70,84,83.3,12,64,11,6,5
+Issa Diop,23,fr FRA,CB,22-115,90,0,0,0,0,0,0,0,0,49,2,6,2,0.0,0.0,0.0,0,0,27,34,79.4,1,28,0,0,0
+Fabián Balbuena,4,py PAR,CB,27-254,90,0,0,0,0,0,0,0,0,46,2,2,2,0.0,0.0,0.0,0,0,25,33,75.8,2,22,0,0,0
+Ryan Fredericks,24,eng ENG,RB,26-206,90,1,0,0,0,2,1,0,0,74,4,2,2,0.1,0.1,0.0,1,1,41,59,69.5,2,35,4,4,4
+Łukasz Fabiański,1,pl POL,GK,34-016,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,15,30,50.0,0,15,0,0,0

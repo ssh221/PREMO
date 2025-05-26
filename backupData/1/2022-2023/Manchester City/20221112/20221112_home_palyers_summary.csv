@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Erling Haaland,9,no NOR,FW,22-114,90,0,0,0,0,1,0,1,0,21,0,0,0,0.0,0.0,0.6,3,0,14,19,73.7,2,6,0,0,0
+Phil Foden,47,eng ENG,"LW,LB",22-168,90,1,0,0,0,7,2,0,0,79,0,0,1,0.4,0.4,0.1,8,1,42,63,66.7,4,54,5,4,1
+Bernardo Silva,20,pt POR,"RW,DM",28-094,90,0,0,0,0,1,0,0,0,67,2,0,0,0.0,0.0,0.1,10,0,49,58,84.5,3,45,4,5,3
+İlkay Gündoğan,8,de GER,"LM,AM",32-019,90,0,0,0,0,3,0,0,0,46,0,1,1,0.4,0.4,0.0,2,0,30,34,88.2,7,28,0,1,0
+Rodri,16,es ESP,"CM,DM",26-143,90,0,0,0,0,4,1,0,0,111,3,0,2,0.2,0.2,0.0,5,0,89,97,91.8,12,72,7,1,1
+Kevin De Bruyne,17,be BEL,"RM,RW",31-137,90,0,0,0,0,2,1,0,0,82,1,0,1,0.1,0.1,0.1,6,1,45,75,60.0,12,55,5,4,2
+João Cancelo,7,pt POR,LB,28-169,85,0,0,0,0,3,1,1,0,94,1,0,0,0.2,0.2,0.0,4,0,72,87,82.8,9,75,12,1,0
+Julián Álvarez,19,ar ARG,LW,22-285,5,0,0,0,0,1,1,0,0,8,0,0,0,0.0,0.0,0.1,1,0,4,5,80.0,1,5,2,0,0
+Aymeric Laporte,14,es ESP,CB,28-169,90,0,0,0,0,3,0,0,0,92,1,1,1,0.1,0.1,0.1,2,0,70,78,89.7,9,61,7,1,1
+Manuel Akanji,25,ch SUI,CB,27-116,90,0,1,0,0,1,0,0,0,73,0,0,0,0.0,0.0,0.1,4,0,61,67,91.0,5,55,3,0,0
+John Stones,5,eng ENG,RB,28-168,90,0,0,0,0,3,0,0,0,82,1,1,0,0.2,0.2,0.1,6,0,60,73,82.2,4,47,3,0,0
+Ederson,31,br BRA,GK,29-087,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,27,30,90.0,0,21,0,0,0

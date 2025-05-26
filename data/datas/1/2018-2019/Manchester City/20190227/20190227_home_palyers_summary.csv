@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sergio Agüero,10,ar ARG,FW,30-270,84,1,0,1,1,2,0,0,0,48,0,0,0,0.9,0.1,0.1,2,0,34,39,87.2,8,32,2,0,0
+Phil Foden,47,eng ENG,LW,18-275,6,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,15,66.7,0,6,1,0,0
+Leroy Sané,19,de GER,LW,23-047,56,0,0,0,0,0,0,0,0,44,1,2,0,0.0,0.0,0.0,1,0,30,38,78.9,2,29,5,5,3
+Bernardo Silva,20,pt POR,RW,24-201,34,0,0,0,0,1,0,0,0,28,0,0,0,0.5,0.5,0.9,4,1,22,24,91.7,3,22,5,1,1
+Riyad Mahrez,26,dz ALG,RW,28-006,54,0,0,0,0,3,1,0,0,56,1,0,5,0.4,0.4,0.0,3,0,31,44,70.5,5,42,6,2,2
+Raheem Sterling,7,eng ENG,"LW,FW,RW",24-081,36,0,0,0,0,3,2,0,0,27,1,0,1,0.5,0.5,0.0,3,0,17,20,85.0,3,16,3,3,1
+David Silva,21,es ESP,"LM,RM",33-050,90,0,0,0,0,3,0,0,0,85,1,0,2,1.1,1.1,0.4,6,0,63,76,82.9,7,64,7,1,1
+İlkay Gündoğan,8,de GER,CM,28-126,90,0,0,0,0,1,0,0,0,97,2,1,0,0.1,0.1,0.0,2,0,84,90,93.3,13,65,3,0,0
+Kevin De Bruyne,17,be BEL,"RM,LM",27-244,90,0,0,0,0,3,1,0,0,88,0,0,1,0.1,0.1,0.9,6,0,53,83,63.9,10,62,8,1,1
+Oleksandr Zinchenko,35,ua UKR,LB,22-074,90,0,0,0,0,0,0,0,0,132,3,2,1,0.0,0.0,0.0,3,0,108,121,89.3,7,86,6,2,1
+Nicolás Otamendi,30,ar ARG,CB,31-015,90,0,0,0,0,1,0,0,0,108,1,1,0,0.1,0.1,0.0,3,0,96,102,94.1,7,87,1,1,1
+Vincent Kompany,4,be BEL,CB,32-323,90,0,0,0,0,0,0,0,0,87,0,0,1,0.0,0.0,0.0,1,1,75,82,91.5,9,60,3,0,0
+Danilo,3,br BRA,RB,27-227,90,0,0,0,0,2,1,0,0,94,4,2,2,0.1,0.1,0.0,0,0,68,84,81.0,11,51,3,0,0
+Ederson,31,br BRA,GK,25-194,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,20,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Son Heung-min,7,kr KOR,"FW,RM,LW",25-140,90,0,0,0,0,4,1,0,0,80,0,0,0,0.1,0.1,0.1,5,0,54,67,80.6,2,53,11,7,6
+Harry Kane,10,eng ENG,FW,24-120,90,1,0,0,0,8,3,0,0,34,1,0,0,1.2,1.2,0.0,6,0,17,21,81.0,4,26,2,7,5
+Dele Alli,20,eng ENG,"CM,LM,AM",21-228,90,0,1,0,0,4,0,0,0,56,1,0,0,0.2,0.2,0.4,5,0,41,47,87.2,7,36,5,2,1
+Harry Winks,29,eng ENG,"CM,DM",21-296,60,0,0,0,0,1,0,0,0,70,0,0,0,0.0,0.0,0.0,2,0,62,69,89.9,15,39,1,0,0
+Mousa Dembélé,19,be BEL,"CM,DM",30-132,30,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,0,0,22,24,91.7,8,14,2,1,1
+Christian Eriksen,23,dk DEN,"CM,RW",25-284,90,0,0,0,0,4,0,0,0,82,0,0,1,0.2,0.2,0.1,6,0,56,70,80.0,7,46,3,1,1
+Ben Davies,33,wls WAL,"LB,WB",24-215,90,0,0,0,0,1,0,0,0,101,3,1,1,0.0,0.0,0.1,6,0,64,88,72.7,14,41,3,2,1
+Kieran Trippier,2,eng ENG,"RB,WB",27-067,90,0,0,0,0,1,0,0,0,106,6,0,0,0.0,0.0,0.9,10,1,80,101,79.2,13,48,6,0,0
+Jan Vertonghen,5,be BEL,CB,30-215,59,0,0,0,0,0,0,0,0,77,1,1,0,0.0,0.0,0.0,2,0,66,72,91.7,11,44,1,1,1
+Fernando Llorente,18,es ESP,"FW,CB",32-272,31,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,8,12,66.7,1,7,1,1,0
+Davinson Sánchez,6,co COL,CB,21-166,90,0,0,0,0,0,0,0,0,80,2,1,0,0.0,0.0,0.0,0,0,66,72,91.7,7,38,1,1,1
+Eric Dier,15,eng ENG,"CB,DM",23-314,90,0,0,0,0,2,1,1,0,94,0,1,1,0.1,0.1,0.0,1,0,76,90,84.4,10,49,1,0,0
+Hugo Lloris,1,fr FRA,GK,30-334,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,0,10,0,0,0

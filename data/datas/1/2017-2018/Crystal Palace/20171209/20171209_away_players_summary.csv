@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jermain Defoe,18,eng ENG,FW,35-063,79,2,0,0,0,4,3,0,0,20,1,0,2,0.3,0.3,0.0,1,0,6,8,75.0,0,14,0,0,0
+Callum Wilson,13,eng ENG,FW,25-285,11,0,0,0,0,1,0,0,0,9,2,0,1,0.1,0.1,0.0,0,0,2,2,100.0,1,4,0,1,1
+Joshua King,17,no NOR,"FW,RM",25-328,90,0,0,0,0,0,0,0,0,49,4,0,0,0.0,0.0,0.1,2,0,23,37,62.2,3,35,7,8,4
+Ryan Fraser,24,sct SCO,LM,23-288,86,0,0,0,0,0,0,0,0,59,0,0,1,0.0,0.0,0.1,3,0,41,51,80.4,7,40,5,2,1
+Benik Afobe,9,cd COD,"FW,LM",24-300,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Andrew Surman,6,eng ENG,CM,31-111,90,0,1,0,0,1,0,0,0,74,0,1,1,0.1,0.1,0.2,4,2,60,70,85.7,10,47,0,2,2
+Lewis Cook,16,eng ENG,CM,20-309,90,0,1,0,0,1,0,1,0,64,4,3,2,0.0,0.0,0.1,3,1,38,49,77.6,8,38,2,3,1
+Junior Stanislas,19,eng ENG,RM,28-013,64,0,0,0,0,2,1,0,0,28,0,0,1,0.1,0.1,0.1,3,1,14,22,63.6,3,16,0,0,0
+Jordon Ibe,33,eng ENG,"RM,LM",22-001,26,0,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.0,1,0,7,10,70.0,0,10,1,3,1
+Charlie Daniels,11,eng ENG,LB,31-093,90,0,0,0,0,0,0,0,0,80,1,2,2,0.0,0.0,0.0,2,0,59,70,84.3,6,34,2,0,0
+Nathan Aké,5,nl NED,CB,22-294,90,0,0,0,0,0,0,0,0,51,3,2,2,0.0,0.0,0.0,0,0,37,40,92.5,3,26,0,0,0
+Steve Cook,3,eng ENG,CB,26-234,90,0,0,0,0,0,0,0,0,56,1,1,2,0.0,0.0,0.0,0,0,28,39,71.8,1,29,1,0,0
+Simon Francis,2,eng ENG,RB,32-296,90,0,0,0,0,0,0,0,0,73,3,1,5,0.0,0.0,0.1,2,0,39,52,75.0,5,28,2,1,0
+Asmir Begović,27,ba BIH,GK,30-172,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,0,0,22,32,68.8,0,13,0,0,0

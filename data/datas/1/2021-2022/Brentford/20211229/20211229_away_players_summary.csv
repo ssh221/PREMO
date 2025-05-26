@@ -1,0 +1,12 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jack Grealish,10,eng ENG,FW,26-110,90,0,0,0,0,0,0,0,0,58,0,2,0,0.0,0.0,0.0,3,0,47,51,92.2,5,45,3,2,1
+Phil Foden,47,eng ENG,LW,21-215,90,1,0,0,0,2,1,0,0,66,0,0,0,0.7,0.7,0.0,2,0,48,57,84.2,2,55,4,2,1
+Gabriel Jesus,9,br BRA,RW,24-270,90,0,0,0,0,3,1,0,0,62,1,1,2,0.1,0.1,0.0,4,0,36,47,76.6,1,47,4,5,3
+Bernardo Silva,20,pt POR,LM,27-141,90,0,0,0,0,0,0,0,0,92,1,0,1,0.0,0.0,0.0,2,0,79,89,88.8,4,76,9,0,0
+Fernandinho,25,br BRA,CM,36-239,90,0,0,0,0,2,0,0,0,95,1,0,0,0.1,0.1,0.0,3,0,79,88,89.8,10,83,4,2,2
+Kevin De Bruyne,17,be BEL,RM,30-184,90,0,1,0,0,4,1,0,0,85,3,0,3,0.1,0.1,0.8,4,1,52,72,72.2,9,54,2,0,0
+Nathan Aké,6,nl NED,LB,26-314,90,0,0,0,0,0,0,0,0,111,2,1,1,0.0,0.0,0.0,0,0,96,106,90.6,10,85,2,0,0
+Aymeric Laporte,14,es ESP,CB,27-216,90,0,0,0,0,0,0,0,0,63,0,0,0,0.0,0.0,0.0,0,0,62,62,100.0,5,54,0,0,0
+Rúben Dias,3,pt POR,CB,24-229,90,0,0,0,0,1,0,0,0,75,0,2,0,0.0,0.0,0.0,1,0,62,71,87.3,4,53,1,0,0
+João Cancelo,27,pt POR,RB,27-216,90,0,0,0,0,0,0,0,0,117,3,2,0,0.0,0.0,0.0,3,1,91,109,83.5,12,78,1,1,0
+Ederson,31,br BRA,GK,28-134,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,12,17,70.6,0,10,0,0,0

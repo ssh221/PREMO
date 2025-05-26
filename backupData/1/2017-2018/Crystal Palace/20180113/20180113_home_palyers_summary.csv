@@ -1,0 +1,12 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Bakary Sako,26,ml MLI,FW,29-262,90,1,0,0,0,6,1,0,0,46,1,0,1,0.3,0.3,0.3,4,0,22,32,68.8,1,35,2,2,2
+Christian Benteke,17,be BEL,FW,27-041,90,0,1,0,0,5,1,0,0,48,0,0,1,0.8,0.8,0.1,2,1,20,35,57.1,4,26,1,2,1
+James McArthur,18,sct SCO,LM,30-098,90,0,0,0,0,1,0,0,0,32,0,1,1,0.1,0.1,0.0,1,0,22,28,78.6,2,23,2,1,1
+Jaïro Riedewald,44,nl NED,CM,21-126,90,0,0,0,0,0,0,0,0,35,2,3,2,0.0,0.0,0.0,1,0,22,29,75.9,3,24,0,0,0
+Luka Milivojević,4,rs SRB,CM,26-281,90,0,0,0,0,1,0,0,0,42,3,1,0,0.0,0.0,0.1,4,0,24,36,66.7,3,18,0,0,0
+Wilfried Zaha,11,ci CIV,RM,25-064,90,0,0,0,0,1,0,0,0,50,1,0,3,0.1,0.1,0.3,6,0,20,32,62.5,2,32,3,4,2
+Patrick van Aanholt,3,nl NED,LB,27-137,90,0,0,0,0,1,0,0,0,49,2,0,1,0.0,0.0,0.3,3,0,31,42,73.8,2,18,2,0,0
+James Tomkins,5,eng ENG,CB,28-290,90,0,0,0,0,0,0,0,0,35,2,0,1,0.0,0.0,0.0,1,0,18,25,72.0,1,15,0,0,0
+Martin Kelly,34,eng ENG,CB,27-261,90,0,0,0,0,2,0,0,0,34,0,0,1,0.1,0.1,0.0,1,0,12,21,57.1,2,15,0,0,0
+Timothy Fosu-Mensah,24,nl NED,RB,20-011,90,0,0,0,0,0,0,0,0,65,7,1,2,0.0,0.0,0.1,2,0,35,52,67.3,4,32,1,2,0
+Wayne Hennessey,13,wls WAL,GK,30-354,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,1,15,39,38.5,0,17,0,0,0

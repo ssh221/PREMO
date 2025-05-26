@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Oumar Niasse,29,sn SEN,FW,28-290,82,0,0,0,0,3,1,0,0,21,0,0,0,0.2,0.2,0.5,3,0,10,13,76.9,2,15,3,1,0
+Kenneth Zohore,10,dk DEN,FW,25-002,8,0,0,0,0,1,1,0,0,5,0,0,0,0.1,0.1,0.0,0,0,0,1,0.0,0,6,1,1,0
+Josh Murphy,11,eng ENG,LM,23-343,68,0,0,0,0,2,1,0,0,25,4,0,4,0.4,0.4,0.0,1,0,6,13,46.2,2,11,5,1,0
+Junior Hoilett,33,ca CAN,LM,28-242,22,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,7,11,63.6,1,7,0,1,0
+Joe Ralls,8,eng ENG,CM,25-113,90,0,0,0,0,0,0,0,0,30,0,2,0,0.0,0.0,0.2,4,0,19,27,70.4,2,13,0,0,0
+Bobby De Cordova-Reid,14,jm JAM,CM,26-000,85,2,0,1,1,1,1,0,0,25,1,0,1,1.1,0.3,0.0,3,1,14,19,73.7,0,8,1,2,2
+Leandro Bacuna,15,cw CUW,CM,27-165,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Callum Paterson,13,sct SCO,RM,24-112,90,0,0,0,0,2,0,0,0,55,3,2,3,0.1,0.1,0.0,1,0,15,38,39.5,2,12,0,0,0
+Aron Gunnarsson,17,is ISL,DM,29-286,90,0,1,0,0,1,0,0,0,32,2,0,1,0.0,0.0,0.4,3,1,15,23,65.2,3,9,0,0,0
+Joe Bennett,3,eng ENG,LB,28-311,90,0,0,0,0,0,0,0,0,36,1,4,2,0.0,0.0,0.0,1,0,11,21,52.4,2,5,1,2,2
+Sol Bamba,22,ci CIV,CB,34-020,90,0,0,0,0,0,0,1,0,40,3,7,4,0.0,0.0,0.1,2,1,12,22,54.5,1,7,0,0,0
+Bruno Ecuele Manga,5,ga GAB,CB,30-201,90,0,0,0,0,0,0,0,0,29,2,3,1,0.0,0.0,0.0,1,0,10,15,66.7,1,4,1,2,1
+Lee Peltier,2,eng ENG,RB,32-053,90,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,1,0,9,14,64.3,0,7,0,0,0
+Neil Etheridge,1,ph PHI,GK,28-360,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,12,29,41.4,0,10,0,0,0

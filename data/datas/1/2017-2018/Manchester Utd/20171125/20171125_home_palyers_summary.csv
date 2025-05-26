@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,"FW,LW",24-196,90,0,0,0,0,5,2,0,0,36,2,0,0,0.5,0.5,0.0,2,0,17,25,68.0,3,18,2,4,3
+Anthony Martial,11,fr FRA,LW,21-355,70,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.1,2,0,25,31,80.6,0,28,3,1,0
+Henrikh Mkhitaryan,22,am ARM,RW,28-308,20,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.1,2,0,10,11,90.9,3,8,2,0,0
+Juan Mata,8,es ESP,RW,29-211,61,0,0,0,0,1,1,0,0,42,0,0,0,0.0,0.0,0.1,3,0,31,36,86.1,4,28,1,3,0
+Zlatan Ibrahimović,10,se SWE,"AM,FW",36-053,29,0,0,0,0,2,0,0,0,25,0,0,0,0.1,0.1,0.0,3,0,18,22,81.8,4,18,3,0,0
+Marcus Rashford,19,eng ENG,"AM,RW,LW",20-025,79,0,0,0,0,1,0,0,0,49,0,1,1,0.0,0.0,0.2,2,0,25,42,59.5,1,32,8,7,6
+Marouane Fellaini,27,be BEL,RM,30-003,11,0,0,0,0,0,0,0,0,12,0,1,1,0.0,0.0,0.0,0,0,6,10,60.0,0,5,0,1,1
+Nemanja Matić,31,rs SRB,"DM,CM",29-116,90,0,0,0,0,0,0,0,0,92,0,2,0,0.0,0.0,0.0,1,0,78,88,88.6,3,54,1,1,1
+Paul Pogba,6,fr FRA,"DM,LM",24-255,90,0,0,0,0,2,1,0,0,122,4,2,1,0.5,0.5,0.1,2,0,95,111,85.6,17,81,3,1,1
+Ashley Young,18,eng ENG,LB,32-139,90,0,0,0,0,3,0,0,0,62,0,1,0,0.1,0.1,0.2,3,0,38,56,67.9,3,33,7,4,4
+Chris Smalling,12,eng ENG,CB,28-003,90,0,0,0,0,1,0,0,0,50,0,4,2,0.1,0.1,0.0,1,0,36,41,87.8,2,22,0,0,0
+Victor Lindelöf,2,se SWE,CB,23-131,90,0,0,0,0,0,0,0,0,58,2,1,2,0.0,0.0,0.0,0,0,45,52,86.5,4,35,1,0,0
+Antonio Valencia,25,ec ECU,RB,32-113,90,0,0,0,0,0,0,0,0,84,2,2,2,0.0,0.0,0.1,5,0,63,73,86.3,4,46,2,2,2
+David de Gea,1,es ESP,GK,27-018,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,7,0,0,0

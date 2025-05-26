@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marko Arnautović,7,at AUT,"FW,RM",29-003,90,1,0,0,0,4,2,1,0,31,0,0,0,0.2,0.2,0.1,2,0,11,18,61.1,0,21,2,1,1
+João Mário,18,pt POR,AM,25-093,59,0,0,0,0,1,1,0,0,27,0,0,0,0.1,0.1,0.3,2,0,17,23,73.9,0,19,1,1,1
+Javier Hernández,17,mx MEX,FW,29-325,31,0,0,0,0,2,1,0,0,8,0,0,0,0.1,0.1,0.1,2,0,4,6,66.7,0,5,0,0,0
+Edimilson Fernandes,31,ch SUI,AM,22-007,59,0,0,0,0,1,0,0,0,19,2,2,0,0.0,0.0,0.0,0,0,6,10,60.0,1,9,0,1,1
+Manuel Lanzini,10,ar ARG,"AM,LM",25-066,31,0,1,0,0,0,0,0,0,19,0,1,1,0.0,0.0,0.1,2,1,13,17,76.5,3,9,1,1,1
+Mark Noble,16,eng ENG,CM,30-349,90,0,0,0,0,1,0,0,0,44,3,1,0,0.0,0.0,0.0,4,0,31,38,81.6,3,21,1,0,0
+Cheikhou Kouyaté,8,sn SEN,CM,28-122,90,0,0,0,0,2,0,0,0,37,2,0,0,0.3,0.3,0.0,2,1,19,28,67.9,1,19,0,1,1
+Arthur Masuaku,26,cd COD,WB,24-166,85,0,0,0,0,0,0,0,0,39,1,2,3,0.0,0.0,0.0,0,0,17,30,56.7,2,23,0,3,2
+Andy Carroll,9,eng ENG,"FW,WB",29-106,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0
+Pablo Zabaleta,5,ar ARG,"WB,RB",33-096,90,0,0,0,0,0,0,1,0,41,0,3,2,0.0,0.0,0.0,1,0,20,33,60.6,2,18,0,0,0
+Aaron Cresswell,3,eng ENG,"CB,LB",28-128,90,0,0,0,0,0,0,0,0,56,1,2,4,0.0,0.0,0.0,1,0,33,48,68.8,3,24,1,0,0
+Angelo Ogbonna,21,it ITA,CB,29-334,90,0,0,0,0,0,0,0,0,35,0,1,2,0.0,0.0,0.0,1,0,20,25,80.0,0,20,0,0,0
+Declan Rice,41,eng ENG,CB,19-098,90,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.0,1,0,17,25,68.0,0,18,0,0,0
+Joe Hart,25,eng ENG,GK,31-003,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.1,1,0,10,33,30.3,0,11,0,0,0

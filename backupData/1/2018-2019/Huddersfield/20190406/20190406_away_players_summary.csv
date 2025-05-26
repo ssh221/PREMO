@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,32-085,89,2,0,1,1,4,1,0,0,31,0,0,1,1.4,0.7,0.8,6,3,9,18,50.0,1,16,2,3,2
+Kelechi Iheanacho,8,ng NGA,FW,22-185,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Harvey Barnes,19,eng ENG,LM,21-118,60,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.3,3,0,8,16,50.0,1,14,1,2,1
+Shinji Okazaki,20,jp JPN,LM,32-355,30,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,14,18,77.8,1,16,0,1,1
+James Maddison,10,eng ENG,"CM,FW",22-134,90,1,0,0,0,4,3,0,0,63,2,1,0,0.9,0.9,0.2,5,0,45,51,88.2,7,44,1,7,6
+Youri Tielemans,21,be BEL,CM,21-334,90,1,0,0,0,3,2,0,0,57,3,1,0,0.1,0.1,0.0,4,0,37,45,82.2,6,38,1,1,1
+Demarai Gray,7,jm JAM,RM,22-282,90,0,0,0,0,3,2,0,0,50,1,0,3,0.8,0.8,0.0,2,1,26,36,72.2,2,40,5,2,1
+Wilfred Ndidi,25,ng NGA,"DM,CM",22-111,86,0,0,0,0,0,0,0,0,55,3,3,3,0.0,0.0,0.0,1,0,34,42,81.0,5,17,0,2,2
+Hamza Choudhury,38,bd BAN,CM,21-187,4,0,0,0,0,0,0,0,0,6,2,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0
+Ben Chilwell,3,eng ENG,LB,22-106,90,0,0,0,0,1,0,0,0,72,2,0,0,0.0,0.0,0.0,2,0,48,64,75.0,3,40,2,1,1
+Çağlar Söyüncü,4,tr TUR,CB,22-318,90,0,0,0,0,0,0,0,0,75,0,4,2,0.0,0.0,0.0,0,0,55,62,88.7,1,50,1,0,0
+Wes Morgan,5,jm JAM,CB,35-075,90,0,0,0,0,2,0,0,0,63,1,2,0,0.2,0.2,0.0,1,1,48,54,88.9,3,40,0,0,0
+Ricardo Pereira,14,pt POR,RB,25-182,90,0,1,0,0,0,0,0,0,67,1,1,4,0.0,0.0,0.6,4,1,47,54,87.0,4,31,1,0,0
+Kasper Schmeichel,1,dk DEN,GK,32-152,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,35,45,77.8,0,32,0,0,0

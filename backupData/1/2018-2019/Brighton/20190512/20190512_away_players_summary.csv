@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sergio Agüero,10,ar ARG,FW,30-344,90,1,0,0,0,4,1,0,0,33,0,0,0,0.6,0.6,0.0,2,0,22,25,88.0,1,30,2,2,2
+Raheem Sterling,7,eng ENG,"LM,FW",24-155,90,0,0,0,0,1,1,0,0,44,0,1,1,0.1,0.1,0.1,5,1,31,36,86.1,4,38,3,2,1
+Riyad Mahrez,26,dz ALG,"RM,LM",28-080,90,1,1,0,0,4,3,0,0,61,1,1,0,0.2,0.2,0.4,6,3,36,43,83.7,4,50,8,4,2
+David Silva,21,es ESP,CM,33-124,77,0,2,0,0,0,0,0,0,73,1,1,0,0.0,0.0,0.5,9,2,55,66,83.3,8,54,5,2,1
+Kevin De Bruyne,17,be BEL,"FW,CM",27-318,13,0,0,0,0,1,1,0,0,13,1,0,0,0.1,0.1,0.0,1,0,9,11,81.8,1,8,0,0,0
+İlkay Gündoğan,8,de GER,CM,28-200,90,1,0,0,0,5,1,0,0,190,2,2,0,0.2,0.2,0.1,6,1,166,180,92.2,12,145,13,0,0
+Bernardo Silva,20,pt POR,"FW,RM,CM",24-275,90,0,0,0,0,2,1,0,0,78,4,0,0,0.1,0.1,0.2,4,0,57,66,86.4,3,60,5,5,3
+Oleksandr Zinchenko,35,ua UKR,LB,22-148,90,0,0,0,0,1,0,0,0,89,3,1,1,0.0,0.0,0.0,0,0,70,82,85.4,6,62,2,0,0
+Aymeric Laporte,14,es ESP,CB,24-350,90,1,0,0,0,1,1,0,0,117,0,1,0,0.3,0.3,0.1,2,1,106,111,95.5,8,101,6,0,0
+Vincent Kompany,4,be BEL,CB,33-032,85,0,0,0,0,0,0,0,0,85,1,1,0,0.0,0.0,0.0,0,0,83,84,98.8,4,62,3,1,1
+Nicolás Otamendi,30,ar ARG,CB,31-089,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,0,0,0
+Kyle Walker,2,eng ENG,RB,28-349,87,0,0,0,0,1,0,0,0,107,2,2,1,0.0,0.0,0.1,4,0,92,101,91.1,10,72,2,1,0
+Danilo,3,br BRA,RB,27-301,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0
+Ederson,31,br BRA,GK,25-268,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,0,11,0,0,0

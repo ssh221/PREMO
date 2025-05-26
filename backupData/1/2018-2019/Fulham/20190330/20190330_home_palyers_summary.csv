@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ryan Babel,12,nl NED,FW,32-101,87,0,0,0,0,1,0,0,0,27,0,0,1,0.3,0.3,0.0,1,0,15,19,78.9,2,15,1,0,0
+Kevin McDonald,6,sct SCO,CM,30-146,3,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,2,4,0,0,0
+Ryan Sessegnon,3,eng ENG,"LM,CM",18-316,90,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.0,1,0,14,18,77.8,0,16,2,6,2
+Tom Cairney,10,sct SCO,CM,28-069,69,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.0,1,0,28,36,77.8,2,16,0,1,1
+André Schürrle,14,de GER,FW,28-144,21,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,0,0,7,11,63.6,2,6,0,0,0
+Andre-Frank Zambo Anguissa,29,cm CMR,CM,23-134,90,0,0,0,0,0,0,0,0,62,3,1,3,0.0,0.0,0.0,1,0,45,48,93.8,3,30,2,4,3
+Floyd Ayité,11,tg TOG,RM,30-105,63,0,0,0,0,1,0,0,0,36,0,0,1,0.0,0.0,0.0,1,0,20,26,76.9,2,21,1,4,2
+Neeskens Kebano,7,cd COD,"CM,RM",27-020,27,0,0,0,0,1,0,0,0,11,0,0,1,0.1,0.1,0.0,0,0,7,7,100.0,1,6,1,0,0
+Joe Bryan,23,eng ENG,LB,25-194,90,0,0,0,0,1,0,0,0,52,4,2,2,0.0,0.0,0.3,2,0,31,42,73.8,2,15,1,0,0
+Calum Chambers,5,eng ENG,CB,24-069,90,0,0,0,0,0,0,0,0,50,1,1,2,0.0,0.0,0.0,0,0,33,42,78.6,3,20,1,1,1
+Maxime Le Marchand,20,fr FRA,CB,29-170,90,0,0,0,0,0,0,1,0,51,3,4,1,0.0,0.0,0.0,0,0,32,39,82.1,1,23,2,0,0
+Timothy Fosu-Mensah,21,nl NED,CB,21-087,90,0,0,0,0,0,0,0,0,47,6,2,3,0.0,0.0,0.0,0,0,28,34,82.4,2,17,0,0,0
+Cyrus Christie,22,ie IRL,RB,26-181,90,0,0,0,0,0,0,1,0,46,2,1,2,0.0,0.0,0.1,2,0,27,34,79.4,1,21,2,0,0
+Sergio Rico,25,es ESP,GK,25-210,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,12,29,41.4,0,11,0,0,0

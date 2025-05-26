@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Bryan Mbeumo,19,cm CMR,FW,23-145,57,0,0,0,0,1,1,0,0,26,1,0,0,0.0,0.0,0.0,0,0,12,18,66.7,4,14,0,1,1
+Yoane Wissa,11,cd COD,FW,26-118,33,0,0,0,0,1,1,0,0,16,0,0,0,0.2,0.2,0.0,1,0,7,11,63.6,1,12,1,1,0
+Ivan Toney,17,eng ENG,FW,26-289,89,1,1,0,0,3,1,0,0,56,0,1,4,0.7,0.7,0.4,3,1,23,35,65.7,4,27,1,1,0
+Pontus Jansson,18,se SWE,CM,31-320,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0
+Mathias Jensen,8,dk DEN,CM,26-363,58,0,0,0,0,0,0,0,0,34,0,0,2,0.0,0.0,0.0,1,0,21,28,75.0,0,18,2,1,1
+Vitaly Janelt,27,de GER,"DM,CM,LM",24-234,32,0,0,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.0,1,0,10,14,71.4,2,2,0,0,0
+Christian Nørgaard,6,dk DEN,"CM,DM",28-295,90,0,0,0,0,1,1,0,0,65,2,1,1,0.2,0.2,0.0,1,1,42,48,87.5,5,31,0,3,0
+Josh Dasilva,10,eng ENG,CM,24-068,66,1,0,0,0,1,1,0,0,27,0,0,0,0.4,0.4,0.0,0,0,17,22,77.3,1,16,1,2,0
+Saman Ghoddos,14,ir IRN,"DM,RM",29-115,24,0,0,0,0,1,1,0,0,13,0,1,0,0.0,0.0,0.2,2,0,7,11,63.6,2,4,0,0,0
+Rico Henry,3,eng ENG,"WB,LB",25-175,90,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,15,18,83.3,1,12,0,0,0
+Mads Roerslev,30,dk DEN,"WB,RB",23-189,90,0,0,0,0,0,0,0,0,27,3,1,0,0.0,0.0,0.2,1,0,11,16,68.8,1,8,0,0,0
+Ben Mee,16,eng ENG,CB,33-100,90,0,0,0,0,0,0,0,0,52,0,2,4,0.0,0.0,0.0,0,0,36,44,81.8,1,20,0,0,0
+Ethan Pinnock,5,jm JAM,CB,29-215,90,0,0,0,0,1,0,0,0,51,2,0,1,0.2,0.2,0.5,2,0,29,34,85.3,0,15,0,0,0
+Mathias Jørgensen,13,dk DEN,CB,32-251,90,0,0,0,0,0,0,0,0,37,5,2,0,0.0,0.0,0.0,1,1,21,25,84.0,1,14,0,1,0
+David Raya,1,es ESP,GK,27-106,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,28,47,59.6,0,20,0,0,0

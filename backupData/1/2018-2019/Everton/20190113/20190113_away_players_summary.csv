@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,17,no NOR,FW,26-363,90,0,0,0,0,4,2,0,0,36,0,1,1,0.6,0.6,0.1,2,0,12,20,60.0,0,18,3,0,0
+David Brooks,20,wls WAL,"FW,RM",21-189,82,0,0,0,0,2,0,0,0,32,1,0,1,0.5,0.5,0.1,2,0,13,22,59.1,2,22,3,1,1
+Jordon Ibe,10,eng ENG,RM,23-036,8,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,7,2,2,1
+Ryan Fraser,24,sct SCO,LM,24-323,90,0,0,0,0,1,1,0,0,50,1,1,1,0.1,0.1,0.5,7,0,23,47,48.9,5,21,2,1,1
+Jefferson Lerma,8,co COL,CM,24-080,90,0,0,0,0,2,0,0,0,57,0,1,2,0.0,0.0,0.0,4,0,39,45,86.7,4,25,1,2,2
+Dan Gosling,4,eng ENG,CM,28-346,90,0,0,0,0,3,1,0,0,64,2,1,3,0.2,0.2,0.0,3,0,31,48,64.6,8,29,0,2,2
+Junior Stanislas,19,eng ENG,RM,29-048,67,0,0,0,0,1,1,0,0,35,3,0,2,0.1,0.1,0.4,2,0,18,25,72.0,3,13,2,2,2
+Lys Mousset,9,fr FRA,FW,22-339,23,0,0,0,0,1,1,0,0,20,0,0,0,0.1,0.1,0.2,2,0,13,16,81.3,4,11,0,0,0
+Adam Smith,15,eng ENG,LB,27-259,90,0,0,0,0,0,0,0,0,59,1,1,0,0.0,0.0,0.0,2,0,29,46,63.0,6,23,2,1,0
+Nathan Aké,5,nl NED,CB,23-329,90,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.0,1,0,29,37,78.4,3,20,0,0,0
+Steve Cook,3,eng ENG,CB,27-269,90,0,0,0,0,2,1,0,0,51,0,0,2,0.3,0.3,0.0,2,0,31,45,68.9,1,22,0,0,0
+Nathaniel Clyne,23,eng ENG,RB,27-283,90,0,0,0,0,0,0,0,0,61,4,1,1,0.0,0.0,0.0,0,0,38,51,74.5,3,27,1,0,0
+Asmir Begović,27,ba BIH,GK,31-207,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,12,24,50.0,0,7,0,0,0

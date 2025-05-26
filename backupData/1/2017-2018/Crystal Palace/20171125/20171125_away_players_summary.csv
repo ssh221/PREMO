@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eric Maxim Choupo-Moting,10,cm CMR,"FW,WB,AM",28-247,90,0,0,0,0,0,0,0,0,51,3,2,0,0.0,0.0,0.0,2,0,31,40,77.5,2,34,1,7,4
+Ramadan Sobhi,32,eg EGY,AM,20-306,66,0,0,0,0,0,0,0,0,43,0,0,3,0.0,0.0,0.0,0,0,27,36,75.0,4,28,4,0,0
+Peter Crouch,25,eng ENG,FW,36-299,24,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,8,87.5,0,3,0,0,0
+Xherdan Shaqiri,22,ch SUI,AM,26-046,90,1,0,0,0,5,2,0,0,73,0,0,0,0.3,0.3,0.0,7,1,44,59,74.6,6,54,2,6,4
+Joe Allen,4,wls WAL,CM,27-256,90,0,0,0,0,0,0,0,0,66,5,2,1,0.0,0.0,0.0,1,0,46,53,86.8,10,37,3,3,2
+Darren Fletcher,24,sct SCO,CM,33-297,90,0,0,0,0,0,0,0,0,70,1,4,1,0.0,0.0,0.2,4,0,48,60,80.0,6,48,0,1,1
+Erik Pieters,3,nl NED,WB,29-110,90,0,0,0,0,0,0,0,0,54,5,4,4,0.0,0.0,0.0,1,0,23,35,65.7,1,19,0,3,1
+Mame Biram Diouf,18,sn SEN,WB,29-344,73,0,0,0,0,2,0,0,0,45,3,0,0,0.1,0.1,0.0,0,0,23,30,76.7,3,22,4,1,0
+Jesé,11,es ESP,AM,24-272,17,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.1,1,0,8,10,80.0,1,9,0,1,0
+Kevin Wimmer,5,at AUT,CB,25-010,90,0,0,0,0,0,0,1,0,72,1,5,0,0.0,0.0,0.0,0,0,37,61,60.7,3,21,0,0,0
+Ryan Shawcross,17,eng ENG,CB,30-052,90,0,1,0,0,0,0,0,0,33,1,3,0,0.0,0.0,0.1,1,1,15,20,75.0,3,10,0,1,1
+Kurt Zouma,6,fr FRA,CB,23-029,90,0,0,0,0,1,1,0,0,62,1,3,2,0.1,0.1,0.0,0,0,40,46,87.0,5,28,1,0,0
+Lee Grant,33,eng ENG,GK,34-302,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,11,0,0,0

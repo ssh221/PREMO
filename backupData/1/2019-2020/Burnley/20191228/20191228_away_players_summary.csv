@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Anthony Martial,9,fr FRA,FW,24-023,88,1,0,0,0,4,2,0,0,33,0,0,1,1.0,1.0,0.0,4,0,21,25,84.0,2,23,4,0,0
+Luke Shaw,23,eng ENG,LW,24-169,2,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,1,0,0
+Marcus Rashford,10,eng ENG,"LW,FW",22-058,90,1,0,0,0,5,2,0,0,44,0,0,1,1.1,1.1,0.0,3,1,23,32,71.9,5,25,7,9,6
+Daniel James,21,wls WAL,RW,22-048,90,0,1,0,0,2,0,0,0,45,2,0,1,0.1,0.1,0.9,4,1,23,33,69.7,1,28,6,2,1
+Andreas Pereira,15,br BRA,AM,23-361,72,0,1,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.5,5,1,36,50,72.0,12,30,1,1,1
+Jesse Lingard,14,eng ENG,AM,27-013,18,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,1,1
+Nemanja Matić,31,rs SRB,DM,31-149,90,0,0,0,0,1,0,0,0,67,1,0,0,0.0,0.0,0.0,1,0,53,60,88.3,4,34,1,2,2
+Fred,17,br BRA,DM,26-298,90,0,0,0,0,2,0,1,0,72,1,0,0,0.1,0.1,0.0,1,0,54,61,88.5,10,38,2,3,3
+Brandon Williams,53,eng ENG,LB,19-116,90,0,0,0,0,0,0,1,0,61,0,0,0,0.0,0.0,0.1,2,0,43,52,82.7,4,40,5,1,0
+Harry Maguire,5,eng ENG,CB,26-298,90,0,0,0,0,0,0,0,0,63,1,0,2,0.0,0.0,0.0,2,0,47,53,88.7,5,39,1,0,0
+Victor Lindelöf,2,se SWE,CB,25-164,90,0,0,0,0,0,0,0,0,69,0,1,0,0.0,0.0,0.0,0,0,51,60,85.0,3,42,0,0,0
+Ashley Young,18,eng ENG,RB,34-172,90,0,0,0,0,0,0,0,0,73,1,1,1,0.0,0.0,0.0,0,0,48,65,73.8,5,38,0,0,0
+David de Gea,1,es ESP,GK,29-051,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,0,17,0,0,0

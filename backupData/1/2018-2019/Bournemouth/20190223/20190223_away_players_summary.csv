@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Diogo Jota,18,pt POR,FW,22-081,65,0,0,0,0,1,0,1,0,29,1,0,0,0.1,0.1,0.0,1,0,17,24,70.8,1,16,5,5,4
+Ivan Cavaleiro,7,pt POR,"FW,LW",25-128,25,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,11,20,55.0,0,13,3,1,1
+Raúl Jiménez,9,mx MEX,FW,27-294,87,1,0,1,1,2,0,1,0,34,0,0,0,0.9,0.2,0.0,2,0,21,25,84.0,1,27,0,0,0
+Romain Saïss,27,ma MAR,CM,28-334,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0
+João Moutinho,28,pt POR,CM,32-168,90,0,0,0,0,0,0,0,0,91,2,1,2,0.0,0.0,0.4,7,0,58,78,74.4,10,44,1,2,0
+Rúben Neves,8,pt POR,CM,21-347,90,0,0,0,0,2,0,1,0,73,0,1,2,0.0,0.0,0.1,1,0,47,66,71.2,4,35,0,1,1
+Leander Dendoncker,32,be BEL,CM,23-314,76,0,0,0,0,1,1,1,0,49,4,1,4,0.1,0.1,0.0,2,0,29,35,82.9,4,18,0,1,1
+Adama Traoré,37,es ESP,"RW,FW",23-029,14,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.3,2,0,5,6,83.3,0,6,2,0,0
+Jonny Castro,19,es ESP,"WB,LM",24-357,90,0,0,0,0,1,0,0,0,67,6,0,1,0.0,0.0,0.0,3,1,46,56,82.1,4,30,3,4,2
+Matt Doherty,2,ie IRL,"WB,RM",27-038,90,0,0,0,0,1,0,0,0,61,0,2,2,0.1,0.1,0.0,1,1,42,53,79.2,5,22,1,1,1
+Willy Boly,15,ci CIV,CB,28-020,90,0,0,0,0,1,0,0,0,57,4,1,1,0.3,0.3,0.0,0,0,29,43,67.4,2,23,1,0,0
+Conor Coady,16,eng ENG,CB,25-363,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,33,37,89.2,5,26,0,0,0
+Ryan Bennett,5,eng ENG,CB,28-354,90,0,0,0,0,0,0,1,0,62,3,0,2,0.0,0.0,0.0,0,0,35,52,67.3,7,25,0,0,0
+Rui Patrício,11,pt POR,GK,31-008,90,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,0,0,10,26,38.5,0,13,0,0,0

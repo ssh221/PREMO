@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kai Havertz,29,de GER,FW,24-294,90,0,0,0,0,1,1,0,0,24,0,0,0,0.3,0.3,0.0,1,0,6,13,46.2,2,13,1,2,2
+Gabriel Jesus,9,br BRA,LW,26-363,71,0,0,0,0,3,0,1,0,26,1,2,2,0.2,0.2,0.3,4,0,8,11,72.7,0,12,2,4,3
+Leandro Trossard,19,be BEL,LW,29-118,19,0,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,0,0,8,10,80.0,1,8,2,1,1
+Bukayo Saka,7,eng ENG,RW,22-208,77,0,0,0,0,0,0,0,0,30,4,0,1,0.0,0.0,0.0,0,0,12,16,75.0,0,16,1,1,0
+Gabriel Martinelli,11,br BRA,RW,22-287,13,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,2,0,0,0
+Declan Rice,41,eng ENG,LM,25-077,90,0,0,0,0,0,0,0,0,43,3,0,0,0.0,0.0,0.1,1,0,25,34,73.5,3,27,0,1,1
+Jorginho,20,it ITA,CM,32-102,65,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,10,15,66.7,4,8,0,0,0
+Thomas Partey,5,gh GHA,CM,30-292,25,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,0,12,14,85.7,0,7,0,0,0
+Martin Ødegaard,8,no NOR,RM,25-105,90,0,0,0,0,0,0,0,0,42,4,2,2,0.0,0.0,0.2,3,0,21,32,65.6,6,25,3,0,0
+Jakub Kiwior,15,pl POL,LB,24-045,65,0,0,0,0,0,0,0,0,25,1,0,3,0.0,0.0,0.1,1,0,12,19,63.2,0,15,0,1,1
+Takehiro Tomiyasu,18,jp JPN,LB,25-147,25,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0
+Gabriel Magalhães,6,br BRA,CB,26-103,90,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,22,26,84.6,0,18,1,0,0
+William Saliba,2,fr FRA,CB,23-007,90,0,0,0,0,0,0,0,0,47,3,0,2,0.0,0.0,0.0,0,0,25,33,75.8,4,26,0,2,1
+Ben White,4,eng ENG,RB,26-175,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.1,1,0,14,19,73.7,0,12,1,0,0
+David Raya,22,es ESP,GK,28-198,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,21,0,0,0

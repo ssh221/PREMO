@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kiernan Dewsbury-Hall,22,eng ENG,FW,24-137,68,0,0,0,0,0,0,0,0,38,2,0,2,0.0,0.0,0.1,3,0,22,28,78.6,5,21,2,3,1
+James Maddison,10,eng ENG,"FW,RM",26-059,22,0,0,0,0,1,0,0,0,10,0,0,0,0.1,0.1,0.0,1,0,4,7,57.1,1,7,0,2,0
+Jamie Vardy,9,eng ENG,FW,36-010,85,0,0,0,0,1,0,0,0,21,1,0,2,0.0,0.0,0.0,1,0,3,10,30.0,1,8,1,0,0
+Patson Daka,20,zm ZAM,FW,24-104,5,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0
+Harvey Barnes,7,eng ENG,LM,25-043,90,1,0,0,0,3,1,0,0,38,0,1,1,0.4,0.4,0.0,2,0,14,25,56.0,0,23,2,3,0
+Nampalys Mendy,24,sn SEN,CM,30-212,90,0,0,0,0,0,0,0,0,46,2,0,0,0.0,0.0,0.0,0,0,33,40,82.5,0,28,0,0,0
+Youri Tielemans,8,be BEL,CM,25-259,90,0,0,0,0,1,0,0,0,71,4,3,0,0.1,0.1,0.1,4,1,50,61,82.0,11,36,0,0,0
+Dennis Praet,26,be BEL,RM,28-252,34,0,0,0,0,0,0,0,0,15,0,0,2,0.0,0.0,0.0,0,0,10,13,76.9,0,9,2,0,0
+Marc Albrighton,11,eng ENG,"RM,RB",33-064,56,1,0,0,0,1,1,0,0,20,1,0,2,0.3,0.3,0.0,1,0,9,14,64.3,0,6,0,0,0
+Luke Thomas,33,eng ENG,LB,21-225,90,0,0,0,0,2,0,0,0,47,0,4,1,0.1,0.1,0.0,2,1,30,36,83.3,0,22,1,0,0
+Wout Faes,3,be BEL,CB,24-293,90,0,0,0,0,0,0,0,0,60,1,0,4,0.0,0.0,0.0,0,0,46,52,88.5,1,40,0,1,1
+Daniel Amartey,18,gh GHA,CB,28-031,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,0,0,42,42,100.0,0,28,0,0,0
+Timothy Castagne,27,be BEL,"RB,CB",27-047,90,0,0,0,0,0,0,0,0,44,3,1,2,0.0,0.0,0.0,1,0,27,39,69.2,1,15,0,1,1
+Danny Ward,1,wls WAL,GK,29-213,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,25,32,78.1,0,17,0,0,0

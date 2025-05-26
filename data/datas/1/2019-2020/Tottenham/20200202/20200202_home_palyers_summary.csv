@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lucas Moura,27,br BRA,FW,27-173,83,0,1,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,1,1,11,20,55.0,1,17,0,5,3
+Eric Dier,15,eng ENG,DM,26-018,7,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,1,4,0,0,0
+Steven Bergwijn,23,nl NED,LW,22-117,69,1,0,0,0,1,1,0,0,28,1,1,2,0.0,0.0,0.0,1,1,12,18,66.7,0,17,2,2,1
+Érik Lamela,11,ar ARG,"LW,FW",27-335,21,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,2,12,0,0,0
+Son Heung-min,7,kr KOR,"RW,LW",27-209,90,1,0,0,0,2,2,0,0,37,0,3,2,0.3,0.3,0.0,0,0,15,23,65.2,3,24,4,2,0
+Dele Alli,20,eng ENG,AM,23-297,69,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,0,0,8,16,50.0,0,14,1,0,0
+Tanguy Ndombele,28,fr FRA,"DM,AM",23-036,21,0,1,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.2,2,2,9,11,81.8,3,13,1,2,2
+Harry Winks,8,eng ENG,DM,24-000,90,0,0,0,0,0,0,0,0,51,1,1,1,0.0,0.0,0.0,0,0,32,41,78.0,3,37,1,1,1
+Giovani Lo Celso,18,ar ARG,"DM,AM,RW",23-299,90,0,0,0,0,0,0,1,0,65,2,0,1,0.0,0.0,0.0,2,0,46,55,83.6,7,43,0,2,1
+Japhet Tanganga,39,eng ENG,LB,20-308,90,0,0,0,0,0,0,0,0,48,4,3,1,0.0,0.0,0.0,0,0,25,34,73.5,2,25,1,1,1
+Davinson Sánchez,6,co COL,CB,23-235,90,0,0,0,0,0,0,0,0,49,3,2,1,0.0,0.0,0.0,0,0,29,33,87.9,0,28,0,0,0
+Toby Alderweireld,4,be BEL,CB,30-337,90,0,0,0,0,0,0,1,0,42,1,1,3,0.0,0.0,0.0,0,0,23,33,69.7,1,27,0,0,0
+Serge Aurier,24,ci CIV,RB,27-040,90,0,0,0,0,0,0,0,0,55,7,1,3,0.0,0.0,0.0,0,0,33,40,82.5,3,25,1,0,0
+Hugo Lloris,1,fr FRA,GK,33-038,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,18,0,0,0

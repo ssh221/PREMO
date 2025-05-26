@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mame Biram Diouf,18,sn SEN,FW,30-106,60,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.1,2,0,9,22,40.9,1,8,0,0,0
+Saido Berahino,9,bi BDI,"FW,LW",24-240,30,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,0,4,0,0,0
+Xherdan Shaqiri,22,ch SUI,"FW,RW",26-173,90,0,0,0,0,3,1,0,0,50,0,0,0,0.1,0.1,0.0,3,0,22,39,56.4,6,29,5,3,2
+Ramadan Sobhi,32,eg EGY,LM,21-068,79,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.1,1,0,9,15,60.0,3,16,5,2,0
+Peter Crouch,25,eng ENG,FW,37-061,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,1,0,5,6,83.3,1,2,0,0,0
+Badou Ndiaye,27,sn SEN,"CM,LM",27-156,90,0,0,0,0,1,0,0,0,30,2,3,1,0.1,0.1,0.0,4,0,16,18,88.9,2,16,0,4,3
+Joe Allen,4,wls WAL,CM,28-018,90,0,0,0,0,0,0,1,0,51,4,1,1,0.0,0.0,0.1,2,0,34,40,85.0,5,22,0,3,2
+Moritz Bauer,2,at AUT,RM,26-066,90,0,0,0,0,1,0,0,0,43,1,1,1,0.1,0.1,0.0,1,0,19,32,59.4,1,18,1,1,0
+Erik Pieters,3,nl NED,LB,29-237,90,0,0,0,0,0,0,0,0,37,0,0,4,0.0,0.0,0.0,1,0,20,28,71.4,1,9,1,0,0
+Bruno Martins Indi,15,nl NED,CB,26-052,90,0,0,0,0,0,0,0,0,27,1,2,3,0.0,0.0,0.0,0,0,14,19,73.7,4,8,0,0,0
+Ryan Shawcross,17,eng ENG,CB,30-179,90,0,0,0,0,1,0,0,0,31,1,2,0,0.0,0.0,0.0,0,0,12,20,60.0,2,7,0,0,0
+Glen Johnson,8,eng ENG,RB,33-221,90,0,0,0,0,0,0,1,0,50,1,1,1,0.0,0.0,0.0,0,0,22,43,51.2,1,22,0,0,0
+Jack Butland,1,eng ENG,GK,25-022,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,15,31,48.4,0,14,0,0,0

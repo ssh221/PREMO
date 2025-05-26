@@ -1,0 +1,12 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,34-005,90,0,0,0,0,2,2,1,0,30,1,1,1,0.7,0.7,0.0,0,0,6,11,54.5,1,24,2,5,0
+Mohammed Kudus,14,gh GHA,LW,23-244,90,0,0,0,0,2,0,0,0,53,2,2,1,0.1,0.1,0.0,3,0,28,39,71.8,4,32,3,11,6
+Jarrod Bowen,20,eng ENG,RW,27-104,90,0,1,0,0,2,0,0,0,41,0,1,1,0.2,0.2,0.5,6,1,19,27,70.4,3,25,2,6,1
+James Ward-Prowse,7,eng ENG,CM,29-153,90,0,0,0,0,1,1,0,0,34,1,0,2,0.0,0.0,0.7,5,0,22,30,73.3,5,11,0,0,0
+Tomáš Souček,28,cz CZE,CM,29-035,90,0,0,0,0,1,0,0,0,47,1,1,6,0.2,0.2,0.1,1,0,26,32,81.3,2,14,0,1,1
+Lucas Paquetá,10,br BRA,CM,26-219,90,0,0,0,0,2,0,0,0,54,6,1,0,0.1,0.1,0.0,3,0,30,43,69.8,7,20,1,2,2
+Emerson Palmieri,33,it ITA,LB,29-243,90,0,0,0,0,0,0,0,0,55,3,2,2,0.0,0.0,0.0,0,0,41,46,89.1,5,24,1,2,1
+Kurt Zouma,4,fr FRA,CB,29-158,90,1,0,0,0,1,1,0,0,37,0,0,0,0.3,0.3,0.0,0,0,24,28,85.7,1,14,1,0,0
+Konstantinos Mavropanos,15,gr GRE,CB,26-113,90,0,0,0,0,0,0,0,0,40,2,0,2,0.0,0.0,0.0,1,0,27,32,84.4,3,18,1,0,0
+Vladimír Coufal,5,cz CZE,RB,31-224,90,0,0,0,0,0,0,0,0,54,0,0,5,0.0,0.0,0.0,1,1,25,43,58.1,1,18,2,2,0
+Łukasz Fabiański,1,pl POL,GK,38-350,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,14,22,63.6,0,13,0,0,0

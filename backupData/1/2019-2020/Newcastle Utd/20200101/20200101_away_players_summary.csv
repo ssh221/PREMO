@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ayoze Pérez,17,es ESP,FW,26-156,90,1,1,0,0,3,3,0,0,41,1,0,3,1.0,1.0,1.0,8,2,24,28,85.7,3,20,2,2,2
+Kelechi Iheanacho,14,ng NGA,FW,23-090,62,0,0,0,0,2,2,0,0,25,0,0,0,0.9,0.9,0.0,2,0,11,17,64.7,1,9,0,1,0
+Demarai Gray,7,jm JAM,FW,23-187,28,0,0,0,0,2,0,0,0,20,0,0,0,0.2,0.2,0.0,2,1,14,14,100.0,0,16,1,1,1
+Ben Chilwell,3,eng ENG,LW,23-011,90,0,0,0,0,0,0,0,0,91,2,2,0,0.0,0.0,0.0,0,0,67,80,83.8,4,49,4,1,0
+Ricardo Pereira,21,pt POR,RW,26-087,90,0,0,0,0,0,0,0,0,93,5,1,0,0.0,0.0,0.0,5,1,71,79,89.9,6,39,3,4,2
+James Maddison,10,eng ENG,CM,23-039,76,1,0,0,0,4,2,0,0,104,1,0,0,0.2,0.2,0.4,5,0,80,93,86.0,11,63,0,0,0
+Hamza Choudhury,20,bd BAN,CM,22-092,14,1,0,0,0,1,1,0,0,24,0,0,0,0.0,0.0,0.0,0,0,22,23,95.7,1,12,0,0,0
+Youri Tielemans,8,be BEL,CM,22-239,90,0,0,0,0,1,1,1,0,82,3,0,2,0.0,0.0,0.2,4,0,53,68,77.9,6,38,2,2,0
+Wilfred Ndidi,25,ng NGA,DM,23-016,90,0,1,0,0,1,0,0,0,94,3,4,0,0.2,0.2,0.0,1,1,67,77,87.0,1,30,1,0,0
+Christian Fuchs,28,at AUT,CB,33-269,90,0,0,0,0,1,0,0,0,146,0,4,0,0.0,0.0,0.0,0,0,126,136,92.6,14,76,2,0,0
+Jonny Evans,6,nir NIR,CB,31-363,83,0,0,0,0,2,1,0,0,106,1,0,1,0.2,0.2,0.0,1,0,96,99,97.0,2,72,0,0,0
+Wes Morgan,5,jm JAM,CB,35-345,7,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,13,14,92.9,0,11,0,0,0
+Çağlar Söyüncü,4,tr TUR,CB,23-223,90,0,0,0,0,0,0,0,0,134,1,0,1,0.0,0.0,0.0,1,0,122,128,95.3,6,90,3,0,0
+Kasper Schmeichel,1,dk DEN,GK,33-057,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,8,0,0,0

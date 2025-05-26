@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Tammy Abraham,9,eng ENG,FW,22-091,90,0,0,0,0,2,0,0,0,33,1,0,1,0.2,0.2,0.1,4,1,13,22,59.1,1,21,2,2,1
+Christian Pulisic,22,us USA,LW,21-105,65,0,0,0,0,5,2,0,0,40,3,0,1,0.2,0.2,0.0,2,0,17,24,70.8,5,30,8,4,2
+Callum Hudson-Odoi,20,eng ENG,LW,19-055,25,0,0,0,0,3,0,0,0,20,0,0,0,0.2,0.2,0.0,1,0,10,13,76.9,0,13,3,3,1
+Willian,10,br BRA,RW,31-145,90,0,0,0,0,0,0,0,0,48,1,1,1,0.0,0.0,0.0,3,0,35,45,77.8,6,32,4,1,1
+Mason Mount,19,eng ENG,LM,20-356,72,0,0,0,0,2,0,0,0,32,0,1,0,0.1,0.1,0.0,3,0,19,23,82.6,3,18,5,0,0
+Mateo Kovačić,17,hr CRO,LM,25-240,18,0,0,0,0,0,0,1,0,19,2,0,0,0.0,0.0,0.0,1,0,14,17,82.4,1,13,1,1,1
+Jorginho,5,it ITA,CM,28-012,90,0,0,0,0,0,0,0,0,83,2,3,2,0.0,0.0,0.0,2,0,58,72,80.6,8,54,0,1,0
+N'Golo Kanté,7,fr FRA,RM,28-278,90,0,0,0,0,1,1,0,0,68,4,3,0,0.0,0.0,0.2,5,0,42,54,77.8,5,30,3,3,2
+César Azpilicueta,28,es ESP,LB,30-126,90,1,0,0,0,1,1,0,0,101,3,5,1,0.6,0.6,0.0,1,0,68,87,78.2,4,57,0,0,0
+Kurt Zouma,15,fr FRA,CB,25-066,90,0,0,0,0,0,0,1,0,83,2,2,2,0.0,0.0,0.2,1,0,58,67,86.6,1,57,0,0,0
+Antonio Rüdiger,2,de GER,CB,26-304,90,0,0,0,0,0,0,0,0,74,3,0,3,0.0,0.0,0.0,0,0,51,60,85.0,3,47,0,0,0
+Reece James,24,eng ENG,RB,20-024,90,0,0,0,0,2,0,1,0,83,4,4,1,0.1,0.1,0.0,4,0,53,70,75.7,3,44,3,3,3
+Kepa Arrizabalaga,1,es ESP,GK,25-090,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,15,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,20,eng ENG,FW,29-029,89,1,0,0,0,2,1,0,0,18,1,0,0,0.2,0.2,0.0,0,0,5,10,50.0,2,9,0,0,0
+Wesley Moraes,9,br BRA,FW,24-268,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Anwar El Ghazi,21,nl NED,LW,26-110,90,1,0,1,1,2,0,0,0,25,1,0,0,0.8,0.1,0.0,1,0,12,15,80.0,0,19,1,1,0
+Emi Buendía,10,ar ARG,RW,24-239,85,0,0,0,0,0,0,1,0,37,2,0,0,0.0,0.0,0.1,4,0,23,33,69.7,2,19,0,3,1
+Jaden Philogene Bidace,32,eng ENG,RW,19-194,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,0,2,0.0,0,3,0,0,0
+Jacob Ramsey,41,eng ENG,LM,20-085,90,0,0,0,0,1,0,0,0,39,3,0,0,0.0,0.0,0.0,2,0,20,25,80.0,6,20,1,1,1
+Douglas Luiz,6,br BRA,CM,23-104,87,0,0,0,0,1,0,1,0,41,1,1,1,0.0,0.0,0.0,0,0,30,33,90.9,3,26,0,0,0
+Axel Tuanzebe,16,cd COD,CM,23-280,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+John McGinn,7,sct SCO,RM,26-307,90,0,0,0,0,1,0,0,0,43,0,1,1,0.0,0.0,0.1,4,0,28,34,82.4,8,21,2,0,0
+Ashley Young,18,eng ENG,LB,36-043,90,0,0,0,0,0,0,0,0,61,1,0,1,0.0,0.0,0.0,2,0,36,51,70.6,8,34,2,1,0
+Tyrone Mings,5,eng ENG,CB,28-161,90,0,1,0,0,1,0,0,0,51,1,1,2,0.2,0.2,0.1,2,2,33,41,80.5,4,28,0,0,0
+Ezri Konsa,4,eng ENG,CB,23-302,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.2,1,0,22,26,84.6,2,21,0,0,0
+Matty Cash,2,pl POL,RB,24-014,90,0,0,0,0,1,0,0,0,50,3,1,0,0.0,0.0,0.0,2,1,26,40,65.0,3,28,1,0,0
+Emiliano Martínez,1,ar ARG,GK,28-353,90,0,0,0,0,0,0,1,0,25,0,0,0,0.0,0.0,0.0,0,0,17,24,70.8,0,7,0,0,0

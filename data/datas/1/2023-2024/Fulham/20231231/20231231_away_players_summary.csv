@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eddie Nketiah,14,eng ENG,FW,24-215,90,0,0,0,0,2,1,0,0,20,1,1,0,0.1,0.1,0.0,0,0,7,11,63.6,2,10,1,2,0
+Gabriel Martinelli,11,br BRA,LW,22-196,66,0,0,0,0,4,1,0,0,39,1,0,2,0.3,0.3,0.0,3,1,21,31,67.7,0,31,2,0,0
+Leandro Trossard,19,be BEL,WB,29-027,24,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,5,11,45.5,1,9,2,0,0
+Bukayo Saka,7,eng ENG,"RW,WB",22-117,90,1,0,0,0,3,1,0,0,65,1,0,1,1.0,1.0,0.0,3,0,33,50,66.0,2,43,7,5,1
+Kai Havertz,29,de GER,"LM,CM",24-203,76,0,0,0,0,0,0,0,0,36,0,1,2,0.0,0.0,0.1,1,0,26,30,86.7,3,21,1,1,0
+Reiss Nelson,24,eng ENG,CM,24-021,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,5,0,0,0
+Declan Rice,41,eng ENG,CM,24-351,90,0,0,0,0,1,0,0,0,114,1,0,3,0.0,0.0,0.0,2,0,97,105,92.4,23,91,4,3,3
+Martin Ødegaard,8,no NOR,"RM,CM",25-014,90,0,0,0,0,2,0,0,0,76,0,0,0,0.1,0.1,0.3,6,0,62,69,89.9,9,59,7,3,2
+Jakub Kiwior,15,pl POL,LB,23-319,45,0,0,0,0,0,0,0,0,32,3,1,1,0.0,0.0,0.0,1,0,26,29,89.7,2,18,0,0,0
+Takehiro Tomiyasu,18,jp JPN,"CB,LB",25-056,45,0,0,0,0,0,0,0,0,47,1,1,1,0.0,0.0,0.0,2,0,35,39,89.7,9,30,1,0,0
+Gabriel Magalhães,6,br BRA,CB,26-012,90,0,0,0,0,0,0,0,0,113,3,2,5,0.0,0.0,0.0,2,0,88,97,90.7,8,75,1,0,0
+William Saliba,2,fr FRA,CB,22-282,90,0,0,0,0,0,0,1,0,112,1,1,0,0.0,0.0,0.0,1,0,96,105,91.4,4,82,2,0,0
+Ben White,4,eng ENG,RB,26-084,66,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.0,0,0,47,52,90.4,3,36,1,0,0
+Gabriel Jesus,9,br BRA,FW,26-272,24,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,6,0,1,0
+David Raya,22,es ESP,GK,28-107,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,21,27,77.8,0,16,0,0,0

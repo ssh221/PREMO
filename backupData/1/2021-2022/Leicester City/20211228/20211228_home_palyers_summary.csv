@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kelechi Iheanacho,14,ng NGA,FW,25-086,55,0,0,0,0,1,0,0,0,28,0,0,1,0.0,0.0,0.0,2,0,17,20,85.0,3,18,1,2,1
+Youri Tielemans,8,be BEL,"RM,FW",24-235,35,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,18,24,75.0,4,13,0,4,1
+Jamie Vardy,9,eng ENG,FW,34-351,90,0,0,0,0,2,0,0,0,16,0,1,0,0.2,0.2,0.1,2,0,6,11,54.5,2,10,2,0,0
+James Maddison,10,eng ENG,AM,25-035,67,0,0,0,0,1,0,0,0,25,1,1,0,0.1,0.1,0.0,1,0,10,16,62.5,1,15,0,3,1
+Marc Albrighton,11,eng ENG,RB,32-040,23,0,0,0,0,0,0,0,0,10,0,1,1,0.0,0.0,0.0,0,0,5,8,62.5,0,3,1,2,2
+Kiernan Dewsbury-Hall,22,eng ENG,"LM,CM",23-113,90,0,1,0,0,0,0,0,0,73,1,4,2,0.0,0.0,0.1,2,1,36,56,64.3,4,34,4,1,0
+Boubakary Soumaré,42,fr FRA,CM,22-304,90,0,0,0,0,1,0,0,0,55,1,1,1,0.0,0.0,0.0,0,0,33,44,75.0,1,22,0,1,1
+Hamza Choudhury,20,bd BAN,RM,24-088,55,0,0,0,0,0,0,0,0,18,1,3,0,0.0,0.0,0.0,0,0,11,13,84.6,0,4,0,0,0
+Ademola Lookman,37,ng NGA,"LM,RM",24-069,35,1,0,0,0,1,1,0,0,18,1,1,1,0.1,0.1,0.0,1,1,12,12,100.0,2,14,2,2,2
+Luke Thomas,33,eng ENG,LB,20-201,90,0,0,0,0,0,0,0,0,59,2,6,3,0.0,0.0,0.0,1,0,25,36,69.4,3,14,0,0,0
+Wilfred Ndidi,25,ng NGA,CB,25-012,90,0,0,0,0,0,0,0,0,53,5,5,1,0.0,0.0,0.0,1,0,31,38,81.6,2,18,0,0,0
+Daniel Amartey,18,gh GHA,CB,27-007,90,0,0,0,0,0,0,0,0,52,2,4,4,0.0,0.0,0.0,1,0,26,31,83.9,3,15,0,0,0
+Timothy Castagne,27,be BEL,"RB,CB",26-023,90,0,0,0,0,0,0,0,0,57,2,4,1,0.0,0.0,0.1,1,0,26,38,68.4,0,10,0,0,0
+Kasper Schmeichel,1,dk DEN,GK,35-053,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,21,37,56.8,0,13,0,0,0

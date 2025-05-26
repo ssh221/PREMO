@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,FW,23-199,86,1,0,0,0,2,2,1,0,29,1,0,1,0.4,0.4,0.0,1,0,14,18,77.8,1,17,0,2,1
+Jamaal Lascelles,6,eng ENG,"CB,FW",29-148,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Joelinton,7,br BRA,"LW,CM",26-237,90,0,0,0,0,0,0,0,0,53,4,2,0,0.0,0.0,0.0,2,1,36,43,83.7,4,25,0,4,3
+Jacob Murphy,23,eng ENG,RW,28-043,45,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,19,22,86.4,1,13,0,2,0
+Anthony Gordon,8,eng ENG,"RM,RW",22-043,44,0,0,0,0,0,0,0,0,16,3,0,0,0.0,0.0,0.0,1,0,13,14,92.9,3,11,2,1,0
+Matt Ritchie,11,sct SCO,RW,33-210,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Joe Willock,28,eng ENG,LM,23-231,87,0,0,0,0,0,0,0,0,34,2,1,0,0.0,0.0,0.0,0,0,27,30,90.0,2,24,5,1,0
+Elliot Anderson,32,eng ENG,LM,20-153,3,0,0,0,0,1,1,0,0,8,2,1,0,0.2,0.2,0.0,1,0,1,2,50.0,0,1,0,0,0
+Bruno Guimarães,39,br BRA,CM,25-143,90,0,0,0,0,1,0,0,0,68,2,0,1,0.0,0.0,0.3,2,0,48,57,84.2,5,45,3,4,1
+Sean Longstaff,36,eng ENG,RM,25-160,45,0,0,0,0,2,0,0,0,26,0,0,0,0.2,0.2,0.0,1,0,19,22,86.4,1,16,2,2,0
+Callum Wilson,9,eng ENG,FW,31-040,45,0,1,0,0,1,0,0,0,21,0,0,1,0.3,0.3,0.5,4,1,5,10,50.0,1,17,1,5,1
+Dan Burn,33,eng ENG,LB,30-334,90,0,0,0,0,0,0,0,0,47,2,2,0,0.0,0.0,0.0,0,0,35,40,87.5,4,25,1,0,0
+Sven Botman,4,nl NED,CB,23-086,90,0,0,0,0,2,1,1,0,53,2,1,1,0.2,0.2,0.0,0,0,28,35,80.0,1,21,0,0,0
+Fabian Schär,5,ch SUI,"CB,RB",31-109,90,0,0,0,0,1,0,0,0,51,0,0,2,0.1,0.1,0.1,1,0,37,41,90.2,2,27,0,0,0
+Kieran Trippier,2,eng ENG,"RB,RM",32-201,90,0,0,0,0,0,0,0,0,93,1,0,0,0.0,0.0,0.4,5,0,65,86,75.6,9,44,2,0,0
+Nick Pope,22,eng ENG,GK,30-354,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,15,28,53.6,0,17,0,0,0

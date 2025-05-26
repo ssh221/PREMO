@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,29-261,90,0,0,0,0,6,2,0,0,37,0,0,0,0.9,0.9,0.1,5,0,17,24,70.8,3,21,2,2,0
+Son Heung-min,7,kr KOR,"AM,LW",30-281,90,1,0,0,0,4,3,0,0,37,0,0,0,0.6,0.6,0.4,7,0,25,29,86.2,3,21,3,2,1
+Dejan Kulusevski,21,se SWE,AM,22-355,90,0,0,0,0,4,0,0,0,42,3,2,0,0.2,0.2,0.1,4,0,28,29,96.6,4,17,2,4,0
+Oliver Skipp,4,eng ENG,"CM,DM",22-211,76,0,0,0,0,1,1,0,0,32,1,1,2,0.0,0.0,0.1,2,0,26,28,92.9,2,15,1,1,1
+Richarlison,9,br BRA,DM,25-340,14,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,1,0,4,7,57.1,0,3,1,0,0
+Pierre Højbjerg,5,dk DEN,"CM,DM",27-253,90,0,0,0,0,1,0,0,0,87,2,1,1,0.0,0.0,0.2,7,0,69,78,88.5,9,40,1,1,1
+Ivan Perišić,14,hr CRO,"WB,LB",34-072,90,0,1,0,0,3,0,1,0,79,0,0,1,0.2,0.2,0.5,4,1,37,68,54.4,1,35,6,5,4
+Pedro Porro,23,es ESP,"WB,RB",23-214,90,0,0,0,0,1,0,0,0,67,4,3,0,0.0,0.0,0.3,5,0,35,55,63.6,2,33,5,6,2
+Clément Lenglet,34,fr FRA,CB,27-302,34,0,0,0,0,0,0,0,0,28,1,1,0,0.0,0.0,0.0,2,1,19,24,79.2,1,13,0,0,0
+Davinson Sánchez,6,co COL,CB,26-307,23,0,0,0,0,0,0,0,0,21,2,0,0,0.0,0.0,0.0,0,0,16,18,88.9,4,13,0,0,0
+Arnaut Danjuma,16,nl NED,RW,26-074,33,1,0,0,0,3,2,0,0,17,1,0,0,0.2,0.2,0.0,1,0,6,12,50.0,0,10,2,1,1
+Eric Dier,15,eng ENG,CB,29-090,90,0,0,0,0,0,0,0,0,76,2,1,0,0.0,0.0,0.0,1,0,61,70,87.1,2,43,0,0,0
+Cristian Romero,17,ar ARG,CB,24-353,90,0,0,0,0,0,0,0,0,92,1,2,3,0.0,0.0,0.0,1,0,66,83,79.5,9,51,1,0,0
+Hugo Lloris,1,fr FRA,GK,36-110,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,12,18,66.7,0,11,0,0,0

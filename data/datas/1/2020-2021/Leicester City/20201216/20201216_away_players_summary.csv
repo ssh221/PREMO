@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,23-275,89,0,0,0,0,3,2,0,0,27,0,0,2,0.8,0.8,0.0,2,1,9,18,50.0,0,11,0,0,0
+Anthony Gordon,24,eng ENG,"RM,FW",19-296,1,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0
+Richarlison,7,br BRA,LW,23-220,90,1,0,0,0,1,1,0,0,35,2,0,0,0.0,0.0,0.0,3,0,17,22,77.3,3,20,4,5,2
+Alex Iwobi,17,ng NGA,RW,24-227,89,0,1,0,0,1,0,0,0,41,0,0,2,0.0,0.0,0.2,5,1,21,33,63.6,4,23,8,5,5
+Jonjoe Kenny,2,eng ENG,LB,23-276,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Abdoulaye Doucouré,16,ml MLI,"CM,LM",27-350,90,0,0,0,0,1,0,0,0,58,2,2,0,0.0,0.0,0.0,1,1,44,50,88.0,3,22,2,1,1
+Allan,6,br BRA,CM,29-343,40,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,3,0,13,14,92.9,2,10,1,0,0
+André Gomes,21,pt POR,"LM,CM",27-139,50,0,0,0,0,0,0,1,0,33,2,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,11,0,2,2
+Gylfi Sigurðsson,10,is ISL,RM,31-099,90,0,0,0,0,1,0,0,0,48,0,2,1,0.1,0.1,0.3,3,0,26,37,70.3,2,14,0,2,0
+Ben Godfrey,22,eng ENG,LB,22-336,90,0,0,0,0,0,0,1,0,50,3,1,1,0.0,0.0,0.0,0,0,31,40,77.5,3,18,1,0,0
+Michael Keane,5,eng ENG,CB,27-340,90,0,0,0,0,1,1,0,0,43,0,1,5,0.1,0.1,0.0,1,0,24,32,75.0,0,14,0,0,0
+Yerry Mina,13,co COL,CB,26-084,90,0,0,0,0,2,1,0,0,41,0,0,1,0.1,0.1,0.0,0,0,28,33,84.8,3,27,0,0,0
+Mason Holgate,4,eng ENG,RB,24-055,90,1,0,0,0,1,1,1,0,55,3,1,1,0.7,0.7,0.1,2,0,33,44,75.0,2,17,0,1,1
+Robin Olsen,33,se SWE,GK,30-343,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,12,0,0,0

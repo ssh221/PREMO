@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,33,br BRA,FW,22-000,90,0,1,0,0,4,1,0,0,50,0,0,0,1.4,1.4,0.1,9,1,40,44,90.9,3,40,3,3,3
+Leroy Sané,19,de GER,LW,23-082,90,1,0,0,0,5,3,0,0,54,0,1,2,0.3,0.3,0.2,7,0,36,41,87.8,1,44,3,4,2
+Riyad Mahrez,26,dz ALG,RW,28-041,90,0,0,0,0,5,3,0,0,60,0,0,1,0.1,0.1,0.1,6,1,40,48,83.3,6,51,2,6,3
+Phil Foden,47,eng ENG,LM,18-310,90,0,0,0,0,5,2,0,0,68,2,2,0,0.8,0.8,0.3,5,0,50,55,90.9,5,55,7,4,3
+Fernandinho,25,br BRA,CM,33-334,90,0,0,0,0,3,0,0,0,88,3,2,1,0.2,0.2,0.6,3,0,63,74,85.1,7,63,4,1,0
+Kevin De Bruyne,17,be BEL,RM,27-279,90,1,0,0,0,2,1,0,0,84,1,0,2,0.1,0.1,1.5,11,0,55,76,72.4,5,52,7,3,2
+Oleksandr Zinchenko,35,ua UKR,LB,22-109,18,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,1,1,22,25,88.0,1,18,2,0,0
+Kyle Walker,2,eng ENG,RB,28-310,72,0,0,0,0,0,0,0,0,74,0,0,0,0.0,0.0,0.1,4,0,67,73,91.8,9,44,3,0,0
+Aymeric Laporte,14,es ESP,CB,24-311,90,0,1,0,0,3,1,0,0,107,0,1,0,0.4,0.4,0.0,2,1,89,97,91.8,11,79,4,0,0
+John Stones,5,eng ENG,CB,24-310,90,0,0,0,0,0,0,0,0,108,0,0,0,0.0,0.0,0.0,1,0,102,106,96.2,19,87,9,0,0
+Danilo,3,br BRA,"LB,RB",27-262,90,0,0,0,0,0,0,0,0,72,3,2,0,0.0,0.0,0.0,3,0,60,65,92.3,5,45,1,2,1
+Ederson,31,br BRA,GK,25-229,90,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,24,24,100.0,0,15,0,0,0

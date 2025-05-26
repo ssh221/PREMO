@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,FW,24-114,90,1,0,0,0,5,3,0,0,25,0,0,3,0.8,0.8,0.0,0,0,7,10,70.0,1,7,2,0,0
+Anthony Gordon,10,eng ENG,LW,22-323,85,1,0,0,0,3,1,0,0,23,2,0,1,0.1,0.1,0.1,2,0,10,15,66.7,1,17,2,0,0
+Lewis Hall,20,eng ENG,LW,19-127,5,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Miguel Almirón,24,py PAR,RW,29-337,90,0,0,0,0,1,0,0,0,32,4,0,2,0.1,0.1,0.3,4,0,13,20,65.0,1,16,2,2,1
+Sean Longstaff,36,eng ENG,LM,26-075,90,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,0,0,8,13,61.5,1,9,0,1,0
+Bruno Guimarães,39,br BRA,CM,26-058,90,0,1,0,0,2,0,1,0,50,5,1,1,0.1,0.1,0.3,2,1,30,36,83.3,1,28,0,2,0
+Lewis Miley,67,eng ENG,RM,17-257,90,0,0,0,0,0,0,0,0,33,2,1,1,0.0,0.0,0.2,2,0,17,25,68.0,2,18,0,0,0
+Dan Burn,33,eng ENG,LB,31-249,90,0,1,0,0,0,0,0,0,47,2,3,0,0.0,0.0,0.2,2,1,19,33,57.6,3,14,0,0,0
+Sven Botman,4,nl NED,CB,24-001,90,0,0,0,0,0,0,0,0,42,1,0,2,0.0,0.0,0.0,0,0,32,35,91.4,0,24,0,0,0
+Fabian Schär,5,ch SUI,CB,32-024,90,0,0,0,0,1,1,0,0,57,1,1,7,0.1,0.1,0.0,2,1,28,39,71.8,0,30,0,1,0
+Kieran Trippier,2,eng ENG,RB,33-116,90,0,0,0,0,0,0,0,0,72,6,2,4,0.0,0.0,0.1,4,0,35,51,68.6,4,28,2,1,0
+Martin Dúbravka,1,sk SVK,GK,34-363,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,23,33,69.7,0,15,0,0,0

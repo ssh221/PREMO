@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Carlos Vinícius,30,br BRA,FW,27-198,90,0,0,0,0,2,0,1,0,29,0,0,0,0.1,0.1,0.1,2,1,8,14,57.1,1,17,0,1,0
+Neeskens Kebano,7,cd COD,LW,30-213,88,0,1,0,0,0,0,0,0,37,2,0,1,0.0,0.0,0.3,4,1,19,24,79.2,4,24,3,3,1
+Shane Duffy,5,ie IRL,FW,30-281,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Daniel James,21,wls WAL,RW,24-333,76,0,0,0,0,3,0,0,0,33,1,1,0,0.2,0.2,0.0,1,0,19,23,82.6,6,15,2,1,1
+Harry Wilson,8,wls WAL,"RW,CM",25-201,14,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,8,0,0,0
+Andreas Pereira,18,br BRA,AM,26-281,76,1,0,0,0,2,2,1,0,43,1,0,0,0.2,0.2,0.0,1,0,23,36,63.9,2,23,0,3,0
+Josh Onomah,25,eng ENG,"AM,CM",25-165,14,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,1,1,0
+João Palhinha,26,pt POR,"DM,CB",27-092,90,0,0,0,0,0,0,0,0,70,4,0,1,0.0,0.0,0.0,1,0,51,60,85.0,7,40,0,0,0
+Harrison Reed,6,eng ENG,DM,27-255,70,0,0,0,0,0,0,1,0,50,1,1,0,0.0,0.0,0.0,0,0,35,42,83.3,1,18,0,0,0
+Tom Cairney,10,sct SCO,"DM,CM",31-262,20,0,0,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.0,1,0,17,19,89.5,1,18,2,0,0
+Antonee Robinson,33,us USA,"LB,WB",25-062,90,0,0,0,0,0,0,0,0,82,2,0,4,0.0,0.0,0.0,3,0,46,68,67.6,4,37,5,2,0
+Tim Ream,13,us USA,CB,35-004,90,0,0,0,0,0,0,0,0,82,1,1,4,0.0,0.0,0.0,1,0,61,70,87.1,5,56,1,1,1
+Tosin Adarabioyo,4,eng ENG,CB,25-015,90,0,0,0,0,0,0,0,0,74,1,1,1,0.0,0.0,0.0,0,0,57,62,91.9,4,43,2,1,1
+Bobby De Cordova-Reid,14,jm JAM,"RB,WB",29-249,90,0,0,0,0,0,0,0,0,68,2,1,0,0.0,0.0,0.0,0,0,47,60,78.3,3,33,2,0,0
+Bernd Leno,17,de GER,GK,30-219,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,26,28,92.9,0,17,0,0,0

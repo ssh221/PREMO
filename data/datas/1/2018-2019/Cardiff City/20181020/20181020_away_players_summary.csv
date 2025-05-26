@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-034,90,0,1,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.3,1,1,13,22,59.1,2,20,0,0,0
+Ryan Sessegnon,3,eng ENG,"LW,RW",18-155,90,1,0,0,0,2,2,0,0,34,2,0,1,0.3,0.3,0.1,3,0,17,23,73.9,1,18,0,3,3
+André Schürrle,14,de GER,"RW,LW",27-348,90,1,0,0,0,3,1,0,0,53,4,1,2,0.1,0.1,0.0,4,0,29,38,76.3,4,26,1,0,0
+Jean Seri,24,ci CIV,LM,27-093,57,0,1,0,0,0,0,0,0,52,0,0,1,0.0,0.0,0.1,3,1,39,47,83.0,4,32,1,0,0
+Floyd Ayité,11,tg TOG,AM,29-309,33,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,1,0,11,16,68.8,4,8,0,0,0
+Kevin McDonald,6,sct SCO,"CM,DM",29-350,90,0,0,0,0,1,0,1,0,61,2,0,0,0.1,0.1,0.0,1,0,43,54,79.6,4,22,0,0,0
+Stefan Johansen,8,no NOR,"RM,DM",27-285,81,0,0,0,0,1,0,1,0,69,0,0,1,0.1,0.1,0.0,1,1,53,65,81.5,6,33,0,0,0
+Luciano Vietto,19,ar ARG,DM,24-319,9,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,5,0,0,0
+Maxime Le Marchand,20,fr FRA,LB,29-009,90,0,0,0,0,0,0,0,0,55,2,2,2,0.0,0.0,0.0,0,0,30,46,65.2,2,15,1,1,1
+Tim Ream,13,us USA,CB,31-015,90,0,0,0,0,0,0,0,0,57,3,0,1,0.0,0.0,0.0,0,0,36,42,85.7,1,14,0,0,0
+Denis Odoi,4,gh GHA,"RB,CB",30-146,90,0,0,0,0,1,0,0,0,82,1,1,3,0.0,0.0,0.0,2,0,50,66,75.8,4,35,1,0,0
+Calum Chambers,5,eng ENG,"RB,CB",23-273,45,0,0,0,0,0,0,1,0,27,0,1,1,0.0,0.0,0.0,1,1,17,20,85.0,2,13,1,0,0
+Alfie Mawson,26,eng ENG,CB,24-274,45,0,0,0,0,1,1,0,0,35,2,0,1,0.1,0.1,0.0,0,0,21,26,80.8,1,11,0,0,0
+Marcus Bettinelli,1,eng ENG,GK,26-149,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,0,25,39,64.1,0,10,0,0,0

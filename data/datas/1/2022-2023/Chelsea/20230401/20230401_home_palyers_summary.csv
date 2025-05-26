@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+João Félix,11,pt POR,"FW,AM",23-142,90,0,0,0,0,5,2,0,0,49,2,0,1,0.3,0.3,0.0,5,0,30,35,85.7,6,37,5,12,7
+Mykhailo Mudryk,15,ua UKR,AM,22-086,56,0,0,0,0,2,2,0,0,19,1,0,0,0.6,0.6,0.0,2,0,12,13,92.3,0,11,0,2,0
+Noni Madueke,31,eng ENG,WB,21-022,34,0,0,0,0,1,0,0,0,26,1,1,0,0.0,0.0,0.1,2,0,16,18,88.9,2,19,4,4,2
+Kai Havertz,29,de GER,"AM,FW",23-294,90,0,0,0,0,4,2,0,0,56,0,0,0,0.6,0.6,0.1,6,0,37,44,84.1,8,45,1,5,2
+Mateo Kovačić,8,hr CRO,CM,28-330,79,0,0,0,0,3,0,1,0,78,1,0,1,0.2,0.2,0.3,5,0,68,72,94.4,11,64,1,3,2
+Conor Gallagher,23,eng ENG,CM,23-054,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,5,0,2,0
+Enzo Fernández,5,ar ARG,CM,22-074,90,0,0,0,0,1,0,1,0,84,2,1,1,0.1,0.1,0.2,6,0,66,76,86.8,10,70,0,3,3
+Ben Chilwell,21,eng ENG,"WB,CB",26-101,90,0,0,0,0,4,0,1,0,66,0,1,2,0.2,0.2,0.1,4,0,41,59,69.5,0,46,4,3,2
+Ruben Loftus-Cheek,12,eng ENG,WB,27-068,56,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.1,1,0,44,54,81.5,3,50,5,4,0
+N'Golo Kanté,7,fr FRA,AM,32-003,34,0,0,0,0,2,0,0,0,31,3,0,0,0.1,0.1,0.1,4,0,15,25,60.0,3,20,2,1,0
+Marc Cucurella,32,es ESP,CB,24-253,79,0,0,0,0,1,0,0,0,84,1,2,1,0.0,0.0,0.2,3,0,72,77,93.5,12,55,3,0,0
+Christian Pulisic,10,us USA,WB,24-195,11,0,0,0,0,1,1,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,1,0,0
+Kalidou Koulibaly,26,sn SEN,CB,31-285,90,0,0,0,0,2,0,0,0,78,3,3,0,0.1,0.1,0.0,1,0,64,69,92.8,3,61,0,0,0
+Reece James,24,eng ENG,CB,23-114,90,0,0,0,0,1,0,0,0,107,4,1,2,0.0,0.0,0.4,6,0,88,99,88.9,19,89,1,0,0
+Kepa Arrizabalaga,1,es ESP,GK,28-180,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,14,16,87.5,0,11,0,0,0

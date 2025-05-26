@@ -1,0 +1,3 @@
+﻿player,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions
+Bernd Leno,de GER,28-108,39,,,,,0.0,,,,11,2,,21.4,2,0.0,19.5,8,,,1,25.0
+Emiliano Martínez,ar ARG,27-292,51,5,2,3,60.0,1.6,1,5,20.0,21,4,14.3,29.0,3,66.7,42.0,12,2,16.7,0,5.0

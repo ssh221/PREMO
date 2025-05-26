@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Billy Sharp,10,eng ENG,FW,34-357,69,0,0,0,0,1,1,0,0,17,0,0,0,0.1,0.1,0.0,0,0,5,11,45.5,3,10,3,3,0
+Oliver Burke,14,sct SCO,FW,23-295,21,1,0,0,0,2,1,0,0,12,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,4,0,1,0
+David McGoldrick,17,ie IRL,FW,33-059,79,0,0,0,0,1,0,0,0,35,1,0,1,0.0,0.0,0.0,1,0,18,22,81.8,2,21,0,2,0
+Rhian Brewster,24,eng ENG,FW,20-301,11,0,0,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,1
+John Fleck,4,sct SCO,CM,29-156,90,0,1,0,0,0,0,0,0,40,2,3,1,0.0,0.0,0.8,2,1,22,28,78.6,3,19,3,2,1
+Oliver Norwood,16,nir NIR,CM,29-290,90,0,0,0,0,0,0,0,0,43,5,1,0,0.0,0.0,0.0,2,1,22,33,66.7,3,19,0,0,0
+John Lundstram,7,eng ENG,CM,26-344,90,0,1,0,0,0,0,1,0,45,1,2,2,0.0,0.0,0.1,2,1,25,36,69.4,5,17,2,0,0
+Kean Bryan,29,eng ENG,WB,24-087,52,1,0,0,0,1,1,0,0,29,0,1,1,0.7,0.7,0.0,0,0,12,22,54.5,2,14,0,0,0
+Jayden Bogle,20,eng ENG,WB,20-184,38,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,5,8,62.5,1,7,0,1,0
+George Baldock,2,gr GRE,WB,27-324,90,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,13,16,81.3,1,10,1,1,1
+Ethan Ampadu,22,wls WAL,CB,20-135,90,0,0,0,0,0,0,0,0,45,0,2,4,0.0,0.0,0.0,0,0,21,29,72.4,1,19,0,1,0
+Phil Jagielka,15,eng ENG,CB,38-163,90,0,0,0,0,0,0,0,0,31,1,2,2,0.0,0.0,0.0,0,0,13,18,72.2,0,8,0,0,0
+Chris Basham,6,eng ENG,CB,32-191,90,0,0,0,0,0,0,0,0,44,4,3,2,0.0,0.0,0.0,0,0,23,28,82.1,2,13,0,1,0
+Aaron Ramsdale,1,eng ENG,GK,22-258,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,5,28,17.9,0,14,0,0,0

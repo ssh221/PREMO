@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lyle Foster,17,za RSA,FW,23-251,86,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,12,15,80.0,1,6,1,0,0
+David Datro Fofana,23,ci CIV,FW,21-141,4,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0
+Wilson Odobert,47,fr FRA,"FW,CM",19-165,90,0,0,0,0,1,0,0,0,31,1,1,0,0.0,0.0,0.2,4,0,19,29,65.5,3,13,4,2,1
+Vitinho,22,br BRA,LM,24-293,71,0,0,0,0,1,1,0,0,23,2,0,2,0.1,0.1,0.0,0,0,7,14,50.0,0,11,0,0,0
+Benson Manuel,10,ao ANG,RM,27-044,19,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,2,8,0,1,0
+Sander Berge,16,no NOR,CM,26-087,90,0,1,0,0,0,0,1,0,38,3,0,2,0.0,0.0,0.2,2,2,29,29,100.0,6,22,0,3,2
+Josh Cullen,24,ie IRL,CM,28-034,87,0,0,0,0,0,0,1,0,36,3,0,2,0.0,0.0,0.0,0,0,25,30,83.3,4,16,0,0,0
+Zeki Amdouni,25,ch SUI,"FW,CM",23-159,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Jacob Bruun Larsen,34,dk DEN,"RM,LM",25-235,80,1,0,0,0,3,2,1,0,45,1,0,1,0.4,0.4,0.0,2,0,17,29,58.6,3,22,1,4,2
+Mike Trésor,31,be BEL,LM,24-349,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,0
+Charlie Taylor,3,eng ENG,LB,30-236,90,0,0,0,0,0,0,1,0,42,1,1,2,0.0,0.0,0.0,1,0,22,36,61.1,2,17,1,0,0
+Maxime Estève,33,fr FRA,CB,21-351,90,0,0,0,0,1,0,0,0,46,2,3,0,0.1,0.1,0.0,0,0,35,38,92.1,1,14,0,0,0
+Dara O'Shea,2,ie IRL,CB,25-068,90,0,0,0,0,1,0,0,0,51,3,1,1,0.0,0.0,0.1,2,0,30,40,75.0,1,20,0,0,0
+Lorenz Assignon,20,tg TOG,RB,23-324,90,0,0,0,0,0,0,1,0,42,4,2,1,0.0,0.0,0.0,1,0,23,27,85.2,2,16,1,1,0
+Arijanet Muric,49,xk KVX,GK,25-186,90,0,0,0,0,0,0,0,0,67,0,0,0,0.0,0.0,0.0,0,0,37,60,61.7,0,44,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joselu,21,es ESP,FW,27-271,90,0,1,0,0,0,0,0,0,43,3,0,0,0.0,0.0,0.6,0,0,14,33,42.4,3,12,0,0,0
+Dwight Gayle,9,eng ENG,FW,27-067,75,0,0,0,0,3,0,0,0,30,1,0,1,0.6,0.6,0.0,3,1,17,22,77.3,0,9,1,0,0
+Ayoze Pérez,17,es ESP,FW,24-147,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,3,0,1,1
+Christian Atsu,30,gh GHA,LM,25-347,89,1,1,0,0,2,2,1,0,24,0,0,0,0.6,0.6,0.3,4,4,11,15,73.3,1,17,3,2,1
+Jacob Murphy,7,eng ENG,LM,22-302,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Mohamed Diamé,10,sn SEN,CM,30-192,90,1,0,0,0,2,1,0,0,27,4,1,1,0.4,0.4,0.0,0,0,10,15,66.7,1,11,0,1,0
+Henri Saivet,24,sn SEN,CM,27-058,83,1,0,0,0,1,1,0,0,42,5,4,0,0.1,0.1,0.0,1,0,15,26,57.7,1,7,0,0,0
+Chancel Mbemba,18,cd COD,CM,23-137,7,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Matt Ritchie,11,sct SCO,RM,28-104,90,0,0,0,0,2,0,0,0,39,3,0,3,0.1,0.1,0.1,4,0,10,23,43.5,1,16,0,1,0
+Javier Manquillo,19,es ESP,LB,23-232,90,0,0,0,0,0,0,0,0,50,3,2,2,0.0,0.0,0.0,2,1,25,31,80.6,3,16,5,2,1
+Ciaran Clark,2,ie IRL,CB,28-088,90,0,0,0,0,0,0,0,0,44,1,1,3,0.0,0.0,0.0,0,0,13,24,54.2,1,12,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,24-042,90,0,0,0,0,0,0,0,0,36,0,0,3,0.0,0.0,0.0,0,0,18,20,90.0,0,13,0,0,0
+DeAndre Yedlin,22,us USA,RB,24-167,90,0,0,0,0,1,0,0,0,49,3,0,0,0.0,0.0,0.4,3,0,19,34,55.9,2,13,2,1,1
+Rob Elliot,1,ie IRL,GK,31-237,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,16,34,47.1,0,12,0,0,0

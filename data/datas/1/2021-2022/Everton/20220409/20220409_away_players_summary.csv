@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cristiano Ronaldo,7,pt POR,FW,37-063,90,0,0,0,0,2,1,1,0,38,0,0,0,0.1,0.1,0.0,4,0,24,30,80.0,2,26,2,1,1
+Marcus Rashford,10,eng ENG,LW,24-160,63,0,0,0,0,3,2,0,0,39,0,1,1,0.2,0.2,0.0,0,0,20,25,80.0,3,19,0,3,0
+Anthony Elanga,36,se SWE,LW,19-347,27,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,6,13,46.2,0,11,1,1,0
+Jadon Sancho,25,eng ENG,RW,22-015,90,0,0,0,0,0,0,0,0,58,0,1,1,0.0,0.0,0.3,6,0,48,53,90.6,7,45,9,2,2
+Bruno Fernandes,18,pt POR,AM,27-213,90,0,0,0,0,2,0,0,0,98,0,0,1,0.0,0.0,0.1,4,0,72,91,79.1,9,71,3,1,1
+Nemanja Matić,31,rs SRB,DM,33-251,63,0,0,0,0,0,0,0,0,78,1,2,2,0.0,0.0,0.0,0,0,54,65,83.1,9,50,1,1,0
+Juan Mata,8,es ESP,DM,33-346,27,0,0,0,0,1,0,0,0,30,2,0,0,0.1,0.1,0.0,1,0,21,26,80.8,3,20,0,0,0
+Fred,17,br BRA,DM,29-035,35,0,0,0,0,0,0,0,0,33,1,1,1,0.0,0.0,0.0,0,0,20,27,74.1,0,21,0,1,0
+Paul Pogba,6,fr FRA,DM,29-025,55,0,0,0,0,1,1,1,0,60,1,0,0,0.0,0.0,0.0,1,0,48,53,90.6,8,50,2,3,2
+Alex Telles,27,br BRA,LB,29-115,90,0,0,0,0,0,0,0,0,106,1,0,1,0.0,0.0,0.2,5,0,71,98,72.4,6,76,5,1,1
+Harry Maguire,5,eng ENG,CB,29-035,90,0,0,0,0,2,0,0,0,81,2,3,0,0.2,0.2,0.1,2,0,58,66,87.9,4,49,1,0,0
+Victor Lindelöf,2,se SWE,CB,27-266,90,0,0,0,0,0,0,0,0,76,0,0,1,0.0,0.0,0.0,0,0,56,69,81.2,2,45,1,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,24-134,90,0,0,0,0,1,0,0,0,77,7,4,2,0.2,0.2,0.0,0,0,36,56,64.3,3,41,3,6,3
+David de Gea,1,es ESP,GK,31-153,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,19,0,0,0

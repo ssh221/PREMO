@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Welbeck,18,eng ENG,FW,30-173,28,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,3,1,0,0
+Leandro Trossard,11,be BEL,"FW,WB",26-165,62,1,0,0,0,1,1,0,0,33,0,0,0,0.1,0.1,0.1,5,1,23,29,79.3,7,24,7,2,2
+Alexis Mac Allister,10,ar ARG,"FW,AM",22-145,90,0,0,0,0,3,0,0,0,39,0,0,0,0.1,0.1,0.2,5,0,22,27,81.5,4,23,1,1,1
+Steven Alzate,17,co COL,CM,22-252,64,0,0,0,0,0,0,0,0,38,2,0,0,0.0,0.0,0.0,2,0,32,33,97.0,1,24,1,0,0
+Andi Zeqiri,29,ch SUI,FW,21-330,26,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.1,2,0,3,3,100.0,0,7,0,1,1
+Yves Bissouma,8,ml MLI,CM,24-261,90,0,0,0,0,2,0,0,0,71,5,2,1,0.1,0.1,0.0,1,0,52,57,91.2,2,46,3,2,2
+Pascal Groß,13,de GER,"CM,WB",29-337,90,0,1,0,0,2,0,0,0,83,4,0,3,0.1,0.1,0.2,5,1,61,73,83.6,3,35,1,1,1
+Jakub Moder,15,pl POL,"WB,AM",22-041,90,0,0,0,0,0,0,0,0,58,0,0,0,0.0,0.0,0.0,4,1,39,49,79.6,5,36,6,7,3
+Alireza Jahanbakhsh,16,ir IRN,WB,27-280,48,0,0,0,0,2,1,1,0,30,1,2,1,0.1,0.1,0.0,0,0,15,23,65.2,3,22,1,1,0
+Adam Lallana,14,eng ENG,CM,33-008,42,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,3,0,35,37,94.6,5,22,1,0,0
+Dan Burn,33,eng ENG,CB,29-009,90,1,0,0,0,3,2,0,0,94,2,0,1,0.3,0.3,0.0,3,1,76,85,89.4,10,58,1,0,0
+Adam Webster,4,eng ENG,CB,26-134,90,1,0,0,0,3,1,1,0,125,1,0,0,0.2,0.2,0.0,0,0,107,117,91.5,6,80,1,1,1
+Ben White,3,eng ENG,CB,23-222,90,0,0,0,0,2,0,0,0,84,2,3,1,0.1,0.1,0.0,0,0,64,70,91.4,5,58,2,1,1
+Robert Sánchez,26,es ESP,GK,23-181,90,0,0,0,0,0,0,1,0,41,0,0,1,0.0,0.0,0.0,0,0,33,38,86.8,0,30,0,0,0

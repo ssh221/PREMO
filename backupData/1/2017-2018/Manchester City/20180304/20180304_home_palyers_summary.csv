@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sergio Agüero,10,ar ARG,FW,29-275,84,0,0,0,0,1,0,0,0,27,0,0,1,0.1,0.1,0.2,7,1,20,21,95.2,3,21,4,3,3
+Gabriel Jesus,33,br BRA,FW,20-335,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0
+Leroy Sané,19,de GER,LW,22-052,90,0,0,0,0,5,0,0,0,58,1,2,1,0.3,0.3,0.1,5,0,38,46,82.6,1,50,7,7,7
+Bernardo Silva,20,pt POR,RW,23-206,90,1,0,0,0,3,1,0,0,62,2,1,0,0.4,0.4,0.0,1,0,34,47,72.3,4,46,4,4,3
+David Silva,21,es ESP,LM,32-055,89,0,1,0,0,3,1,0,0,125,2,1,2,0.1,0.1,0.4,4,1,110,117,94.0,10,87,8,1,1
+Phil Foden,47,eng ENG,LM,17-280,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+İlkay Gündoğan,8,de GER,CM,27-131,90,0,0,0,0,0,0,1,0,178,2,2,0,0.0,0.0,0.0,2,0,167,174,96.0,15,131,1,1,1
+Kevin De Bruyne,17,be BEL,RM,26-249,90,0,0,0,0,1,0,0,0,89,1,0,1,0.0,0.0,0.2,5,0,67,82,81.7,10,53,5,4,4
+Oleksandr Zinchenko,35,ua UKR,LB,21-079,86,0,0,0,0,0,0,1,0,162,1,1,0,0.0,0.0,0.0,0,0,152,159,95.6,11,110,1,1,1
+Danilo,3,br BRA,LB,26-232,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,1,0,0,0
+Aymeric Laporte,14,es ESP,CB,23-281,90,0,0,0,0,0,0,0,0,101,0,0,1,0.0,0.0,0.0,0,0,92,96,95.8,8,50,1,0,0
+Nicolás Otamendi,30,ar ARG,CB,30-020,90,0,0,0,0,0,0,0,0,133,2,0,0,0.0,0.0,0.0,0,0,119,125,95.2,8,98,1,0,0
+Kyle Walker,2,eng ENG,RB,27-280,90,0,0,0,0,0,0,0,0,120,0,1,0,0.0,0.0,0.0,1,0,103,117,88.0,13,65,0,0,0
+Ederson,31,br BRA,GK,24-199,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,14,0,0,0

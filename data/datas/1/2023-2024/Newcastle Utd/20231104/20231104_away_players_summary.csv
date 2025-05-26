@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eddie Nketiah,14,eng ENG,FW,24-158,78,0,0,0,0,1,0,0,0,28,0,0,3,0.1,0.1,0.0,1,0,14,16,87.5,1,14,0,2,0
+Leandro Trossard,19,be BEL,FW,28-335,12,0,0,0,0,2,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,0,5,0,0,0
+Gabriel Martinelli,11,br BRA,LW,22-139,90,0,0,0,0,3,1,0,0,69,1,0,2,0.1,0.1,0.3,5,0,44,55,80.0,4,41,4,7,3
+Bukayo Saka,7,eng ENG,RW,22-060,90,0,0,0,0,1,0,0,0,53,1,0,3,0.0,0.0,0.0,2,0,36,41,87.8,1,35,1,2,0
+Declan Rice,41,eng ENG,"LM,CM",24-294,90,0,0,0,0,2,0,0,0,69,0,1,2,0.1,0.1,0.1,6,0,51,58,87.9,13,49,3,2,2
+Jorginho,20,it ITA,CM,31-319,78,0,0,0,0,2,0,0,0,62,2,0,3,0.1,0.1,0.0,3,0,52,55,94.5,6,34,0,0,0
+Fabio Vieira,21,pt POR,RM,23-158,12,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,8,12,66.7,1,10,0,0,0
+Kai Havertz,29,de GER,"RM,LM",24-146,90,0,0,0,0,1,0,1,0,46,3,0,1,0.1,0.1,0.0,0,0,23,34,67.6,6,26,2,1,0
+Takehiro Tomiyasu,18,jp JPN,"LB,RB",24-364,90,0,0,0,0,1,0,0,0,43,1,1,1,0.0,0.0,0.0,1,0,29,38,76.3,1,20,1,1,1
+Gabriel Magalhães,6,br BRA,CB,25-320,90,0,0,0,0,0,0,0,0,52,1,1,2,0.0,0.0,0.0,0,0,35,44,79.5,3,26,2,1,0
+William Saliba,2,fr FRA,CB,22-225,90,0,0,0,0,1,0,0,0,56,1,1,0,0.0,0.0,0.0,1,0,45,50,90.0,4,30,1,1,0
+Ben White,4,eng ENG,RB,26-027,72,0,0,0,0,0,0,0,0,55,1,2,1,0.0,0.0,0.0,2,0,41,50,82.0,2,22,0,0,0
+Oleksandr Zinchenko,35,ua UKR,LB,26-324,18,0,0,0,0,0,0,0,0,33,0,1,1,0.0,0.0,0.0,1,0,26,32,81.3,10,22,1,1,1
+David Raya,22,es ESP,GK,28-050,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,31,71.0,0,18,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Che Adams,10,sct SCO,FW,25-263,86,0,0,0,0,2,1,0,0,40,1,0,1,0.5,0.5,0.2,5,0,16,27,59.3,4,19,0,4,2
+Nathan Tella,23,ng NGA,FW,22-271,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,1,0
+Armando Broja,18,al ALB,FW,20-204,89,0,0,0,0,1,0,0,0,36,0,0,3,0.2,0.2,0.1,2,0,10,20,50.0,0,9,1,2,0
+Shane Long,7,ie IRL,FW,35-070,1,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,1,0,2,2,100.0,0,2,0,0,0
+Mohamed Elyounoussi,24,no NOR,AM,27-241,90,0,0,0,0,2,1,1,0,48,1,0,1,0.6,0.6,0.0,2,0,21,34,61.8,6,14,0,2,1
+Ibrahima Diallo,27,fr FRA,"LM,CM",23-025,90,0,0,0,0,1,1,0,0,42,1,2,2,0.0,0.0,0.0,0,0,20,34,58.8,3,12,2,1,1
+Oriol Romeu,6,es ESP,CM,30-190,63,0,0,0,0,0,0,0,0,38,1,1,1,0.0,0.0,0.5,3,0,25,32,78.1,2,14,1,0,0
+Stuart Armstrong,17,sct SCO,LM,30-003,27,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,2,7,0,2,1
+James Ward-Prowse,8,eng ENG,RM,27-152,90,1,0,0,0,2,1,0,0,60,0,1,2,0.1,0.1,0.1,4,0,40,55,72.7,2,10,1,0,0
+Kyle Walker-Peters,2,eng ENG,LB,24-354,90,0,0,0,0,2,1,0,0,58,2,0,1,0.0,0.0,0.0,4,2,22,34,64.7,2,30,8,13,7
+Mohammed Salisu,22,gh GHA,CB,22-350,90,0,0,0,0,0,0,0,0,54,2,4,3,0.0,0.0,0.0,0,0,22,43,51.2,3,19,1,0,0
+Jan Bednarek,35,pl POL,CB,25-355,90,0,0,0,0,2,0,0,0,47,0,4,3,0.0,0.0,0.0,0,0,26,31,83.9,1,9,0,0,0
+Valentino Livramento,21,eng ENG,RB,19-141,90,0,0,0,0,1,0,0,0,61,1,1,1,0.0,0.0,0.2,2,0,26,46,56.5,10,20,2,2,2
+Fraser Forster,44,eng ENG,GK,34-016,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,11,34,32.4,0,14,0,0,0

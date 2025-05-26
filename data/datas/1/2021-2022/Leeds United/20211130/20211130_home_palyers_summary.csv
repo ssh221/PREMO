@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Tyler Roberts,11,wls WAL,FW,22-322,89,0,0,0,0,1,1,1,0,25,0,0,3,0.0,0.0,0.1,4,0,11,16,68.8,2,14,0,3,1
+Charlie Cresswell,35,eng ENG,CM,19-105,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0
+Daniel James,20,wls WAL,LM,24-020,90,0,0,0,0,4,0,0,0,44,3,1,2,0.2,0.2,0.1,2,0,16,23,69.6,5,28,4,4,0
+Mateusz Klich,43,pl POL,CM,31-170,45,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,5,10,50.0,0,9,0,1,1
+Rodrigo,19,es ESP,"CM,RW",30-269,45,0,0,0,0,1,0,0,0,23,0,1,1,0.1,0.1,0.0,2,0,13,17,76.5,3,14,1,1,0
+Adam Forshaw,4,eng ENG,CM,30-053,90,0,0,0,0,3,1,1,0,55,4,1,0,0.1,0.1,0.0,1,0,39,43,90.7,5,34,0,1,0
+Raphinha,10,br BRA,RM,24-351,90,1,0,1,1,1,0,0,0,58,1,1,1,0.8,0.0,0.0,3,0,21,40,52.5,4,31,1,6,1
+Kalvin Phillips,23,eng ENG,DM,25-363,90,0,0,0,0,2,0,0,0,69,3,1,1,0.1,0.1,0.0,3,0,42,54,77.8,3,42,1,0,0
+Pascal Struijk,21,nl NED,LB,22-111,45,0,0,0,0,0,0,1,0,29,2,1,0,0.0,0.0,0.0,0,0,20,25,80.0,3,20,0,0,0
+Junior Firpo,3,do DOM,LB,25-100,45,0,0,0,0,0,0,1,0,53,2,0,0,0.0,0.0,0.0,4,0,40,51,78.4,9,38,2,0,0
+Liam Cooper,6,sct SCO,CB,30-092,90,0,0,0,0,1,0,0,0,95,2,1,2,0.0,0.0,0.0,2,1,71,81,87.7,7,56,2,0,0
+Diego Llorente,14,es ESP,CB,28-106,90,0,0,0,0,0,0,0,0,79,0,2,1,0.0,0.0,0.0,0,0,51,65,78.5,3,51,3,0,0
+Stuart Dallas,15,nir NIR,RB,30-225,90,0,0,0,0,1,0,1,0,58,6,2,2,0.1,0.1,0.1,4,0,34,45,75.6,6,30,1,2,1
+Illan Meslier,1,fr FRA,GK,21-273,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,35,40,87.5,0,23,0,0,0

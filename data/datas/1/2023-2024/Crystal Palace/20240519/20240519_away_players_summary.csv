@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,28-141,67,0,0,0,0,2,0,0,0,15,0,0,0,0.3,0.3,0.0,1,0,9,11,81.8,0,5,1,1,1
+Omari Kellyman,71,eng ENG,FW,18-247,23,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0
+Jáder Durán,24,co COL,FW,20-158,90,0,0,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.1,0,0,17,24,70.8,1,8,0,0,0
+John McGinn,7,sct SCO,LM,29-214,86,0,0,0,0,0,0,1,0,26,1,0,0,0.0,0.0,0.0,0,0,17,21,81.0,1,18,1,2,2
+Finley Munroe,69,eng ENG,LM,19-101,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Douglas Luiz,6,br BRA,CM,26-010,90,0,0,0,0,0,0,1,0,61,1,0,0,0.0,0.0,0.5,2,0,53,60,88.3,2,37,0,0,0
+Calum Chambers,16,eng ENG,CM,29-120,67,0,0,0,0,0,0,0,0,54,2,0,0,0.0,0.0,0.0,0,0,45,49,91.8,2,38,0,0,0
+Tim Iroegbunam,47,eng ENG,CM,20-324,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,6,2,1,0
+Moussa Diaby,19,fr FRA,RM,24-317,86,0,0,0,0,2,2,0,0,23,0,1,0,0.5,0.5,0.0,3,0,14,15,93.3,2,16,4,3,0
+Kaine Kesler-Hayden,29,eng ENG,RM,21-209,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Lucas Digne,12,fr FRA,LB,30-304,90,0,0,0,0,0,0,1,0,60,4,0,1,0.0,0.0,0.3,5,0,35,46,76.1,1,23,0,1,1
+Clément Lenglet,17,fr FRA,CB,28-337,90,0,0,0,0,0,0,1,0,71,0,1,1,0.0,0.0,0.0,0,0,63,69,91.3,1,50,0,0,0
+Diego Carlos,3,br BRA,CB,31-065,90,0,0,0,0,1,0,0,0,82,0,0,2,0.0,0.0,0.0,1,0,66,73,90.4,1,59,0,0,0
+Ezri Konsa,4,eng ENG,RB,26-209,90,0,0,0,0,1,0,0,0,71,1,0,0,0.1,0.1,0.0,1,0,53,65,81.5,0,39,2,2,1
+Robin Olsen,25,se SWE,GK,34-132,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,45,55,81.8,0,33,0,0,0

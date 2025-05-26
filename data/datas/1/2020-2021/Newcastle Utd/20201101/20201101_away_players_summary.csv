@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,23-230,90,1,0,0,0,5,2,0,0,31,0,0,1,0.9,0.9,0.3,5,0,16,19,84.2,1,19,1,1,1
+André Gomes,21,pt POR,AM,27-094,59,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,2,0,23,31,74.2,3,15,1,1,0
+Bernard,20,br BRA,AM,28-054,31,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.0,5,1,26,28,92.9,8,24,2,1,1
+Gylfi Sigurðsson,10,is ISL,"AM,LM",31-054,90,0,0,0,0,5,1,0,0,69,5,0,4,0.3,0.3,0.2,3,0,36,50,72.0,2,26,0,1,0
+Fabian Delph,8,eng ENG,"LM,LB",30-346,90,0,0,0,0,1,0,0,0,122,1,1,1,0.0,0.0,0.0,2,0,99,111,89.2,6,71,2,3,1
+Allan,6,br BRA,"CM,DM",29-298,90,0,0,0,0,0,0,1,0,70,6,1,1,0.0,0.0,0.1,3,0,59,62,95.2,7,43,1,2,1
+Abdoulaye Doucouré,16,ml MLI,"RM,RB",27-305,90,0,0,0,0,2,1,1,0,80,2,2,2,0.1,0.1,0.0,1,0,62,69,89.9,5,52,5,0,0
+Niels Nkounkou,18,fr FRA,LB,20-000,68,0,0,0,0,1,0,1,0,51,4,0,3,0.0,0.0,0.0,1,0,26,31,83.9,1,20,2,3,1
+Cenk Tosun,14,tr TUR,FW,29-147,22,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.1,2,1,3,5,60.0,0,2,0,0,0
+Michael Keane,5,eng ENG,CB,27-295,90,0,0,0,0,1,0,0,0,111,1,2,1,0.1,0.1,0.0,2,0,90,99,90.9,4,67,1,0,0
+Yerry Mina,13,co COL,CB,26-039,90,0,0,0,0,0,0,1,0,74,0,0,1,0.0,0.0,0.0,0,0,69,70,98.6,1,54,0,0,0
+Jonjoe Kenny,2,eng ENG,RB,23-231,76,0,0,0,0,0,0,0,0,59,2,0,0,0.0,0.0,0.0,1,0,41,52,78.8,1,20,2,0,0
+Alex Iwobi,17,ng NGA,RM,24-182,14,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,2,0,8,12,66.7,1,13,1,0,0
+Robin Olsen,33,se SWE,GK,30-298,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,19,21,90.5,0,11,0,0,0

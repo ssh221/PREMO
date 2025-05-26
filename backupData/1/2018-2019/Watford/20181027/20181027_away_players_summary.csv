@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Laurent Depoitre,20,be BEL,FW,29-324,62,0,0,0,0,2,0,0,0,21,1,0,0,0.1,0.1,0.0,1,0,9,13,69.2,2,6,0,2,1
+Steve Mounié,24,bj BEN,FW,24-028,28,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,1,0,6,7,85.7,1,8,1,1,1
+Alex Pritchard,21,eng ENG,FW,25-177,90,0,0,0,0,3,1,0,0,57,1,1,2,0.1,0.1,0.0,2,0,30,39,76.9,3,28,2,4,2
+Aaron Mooy,10,au AUS,"LM,RM",28-042,90,0,0,0,0,3,2,1,0,51,2,0,3,0.1,0.1,0.2,6,0,28,36,77.8,3,21,0,2,0
+Jonathan Hogg,6,eng ENG,CM,29-325,90,0,0,0,0,0,0,0,0,90,3,5,2,0.0,0.0,0.0,2,0,70,81,86.4,6,39,0,1,1
+Philip Billing,8,dk DEN,CM,22-138,77,0,0,0,0,1,1,1,0,63,4,3,0,0.0,0.0,0.1,4,0,45,52,86.5,4,34,1,2,2
+Juninho Bacuna,7,cw CUW,CM,21-081,13,0,0,0,0,0,0,0,0,7,1,1,0,0.0,0.0,0.0,0,0,1,5,20.0,0,4,1,0,0
+Isaac Mbenza,18,be BEL,"RM,LM",22-233,62,0,0,0,0,1,1,0,0,25,1,1,1,0.0,0.0,0.0,1,0,9,18,50.0,0,13,0,0,0
+Ramadan Sobhi,14,eg EGY,"LM,RM",21-277,28,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.1,1,0,14,19,73.7,2,13,0,0,0
+Chris Löwe,15,de GER,LB,29-194,90,0,0,0,0,2,2,0,0,67,5,1,0,0.1,0.1,0.0,1,0,46,57,80.7,2,30,5,1,1
+Christopher Schindler,26,de GER,CB,28-181,90,0,0,0,0,0,0,0,0,72,2,2,0,0.0,0.0,0.0,0,0,54,64,84.4,2,32,2,0,0
+Mathias Jørgensen,25,dk DEN,CB,28-187,90,0,0,0,0,0,0,0,0,90,2,9,1,0.0,0.0,0.0,1,0,56,74,75.7,7,43,2,0,0
+Erik Durm,37,de GER,RB,26-168,90,0,0,0,0,1,0,0,0,62,4,3,0,0.1,0.1,0.0,5,0,38,50,76.0,6,31,1,2,2
+Jonas Lössl,1,dk DEN,GK,29-268,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,18,0,0,0

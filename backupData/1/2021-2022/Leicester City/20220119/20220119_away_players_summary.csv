@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,28-175,90,1,1,0,0,10,2,0,0,54,1,0,0,1.5,1.5,0.3,10,2,24,36,66.7,6,44,8,4,4
+Lucas Moura,27,br BRA,"FW,LW",29-159,90,0,0,0,0,2,1,0,0,41,0,2,0,0.1,0.1,0.4,5,1,25,33,75.8,4,28,1,6,2
+Pierre Højbjerg,5,dk DEN,"CM,DM",26-167,90,0,0,0,0,4,0,0,0,86,1,4,4,0.3,0.3,0.0,6,1,59,68,86.8,10,60,2,2,2
+Harry Winks,8,eng ENG,CM,25-351,73,0,1,0,0,0,0,0,0,71,0,1,0,0.0,0.0,0.9,4,1,61,68,89.7,7,54,0,0,0
+Giovani Lo Celso,18,ar ARG,"RW,CM",25-285,17,0,0,0,0,0,0,0,0,12,0,1,1,0.0,0.0,0.0,1,0,8,9,88.9,1,7,0,1,1
+Oliver Skipp,29,eng ENG,"CM,DM",21-125,90,0,0,0,0,1,0,0,0,60,2,1,0,0.0,0.0,0.0,1,0,42,51,82.4,3,52,5,0,0
+Sergio Reguilón,3,es ESP,WB,25-034,78,0,0,0,0,2,1,0,0,52,4,0,1,0.2,0.2,0.2,8,0,33,40,82.5,0,26,2,7,5
+Steven Bergwijn,23,nl NED,AM,24-103,12,2,0,0,0,2,2,1,0,14,0,0,0,0.4,0.4,0.0,2,1,8,9,88.9,1,8,1,2,1
+Emerson,12,br BRA,WB,23-005,45,0,0,0,0,1,0,0,0,21,1,0,0,0.0,0.0,0.0,2,0,15,18,83.3,1,10,0,1,0
+Matt Doherty,2,ie IRL,"WB,RB",30-003,45,0,1,0,0,2,1,0,0,40,0,1,2,0.3,0.3,0.3,3,0,27,33,81.8,2,26,5,0,0
+Ben Davies,33,wls WAL,"CB,LB",28-270,90,0,0,0,0,0,0,0,0,84,4,1,1,0.0,0.0,0.1,1,0,69,76,90.8,5,62,2,0,0
+Davinson Sánchez,6,co COL,CB,25-221,90,0,0,0,0,1,0,1,0,101,3,2,2,0.1,0.1,0.2,2,0,87,89,97.8,2,79,0,0,0
+Japhet Tanganga,25,eng ENG,CB,22-294,90,0,0,0,0,2,1,0,0,91,4,1,1,0.2,0.2,0.0,0,0,68,79,86.1,6,72,3,1,1
+Hugo Lloris,1,fr FRA,GK,35-024,90,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,15,16,93.8,0,10,0,0,0

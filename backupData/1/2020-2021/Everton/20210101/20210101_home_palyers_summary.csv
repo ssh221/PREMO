@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,23-291,78,0,0,0,0,2,0,0,0,30,0,1,0,0.1,0.1,0.0,0,0,14,21,66.7,2,18,0,2,1
+Cenk Tosun,14,tr TUR,FW,29-208,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0
+Bernard,20,br BRA,LW,28-115,63,0,0,0,0,1,1,0,0,43,0,0,1,0.0,0.0,0.1,2,0,22,33,66.7,2,27,3,4,0
+James Rodríguez,19,co COL,RW,29-173,27,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,2,18,1,1,1
+Richarlison,7,br BRA,RW,23-236,90,0,0,0,0,1,0,0,0,49,1,1,0,0.0,0.0,0.0,3,0,29,42,69.0,1,32,6,2,1
+Gylfi Sigurðsson,10,is ISL,AM,31-115,63,0,0,0,0,0,0,0,0,43,0,1,0,0.0,0.0,0.1,1,0,30,38,78.9,1,20,0,0,0
+André Gomes,21,pt POR,AM,27-155,27,0,0,0,0,1,0,0,0,22,0,0,2,0.0,0.0,0.0,0,0,17,19,89.5,1,14,1,1,1
+Tom Davies,26,eng ENG,DM,22-185,90,0,0,0,0,1,0,1,0,82,4,2,0,0.0,0.0,0.0,0,0,60,73,82.2,9,51,1,3,3
+Abdoulaye Doucouré,16,ml MLI,DM,28-000,90,0,0,0,0,2,0,0,0,88,1,3,3,0.0,0.0,0.0,2,0,68,79,86.1,9,46,2,0,0
+Ben Godfrey,22,eng ENG,LB,22-352,90,0,0,0,0,0,0,1,0,44,3,0,0,0.0,0.0,0.0,2,0,30,37,81.1,3,19,2,0,0
+Mason Holgate,4,eng ENG,CB,24-071,90,0,0,0,0,0,0,0,0,96,3,2,2,0.0,0.0,0.1,3,0,73,85,85.9,2,66,2,0,0
+Yerry Mina,13,co COL,CB,26-100,90,0,0,0,0,1,0,0,0,92,2,0,1,0.1,0.1,0.0,1,0,78,83,94.0,13,67,5,0,0
+Séamus Coleman,23,ie IRL,RB,32-082,90,0,0,0,0,1,1,0,0,68,1,1,0,0.1,0.1,0.0,1,0,53,62,85.5,2,39,2,0,0
+Jordan Pickford,1,eng ENG,GK,26-300,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,24,0,0,0

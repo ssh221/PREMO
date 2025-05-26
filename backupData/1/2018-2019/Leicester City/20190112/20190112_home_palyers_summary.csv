@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,32-001,90,0,0,0,0,2,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,7,0,0,0
+James Maddison,10,eng ENG,"AM,LW",22-050,90,0,0,0,0,6,1,1,0,91,0,0,0,0.2,0.2,0.3,12,0,57,77,74.0,7,62,0,3,2
+Marc Albrighton,11,eng ENG,RW,29-055,45,0,0,0,0,0,0,0,0,21,2,1,0,0.0,0.0,0.0,0,0,6,10,60.0,0,10,0,2,0
+Demarai Gray,7,jm JAM,RW,22-198,45,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.1,6,0,22,29,75.9,3,27,5,2,2
+Wilfred Ndidi,25,ng NGA,"DM,LM",22-027,90,1,0,0,0,4,1,0,0,58,1,0,1,0.7,0.7,0.0,6,0,42,50,84.0,9,43,2,0,0
+Nampalys Mendy,24,sn SEN,CM,26-203,45,0,0,0,0,0,0,0,0,25,2,1,1,0.0,0.0,0.0,0,0,17,18,94.4,1,11,0,1,0
+Harvey Barnes,19,eng ENG,LW,21-034,45,0,0,0,0,3,1,0,0,35,0,0,1,0.2,0.2,0.0,0,0,18,24,75.0,3,29,3,4,1
+Hamza Choudhury,38,bd BAN,"RM,DM",21-103,75,0,0,0,0,1,0,0,0,58,2,3,2,0.0,0.0,0.0,2,0,39,49,79.6,7,30,1,1,1
+Rachid Ghezzal,31,dz ALG,DM,26-248,15,0,0,0,0,1,0,0,0,29,0,1,0,0.0,0.0,0.0,0,0,20,26,76.9,5,23,4,0,0
+Ben Chilwell,3,eng ENG,LB,22-022,90,0,0,0,0,0,0,1,0,110,1,2,1,0.0,0.0,0.1,7,0,70,99,70.7,11,65,12,1,0
+Harry Maguire,15,eng ENG,CB,25-313,90,0,0,0,0,4,2,0,0,93,0,1,0,0.1,0.1,0.1,6,0,71,83,85.5,18,54,6,0,0
+Wes Morgan,5,jm JAM,CB,34-356,90,0,0,0,0,1,0,0,0,57,1,1,0,0.3,0.3,0.0,0,0,38,49,77.6,4,26,0,2,2
+Ricardo Pereira,14,pt POR,RB,25-098,90,0,1,0,0,0,0,0,0,111,1,1,0,0.0,0.0,0.6,5,2,61,97,62.9,10,53,10,5,3
+Kasper Schmeichel,1,dk DEN,GK,32-068,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,22,29,75.9,2,15,0,0,0

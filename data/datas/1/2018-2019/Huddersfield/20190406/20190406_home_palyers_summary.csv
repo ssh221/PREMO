@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Karlan Grant,16,eng ENG,FW,21-200,90,0,0,0,0,1,1,0,0,25,2,0,1,0.5,0.5,0.0,3,1,12,15,80.0,0,15,1,3,2
+Alex Pritchard,21,eng ENG,FW,25-338,59,0,0,0,0,2,1,0,0,26,0,1,0,0.1,0.1,0.0,1,0,12,19,63.2,0,14,0,1,1
+Steve Mounié,24,bj BEN,FW,24-189,31,0,0,0,0,4,1,0,0,18,1,0,1,0.2,0.2,0.0,3,0,8,10,80.0,0,7,2,0,0
+Chris Löwe,15,de GER,LM,29-355,90,0,0,0,0,1,0,0,0,51,2,1,2,0.0,0.0,0.1,3,0,24,40,60.0,1,25,3,2,2
+Jon Gorenc Stanković,27,si SVN,CM,23-082,45,0,0,0,0,1,0,1,0,29,2,0,0,0.0,0.0,0.0,1,0,20,25,80.0,3,16,0,0,0
+Isaac Mbenza,18,be BEL,RM,23-029,45,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.5,1,0,3,5,60.0,0,10,2,2,0
+Jonathan Hogg,6,eng ENG,CM,30-121,80,0,0,0,0,0,0,1,0,54,3,4,1,0.0,0.0,0.0,0,0,34,39,87.2,3,24,0,1,0
+Juninho Bacuna,7,cw CUW,CM,21-242,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,7,7,100.0,0,4,1,1,0
+Aaron Mooy,10,au AUS,"CM,RM",28-203,90,1,0,1,1,0,0,0,0,59,3,0,0,0.8,0.0,0.0,2,0,38,52,73.1,3,26,1,0,0
+Erik Durm,37,de GER,LB,26-329,90,0,0,0,0,0,0,0,0,60,0,0,3,0.0,0.0,0.0,0,0,41,56,73.2,2,28,1,0,0
+Terence Kongolo,5,nl NED,CB,25-051,90,0,0,0,0,0,0,1,0,47,1,2,0,0.0,0.0,0.0,0,0,29,39,74.4,4,30,0,0,0
+Christopher Schindler,26,de GER,CB,28-342,90,0,0,0,0,0,0,0,0,46,1,2,2,0.0,0.0,0.0,0,0,28,33,84.8,2,18,0,0,0
+Tommy Smith,2,eng ENG,RB,26-357,90,0,0,0,0,0,0,0,0,52,2,3,1,0.0,0.0,0.0,0,0,39,48,81.3,5,23,2,0,0
+Ben Hamer,12,eng ENG,GK,31-137,90,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,0,0,14,29,48.3,0,10,0,0,0

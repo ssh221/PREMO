@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,9,eng ENG,FW,26-293,75,0,1,0,0,4,0,0,0,46,3,0,1,0.4,0.4,0.1,2,1,19,29,65.5,2,30,3,5,2
+Charlie Austin,10,eng ENG,FW,29-311,15,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,0,0
+Shane Long,7,ie IRL,FW,32-110,45,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,5,13,38.5,1,12,0,1,0
+Matt Targett,33,eng ENG,WB,23-236,45,0,0,0,0,0,0,0,0,30,1,0,0,0.0,0.0,0.0,3,0,26,29,89.7,3,10,1,1,1
+Nathan Redmond,22,eng ENG,"AM,LM",25-067,90,1,0,0,0,1,1,0,0,62,2,0,1,0.0,0.0,0.5,7,0,35,44,79.5,8,44,9,9,7
+Pierre Højbjerg,23,dk DEN,CM,23-280,90,0,0,0,0,0,0,0,0,76,1,3,5,0.0,0.0,0.0,0,0,45,56,80.4,9,42,1,1,1
+Oriol Romeu,14,es ESP,CM,27-230,83,0,0,0,0,0,0,0,0,54,1,2,3,0.0,0.0,0.0,0,0,33,44,75.0,4,19,0,1,1
+Josh Sims,39,eng ENG,AM,22-045,7,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+James Ward-Prowse,16,eng ENG,"RM,AM,CM",24-192,90,0,0,0,0,2,1,0,0,49,1,1,1,0.1,0.1,0.0,0,0,32,41,78.0,2,22,0,2,0
+Ryan Bertrand,21,eng ENG,"CB,LB",29-280,90,0,0,0,0,0,0,0,0,63,2,0,0,0.0,0.0,0.0,1,0,41,58,70.7,7,29,1,0,0
+Jack Stephens,5,eng ENG,CB,25-105,90,0,0,0,0,0,0,0,0,63,0,2,1,0.0,0.0,0.0,0,0,39,55,70.9,5,20,0,0,0
+Jan Bednarek,35,pl POL,CB,23-030,90,0,0,0,0,0,0,0,0,58,1,0,1,0.0,0.0,0.0,1,1,29,47,61.7,4,19,0,0,0
+Yan Valery,43,tn TUN,"WB,RB",20-079,90,0,0,0,0,1,1,0,0,49,0,1,2,0.0,0.0,0.0,1,0,29,41,70.7,1,21,4,2,1
+Angus Gunn,28,sct SCO,GK,23-110,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,22,39,56.4,0,23,0,1,0

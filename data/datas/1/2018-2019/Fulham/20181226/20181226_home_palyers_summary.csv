@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-101,90,0,0,0,0,8,2,0,0,51,1,0,0,1.0,1.0,0.0,4,1,26,35,74.3,2,18,3,4,2
+André Schürrle,14,de GER,LW,28-050,66,0,0,0,0,1,1,0,0,33,0,0,0,0.0,0.0,0.3,5,0,21,25,84.0,3,19,2,4,2
+Ryan Sessegnon,3,eng ENG,LW,18-222,24,1,0,0,0,1,1,0,0,13,0,1,0,0.2,0.2,0.0,0,0,3,6,50.0,0,6,1,1,0
+Aboubakar Kamara,47,mr MTN,RW,23-294,72,0,0,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.1,2,0,14,20,70.0,1,15,3,2,1
+Tom Cairney,10,sct SCO,RW,27-340,18,0,0,0,0,0,0,0,0,9,2,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0
+Joe Bryan,23,eng ENG,LM,25-100,90,0,0,0,0,0,0,0,0,43,3,1,1,0.0,0.0,0.0,1,0,15,30,50.0,1,15,1,2,1
+Jean Seri,24,ci CIV,CM,27-160,81,0,0,0,0,0,0,0,0,40,1,0,0,0.0,0.0,0.0,2,1,31,36,86.1,3,11,0,1,1
+Kevin McDonald,6,sct SCO,CM,30-052,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0
+Calum Chambers,5,eng ENG,CM,23-340,90,0,0,0,0,0,0,1,0,48,2,7,3,0.0,0.0,0.0,1,0,16,27,59.3,6,10,1,1,1
+Cyrus Christie,22,ie IRL,RM,26-087,90,0,0,0,0,1,0,1,0,48,1,3,1,0.1,0.1,0.1,2,0,21,34,61.8,0,21,1,4,1
+Tim Ream,13,us USA,CB,31-082,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,20,75.0,2,8,2,0,0
+Alfie Mawson,26,eng ENG,CB,24-341,90,0,0,0,0,0,0,0,0,39,0,2,1,0.0,0.0,0.0,1,0,20,28,71.4,2,13,0,0,0
+Denis Odoi,4,gh GHA,CB,30-213,90,0,0,0,0,0,0,0,0,34,3,2,0,0.0,0.0,0.0,0,0,14,18,77.8,0,11,1,0,0
+Sergio Rico,25,es ESP,GK,25-116,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.1,2,0,21,39,53.8,0,15,0,0,0

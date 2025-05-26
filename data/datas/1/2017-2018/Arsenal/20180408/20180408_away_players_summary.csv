@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Shane Long,7,ie IRL,"FW,RW",31-076,79,1,0,0,0,3,2,0,0,29,3,1,0,0.5,0.5,0.0,1,0,7,18,38.9,0,7,0,1,0
+Josh Sims,39,eng ENG,RW,21-011,11,0,0,0,0,1,0,0,0,14,0,1,0,0.1,0.1,0.0,0,0,7,11,63.6,0,6,1,1,0
+Dušan Tadić,11,rs SRB,"AM,LW",29-139,90,0,0,0,0,1,1,0,0,51,2,3,1,0.1,0.1,0.4,7,1,28,39,71.8,6,27,2,1,1
+James Ward-Prowse,16,eng ENG,AM,23-158,90,0,0,0,0,2,0,0,0,47,0,0,0,0.3,0.3,0.1,4,1,23,38,60.5,4,24,0,1,1
+Pierre Højbjerg,23,dk DEN,"CM,DM",22-246,90,0,0,0,0,3,1,0,0,64,1,5,1,0.1,0.1,0.0,2,0,46,52,88.5,2,36,1,1,1
+Oriol Romeu,14,es ESP,"CM,DM",26-196,90,0,0,0,0,0,0,0,0,48,0,5,2,0.0,0.0,0.0,3,0,31,40,77.5,5,21,1,0,0
+Ryan Bertrand,21,eng ENG,"WB,LB",28-246,90,0,0,0,0,0,0,0,0,48,0,1,1,0.0,0.0,0.1,2,0,28,43,65.1,5,23,2,0,0
+Cédric Soares,2,pt POR,"WB,RB",26-220,90,0,2,0,0,1,0,0,0,60,1,0,2,0.0,0.0,1.0,3,2,31,47,66.0,4,28,1,1,1
+Wesley Hoedt,6,nl NED,CB,24-033,90,0,0,0,0,2,1,1,0,53,1,1,2,0.1,0.1,0.0,0,0,28,44,63.6,3,25,2,0,0
+Maya Yoshida,3,jp JPN,CB,29-227,71,0,0,0,0,0,0,0,0,26,1,1,1,0.0,0.0,0.0,0,0,16,21,76.2,0,10,0,0,0
+Charlie Austin,10,eng ENG,FW,28-277,19,1,0,0,0,2,2,0,0,8,0,0,0,0.8,0.8,0.1,1,0,4,5,80.0,2,5,0,0,0
+Jack Stephens,5,eng ENG,CB,24-071,89,0,0,0,0,0,0,0,1,47,3,4,0,0.0,0.0,0.0,0,0,26,35,74.3,1,23,0,1,0
+Alex McCarthy,13,eng ENG,GK,28-126,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,14,25,56.0,0,12,0,0,0

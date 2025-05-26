@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-238,90,0,0,0,0,3,1,0,0,31,0,0,0,0.2,0.2,0.0,3,0,16,21,76.2,0,10,1,2,1
+Ryan Sessegnon,3,eng ENG,"LW,RW",18-359,80,0,0,0,0,1,0,0,0,66,1,0,1,0.0,0.0,0.0,2,0,41,55,74.5,1,25,1,1,0
+Neeskens Kebano,7,cd COD,RW,27-063,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0
+Floyd Ayité,11,tg TOG,"RW,DM",30-148,73,0,0,0,0,2,0,0,0,50,0,2,2,0.1,0.1,0.1,2,0,33,36,91.7,2,29,2,2,1
+Harvey Elliott,56,eng ENG,DM,16-038,17,0,0,0,0,1,1,0,0,14,0,0,1,0.1,0.1,0.0,0,0,9,10,90.0,2,9,1,0,0
+Tom Cairney,10,sct SCO,AM,28-112,90,0,0,0,0,1,0,0,0,85,2,1,1,0.1,0.1,0.1,4,0,67,77,87.0,16,52,5,4,3
+Andre-Frank Zambo Anguissa,29,cm CMR,DM,23-177,90,0,0,0,0,4,0,0,0,140,4,1,0,0.2,0.2,0.0,6,0,119,128,93.0,11,88,3,2,2
+Calum Chambers,5,eng ENG,"DM,RB",24-112,90,0,0,0,0,2,0,0,0,124,0,1,0,0.1,0.1,0.1,5,0,103,119,86.6,12,69,1,1,1
+Joe Bryan,23,eng ENG,LB,25-237,90,0,0,0,0,0,0,1,0,116,4,1,1,0.0,0.0,0.1,5,0,91,109,83.5,16,49,2,1,1
+Maxime Le Marchand,20,fr FRA,CB,29-213,90,0,0,0,0,1,0,0,0,98,1,4,0,0.0,0.0,0.0,0,0,92,95,96.8,6,48,0,0,0
+Alfie Mawson,26,eng ENG,CB,25-113,90,0,0,0,0,0,0,0,0,89,0,2,1,0.0,0.0,0.0,0,0,75,84,89.3,5,55,0,0,0
+Cyrus Christie,22,ie IRL,RB,26-224,64,0,0,0,0,1,0,0,0,34,0,1,1,0.0,0.0,0.0,0,0,24,32,75.0,2,12,2,0,0
+Ryan Babel,12,nl NED,LW,32-144,26,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,19,78.9,3,14,2,4,2
+Sergio Rico,25,es ESP,GK,25-253,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,10,0,0,0

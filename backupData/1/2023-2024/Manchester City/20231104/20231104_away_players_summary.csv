@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Solanke,9,eng ENG,FW,26-051,84,0,0,0,0,3,0,0,0,30,0,0,0,0.6,0.6,0.0,1,0,20,20,100.0,1,18,0,1,1
+Justin Kluivert,19,nl NED,FW,24-183,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,0,0
+Marcus Tavernier,16,eng ENG,LM,24-227,71,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,13,0,0,0
+Luis Sinisterra,17,co COL,LM,24-140,19,1,0,0,0,1,1,0,0,6,1,0,0,0.3,0.3,0.0,0,0,4,4,100.0,0,4,0,0,0
+Philip Billing,29,dk DEN,CM,27-146,70,0,0,0,0,0,0,1,0,18,0,1,0,0.0,0.0,0.1,1,0,10,13,76.9,2,8,0,0,0
+Antoine Semenyo,24,gh GHA,CM,23-301,20,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,10,1,0,0
+Alex Scott,14,eng ENG,CM,20-075,43,0,0,0,0,1,0,0,0,25,0,1,1,0.0,0.0,0.0,1,0,21,21,100.0,3,16,1,0,0
+Joe Rothwell,8,eng ENG,CM,28-297,47,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.2,1,0,18,18,100.0,5,12,1,1,1
+Ryan Christie,10,sct SCO,RM,28-255,90,0,0,0,0,0,0,0,0,48,2,2,0,0.0,0.0,0.0,1,0,28,36,77.8,2,28,4,1,0
+Milos Kerkez,3,hu HUN,LB,19-362,90,0,0,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.0,0,0,18,26,69.2,1,18,1,1,0
+Lloyd Kelly,5,eng ENG,CB,25-029,90,0,0,0,0,0,0,0,0,59,0,0,3,0.0,0.0,0.0,1,1,46,54,85.2,0,40,0,0,0
+Illia Zabarnyi,27,ua UKR,CB,21-064,90,0,0,0,0,0,0,0,0,72,0,1,4,0.0,0.0,0.0,0,0,63,65,96.9,2,50,0,0,0
+Chris Mepham,6,wls WAL,CB,25-364,45,0,0,0,0,0,0,0,0,19,1,1,1,0.0,0.0,0.0,0,0,13,14,92.9,0,11,0,0,0
+Marcos Senesi,25,ar ARG,CB,26-178,45,0,0,0,0,0,0,0,0,28,2,1,0,0.0,0.0,0.0,0,0,22,27,81.5,0,12,1,0,0
+Max Aarons,37,eng ENG,RB,23-304,90,0,1,0,0,0,0,0,0,47,1,0,0,0.0,0.0,0.6,2,1,29,40,72.5,2,28,2,1,0
+Ionuț Radu,20,ro ROU,GK,26-160,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,39,45,86.7,0,33,0,0,0

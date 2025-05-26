@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,FW,22-344,63,1,0,0,0,2,1,0,0,17,2,1,0,0.5,0.5,0.0,0,0,7,10,70.0,0,9,0,1,0
+Chris Wood,20,nz NZL,FW,30-267,27,0,0,0,0,1,0,0,0,13,0,0,0,0.1,0.1,0.0,0,0,4,9,44.4,0,4,0,1,1
+Ryan Fraser,21,sct SCO,LW,28-188,63,0,0,0,0,1,0,0,0,24,0,0,1,0.1,0.1,0.0,0,0,8,17,47.1,1,17,1,1,1
+Jacob Murphy,23,eng ENG,"LW,RW",27-188,27,0,0,0,0,0,0,0,0,8,2,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,4,0,1,0
+Miguel Almirón,24,py PAR,RW,28-202,83,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,0,0,11,15,73.3,2,12,2,1,1
+Elliot Anderson,32,eng ENG,LW,19-298,7,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,1,0,0,1,0.0,0,3,1,0,0
+Joelinton,7,br BRA,LM,26-017,90,0,0,0,0,0,0,0,0,59,5,3,2,0.0,0.0,0.0,2,0,28,39,71.8,3,30,2,2,2
+Sean Longstaff,36,eng ENG,CM,24-305,90,0,1,0,0,0,0,0,0,36,1,2,2,0.0,0.0,0.5,1,1,19,29,65.5,4,15,0,0,0
+Joe Willock,28,eng ENG,RM,23-011,90,0,0,0,0,0,0,0,0,38,3,2,4,0.0,0.0,0.0,2,0,13,18,72.2,4,16,2,2,0
+Matt Targett,13,eng ENG,LB,26-347,90,0,0,0,0,0,0,0,0,50,3,3,2,0.0,0.0,0.1,2,0,27,36,75.0,3,15,1,0,0
+Dan Burn,33,eng ENG,CB,30-114,90,0,0,0,0,0,0,0,0,35,3,4,1,0.0,0.0,0.0,1,0,10,18,55.6,0,12,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,28-293,90,0,0,0,0,0,0,1,0,22,1,0,2,0.0,0.0,0.0,0,0,9,11,81.8,0,10,0,0,0
+Kieran Trippier,2,eng ENG,RB,31-346,90,0,0,0,0,1,1,1,0,47,1,0,1,0.1,0.1,0.0,0,0,26,35,74.3,2,20,0,1,1
+Nick Pope,22,eng ENG,GK,30-134,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,13,38,34.2,0,24,0,0,0

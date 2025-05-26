@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Salomón Rondón,33,ve VEN,FW,32-073,90,0,0,0,0,5,2,1,0,34,0,0,0,0.4,0.4,0.0,2,0,13,18,72.2,0,12,0,2,1
+Alex Iwobi,17,ng NGA,"FW,RM",25-209,90,0,0,0,0,2,2,0,0,48,1,1,0,0.2,0.2,0.0,0,0,31,38,81.6,6,32,2,4,2
+Anthony Gordon,24,eng ENG,LM,20-277,90,0,0,0,0,1,0,0,0,53,0,1,1,0.2,0.2,0.0,1,0,33,42,78.6,3,40,4,4,2
+Allan,6,br BRA,CM,30-324,90,0,0,0,0,0,0,0,0,82,6,0,0,0.0,0.0,0.1,2,0,61,70,87.1,11,60,0,1,0
+Abdoulaye Doucouré,16,ml MLI,CM,28-331,90,0,0,0,0,2,0,0,0,68,0,0,1,0.2,0.2,0.0,2,0,48,58,82.8,3,48,2,2,0
+Andros Townsend,14,eng ENG,RM,30-135,69,0,0,0,0,0,0,1,0,47,2,0,0,0.0,0.0,0.3,4,0,31,42,73.8,3,33,6,0,0
+Demarai Gray,11,jm JAM,FW,25-153,21,0,0,0,0,1,1,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,22,77.3,4,22,3,0,0
+Lucas Digne,12,fr FRA,LB,28-131,90,0,0,0,0,2,0,0,0,100,4,1,2,0.1,0.1,0.3,6,0,67,86,77.9,12,61,5,4,2
+Michael Keane,5,eng ENG,CB,28-321,90,0,0,0,0,1,0,0,0,68,0,1,0,0.0,0.0,0.0,3,0,48,58,82.8,9,34,0,1,1
+Ben Godfrey,22,eng ENG,CB,23-317,90,0,0,0,0,0,0,1,0,60,2,0,2,0.0,0.0,0.0,0,0,37,47,78.7,3,32,0,1,1
+Séamus Coleman,23,ie IRL,RB,33-048,90,0,0,0,0,0,0,0,0,101,4,2,2,0.0,0.0,0.1,5,0,70,89,78.7,8,65,8,5,4
+Jordan Pickford,1,eng ENG,GK,27-266,90,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,18,23,78.3,0,20,0,0,0

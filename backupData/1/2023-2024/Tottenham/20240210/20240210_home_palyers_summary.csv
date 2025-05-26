@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Richarlison,9,br BRA,FW,26-276,90,0,0,0,0,4,1,0,0,35,0,0,0,0.5,0.5,0.3,6,1,15,24,62.5,4,23,3,5,3
+Timo Werner,16,de GER,LW,27-341,61,0,0,0,0,2,0,0,0,37,0,2,0,0.1,0.1,0.1,1,0,22,29,75.9,5,31,5,6,3
+Brennan Johnson,22,wls WAL,RW,22-263,29,1,0,0,0,2,2,0,0,17,0,0,0,0.4,0.4,0.0,0,0,8,12,66.7,1,12,2,1,0
+Dejan Kulusevski,21,se SWE,RW,23-291,62,0,0,0,0,1,1,0,0,37,0,0,1,0.2,0.2,0.0,3,0,20,31,64.5,3,24,4,4,3
+Yves Bissouma,8,ml MLI,DM,27-164,28,0,0,0,0,0,0,0,0,23,0,3,1,0.0,0.0,0.0,0,0,17,17,100.0,1,12,0,0,0
+James Maddison,10,eng ENG,AM,27-079,90,0,0,0,0,2,1,1,0,69,0,1,0,0.1,0.1,0.4,6,0,52,63,82.5,6,59,2,2,0
+Rodrigo Bentancur,30,uy URU,DM,26-230,61,0,0,0,0,1,0,0,0,36,2,1,1,0.0,0.0,0.0,0,0,23,28,82.1,3,22,0,1,1
+Son Heung-min,7,kr KOR,LW,31-217,29,0,1,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.4,3,1,11,13,84.6,2,11,1,0,0
+Pape Matar Sarr,29,sn SEN,DM,21-149,79,1,0,0,0,3,1,1,0,56,0,1,0,0.2,0.2,0.0,2,0,42,50,84.0,5,35,1,0,0
+Ben Davies,33,wls WAL,LB,30-292,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,5,0,0,0
+Destiny Udogie,38,it ITA,LB,21-074,79,0,0,0,0,0,0,0,0,60,3,1,2,0.0,0.0,0.0,1,0,45,52,86.5,7,32,2,1,1
+Pierre Højbjerg,5,dk DEN,DM,28-189,11,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,9,13,69.2,1,9,0,0,0
+Micky van de Ven,37,nl NED,CB,22-297,90,0,0,0,0,0,0,0,0,86,1,2,1,0.0,0.0,0.0,2,0,76,78,97.4,3,64,0,0,0
+Cristian Romero,17,ar ARG,CB,25-289,90,0,0,0,0,0,0,0,0,75,1,2,1,0.0,0.0,0.0,2,0,57,62,91.9,2,46,1,0,0
+Pedro Porro,23,es ESP,RB,24-150,90,0,0,0,0,0,0,0,0,64,3,2,2,0.0,0.0,0.0,1,0,32,50,64.0,1,30,2,0,0
+Guglielmo Vicario,13,it ITA,GK,27-126,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,34,42,81.0,0,28,0,0,0

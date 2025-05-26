@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Isaac Success,10,ng NGA,FW,22-286,74,0,0,0,0,1,0,0,0,41,0,0,1,0.1,0.1,0.4,3,0,25,28,89.3,5,31,2,2,1
+Sebastian Prödl,5,at AUT,CB,31-121,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0
+Ben Wilmot,24,eng ENG,CB,18-350,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Gerard Deulofeu,7,es ESP,FW,24-221,68,0,0,0,0,1,0,0,0,51,0,1,0,0.2,0.2,0.0,3,1,39,43,90.7,1,45,3,3,3
+Andre Gray,18,jm JAM,FW,27-116,22,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,12,2,2,1
+Roberto Pereyra,37,ar ARG,AM,27-286,90,1,0,0,0,3,1,0,0,58,1,0,2,0.4,0.4,0.0,2,1,37,42,88.1,2,45,2,3,1
+Will Hughes,19,eng ENG,AM,23-186,90,0,0,0,0,0,0,1,0,45,1,1,1,0.0,0.0,0.1,2,0,30,35,85.7,7,30,3,2,1
+Étienne Capoue,29,fr FRA,"DM,CM",30-101,90,1,0,0,0,1,1,0,0,100,6,2,1,0.0,0.0,0.0,0,0,79,87,90.8,7,56,0,0,0
+Abdoulaye Doucouré,16,ml MLI,"DM,CM",25-292,90,0,2,0,0,2,1,0,0,98,1,2,2,0.4,0.4,0.5,6,2,76,87,87.4,6,65,0,4,2
+Adam Masina,11,ma MAR,"LB,WB",24-291,90,0,0,0,0,0,0,0,0,79,4,0,3,0.0,0.0,0.0,0,0,53,65,81.5,3,35,0,0,0
+Craig Cathcart,15,nir NIR,CB,29-256,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,33,38,86.8,2,29,0,0,0
+Adrian Mariappa,6,jm JAM,CB,32-017,90,0,0,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.0,0,0,44,52,84.6,1,31,0,0,0
+Kiko Femenía,21,es ESP,"RB,WB",27-260,90,0,0,0,0,1,0,0,0,67,4,3,2,0.0,0.0,0.0,1,0,41,50,82.0,3,35,1,1,0
+Ben Foster,26,eng ENG,GK,35-200,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,15,36,41.7,0,13,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aaron Connolly,7,ie IRL,FW,20-305,62,0,0,0,0,2,0,0,0,18,0,0,0,0.4,0.4,0.0,3,0,10,10,100.0,1,14,2,2,1
+Adam Lallana,14,eng ENG,FW,32-202,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,0,0,0
+Alireza Jahanbakhsh,16,ir IRN,FW,27-109,20,0,0,0,0,1,0,0,0,12,1,1,0,0.0,0.0,0.0,2,0,5,9,55.6,1,9,2,1,1
+Danny Welbeck,18,eng ENG,FW,30-002,90,0,0,0,0,2,1,0,0,27,2,2,1,0.1,0.1,0.0,5,1,10,11,90.9,2,19,2,7,3
+Neal Maupay,9,fr FRA,AM,24-106,25,0,0,0,1,0,0,0,0,7,0,0,1,0.8,0.0,0.3,2,0,4,4,100.0,1,4,1,1,1
+Leandro Trossard,11,be BEL,AM,25-360,65,0,0,0,0,1,0,0,0,28,0,0,2,0.0,0.0,0.0,0,0,13,19,68.4,2,19,2,2,0
+Yves Bissouma,8,ml MLI,CM,24-090,90,0,0,0,0,0,0,0,0,39,8,0,2,0.0,0.0,0.0,1,0,22,25,88.0,0,16,0,3,3
+Pascal Groß,13,de GER,CM,29-166,90,1,0,1,1,0,0,0,0,53,0,2,1,0.8,0.0,0.1,4,1,37,45,82.2,8,26,1,1,1
+Solly March,20,eng ENG,WB,26-131,90,0,0,0,0,2,1,0,0,57,4,2,1,0.1,0.1,0.0,1,0,24,43,55.8,8,24,3,2,2
+Joël Veltman,34,nl NED,WB,28-318,90,0,0,0,0,0,0,1,0,68,1,0,3,0.0,0.0,0.0,2,0,43,57,75.4,7,36,1,1,1
+Adam Webster,4,eng ENG,CB,25-329,90,0,0,0,0,1,0,0,0,45,2,2,0,0.1,0.1,0.0,0,0,32,39,82.1,2,30,0,0,0
+Lewis Dunk,5,eng ENG,CB,29-007,90,0,0,0,0,0,0,0,0,58,2,1,0,0.0,0.0,0.0,0,0,41,50,82.0,1,30,0,0,0
+Ben White,3,eng ENG,CB,23-051,90,0,0,0,0,0,0,1,0,52,2,4,1,0.0,0.0,0.1,1,0,33,43,76.7,3,30,1,0,0
+Mathew Ryan,1,au AUS,GK,28-234,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,23,0,0,0

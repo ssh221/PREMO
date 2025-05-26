@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Shane Long,7,ie IRL,FW,35-092,78,0,0,0,0,4,3,0,0,29,0,0,0,0.3,0.3,0.0,0,0,10,15,66.7,0,17,0,0,0
+Armando Broja,18,al ALB,FW,20-226,12,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,4,1,1,1
+Che Adams,10,sct SCO,FW,25-285,90,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.1,4,0,24,37,64.9,4,22,1,2,2
+Nathan Tella,23,ng NGA,LM,22-293,65,0,0,0,0,1,0,0,0,23,0,1,2,0.0,0.0,0.0,4,2,7,12,58.3,2,15,1,1,0
+Stuart Armstrong,17,sct SCO,LM,30-025,25,0,0,0,0,1,0,0,0,17,0,0,0,0.0,0.0,0.1,1,0,9,11,81.8,1,10,0,0,0
+Oriol Romeu,6,es ESP,CM,30-212,90,0,1,0,0,1,0,0,0,57,1,1,2,0.1,0.1,0.0,3,1,32,46,69.6,3,25,0,0,0
+James Ward-Prowse,8,eng ENG,CM,27-174,90,2,0,0,0,5,2,0,0,78,1,0,2,0.2,0.2,0.2,7,0,46,66,69.7,9,40,1,0,0
+Nathan Redmond,11,eng ENG,RM,28-049,90,0,0,0,0,1,0,0,0,47,4,0,1,0.0,0.0,0.1,5,1,29,40,72.5,6,27,3,0,0
+Kyle Walker-Peters,2,eng ENG,"RB,LB",25-011,90,0,0,0,0,2,0,0,0,53,3,4,0,0.1,0.1,0.0,2,0,33,41,80.5,4,26,3,1,1
+Mohammed Salisu,22,gh GHA,CB,23-007,90,0,0,0,0,1,0,0,0,61,0,4,0,0.0,0.0,0.0,2,0,27,46,58.7,1,29,0,0,0
+Jan Bednarek,35,pl POL,CB,26-012,90,0,0,0,0,0,0,0,0,53,0,2,2,0.0,0.0,0.0,1,0,19,38,50.0,1,18,0,0,0
+Valentino Livramento,21,eng ENG,RB,19-163,36,0,0,0,0,1,0,0,0,20,1,1,0,0.0,0.0,0.0,3,0,14,17,82.4,3,14,2,1,1
+Romain Perraud,15,fr FRA,LB,24-214,54,0,0,0,0,1,0,0,0,47,0,3,1,0.0,0.0,0.0,3,0,25,38,65.8,2,19,2,1,1
+Fraser Forster,44,eng ENG,GK,34-038,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,12,20,60.0,0,9,0,0,0

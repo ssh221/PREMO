@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,27-357,90,0,0,0,0,3,1,0,0,18,0,0,1,0.2,0.2,0.0,1,0,8,12,66.7,1,14,1,0,0
+Moussa Diaby,19,fr FRA,FW,24-168,73,0,0,0,0,1,1,0,0,35,0,0,0,0.1,0.1,0.0,1,0,18,25,72.0,5,22,3,7,2
+Jáder Durán,24,co COL,FW,20-009,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,3,6,50.0,0,5,0,1,0
+Jacob Ramsey,41,eng ENG,LM,22-208,90,0,0,0,0,0,0,0,0,49,1,0,2,0.0,0.0,0.0,2,1,32,43,74.4,6,32,3,0,0
+Douglas Luiz,6,br BRA,CM,25-227,90,0,1,0,0,1,0,0,0,105,2,2,3,0.0,0.0,0.2,3,1,83,94,88.3,10,61,0,0,0
+John McGinn,7,sct SCO,CM,29-065,90,0,0,0,0,0,0,0,0,87,1,0,0,0.0,0.0,0.2,5,0,70,85,82.4,15,52,2,2,1
+Leon Bailey,31,jm JAM,RM,26-135,80,0,0,0,0,1,0,1,0,36,0,0,1,0.0,0.0,0.1,3,0,24,29,82.8,5,30,5,3,0
+Nicolò Zaniolo,22,it ITA,RM,24-173,10,1,0,0,0,1,1,1,0,11,1,0,0,0.2,0.2,0.0,0,0,3,4,75.0,0,5,0,1,0
+Lucas Digne,12,fr FRA,LB,30-155,73,0,0,0,0,1,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,40,45,88.9,2,25,1,0,0
+Álex Moreno,15,es ESP,LB,30-197,17,0,0,0,0,1,1,0,0,19,0,0,0,0.2,0.2,0.0,1,0,13,17,76.5,0,10,1,1,0
+Clément Lenglet,17,fr FRA,CB,28-188,90,0,0,0,0,1,0,0,0,124,2,0,2,0.0,0.0,0.1,0,0,106,116,91.4,11,80,5,0,0
+Ezri Konsa,4,eng ENG,CB,26-060,90,0,0,0,0,1,0,0,0,105,0,2,0,0.1,0.1,0.0,0,0,96,101,95.0,8,77,3,0,0
+Matty Cash,2,pl POL,RB,26-137,90,0,0,0,0,1,0,1,0,114,4,0,3,0.0,0.0,0.2,4,0,77,99,77.8,13,68,10,3,1
+Emiliano Martínez,1,ar ARG,GK,31-111,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,31,32,96.9,0,19,0,0,0

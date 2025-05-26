@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patrick Bamford,9,eng ENG,FW,27-063,90,1,0,0,0,2,1,0,0,27,0,0,1,0.4,0.4,0.0,0,0,14,20,70.0,0,10,0,1,1
+Jack Harrison,22,eng ENG,LW,23-353,90,0,0,0,0,1,1,0,0,60,1,0,1,0.0,0.0,0.1,4,0,26,43,60.5,2,34,6,3,3
+Hélder Costa,17,ao ANG,RW,26-300,45,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,11,13,84.6,1,13,2,3,1
+Raphinha,18,br BRA,RW,23-329,45,0,0,0,0,1,0,0,0,29,1,0,2,0.1,0.1,0.0,1,0,15,18,83.3,2,19,2,2,1
+Mateusz Klich,43,pl POL,AM,30-147,90,0,1,0,0,0,0,1,0,73,3,1,0,0.0,0.0,0.5,6,1,50,65,76.9,8,36,2,2,1
+Ezgjan Alioski,10,mk MKD,CM,28-269,90,0,0,0,0,1,1,0,0,87,5,0,0,0.0,0.0,0.0,0,0,63,77,81.8,6,45,6,0,0
+Pascal Struijk,21,nl NED,CM,21-088,70,0,0,0,0,1,0,0,0,42,1,0,1,0.1,0.1,0.0,2,0,31,35,88.6,4,19,1,0,0
+Tyler Roberts,11,wls WAL,CM,21-300,20,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,8,10,80.0,3,7,0,1,0
+Stuart Dallas,15,nir NIR,CM,29-202,90,0,0,0,0,0,0,0,0,69,2,2,0,0.0,0.0,0.0,2,0,47,63,74.6,6,38,2,1,0
+Liam Cooper,6,sct SCO,CB,29-069,90,0,0,0,0,1,0,1,0,94,4,4,1,0.1,0.1,0.0,0,0,66,81,81.5,4,61,0,1,0
+Robin Koch,5,de GER,CB,24-113,90,0,0,0,0,1,0,0,0,116,2,5,2,0.1,0.1,0.0,1,0,88,101,87.1,6,63,0,0,0
+Luke Ayling,2,eng ENG,CB,29-074,90,0,0,0,0,1,0,0,0,107,5,1,0,0.0,0.0,0.0,1,1,78,97,80.4,14,70,3,1,1
+Illan Meslier,1,fr FRA,GK,20-250,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,30,31,96.8,0,23,0,0,0

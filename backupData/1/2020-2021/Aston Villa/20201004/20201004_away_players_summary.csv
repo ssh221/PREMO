@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Firmino,9,br BRA,FW,29-002,67,0,1,0,0,2,2,0,0,39,0,0,2,0.5,0.5,0.3,3,1,20,29,69.0,1,25,1,4,4
+James Milner,7,eng ENG,RM,34-274,23,0,0,0,0,0,0,0,0,23,1,0,2,0.0,0.0,0.0,1,0,15,20,75.0,3,13,0,0,0
+Diogo Jota,20,pt POR,LW,23-305,90,0,0,0,0,4,3,0,0,63,1,0,2,0.2,0.2,0.0,4,1,34,42,81.0,5,44,7,2,0
+Mohamed Salah,11,eg EGY,RW,28-111,90,2,0,0,0,2,2,0,0,50,1,0,0,0.5,0.5,0.7,8,0,36,40,90.0,7,40,5,5,2
+Georginio Wijnaldum,5,nl NED,"LM,CM",29-328,90,0,0,0,0,0,0,0,0,63,2,2,1,0.0,0.0,0.0,2,2,48,57,84.2,5,46,1,0,0
+Fabinho,3,br BRA,"CM,CB",26-347,90,0,0,0,0,0,0,0,0,83,2,2,2,0.0,0.0,0.1,1,0,65,74,87.8,3,57,1,2,1
+Naby Keïta,8,gn GUI,RM,25-237,45,0,0,0,0,2,0,0,0,40,0,0,2,0.1,0.1,0.0,1,0,28,31,90.3,4,28,1,0,0
+Takumi Minamino,18,jp JPN,"FW,RM",25-262,45,0,0,0,0,1,0,0,0,29,1,1,0,0.1,0.1,0.0,1,0,16,23,69.6,3,22,1,3,3
+Andrew Robertson,26,sct SCO,LB,26-207,90,0,0,0,0,1,1,0,0,117,1,0,2,0.2,0.2,0.1,3,0,85,107,79.4,10,73,5,2,2
+Virgil van Dijk,4,nl NED,CB,29-088,90,0,0,0,0,0,0,1,0,98,2,3,0,0.0,0.0,0.0,0,0,82,92,89.1,4,74,0,0,0
+Joe Gomez,12,eng ENG,CB,23-134,60,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.0,0,0,56,63,88.9,7,53,2,0,0
+Curtis Jones,17,eng ENG,LM,19-248,30,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,0,15,17,88.2,3,16,1,1,1
+Trent Alexander-Arnold,66,eng ENG,RB,21-363,90,0,0,0,0,2,0,0,0,86,2,4,0,0.1,0.1,0.1,3,0,63,78,80.8,5,52,2,0,0
+Adrián,13,es ESP,GK,33-275,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,28,35,80.0,0,20,0,0,0

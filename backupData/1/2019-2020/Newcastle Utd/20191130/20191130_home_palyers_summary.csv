@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joelinton,9,br BRA,FW,23-108,68,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,2,0,12,22,54.5,1,13,0,3,2
+Dwight Gayle,12,eng ENG,FW,29-044,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0
+Allan Saint-Maximin,10,fr FRA,LM,22-263,79,0,0,0,0,1,1,0,0,23,1,0,0,0.0,0.0,0.0,1,0,7,14,50.0,1,18,8,8,7
+Christian Atsu,30,gh GHA,LM,27-324,11,0,1,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,1,2,50.0,0,1,0,0,0
+Jonjo Shelvey,8,eng ENG,CM,27-276,90,1,0,0,0,3,1,0,0,48,2,4,1,0.1,0.1,0.0,1,0,25,33,75.8,4,13,0,0,0
+Isaac Hayden,14,eng ENG,CM,24-253,90,0,0,0,0,0,0,0,0,30,3,1,2,0.0,0.0,0.0,1,0,13,19,68.4,0,3,0,0,0
+Miguel Almirón,24,py PAR,RM,25-293,90,0,1,0,0,1,0,0,0,42,4,2,1,0.0,0.0,0.1,2,1,18,25,72.0,3,28,5,5,3
+Jetro Willems,15,nl NED,LB,25-245,90,1,0,0,0,1,1,0,0,40,1,1,0,0.1,0.1,0.0,1,1,21,29,72.4,5,18,1,1,1
+Paul Dummett,3,wls WAL,CB,28-065,90,0,0,0,0,0,0,0,0,36,1,2,1,0.0,0.0,0.0,0,0,16,22,72.7,2,11,0,0,0
+Ciaran Clark,2,ie IRL,CB,30-065,90,0,0,0,0,0,0,0,0,30,1,0,3,0.0,0.0,0.0,0,0,10,15,66.7,0,7,0,0,0
+Federico Fernández,18,ar ARG,CB,30-282,90,0,0,0,0,0,0,0,0,56,2,5,3,0.0,0.0,0.0,2,0,19,34,55.9,1,18,0,2,2
+Javier Manquillo,19,es ESP,RB,25-209,90,0,0,0,0,0,0,1,0,33,3,1,0,0.0,0.0,0.0,1,1,11,21,52.4,0,9,1,0,0
+Martin Dúbravka,1,sk SVK,GK,30-319,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,10,34,29.4,0,19,0,0,0

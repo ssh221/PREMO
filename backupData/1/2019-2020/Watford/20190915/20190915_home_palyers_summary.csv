@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Andre Gray,18,jm JAM,FW,28-081,53,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,0,0,7,9,77.8,0,7,0,0,0
+Ismaila Sarr,23,sn SEN,FW,21-202,37,0,0,0,0,2,0,0,0,17,0,0,0,0.1,0.1,0.4,2,0,10,13,76.9,0,17,3,0,0
+Gerard Deulofeu,7,es ESP,LW,25-186,90,0,1,0,0,7,4,0,0,82,2,2,1,0.3,0.3,0.6,16,1,56,69,81.2,4,65,16,9,7
+Will Hughes,19,eng ENG,RW,24-151,62,0,0,0,0,2,0,0,0,32,0,0,1,0.1,0.1,0.0,3,0,25,27,92.6,1,22,5,1,1
+Roberto Pereyra,37,ar ARG,RW,28-251,28,1,0,1,1,1,0,0,0,22,0,0,0,0.9,0.1,0.1,2,1,15,18,83.3,1,17,2,0,0
+Tom Cleverley,8,eng ENG,AM,30-034,90,1,0,0,0,7,3,0,0,62,1,0,1,0.5,0.5,0.1,8,0,45,53,84.9,3,44,3,2,2
+Étienne Capoue,29,fr FRA,DM,31-066,90,0,0,0,0,0,0,1,0,77,5,4,2,0.0,0.0,0.0,4,0,60,64,93.8,8,51,0,2,2
+Abdoulaye Doucouré,16,ml MLI,DM,26-257,90,0,0,0,0,5,1,0,0,94,3,1,2,0.6,0.6,0.1,12,1,78,83,94.0,12,69,4,2,2
+José Holebas,25,gr GRE,LB,35-080,77,0,0,0,0,2,1,1,0,61,2,0,1,0.1,0.1,0.1,2,0,44,52,84.6,8,37,0,3,1
+Daryl Janmaat,2,nl NED,RB,30-055,13,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,8,10,80.0,1,8,1,0,0
+Christian Kabasele,27,be BEL,CB,28-203,90,0,0,0,0,1,0,0,0,32,1,2,1,0.1,0.1,0.0,0,0,17,21,81.0,0,19,0,0,0
+Craig Dawson,4,eng ENG,CB,29-132,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,27,33,81.8,2,17,0,0,0
+Kiko Femenía,21,es ESP,"RB,LB",28-225,90,0,0,0,0,1,0,1,0,79,2,1,0,0.0,0.0,0.2,3,0,60,71,84.5,6,59,6,3,1
+Ben Foster,26,eng ENG,GK,36-165,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,10,14,71.4,0,8,0,0,0

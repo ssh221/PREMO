@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,26-037,89,0,0,0,0,3,2,1,0,23,0,1,1,0.2,0.2,0.0,2,0,8,12,66.7,3,6,0,1,1
+Neal Maupay,20,fr FRA,FW,26-251,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0
+Dwight McNeil,7,eng ENG,LW,23-151,90,0,0,0,0,4,2,0,0,37,0,0,1,0.1,0.1,0.0,2,0,14,24,58.3,2,18,1,6,2
+Demarai Gray,11,jm JAM,RW,26-298,81,0,0,0,0,0,0,0,0,25,2,0,2,0.0,0.0,0.0,1,0,4,11,36.4,0,17,1,6,2
+Ben Godfrey,22,eng ENG,RB,25-097,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,1,0,0,0
+Alex Iwobi,17,ng NGA,"AM,RW",26-354,90,0,0,0,0,2,1,0,0,44,0,0,1,0.0,0.0,0.2,5,0,25,33,75.8,6,22,1,3,0
+Idrissa Gana Gueye,27,sn SEN,DM,33-208,90,0,0,0,0,1,0,0,0,61,4,1,1,0.0,0.0,0.0,2,0,34,42,81.0,2,20,1,2,1
+James Garner,37,eng ENG,DM,22-040,90,0,0,0,0,0,0,0,0,34,1,2,1,0.0,0.0,0.0,0,0,15,21,71.4,4,12,0,1,1
+Vitaliy Mykolenko,19,ua UKR,LB,23-328,90,0,0,0,0,0,0,0,0,57,3,3,1,0.0,0.0,0.0,2,0,35,47,74.5,1,24,0,1,0
+James Tarkowski,2,eng ENG,CB,30-154,90,0,0,0,0,0,0,0,0,46,1,0,1,0.0,0.0,0.0,0,0,27,38,71.1,3,22,0,0,0
+Michael Keane,5,eng ENG,CB,30-101,90,0,0,0,0,0,0,0,0,62,0,4,2,0.0,0.0,0.0,0,0,31,47,66.0,1,23,0,0,0
+Mason Holgate,4,eng ENG,RB,26-182,79,0,0,0,0,0,0,2,1,56,3,1,0,0.0,0.0,0.1,3,0,24,46,52.2,2,12,0,0,0
+Jordan Pickford,1,eng ENG,GK,29-046,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,21,40,52.5,0,24,0,0,0

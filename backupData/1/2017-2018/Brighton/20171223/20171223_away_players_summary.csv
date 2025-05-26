@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Andre Gray,18,jm JAM,FW,26-180,77,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,1,16,0,1,0
+Stefano Okaka,33,it ITA,FW,28-136,13,0,0,0,0,2,0,0,0,6,1,0,0,0.7,0.7,0.0,4,0,2,2,100.0,1,2,1,3,3
+Richarlison,11,br BRA,"LW,AM",20-227,90,0,0,0,0,4,1,0,0,38,4,1,1,0.4,0.4,0.0,4,0,12,25,48.0,1,24,3,1,1
+André Carrillo,28,pe PER,RW,26-192,90,0,0,0,0,2,0,0,0,62,0,1,1,0.2,0.2,0.0,1,0,34,47,72.3,3,44,4,7,5
+Roberto Pereyra,37,ar ARG,AM,26-350,70,0,0,0,0,1,0,0,0,34,0,0,0,0.0,0.0,0.1,4,0,26,30,86.7,3,28,3,2,2
+Jerome Sinclair,17,eng ENG,LW,21-094,20,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,4,4,100.0,1,2,0,1,1
+Ben Watson,23,eng ENG,DM,32-167,73,0,0,0,0,0,0,0,0,45,4,1,2,0.0,0.0,0.0,1,0,25,34,73.5,4,17,0,0,0
+Étienne Capoue,29,fr FRA,DM,29-165,17,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,10,16,62.5,0,6,0,0,0
+Tom Cleverley,8,eng ENG,DM,28-133,90,0,0,0,0,1,0,0,0,69,3,0,0,0.0,0.0,0.2,4,0,54,64,84.4,4,47,1,0,0
+José Holebas,25,gr GRE,LB,33-179,90,0,0,0,0,0,0,0,0,48,2,0,1,0.0,0.0,0.4,3,0,27,40,67.5,2,17,1,1,1
+Sebastian Prödl,5,at AUT,CB,30-185,90,0,0,0,0,0,0,0,0,35,0,3,2,0.0,0.0,0.0,0,0,22,24,91.7,3,13,1,0,0
+Christian Kabasele,27,be BEL,CB,26-302,90,0,0,0,0,2,0,0,0,58,2,1,0,0.2,0.2,0.0,0,0,28,45,62.2,2,27,0,0,0
+Daryl Janmaat,2,nl NED,RB,28-154,90,0,0,0,0,0,0,0,0,83,3,2,1,0.0,0.0,0.0,0,0,43,68,63.2,5,29,2,0,0
+Heurelho Gomes,1,br BRA,GK,36-311,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,27,40,67.5,0,16,0,0,0

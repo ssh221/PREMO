@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Odsonne Édouard,22,fr FRA,FW,24-275,80,0,1,0,0,2,0,0,0,36,4,2,0,0.1,0.1,0.4,3,1,18,22,81.8,1,19,4,2,0
+Jean-Philippe Mateta,14,fr FRA,FW,25-112,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,0,0,0,0
+Wilfried Zaha,11,ci CIV,LW,29-342,90,1,0,0,0,4,2,0,0,62,4,2,2,0.5,0.5,0.1,6,1,25,30,83.3,7,44,3,11,6
+Michael Olise,7,fr FRA,RW,20-310,79,0,1,0,0,2,0,0,0,45,0,1,1,0.1,0.1,0.4,7,1,25,37,67.6,2,30,4,3,2
+Jordan Ayew,9,gh GHA,RW,31-037,11,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,5,1,4,1
+Eberechi Eze,10,eng ENG,LM,24-111,89,1,0,0,0,2,1,0,0,47,1,0,1,0.2,0.2,0.2,4,1,29,40,72.5,5,27,1,2,1
+Jaïro Riedewald,44,nl NED,LM,26-039,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Cheick Doucouré,28,ml MLI,CM,22-283,90,0,0,0,0,1,1,1,0,66,3,3,2,0.0,0.0,0.0,0,0,44,50,88.0,4,29,0,0,0
+Jeffrey Schlupp,15,gh GHA,RM,29-299,90,0,0,0,0,0,0,0,0,52,5,0,1,0.0,0.0,0.2,4,0,35,40,87.5,9,25,1,0,0
+Tyrick Mitchell,3,eng ENG,LB,23-047,90,0,0,0,0,0,0,0,0,61,3,0,0,0.0,0.0,0.0,0,0,42,58,72.4,6,23,0,0,0
+Marc Guéhi,6,eng ENG,CB,22-097,90,0,0,0,0,1,0,1,0,93,1,1,0,0.0,0.0,0.0,1,0,78,87,89.7,8,63,1,2,1
+Joachim Andersen,16,dk DEN,CB,26-140,90,0,0,0,0,2,0,0,0,61,0,0,0,0.1,0.1,0.0,1,0,44,54,81.5,1,32,0,0,0
+Joel Ward,2,eng ENG,RB,32-354,90,0,0,0,0,0,0,1,0,52,0,2,1,0.0,0.0,0.0,1,0,32,44,72.7,5,16,2,0,0
+Vicente Guaita,13,es ESP,GK,35-281,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,18,21,85.7,0,13,0,0,0

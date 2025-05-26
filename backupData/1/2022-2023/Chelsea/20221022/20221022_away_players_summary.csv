@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,10,eng ENG,FW,24-356,79,0,0,0,0,3,2,0,0,30,0,0,0,0.3,0.3,0.0,0,0,13,22,59.1,2,16,2,1,1
+Anthony Elanga,36,se SWE,LW,20-178,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,4,1,1,1
+Jadon Sancho,25,eng ENG,LM,22-211,51,0,0,0,0,1,1,0,0,26,1,0,0,0.1,0.1,0.0,0,0,13,21,61.9,2,23,3,0,0
+Fred,17,br BRA,"AM,DM",29-231,39,0,0,0,0,1,0,1,0,29,1,0,2,0.0,0.0,0.0,3,1,15,21,71.4,3,16,1,1,0
+Christian Eriksen,14,dk DEN,"CM,DM",30-250,79,0,0,0,0,1,0,0,0,54,1,0,0,0.0,0.0,0.1,2,0,39,51,76.5,7,35,0,0,0
+Scott McTominay,39,sct SCO,AM,25-318,11,0,0,0,0,1,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,2,0,0,0
+Bruno Fernandes,8,pt POR,"CM,LW,FW",28-044,90,0,0,0,0,2,1,0,0,61,2,0,1,0.1,0.1,0.4,5,0,33,49,67.3,5,46,0,5,1
+Antony,21,br BRA,"RM,RW",22-240,90,0,0,0,0,2,1,1,0,46,0,1,1,0.2,0.2,0.2,6,0,35,39,89.7,2,36,4,3,2
+Casemiro,18,br BRA,DM,30-241,90,1,0,0,0,1,1,0,0,68,5,1,1,0.1,0.1,0.0,4,0,46,56,82.1,7,41,0,0,0
+Luke Shaw,23,eng ENG,LB,27-102,90,0,1,0,0,1,0,1,0,79,1,5,0,0.0,0.0,0.1,3,1,59,69,85.5,8,49,5,0,0
+Lisandro Martínez,6,ar ARG,CB,24-277,90,0,0,0,0,0,0,1,0,67,5,1,2,0.0,0.0,0.0,1,0,46,52,88.5,2,37,0,0,0
+Raphaël Varane,19,fr FRA,CB,29-180,59,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,1,0,18,22,81.8,2,19,1,0,0
+Victor Lindelöf,2,se SWE,CB,28-097,31,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,0,11,0,0,0
+Diogo Dalot,20,pt POR,RB,23-218,90,0,0,0,0,0,0,0,0,68,1,3,0,0.0,0.0,0.0,1,0,39,56,69.6,4,38,3,3,1
+David de Gea,1,es ESP,GK,31-349,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,19,27,70.4,0,19,0,0,0

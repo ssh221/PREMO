@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Leandro Trossard,11,be BEL,FW,26-330,90,1,0,0,0,2,1,0,0,41,0,0,0,0.5,0.5,0.1,4,1,26,31,83.9,5,20,1,4,3
+Jakub Moder,15,pl POL,LW,22-206,65,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.0,0,0,17,26,65.4,2,16,1,0,0
+Tariq Lamptey,2,gh GHA,RW,21-030,25,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,7,3,2,2
+Solly March,20,eng ENG,"RW,LW",27-102,90,0,1,0,0,1,1,0,0,38,3,2,0,0.1,0.1,0.1,2,1,20,31,64.5,1,19,2,1,1
+Adam Lallana,14,eng ENG,AM,33-173,76,0,1,0,0,1,1,0,0,47,5,2,0,0.1,0.1,0.5,4,2,29,36,80.6,2,17,3,0,0
+Pascal Groß,13,de GER,AM,30-137,14,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,1,0,5,11,45.5,0,7,0,0,0
+Yves Bissouma,8,ml MLI,DM,25-061,59,0,0,0,0,1,1,0,0,39,2,3,2,0.0,0.0,0.0,1,0,23,26,88.5,3,14,2,3,2
+Alexis Mac Allister,10,ar ARG,DM,22-310,31,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.0,0,0,18,21,85.7,1,17,0,1,1
+Enock Mwepu,12,zm ZAM,DM,23-302,90,1,0,0,0,2,1,0,0,55,4,2,3,0.3,0.3,0.0,0,0,32,39,82.1,3,27,0,1,1
+Marc Cucurella,3,es ESP,LB,23-100,90,0,0,0,0,1,1,0,0,85,0,1,1,0.0,0.0,0.3,4,0,61,76,80.3,4,43,3,1,1
+Lewis Dunk,5,eng ENG,CB,29-343,90,0,0,0,0,0,0,0,0,58,0,1,3,0.0,0.0,0.0,0,0,42,48,87.5,2,28,0,0,0
+Shane Duffy,24,ie IRL,CB,29-302,90,0,0,0,0,1,0,1,0,61,1,1,2,0.0,0.0,0.0,0,0,43,49,87.8,1,28,0,0,0
+Joël Veltman,34,nl NED,RB,29-288,90,0,0,0,0,0,0,0,0,60,2,3,0,0.0,0.0,0.0,1,0,33,50,66.0,6,22,0,0,0
+Robert Sánchez,1,es ESP,GK,23-346,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,30,49,61.2,0,24,0,0,0

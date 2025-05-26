@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Olivier Giroud,18,fr FRA,FW,31-161,71,0,0,0,0,7,1,0,0,35,1,0,0,1.4,1.4,0.9,5,0,19,23,82.6,3,11,0,0,0
+Álvaro Morata,9,es ESP,FW,25-138,19,0,0,0,0,2,1,1,0,11,0,0,0,0.1,0.1,0.0,1,0,4,5,80.0,0,8,0,2,0
+Eden Hazard,10,be BEL,AM,27-062,87,0,0,0,0,2,1,0,0,64,0,0,0,0.3,0.3,0.7,16,0,47,54,87.0,8,51,3,9,8
+Tiemoué Bakayoko,14,fr FRA,CM,23-205,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Willian,22,br BRA,AM,29-213,90,1,0,0,0,6,4,0,0,71,0,0,1,0.7,0.7,0.5,7,1,48,60,80.0,11,45,5,8,8
+N'Golo Kanté,7,fr FRA,CM,26-346,90,0,1,0,0,2,0,0,0,76,3,1,1,0.0,0.0,0.2,5,1,66,70,94.3,14,52,4,2,2
+Cesc Fàbregas,4,es ESP,CM,30-310,87,0,0,0,0,0,0,0,0,94,3,1,1,0.0,0.0,0.1,8,0,74,88,84.1,11,49,1,1,1
+Pedro,11,es ESP,"AM,CM",30-225,3,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Marcos Alonso,3,es ESP,WB,27-072,90,0,0,0,0,2,0,0,0,67,2,0,2,0.2,0.2,0.3,2,0,40,51,78.4,3,33,5,2,0
+Davide Zappacosta,21,it ITA,WB,25-272,90,0,0,0,0,5,1,0,0,85,2,0,1,0.5,0.5,0.1,2,0,45,65,69.2,1,53,15,1,0
+Gary Cahill,24,eng ENG,CB,32-081,90,0,0,0,0,1,0,0,0,70,0,0,0,0.0,0.0,0.0,0,0,51,59,86.4,3,43,4,0,0
+Andreas Christensen,27,dk DEN,CB,21-334,90,0,0,0,0,0,0,0,0,65,1,1,1,0.0,0.0,0.0,0,0,56,58,96.6,4,47,2,0,0
+César Azpilicueta,28,es ESP,CB,28-194,90,0,0,0,0,0,0,0,0,101,4,6,2,0.0,0.0,0.0,2,0,75,84,89.3,12,55,3,0,0
+Thibaut Courtois,13,be BEL,GK,25-303,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,30,40,75.0,0,22,0,0,0

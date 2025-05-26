@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Glenn Murray,17,eng ENG,FW,35-060,88,1,0,0,0,1,1,0,0,16,3,0,0,0.2,0.2,0.0,0,0,3,7,42.9,1,11,0,0,0
+Jürgen Locadia,9,cw CUW,FW,25-017,2,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.1,3,0,5,5,100.0,0,4,0,0,0
+Pascal Groß,13,de GER,FW,27-162,81,0,0,0,0,0,0,0,0,42,0,1,0,0.0,0.0,0.1,3,0,30,41,73.2,6,24,1,0,0
+Florin Andone,10,ro ROU,FW,25-227,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,4,0,0,0
+José Izquierdo,19,co COL,LM,26-140,90,0,0,0,0,4,0,1,0,48,5,1,2,0.2,0.2,0.2,4,0,19,26,73.1,1,28,4,5,3
+Beram Kayal,7,il ISR,CM,30-206,90,0,0,0,0,2,1,0,0,53,1,3,3,0.1,0.1,0.0,3,1,26,39,66.7,3,27,2,2,1
+Davy Pröpper,24,nl NED,CM,27-083,90,0,0,0,0,0,0,0,0,57,2,1,1,0.0,0.0,0.1,3,0,42,51,82.4,7,35,1,1,1
+Anthony Knockaert,11,fr FRA,RM,27-004,72,0,1,0,0,2,0,0,0,34,0,1,1,0.2,0.2,0.2,3,1,19,26,73.1,0,24,1,0,0
+Solly March,20,eng ENG,RM,24-127,18,0,0,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.1,3,0,16,24,66.7,3,16,2,2,1
+Bernardo,30,br BRA,LB,23-194,90,0,0,0,0,0,0,0,0,80,5,2,3,0.0,0.0,0.1,1,0,43,63,68.3,5,40,2,1,0
+Lewis Dunk,5,eng ENG,CB,27-003,90,0,0,0,0,0,0,0,0,58,2,1,0,0.0,0.0,0.0,0,0,40,50,80.0,1,32,0,0,0
+Shane Duffy,4,ie IRL,CB,26-327,90,0,0,0,0,2,1,1,0,55,0,0,0,0.3,0.3,0.0,1,0,43,50,86.0,1,31,0,0,0
+Bruno,2,es ESP,RB,38-054,90,0,0,0,0,1,0,1,0,72,0,2,0,0.0,0.0,0.0,1,0,54,67,80.6,12,42,0,4,2
+Mathew Ryan,1,au AUS,GK,26-230,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,1,0,21,41,51.2,0,27,0,0,0

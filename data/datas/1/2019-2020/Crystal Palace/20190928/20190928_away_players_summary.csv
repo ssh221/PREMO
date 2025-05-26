@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Teemu Pukki,22,fi FIN,FW,29-183,90,0,0,0,0,1,1,0,0,27,0,0,0,0.1,0.1,0.1,3,0,14,19,73.7,1,17,2,4,2
+Todd Cantwell,14,eng ENG,LW,21-213,80,0,0,0,0,2,1,0,0,44,0,1,2,0.3,0.3,0.0,0,0,22,25,88.0,2,26,2,3,0
+Patrick Roberts,7,eng ENG,RW,22-235,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,3,3
+Emi Buendía,17,ar ARG,"RW,LW",22-277,90,0,0,0,0,2,1,0,0,78,3,1,5,0.1,0.1,0.2,5,0,45,57,78.9,13,52,4,5,3
+Marco Stiepermann,18,de GER,AM,28-231,65,0,0,0,0,2,0,1,0,33,1,0,0,0.1,0.1,0.0,5,0,17,26,65.4,6,26,3,2,2
+Josip Drmić,20,ch SUI,AM,27-051,25,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,8,0,1,0
+Kenny McLean,23,sct SCO,DM,27-263,90,0,0,0,0,0,0,0,0,79,2,3,0,0.0,0.0,0.0,1,0,60,71,84.5,5,44,1,0,0
+Moritz Leitner,10,de GER,DM,26-294,90,0,0,0,0,1,0,0,0,101,4,2,2,0.0,0.0,0.0,1,0,75,85,88.2,11,68,1,2,1
+Jamal Lewis,12,nir NIR,LB,21-246,90,0,0,0,0,0,0,0,0,64,2,2,1,0.0,0.0,0.3,2,0,37,52,71.2,2,36,3,1,0
+Ben Godfrey,4,eng ENG,CB,21-256,90,0,0,0,0,0,0,0,0,86,0,1,2,0.0,0.0,0.0,0,0,71,78,91.0,6,61,2,0,0
+Ibrahim Amadou,24,fr FRA,CB,26-175,90,0,0,0,0,0,0,0,0,70,2,3,1,0.0,0.0,0.0,0,0,54,58,93.1,1,46,0,0,0
+Max Aarons,2,eng ENG,RB,19-267,90,0,0,0,0,1,0,0,0,62,3,0,1,0.0,0.0,0.0,0,0,48,53,90.6,2,40,2,0,0
+Ralf Fährmann,21,de GER,GK,31-001,21,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,0,5,0,0,0
+Michael McGovern,33,nir NIR,GK,35-078,69,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,13,25,52.0,0,13,0,0,0

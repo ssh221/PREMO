@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,28-230,90,1,0,0,0,2,1,0,0,42,0,0,0,0.2,0.2,0.1,4,0,23,31,74.2,5,28,2,2,0
+Callum Hudson-Odoi,20,eng ENG,AM,21-052,66,0,0,0,0,2,0,1,0,27,2,0,1,0.1,0.1,0.0,0,0,11,21,52.4,1,25,6,1,1
+N'Golo Kanté,7,fr FRA,AM,30-275,24,0,0,0,0,1,0,0,0,20,0,1,0,0.1,0.1,0.0,2,0,12,15,80.0,1,15,0,0,0
+Mason Mount,19,eng ENG,AM,22-353,90,0,1,0,0,2,1,1,0,44,4,2,1,0.1,0.1,0.2,5,2,23,32,71.9,4,21,6,2,1
+Jorginho,5,it ITA,CM,30-009,90,0,0,0,0,0,0,0,0,69,7,0,0,0.0,0.0,0.0,0,0,45,57,78.9,6,39,0,0,0
+Mateo Kovačić,8,hr CRO,CM,27-237,90,0,0,0,0,1,0,1,0,57,0,1,1,0.1,0.1,0.0,4,0,44,50,88.0,5,43,2,4,3
+Reece James,24,eng ENG,WB,22-021,26,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.1,1,0,5,8,62.5,0,3,0,1,0
+Marcos Alonso,3,es ESP,WB,31-001,64,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.0,0,0,21,28,75.0,2,18,0,0,0
+Christian Pulisic,10,us USA,WB,23-102,90,0,0,0,0,0,0,0,0,59,2,0,3,0.0,0.0,0.1,1,0,32,37,86.5,3,31,0,4,2
+Antonio Rüdiger,2,de GER,CB,28-301,90,0,0,0,0,1,1,1,0,57,1,0,2,0.1,0.1,0.0,0,0,41,51,80.4,4,34,1,0,0
+Andreas Christensen,4,dk DEN,CB,25-263,45,0,0,0,0,0,0,0,0,39,1,2,1,0.0,0.0,0.0,0,0,24,31,77.4,3,23,0,0,0
+Trevoh Chalobah,14,eng ENG,CB,22-177,45,0,0,0,0,1,1,0,0,23,0,1,0,0.0,0.0,0.0,0,0,13,14,92.9,0,11,0,0,0
+César Azpilicueta,28,es ESP,CB,32-123,90,0,0,0,0,1,1,0,0,84,3,3,0,0.1,0.1,0.0,2,0,55,70,78.6,2,41,1,0,0
+Edouard Mendy,16,sn SEN,GK,29-303,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,19,0,0,0

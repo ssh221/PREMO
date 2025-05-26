@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Shinji Okazaki,20,jp JPN,FW,32-222,69,0,0,0,0,1,1,0,0,31,2,0,3,0.0,0.0,0.0,1,0,9,15,60.0,0,15,0,3,1
+Kelechi Iheanacho,8,ng NGA,FW,22-052,21,0,0,0,0,2,1,0,0,14,0,0,0,0.1,0.1,0.0,3,1,9,10,90.0,2,9,0,0,0
+Demarai Gray,7,jm JAM,LW,22-149,55,0,0,0,0,0,0,0,0,19,2,1,0,0.0,0.0,0.0,0,0,10,12,83.3,2,13,0,1,1
+Jamie Vardy,9,eng ENG,FW,31-317,35,1,0,1,1,0,0,0,0,11,0,0,1,0.8,0.0,0.0,2,0,5,7,71.4,0,3,0,0,0
+Marc Albrighton,11,eng ENG,"RW,RM",29-006,90,0,0,0,0,0,0,0,0,48,0,2,3,0.0,0.0,0.0,1,0,17,36,47.2,2,21,2,4,1
+James Maddison,10,eng ENG,AM,22-001,27,0,0,0,0,0,0,2,1,19,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,2,10,1,1,1
+Nampalys Mendy,24,sn SEN,"DM,CM",26-154,90,0,0,0,0,0,0,0,0,48,0,2,2,0.0,0.0,0.0,0,0,34,37,91.9,6,20,0,1,0
+Vicente Iborra,21,es ESP,DM,30-312,31,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,14,19,73.7,2,5,0,0,0
+Wilfred Ndidi,25,ng NGA,"CM,DM",21-343,59,0,0,0,0,2,0,1,0,46,5,3,1,0.1,0.1,0.0,1,0,22,31,71.0,8,9,0,1,0
+Ben Chilwell,3,eng ENG,LB,21-338,90,0,0,0,0,0,0,0,0,61,2,1,3,0.0,0.0,0.1,2,0,31,45,68.9,4,21,1,1,1
+Jonny Evans,6,nir NIR,CB,30-325,90,0,0,0,0,1,0,0,0,55,1,3,2,0.1,0.1,0.0,1,1,35,45,77.8,3,19,0,0,0
+Wes Morgan,5,jm JAM,CB,34-307,90,0,0,0,0,1,0,0,0,57,1,1,1,0.1,0.1,0.1,0,0,35,44,79.5,2,14,0,0,0
+Ricardo Pereira,14,pt POR,RB,25-049,90,0,0,0,0,0,0,0,0,79,4,1,1,0.0,0.0,0.1,3,0,43,62,69.4,6,20,0,5,1
+Kasper Schmeichel,1,dk DEN,GK,32-019,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,18,0,0,0

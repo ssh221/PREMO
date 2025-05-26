@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,34-132,90,2,0,2,2,1,0,0,0,25,0,0,1,1.6,0.1,0.0,2,2,11,17,64.7,2,15,4,1,0
+Kelechi Iheanacho,14,ng NGA,FW,24-232,90,0,0,0,0,2,1,0,0,51,1,0,3,0.1,0.1,0.0,4,0,32,38,84.2,5,33,2,1,0
+James Maddison,10,eng ENG,LM,24-181,61,0,0,0,0,1,0,0,0,34,1,1,0,0.0,0.0,0.0,2,0,21,27,77.8,8,27,1,4,4
+Ricardo Pereira,21,pt POR,"FW,WB",27-229,29,0,0,0,0,0,0,0,0,20,1,0,2,0.0,0.0,0.0,0,0,10,15,66.7,1,11,2,0,0
+Youri Tielemans,8,be BEL,CM,24-016,90,0,0,0,0,0,0,0,0,89,7,1,2,0.0,0.0,0.1,5,0,56,78,71.8,1,48,1,1,1
+Wilfred Ndidi,25,ng NGA,"CB,CM",24-158,90,0,0,0,0,0,0,0,0,56,5,1,2,0.0,0.0,0.0,1,0,34,45,75.6,0,27,0,1,1
+Marc Albrighton,11,eng ENG,RM,31-186,79,0,0,0,0,1,1,0,0,50,2,2,1,0.0,0.0,0.1,1,0,22,37,59.5,3,22,1,1,0
+Ayoze Pérez,17,es ESP,AM,27-298,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,4,0,0,0
+Luke Thomas,33,eng ENG,"LB,WB",19-347,90,0,0,0,0,1,0,0,0,75,6,6,0,0.1,0.1,0.0,3,2,40,57,70.2,2,29,3,2,1
+Çağlar Söyüncü,4,tr TUR,CB,25-000,90,0,0,0,0,1,1,0,0,60,3,3,0,0.0,0.0,0.0,0,0,34,46,73.9,3,28,1,2,2
+Wesley Fofana,3,fr FRA,CB,20-157,20,0,0,0,0,0,0,0,0,18,0,1,0,0.0,0.0,0.0,0,0,16,17,94.1,1,10,0,0,0
+Nampalys Mendy,24,sn SEN,CM,28-334,70,0,0,0,0,1,1,0,0,43,1,2,1,0.0,0.0,0.0,1,0,30,33,90.9,1,22,0,1,0
+Timothy Castagne,27,be BEL,"RB,CB",25-169,90,0,0,0,0,0,0,0,0,61,1,0,2,0.0,0.0,0.0,0,0,41,49,83.7,2,34,0,0,0
+Kasper Schmeichel,1,dk DEN,GK,34-199,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,18,25,72.0,0,12,0,0,0

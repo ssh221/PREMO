@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,18,gh GHA,FW,26-152,89,0,0,0,0,3,2,0,0,53,3,0,1,0.2,0.2,0.1,8,0,27,37,73.0,4,42,5,3,1
+Andy King,24,wls WAL,FW,29-104,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Sam Clucas,17,eng ENG,LM,27-138,90,0,0,0,0,1,0,0,0,42,3,0,1,0.1,0.1,0.0,0,0,25,32,78.1,2,28,2,0,0
+Tom Carroll,14,eng ENG,CM,25-258,90,0,0,0,0,1,0,0,0,63,2,0,1,0.0,0.0,0.1,4,1,47,55,85.5,11,32,0,0,0
+Ki Sung-yueng,4,kr KOR,CM,29-017,90,1,0,0,0,4,2,0,0,58,0,0,2,0.2,0.2,0.2,4,0,39,48,81.3,7,37,4,1,0
+Nathan Dyer,12,eng ENG,RM,30-073,73,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,33,39,84.6,4,23,3,0,0
+Tammy Abraham,10,eng ENG,RM,20-131,17,0,0,0,0,2,0,0,0,16,0,0,1,0.2,0.2,0.1,2,0,5,12,41.7,0,9,0,0,0
+Martin Olsson,16,se SWE,LB,29-269,58,0,0,0,0,0,0,1,0,46,0,1,0,0.0,0.0,0.0,1,0,30,42,71.4,2,28,6,1,1
+André Ayew,19,gh GHA,LB,28-055,32,0,0,0,0,0,0,1,0,22,1,0,0,0.0,0.0,0.1,1,0,10,12,83.3,1,13,1,2,0
+Alfie Mawson,6,eng ENG,CB,24-022,90,0,0,0,0,0,0,0,0,47,0,0,1,0.0,0.0,0.0,1,0,31,38,81.6,5,21,1,0,0
+Federico Fernández,33,ar ARG,CB,28-354,90,0,0,0,0,0,0,0,0,47,2,0,1,0.0,0.0,0.0,0,0,27,38,71.1,4,14,0,0,0
+Mike van der Hoorn,5,nl NED,CB,25-118,90,0,0,0,0,0,0,0,0,63,1,2,1,0.0,0.0,0.0,0,0,41,54,75.9,7,33,2,0,0
+Kyle Naughton,26,eng ENG,RB,29-085,90,0,1,0,0,2,0,0,0,76,0,1,0,0.1,0.1,0.0,2,1,54,71,76.1,6,28,5,0,0
+Łukasz Fabiański,1,pl POL,GK,32-298,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,23,0,0,0

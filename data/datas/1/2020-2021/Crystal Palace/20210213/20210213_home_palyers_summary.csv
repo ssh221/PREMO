@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michy Batshuayi,23,be BEL,FW,27-134,61,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,2,0,11,14,78.6,0,11,1,3,3
+Andros Townsend,10,eng ENG,FW,29-212,29,0,0,0,0,2,0,0,0,19,2,1,0,0.1,0.1,0.0,3,0,10,14,71.4,1,11,4,1,1
+Christian Benteke,20,be BEL,FW,30-072,75,0,0,0,0,4,3,0,0,41,2,0,1,0.2,0.2,0.0,1,0,22,31,71.0,5,23,3,2,1
+Jean-Philippe Mateta,14,fr FRA,FW,23-230,15,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,3,5,60.0,0,4,1,1,1
+Eberechi Eze,25,eng ENG,LM,22-229,90,0,0,0,0,1,0,0,0,52,1,0,0,0.0,0.0,0.1,2,0,36,46,78.3,3,28,4,3,0
+Jaïro Riedewald,44,nl NED,CM,24-157,90,0,0,0,0,1,0,0,0,49,1,0,3,0.0,0.0,0.0,1,0,36,43,83.7,5,31,3,2,2
+Luka Milivojević,4,rs SRB,CM,29-312,90,0,0,0,0,0,0,0,0,59,2,0,2,0.0,0.0,0.0,2,0,33,56,58.9,2,26,1,0,0
+Jordan Ayew,9,gh GHA,RM,29-155,90,0,0,0,0,2,0,0,0,59,3,0,1,0.1,0.1,0.1,4,0,38,45,84.4,7,29,5,5,2
+Patrick van Aanholt,3,nl NED,LB,30-168,90,0,0,0,0,2,0,0,0,80,2,1,0,0.0,0.0,0.0,0,0,45,69,65.2,6,41,2,2,1
+Scott Dann,6,eng ENG,CB,33-365,90,0,0,0,0,0,0,0,0,65,0,2,3,0.0,0.0,0.0,0,0,40,49,81.6,2,30,0,0,0
+Cheikhou Kouyaté,8,sn SEN,CB,31-054,90,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.0,1,0,28,37,75.7,3,17,1,1,1
+Nathaniel Clyne,17,eng ENG,RB,29-314,90,0,0,0,0,0,0,0,0,62,1,0,0,0.0,0.0,0.1,3,0,37,56,66.1,3,25,3,0,0
+Vicente Guaita,31,es ESP,GK,34-034,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,26,73.1,0,14,0,0,0

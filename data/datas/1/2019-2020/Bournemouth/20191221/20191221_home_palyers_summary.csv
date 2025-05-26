@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,7,no NOR,"FW,RW,RM",27-340,90,0,0,0,0,0,0,0,0,35,2,0,0,0.0,0.0,0.0,0,0,17,24,70.8,1,31,3,7,3
+Ryan Fraser,24,sct SCO,"LW,LM",25-300,90,0,0,0,0,0,0,0,0,49,0,0,1,0.0,0.0,0.1,2,0,29,45,64.4,5,39,8,0,0
+Lewis Cook,16,eng ENG,RW,22-321,45,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,15,25,60.0,2,21,0,2,0
+Callum Wilson,13,eng ENG,FW,27-297,45,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,9,11,81.8,0,12,1,0,0
+Dan Gosling,4,eng ENG,"CM,RM",29-323,90,0,0,0,0,0,0,0,0,41,3,1,0,0.0,0.0,0.0,0,0,26,34,76.5,4,26,0,0,0
+Jefferson Lerma,8,co COL,CM,25-057,90,0,0,0,0,2,0,0,0,76,3,1,0,0.1,0.1,0.0,1,0,49,60,81.7,7,37,0,0,0
+Philip Billing,29,dk DEN,"CM,LM",23-193,85,0,0,0,0,0,0,0,0,48,4,0,1,0.0,0.0,0.0,0,0,34,39,87.2,3,32,1,0,0
+Dominic Solanke,9,eng ENG,FW,22-098,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,3,0,0,0
+Diego Rico,21,es ESP,LB,26-301,90,0,0,0,0,0,0,1,0,79,0,2,3,0.0,0.0,0.0,0,0,46,71,64.8,6,48,0,0,0
+Chris Mepham,33,wls WAL,CB,22-046,90,0,0,0,0,1,0,0,0,57,1,2,0,0.1,0.1,0.0,0,0,38,45,84.4,0,39,0,2,2
+Simon Francis,2,eng ENG,CB,34-308,90,0,0,0,0,0,0,1,0,62,1,0,1,0.0,0.0,0.0,0,0,42,49,85.7,3,37,1,0,0
+Jack Stacey,17,eng ENG,RB,23-259,90,0,0,0,0,0,0,0,0,62,1,0,1,0.0,0.0,0.0,2,0,41,54,75.9,4,37,4,0,0
+Aaron Ramsdale,12,eng ENG,GK,21-221,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,26,39,66.7,0,31,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,36-131,62,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,4,9,44.4,1,12,0,2,1
+Harvey Barnes,7,eng ENG,LW,25-164,28,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,2,8,0,0,0
+Kelechi Iheanacho,14,ng NGA,FW,26-231,45,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0
+James Maddison,10,eng ENG,"RW,FW",26-180,45,0,0,0,0,0,0,0,0,16,2,0,0,0.0,0.0,0.1,1,0,11,13,84.6,1,11,0,1,0
+Boubakary Soumaré,42,fr FRA,"CM,LM",24-084,90,0,0,0,0,0,0,0,0,29,1,1,0,0.0,0.0,0.0,0,0,21,24,87.5,0,21,0,2,1
+Youri Tielemans,8,be BEL,CM,26-015,90,0,0,0,0,0,0,0,0,37,1,0,1,0.0,0.0,0.0,1,0,16,27,59.3,1,18,0,4,3
+Wilfred Ndidi,25,ng NGA,"CM,RM",26-157,88,0,0,0,0,0,0,0,0,26,5,2,3,0.0,0.0,0.0,0,0,10,15,66.7,0,11,1,0,0
+Nampalys Mendy,24,sn SEN,RM,30-333,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Luke Thomas,33,eng ENG,LB,21-346,90,0,0,0,0,0,0,0,0,35,2,0,2,0.0,0.0,0.0,0,0,16,24,66.7,1,14,1,1,1
+Wout Faes,3,be BEL,CB,25-049,90,0,0,0,0,0,0,0,0,26,2,1,1,0.0,0.0,0.0,0,0,9,14,64.3,0,10,0,0,0
+Jonny Evans,6,nir NIR,CB,35-139,62,0,0,0,0,0,0,0,0,22,0,0,4,0.0,0.0,0.0,0,0,4,8,50.0,0,2,0,0,0
+Patson Daka,20,zm ZAM,FW,24-225,28,0,0,0,0,0,0,0,0,11,1,0,2,0.0,0.0,0.0,0,0,2,8,25.0,0,3,0,0,0
+Harry Souttar,15,au AUS,CB,24-212,90,0,0,0,0,0,0,0,0,28,2,1,1,0.0,0.0,0.0,0,0,9,17,52.9,1,10,0,1,1
+Timothy Castagne,27,be BEL,RB,27-168,90,0,0,0,0,1,1,0,0,34,1,0,0,0.1,0.1,0.0,0,0,12,18,66.7,1,12,0,1,0
+Daniel Iversen,31,dk DEN,GK,25-307,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,9,34,26.5,0,10,0,0,0

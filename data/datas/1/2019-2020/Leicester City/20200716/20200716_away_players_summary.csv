@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+David McGoldrick,17,ie IRL,FW,32-230,45,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,4,11,36.4,1,4,0,1,0
+Lys Mousset,22,fr FRA,"RW,FW",24-159,45,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,2,5,40.0,0,8,2,2,2
+Oliver McBurnie,9,sct SCO,FW,24-042,90,0,0,0,0,0,0,0,0,38,2,2,0,0.0,0.0,0.0,1,0,10,25,40.0,1,15,0,2,0
+Ben Osborn,23,eng ENG,CM,25-346,45,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,11,1,0,0
+John Fleck,4,sct SCO,"LM,CM",28-327,45,0,0,0,0,0,0,1,0,30,0,1,1,0.0,0.0,0.0,1,0,15,23,65.2,0,14,1,0,0
+Oliver Norwood,16,nir NIR,CM,29-095,90,0,0,0,0,0,0,0,0,69,3,1,1,0.0,0.0,0.2,3,0,53,62,85.5,11,36,0,1,1
+Sander Berge,32,no NOR,CM,22-153,45,0,0,0,0,0,0,0,0,13,0,0,2,0.0,0.0,0.0,1,0,6,9,66.7,0,6,1,1,1
+John Lundstram,7,eng ENG,"RM,CM",26-149,45,0,0,0,0,1,0,0,0,41,0,1,0,0.0,0.0,0.0,0,0,30,37,81.1,4,30,1,2,1
+Enda Stevens,3,ie IRL,"WB,LB",30-007,90,0,0,0,0,0,0,0,0,70,2,1,1,0.0,0.0,0.0,0,0,49,60,81.7,4,37,2,1,1
+George Baldock,2,gr GRE,"WB,RB",27-129,90,0,0,0,0,0,0,0,0,58,0,2,0,0.0,0.0,0.0,2,0,39,48,81.3,3,27,3,0,0
+Jack O'Connell,5,eng ENG,CB,26-109,90,0,0,0,0,0,0,0,0,69,0,0,0,0.0,0.0,0.0,0,0,49,65,75.4,3,39,0,0,0
+John Egan,12,ie IRL,CB,27-270,90,0,0,0,0,2,0,1,0,50,1,1,2,0.2,0.2,0.4,1,0,30,38,78.9,3,21,0,0,0
+Chris Basham,6,eng ENG,CB,31-362,58,0,0,0,0,0,0,0,0,29,1,1,1,0.0,0.0,0.0,0,0,15,21,71.4,1,10,2,0,0
+Billy Sharp,10,eng ENG,"LW,CB",34-162,32,0,0,0,0,1,1,0,0,10,0,0,0,0.4,0.4,0.0,0,0,5,8,62.5,0,6,1,0,0
+Dean Henderson,1,eng ENG,GK,23-126,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,11,0,0,0

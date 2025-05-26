@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,FW,32-122,90,1,0,0,0,1,1,0,0,24,2,0,1,0.4,0.4,0.1,2,0,11,15,73.3,4,7,0,1,0
+Bukayo Saka,7,eng ENG,LM,20-043,45,0,0,0,0,0,0,1,0,17,0,0,0,0.0,0.0,0.1,2,0,12,16,75.0,1,13,3,0,0
+Albert Sambi Lokonga,23,be BEL,"DM,CM",21-361,45,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,3,0,43,44,97.7,3,27,3,0,0
+Martin Ødegaard,8,no NOR,"CM,AM",22-305,66,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,37,42,88.1,2,23,2,1,0
+Alexandre Lacazette,9,fr FRA,"FW,AM",30-143,24,1,0,0,0,3,2,0,0,17,0,0,0,0.6,0.6,0.2,4,0,9,12,75.0,3,7,1,2,1
+Emile Smith Rowe,10,eng ENG,"CM,LW",21-082,90,0,0,0,0,2,1,0,0,58,0,0,2,0.2,0.2,0.0,2,0,42,48,87.5,1,29,2,4,2
+Nicolas Pépé,19,ci CIV,"RM,RW",26-142,90,0,0,0,0,3,1,0,0,69,1,2,3,0.2,0.2,0.0,6,1,36,47,76.6,1,33,1,6,1
+Thomas Partey,5,gh GHA,DM,28-127,80,0,0,0,0,3,0,0,0,56,4,0,0,0.1,0.1,0.0,3,0,42,49,85.7,3,26,1,2,2
+Gabriel Martinelli,35,br BRA,LM,20-122,10,0,0,0,0,1,1,0,0,11,0,0,1,0.3,0.3,0.0,1,1,5,7,71.4,0,6,0,2,0
+Kieran Tierney,3,sct SCO,LB,24-135,90,0,0,0,0,1,0,0,0,70,1,1,0,0.1,0.1,0.0,1,0,59,65,90.8,4,45,3,0,0
+Gabriel Magalhães,6,br BRA,CB,23-303,90,0,0,0,0,1,0,0,0,86,1,1,0,0.0,0.0,0.0,1,0,71,79,89.9,7,58,0,1,1
+Ben White,4,eng ENG,CB,24-010,90,0,0,0,0,2,0,0,0,68,1,0,0,0.1,0.1,0.3,1,0,57,65,87.7,5,37,2,0,0
+Takehiro Tomiyasu,18,jp JPN,RB,22-347,90,0,0,0,0,0,0,0,0,89,6,2,0,0.0,0.0,0.0,1,0,63,78,80.8,1,27,1,1,1
+Aaron Ramsdale,32,eng ENG,GK,23-157,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,15,0,0,0

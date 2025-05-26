@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,22-183,70,1,0,0,0,3,2,0,0,22,0,0,0,0.8,0.8,0.0,0,0,7,12,58.3,0,15,1,1,0
+Bernard,20,br BRA,"LW,FW",27-007,20,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,3,0,9,13,69.2,2,14,2,1,0
+Alex Iwobi,17,ng NGA,"LW,AM",23-135,90,0,0,0,0,3,1,0,0,40,1,0,1,0.3,0.3,0.0,3,0,21,29,72.4,5,28,2,3,2
+Richarlison,7,br BRA,RW,22-128,80,0,1,0,0,4,0,1,0,45,6,0,2,0.2,0.2,0.8,3,1,19,28,67.9,3,29,4,2,1
+Theo Walcott,11,eng ENG,RW,30-183,10,0,0,0,0,1,1,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0
+Gylfi Sigurðsson,10,is ISL,AM,30-007,70,0,0,0,0,1,1,0,0,40,0,0,1,0.1,0.1,0.0,5,0,25,35,71.4,4,29,2,2,1
+Moise Kean,27,it ITA,"FW,AM",19-199,20,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,6,66.7,0,7,1,1,0
+Fabian Delph,8,eng ENG,DM,29-298,90,0,0,0,0,0,0,1,0,66,5,0,0,0.0,0.0,0.0,2,0,50,61,82.0,5,40,0,1,1
+Morgan Schneiderlin,18,fr FRA,DM,29-311,90,0,0,0,0,0,0,1,0,70,3,2,3,0.0,0.0,0.0,0,0,52,60,86.7,11,39,1,0,0
+Lucas Digne,12,fr FRA,LB,26-057,90,0,0,0,0,1,0,1,0,83,0,4,3,0.0,0.0,0.2,5,0,50,77,64.9,8,36,3,2,2
+Yerry Mina,13,co COL,CB,24-357,90,0,0,0,0,0,0,0,0,65,0,3,0,0.0,0.0,0.0,1,0,51,56,91.1,6,39,0,0,0
+Michael Keane,5,eng ENG,CB,26-247,90,0,0,0,0,0,0,0,0,66,2,2,0,0.0,0.0,0.0,0,0,42,57,73.7,3,39,0,0,0
+Séamus Coleman,23,ie IRL,RB,30-339,90,0,0,0,0,0,0,0,0,73,1,2,1,0.0,0.0,0.0,1,1,45,64,70.3,6,44,3,3,3
+Jordan Pickford,1,eng ENG,GK,25-192,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,26,0,0,0

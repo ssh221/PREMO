@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Christian Benteke,20,be BEL,FW,30-359,90,0,0,0,0,3,1,0,0,26,1,0,0,0.4,0.4,0.0,0,0,12,15,80.0,1,12,0,0,0
+Wilfried Zaha,11,ci CIV,LW,29-017,71,0,0,0,0,1,0,1,0,39,2,1,0,0.1,0.1,0.0,0,0,21,29,72.4,3,29,4,3,0
+Odsonne Édouard,22,fr FRA,LW,23-315,19,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,7,1,1,0
+Michael Olise,7,fr FRA,RW,19-350,86,0,0,0,0,0,0,0,0,82,1,0,1,0.0,0.0,0.0,2,0,56,72,77.8,9,60,6,5,0
+Jordan Ayew,9,gh GHA,RW,30-077,4,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,8,3,2,1
+Conor Gallagher,23,eng ENG,"AM,DM",21-294,90,0,0,0,0,0,0,0,0,59,5,1,0,0.0,0.0,0.1,4,0,43,49,87.8,3,39,3,2,1
+Cheikhou Kouyaté,8,sn SEN,DM,31-341,90,0,1,0,0,0,0,0,0,51,5,0,3,0.0,0.0,0.4,2,1,31,39,79.5,3,20,0,1,1
+Luka Milivojević,4,rs SRB,DM,30-234,59,0,0,0,0,0,0,1,0,46,1,0,0,0.0,0.0,0.0,0,0,32,44,72.7,4,24,0,0,0
+Eberechi Eze,10,eng ENG,AM,23-151,31,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,1,0,19,24,79.2,2,17,2,1,1
+Tyrick Mitchell,3,eng ENG,LB,22-087,90,0,0,0,0,0,0,0,0,79,1,0,1,0.0,0.0,0.1,1,0,57,73,78.1,11,42,1,1,0
+Marc Guéhi,6,eng ENG,CB,21-137,90,1,0,0,0,2,1,0,0,88,2,1,0,0.4,0.4,0.0,1,1,78,81,96.3,8,63,1,2,2
+James Tomkins,5,eng ENG,CB,32-243,90,0,0,0,0,0,0,0,0,83,0,1,1,0.0,0.0,0.1,2,0,73,78,93.6,3,51,1,1,1
+Joel Ward,2,eng ENG,RB,32-029,90,0,0,0,0,0,0,1,0,116,2,4,0,0.0,0.0,0.2,1,0,87,103,84.5,9,77,1,1,1
+Vicente Guaita,13,es ESP,GK,34-321,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,19,21,90.5,0,11,0,0,0

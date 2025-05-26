@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Laurent Depoitre,20,be BEL,FW,29-023,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,1,0,11,22,50.0,1,12,0,0,0
+Rajiv van La Parra,17,nl NED,LW,26-209,90,0,0,0,0,0,0,0,0,40,3,0,1,0.0,0.0,0.0,0,0,18,25,72.0,4,26,6,9,6
+Collin Quaner,23,de GER,RW,26-195,81,0,0,0,0,1,1,0,0,32,1,1,3,0.0,0.0,0.0,2,0,16,23,69.6,2,18,2,2,1
+Danny Williams,19,us USA,DM,28-297,9,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0
+Tom Ince,22,eng ENG,AM,25-334,54,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,7,11,63.6,0,10,0,0,0
+Joe Lolley,18,eng ENG,"AM,RW",25-127,36,0,0,0,0,0,0,1,0,18,1,1,0,0.0,0.0,0.0,0,0,10,13,76.9,2,13,1,1,0
+Jonathan Hogg,6,eng ENG,DM,29-024,90,0,0,0,0,1,0,0,0,63,0,3,1,0.0,0.0,0.0,0,0,46,57,80.7,2,35,0,0,0
+Aaron Mooy,10,au AUS,"DM,AM",27-106,90,0,0,0,0,0,0,0,0,61,4,0,0,0.0,0.0,0.0,0,0,36,55,65.5,7,26,2,1,0
+Scott Malone,3,eng ENG,LB,26-280,90,0,0,0,0,1,0,0,0,59,3,3,0,0.0,0.0,0.0,0,0,35,47,74.5,2,15,2,2,2
+Christopher Schindler,26,de GER,CB,27-245,90,0,0,0,0,0,0,0,0,57,2,2,1,0.0,0.0,0.0,0,0,32,41,78.0,1,20,0,0,0
+Mathias Jørgensen,25,dk DEN,CB,27-251,90,0,0,0,0,0,0,1,0,67,1,2,0,0.0,0.0,0.0,2,0,42,53,79.2,6,26,0,0,0
+Florent Hadergjonaj,33,xk KVX,RB,23-152,45,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,0,0,13,21,61.9,1,10,1,1,1
+Tommy Smith,2,eng ENG,RB,25-260,45,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.0,0,0,16,25,64.0,2,10,0,0,0
+Jonas Lössl,1,dk DEN,GK,28-332,90,0,0,0,0,0,0,0,0,46,0,1,0,0.0,0.0,0.0,0,0,26,42,61.9,0,19,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Javier Hernández,17,mx MEX,FW,30-316,72,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,16,68.8,0,12,0,2,2
+Michail Antonio,30,jm JAM,FW,29-016,18,0,0,0,0,2,1,0,0,14,0,0,1,0.4,0.4,0.1,2,0,7,8,87.5,0,9,2,2,1
+Manuel Lanzini,10,ar ARG,LM,26-057,61,0,1,0,0,1,0,0,0,52,1,0,2,0.1,0.1,0.4,2,1,37,45,82.2,4,34,3,2,1
+Grady Diangana,45,cd COD,RM,20-359,29,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.3,1,0,9,9,100.0,1,7,0,3,1
+Robert Snodgrass,11,sct SCO,CM,31-218,90,0,0,0,0,1,0,0,0,69,1,1,2,0.0,0.0,0.2,9,1,45,59,76.3,6,37,2,1,0
+Mark Noble,16,eng ENG,CM,31-340,90,0,0,0,0,1,0,0,0,75,2,4,0,0.0,0.0,0.1,2,0,56,67,83.6,4,48,1,0,0
+Felipe Anderson,8,br BRA,"RM,LM",25-363,90,1,0,0,0,6,2,0,0,85,2,1,1,0.6,0.6,0.1,5,0,50,69,72.5,9,61,12,3,0
+Declan Rice,41,eng ENG,DM,20-089,90,0,0,0,0,1,0,0,0,65,4,1,0,0.0,0.0,0.0,3,0,50,57,87.7,8,32,2,3,2
+Arthur Masuaku,26,cd COD,LB,25-157,90,0,0,0,0,1,0,0,0,76,5,0,0,0.0,0.0,0.0,2,0,58,66,87.9,7,41,4,6,4
+Angelo Ogbonna,21,it ITA,CB,30-325,90,0,0,0,0,0,0,0,0,54,1,0,3,0.0,0.0,0.0,2,0,33,39,84.6,0,21,0,0,0
+Fabián Balbuena,4,py PAR,CB,27-233,90,0,0,0,0,2,0,0,0,61,0,2,0,0.1,0.1,0.0,2,0,36,48,75.0,3,25,0,0,0
+Pablo Zabaleta,5,ar ARG,RB,34-087,75,0,0,0,0,2,1,0,0,50,1,2,2,0.0,0.0,0.0,0,0,30,40,75.0,3,22,1,0,0
+Ryan Fredericks,24,eng ENG,RB,26-185,15,0,0,0,0,0,0,1,0,20,0,1,0,0.0,0.0,0.0,0,0,11,19,57.9,1,9,0,0,0
+Łukasz Fabiański,1,pl POL,GK,33-360,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,9,26,34.6,0,9,0,0,0

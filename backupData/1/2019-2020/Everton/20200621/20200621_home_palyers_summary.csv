@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Richarlison,7,br BRA,"FW,RM",23-042,90,0,0,0,0,5,2,0,0,20,1,0,0,0.3,0.3,0.1,2,0,7,11,63.6,1,17,2,3,3
+Dominic Calvert-Lewin,9,eng ENG,FW,23-097,89,0,0,0,0,2,1,0,0,26,0,0,0,0.2,0.2,0.1,2,0,11,19,57.9,2,11,1,0,0
+Moise Kean,27,it ITA,FW,20-114,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Anthony Gordon,42,eng ENG,LM,19-118,59,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.1,2,0,6,9,66.7,0,9,1,2,1
+Gylfi Sigurðsson,10,is ISL,LM,30-287,31,0,0,0,0,0,0,0,0,13,2,0,1,0.0,0.0,0.0,2,0,7,9,77.8,0,2,0,0,0
+André Gomes,21,pt POR,CM,26-327,90,0,0,0,0,0,0,0,0,30,3,0,2,0.0,0.0,0.0,1,0,16,20,80.0,4,16,1,4,1
+Tom Davies,26,eng ENG,CM,21-357,90,0,0,0,0,1,0,0,0,34,3,0,0,0.4,0.4,0.0,0,0,22,27,81.5,0,16,0,0,0
+Alex Iwobi,17,ng NGA,RM,24-049,87,0,0,0,0,0,0,0,0,22,1,2,0,0.0,0.0,0.0,1,0,10,14,71.4,0,8,0,2,2
+Bernard,20,br BRA,FW,27-287,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0
+Lucas Digne,12,fr FRA,LB,26-337,90,0,0,0,0,0,0,1,0,55,3,1,2,0.0,0.0,0.1,1,0,25,43,58.1,0,16,2,0,0
+Mason Holgate,2,eng ENG,CB,23-243,90,0,0,0,0,0,0,0,0,46,2,4,3,0.0,0.0,0.1,1,0,22,29,75.9,0,13,0,0,0
+Michael Keane,5,eng ENG,CB,27-162,90,0,0,0,0,0,0,1,0,39,1,2,1,0.0,0.0,0.0,0,0,25,29,86.2,0,15,0,0,0
+Séamus Coleman,23,ie IRL,RB,31-254,90,0,0,0,0,0,0,0,0,48,4,2,1,0.0,0.0,0.0,0,0,25,37,67.6,1,19,0,2,0
+Jordan Pickford,1,eng ENG,GK,26-106,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,15,36,41.7,0,21,0,0,0

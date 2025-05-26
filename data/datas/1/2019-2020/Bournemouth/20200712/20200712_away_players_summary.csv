@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,33-183,90,1,0,0,0,5,1,0,0,28,1,0,0,1.2,1.2,0.1,4,0,16,22,72.7,4,13,3,1,1
+Kelechi Iheanacho,14,ng NGA,FW,23-283,45,0,0,0,0,3,2,0,0,28,0,0,2,0.1,0.1,0.0,1,1,11,18,61.1,1,25,1,0,0
+Dennis Praet,26,be BEL,"LM,AM",26-059,45,0,0,0,0,0,0,0,0,31,2,0,2,0.0,0.0,0.1,1,0,16,21,76.2,4,18,0,0,0
+Ayoze Pérez,17,es ESP,"AM,FW",26-349,70,0,0,0,0,2,1,0,0,38,2,0,0,0.1,0.1,0.1,4,1,25,32,78.1,6,24,3,0,0
+Harvey Barnes,15,eng ENG,FW,22-216,20,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,7,1,1,1
+Youri Tielemans,8,be BEL,"CM,RM",23-066,90,0,0,0,0,1,0,0,0,82,1,2,2,0.0,0.0,0.1,5,0,56,69,81.2,8,43,1,4,3
+Wilfred Ndidi,25,ng NGA,"CM,DM",23-209,90,0,0,0,0,1,0,1,0,67,4,4,2,0.0,0.0,0.0,1,0,50,55,90.9,3,37,0,0,0
+Christian Fuchs,28,at AUT,"WB,LB",34-096,90,0,0,0,0,0,0,0,0,79,2,2,0,0.0,0.0,0.0,2,0,55,72,76.4,4,47,1,0,0
+Marc Albrighton,11,eng ENG,WB,30-237,15,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,2,9,3,0,0
+Ryan Bennett,29,eng ENG,CB,30-128,75,0,0,0,0,0,0,0,0,71,2,4,2,0.0,0.0,0.0,1,0,44,57,77.2,6,35,0,0,0
+Çağlar Söyüncü,4,tr TUR,CB,24-050,66,0,0,0,0,0,0,0,1,59,1,0,0,0.0,0.0,0.0,0,0,46,54,85.2,1,34,0,0,0
+Jonny Evans,6,nir NIR,CB,32-191,90,0,0,0,0,0,0,0,0,78,0,2,2,0.0,0.0,0.0,0,0,51,66,77.3,2,38,0,0,0
+James Justin,2,eng ENG,"WB,RB,CB",22-140,90,0,0,0,0,0,0,0,0,83,1,1,0,0.0,0.0,0.0,3,0,57,77,74.0,4,47,3,0,0
+Kasper Schmeichel,1,dk DEN,GK,33-250,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,11,0,0,0

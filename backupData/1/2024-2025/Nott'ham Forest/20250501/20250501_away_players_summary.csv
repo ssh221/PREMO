@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Yoane Wissa,11,cd COD,FW,28-240,90,1,0,0,0,2,1,0,0,21,3,0,3,0.4,0.4,0.0,2,0,5,9,55.6,1,11,2,1,1
+Kevin Schade,7,de GER,LW,23-155,67,1,0,0,0,1,1,0,0,23,0,0,1,0.2,0.2,0.1,4,1,8,12,66.7,0,13,2,4,3
+Mathias Jensen,8,dk DEN,LW,29-120,23,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0
+Bryan Mbeumo,19,cm CMR,RW,25-267,90,0,0,0,0,3,0,1,0,54,3,0,1,0.2,0.2,0.1,2,0,16,34,47.1,1,31,4,2,2
+Mikkel Damsgaard,24,dk DEN,AM,24-302,83,0,0,0,0,1,0,0,0,40,1,0,1,0.0,0.0,0.3,3,0,30,38,78.9,5,19,1,1,1
+Yunus Emre Konak,26,tr TUR,AM,19-111,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0
+Yehor Yarmoliuk,18,ua UKR,DM,21-061,90,0,0,0,0,0,0,1,0,45,3,1,0,0.0,0.0,0.1,3,0,28,36,77.8,3,21,2,1,1
+Christian Nørgaard,6,dk DEN,DM,31-052,90,0,0,0,0,1,0,1,0,46,1,1,1,0.1,0.1,0.0,1,0,27,33,81.8,4,16,0,0,0
+Keane Lewis-Potter,23,eng ENG,LB,24-068,45,0,0,0,0,0,0,1,0,16,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,9,0,1,1
+Rico Henry,3,eng ENG,LB,27-297,45,0,0,0,0,0,0,0,0,16,0,0,2,0.0,0.0,0.0,0,0,10,13,76.9,0,6,0,0,0
+Sepp van den Berg,4,nl NED,CB,23-132,90,0,0,0,0,1,1,0,0,48,0,0,1,0.2,0.2,0.0,0,0,38,41,92.7,2,27,1,0,0
+Nathan Collins,22,ie IRL,CB,24-001,90,0,1,0,0,1,0,0,0,63,1,1,1,0.0,0.0,0.2,2,1,34,42,81.0,1,22,3,0,0
+Michael Kayode,33,it ITA,RB,20-295,83,0,0,0,0,1,0,0,0,37,2,1,0,0.1,0.1,0.0,2,0,17,27,63.0,0,15,1,1,1
+Kristoffer Ajer,20,no NOR,RB,27-014,7,0,0,0,0,0,0,1,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0
+Mark Flekken,1,nl NED,GK,31-322,90,0,1,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.3,1,1,31,43,72.1,0,26,0,0,0

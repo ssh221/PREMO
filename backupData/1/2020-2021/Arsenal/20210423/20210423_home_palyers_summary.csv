@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eddie Nketiah,30,eng ENG,FW,21-328,73,0,0,0,0,2,0,0,0,26,2,0,1,0.1,0.1,0.1,3,0,17,18,94.4,3,15,3,1,1
+Gabriel Martinelli,35,br BRA,FW,19-309,17,0,0,0,0,1,1,0,0,7,0,1,0,0.1,0.1,0.0,1,0,2,3,66.7,0,2,0,0,0
+Nicolas Pépé,19,ci CIV,LW,25-329,73,0,0,0,0,1,0,0,0,45,0,0,0,0.1,0.1,0.1,3,0,32,38,84.2,3,24,3,2,1
+Martin Ødegaard,11,no NOR,AM,22-127,17,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,14,14,100.0,1,7,0,0,0
+Bukayo Saka,7,eng ENG,"RW,RB,LW",19-230,90,0,0,0,0,2,1,0,0,64,0,0,1,0.1,0.1,0.1,5,0,36,49,73.5,2,32,4,3,1
+Emile Smith Rowe,32,eng ENG,"AM,RW",20-269,90,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,42,47,89.4,7,36,2,2,0
+Dani Ceballos,8,es ESP,DM,24-259,90,0,0,0,0,3,1,0,0,82,0,1,3,0.2,0.2,0.1,6,0,65,73,89.0,7,42,0,4,2
+Thomas Partey,18,gh GHA,DM,27-314,90,0,0,0,0,3,0,1,0,98,2,2,3,0.1,0.1,0.1,3,0,80,90,88.9,11,46,0,0,0
+Granit Xhaka,34,ch SUI,LB,28-208,90,0,0,0,0,0,0,0,0,112,3,0,1,0.0,0.0,0.1,1,0,93,102,91.2,16,57,1,2,0
+Pablo Marí,22,es ESP,CB,27-235,90,0,0,0,0,0,0,0,0,83,1,2,1,0.0,0.0,0.0,0,0,75,77,97.4,6,51,0,0,0
+Rob Holding,16,eng ENG,CB,25-215,90,0,0,0,0,0,0,0,0,91,2,1,2,0.0,0.0,0.0,0,0,73,81,90.1,5,38,0,0,0
+Calum Chambers,21,eng ENG,RB,26-093,82,0,0,0,0,2,0,0,0,61,0,1,0,0.2,0.2,0.1,3,0,44,53,83.0,3,21,2,2,1
+Willian,12,br BRA,LW,32-257,8,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,1,9,1,0,0
+Bernd Leno,1,de GER,GK,29-050,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,12,0,0,0

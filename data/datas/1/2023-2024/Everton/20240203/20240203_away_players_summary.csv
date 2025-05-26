@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Richarlison,9,br BRA,FW,26-269,90,2,0,0,0,4,3,0,0,42,1,0,3,0.7,0.7,0.1,2,0,16,24,66.7,1,27,0,3,0
+Timo Werner,16,de GER,LW,27-334,85,0,0,0,0,0,0,0,0,26,1,1,0,0.0,0.0,0.0,3,2,16,21,76.2,2,18,5,0,0
+Oliver Skipp,4,eng ENG,CM,23-140,5,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,0,0
+Brennan Johnson,22,wls WAL,RW,22-256,63,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,6,16,37.5,0,11,2,2,1
+Dejan Kulusevski,21,se SWE,"RW,RM",23-284,27,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.1,1,0,8,13,61.5,0,14,2,4,2
+James Maddison,10,eng ENG,AM,27-072,85,0,1,0,0,2,2,0,0,53,1,1,1,0.1,0.1,0.0,5,1,28,40,70.0,3,36,3,4,1
+Bryan Gil,11,es ESP,"LM,LW",22-357,5,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,1,4,0,1,1
+Rodrigo Bentancur,30,uy URU,DM,26-223,63,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,0,0,31,38,81.6,2,23,0,1,1
+Pape Matar Sarr,29,sn SEN,"DM,CM,RM",21-142,27,0,0,0,0,0,0,0,0,28,1,2,0,0.0,0.0,0.0,0,0,19,22,86.4,1,16,0,1,0
+Pierre Højbjerg,5,dk DEN,"DM,LM",28-182,88,0,0,0,0,2,0,0,0,72,3,1,1,0.1,0.1,0.0,0,0,44,57,77.2,3,45,0,2,0
+Radu Drăgușin,6,ro ROU,CB,22-000,2,0,0,0,0,0,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,1,2,1,1,0
+Destiny Udogie,38,it ITA,LB,21-067,90,0,1,0,0,0,0,0,0,78,7,2,0,0.0,0.0,0.6,3,1,40,57,70.2,4,28,2,4,1
+Micky van de Ven,37,nl NED,CB,22-290,90,0,0,0,0,0,0,0,0,75,3,1,1,0.0,0.0,0.0,0,0,56,62,90.3,3,49,0,0,0
+Cristian Romero,17,ar ARG,CB,25-282,90,0,0,0,0,0,0,0,0,72,2,1,1,0.0,0.0,0.0,0,0,54,63,85.7,3,39,0,0,0
+Pedro Porro,23,es ESP,RB,24-143,90,0,0,0,0,1,1,0,0,77,0,0,1,0.0,0.0,0.0,2,0,50,68,73.5,2,30,0,2,2
+Guglielmo Vicario,13,it ITA,GK,27-119,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,0,0,44,53,83.0,0,33,0,0,0

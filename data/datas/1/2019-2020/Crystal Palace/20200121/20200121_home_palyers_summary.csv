@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cenk Tosun,20,tr TUR,FW,28-228,68,0,0,0,0,2,0,0,0,17,0,0,0,0.3,0.3,0.0,0,0,6,12,50.0,2,8,2,1,1
+Connor Wickham,21,eng ENG,FW,26-296,22,0,0,0,0,1,0,0,0,17,0,1,0,0.1,0.1,0.1,1,0,7,11,63.6,2,8,1,1,1
+Wilfried Zaha,11,ci CIV,"LW,LM",27-072,90,0,0,0,0,0,0,0,0,41,1,1,0,0.0,0.0,0.1,5,0,20,27,74.1,4,33,5,8,5
+Jordan Ayew,9,gh GHA,"RW,FW",28-132,90,0,0,0,0,1,0,0,0,27,1,0,3,0.1,0.1,0.2,1,0,12,12,100.0,1,18,1,6,4
+James McCarthy,22,ie IRL,CM,29-070,90,0,0,0,0,1,0,0,0,49,4,1,1,0.1,0.1,0.0,1,0,28,40,70.0,5,13,0,0,0
+James McArthur,18,sct SCO,CM,32-106,90,0,0,0,0,1,0,0,0,64,1,5,4,0.1,0.1,0.0,0,0,31,46,67.4,4,22,0,2,1
+Cheikhou Kouyaté,8,sn SEN,CM,30-031,61,0,0,0,0,0,0,0,0,35,2,3,2,0.0,0.0,0.1,1,0,6,18,33.3,0,8,0,2,1
+Max Meyer,7,de GER,RM,24-125,29,0,0,0,0,0,0,0,0,17,2,0,0,0.0,0.0,0.0,0,0,6,10,60.0,1,11,0,2,0
+Jaïro Riedewald,44,nl NED,LB,23-134,90,0,0,0,0,0,0,0,0,74,2,2,1,0.0,0.0,0.1,1,0,40,68,58.8,6,24,2,2,2
+Gary Cahill,24,eng ENG,CB,34-033,90,0,0,0,0,0,0,0,0,57,2,1,1,0.0,0.0,0.0,0,0,35,45,77.8,3,24,0,0,0
+James Tomkins,5,eng ENG,CB,30-298,90,0,0,0,0,0,0,1,0,60,2,4,0,0.0,0.0,0.0,0,0,40,50,80.0,2,23,0,0,0
+Martin Kelly,34,eng ENG,RB,29-269,61,0,0,0,0,0,0,0,0,34,2,2,0,0.0,0.0,0.0,0,0,12,28,42.9,0,10,2,0,0
+Joel Ward,2,eng ENG,RB,30-084,29,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,0,0,10,17,58.8,1,10,0,3,1
+Vicente Guaita,31,es ESP,GK,33-011,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,18,36,50.0,0,17,0,0,0

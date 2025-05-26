@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Billy Sharp,10,eng ENG,FW,35-015,90,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.4,1,0,4,8,50.0,1,1,0,0,0
+Oliver McBurnie,9,sct SCO,FW,24-261,90,0,0,0,0,0,0,0,0,36,1,0,2,0.0,0.0,0.0,1,0,7,26,26.9,1,9,2,0,0
+John Fleck,4,sct SCO,CM,29-180,90,0,0,0,0,0,0,0,0,33,2,0,3,0.0,0.0,0.0,0,0,17,27,63.0,3,17,1,0,0
+John Lundstram,7,eng ENG,CM,27-002,73,0,0,0,0,0,0,0,0,34,3,2,0,0.0,0.0,0.0,0,0,16,21,76.2,0,11,0,1,0
+David McGoldrick,17,ie IRL,AM,33-083,17,0,0,0,0,0,0,1,0,12,1,0,1,0.0,0.0,0.0,1,0,7,8,87.5,0,5,0,0,0
+Chris Basham,6,eng ENG,"CB,CM",32-215,50,0,0,0,0,0,0,0,0,20,0,0,2,0.0,0.0,0.0,0,0,9,11,81.8,0,6,0,1,0
+Oliver Norwood,16,nir NIR,CM,29-314,40,0,0,0,0,0,0,0,0,36,5,1,0,0.0,0.0,0.0,0,0,20,28,71.4,2,10,0,0,0
+Enda Stevens,3,ie IRL,WB,30-226,90,0,0,0,0,1,1,0,0,54,1,0,2,0.4,0.4,0.0,2,0,30,46,65.2,2,15,1,1,1
+George Baldock,2,gr GRE,"WB,CB",27-348,90,0,0,0,0,0,0,1,0,35,2,1,2,0.0,0.0,0.0,0,0,16,26,61.5,3,6,0,0,0
+Kean Bryan,29,eng ENG,CB,24-111,90,0,0,0,0,1,0,0,0,63,2,0,2,0.1,0.1,0.5,1,0,32,54,59.3,1,24,0,1,1
+Phil Jagielka,15,eng ENG,CB,38-187,79,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,0,0,25,36,69.4,0,20,0,0,0
+Jayden Bogle,20,eng ENG,WB,20-208,11,0,0,0,0,1,1,0,0,8,0,0,0,0.5,0.5,0.0,0,0,3,5,60.0,0,1,0,0,0
+Ethan Ampadu,22,wls WAL,"CB,CM",20-159,90,0,0,0,0,1,0,0,0,51,3,3,1,0.1,0.1,0.0,0,0,29,35,82.9,3,19,2,1,1
+Aaron Ramsdale,1,eng ENG,GK,22-282,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,18,36,50.0,0,19,0,0,0

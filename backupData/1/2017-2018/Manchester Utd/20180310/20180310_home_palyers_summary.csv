@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,24-301,90,0,1,0,0,1,0,0,0,22,0,0,0,0.1,0.1,0.1,2,2,10,16,62.5,4,9,2,1,1
+Marcus Rashford,19,eng ENG,LW,20-130,69,2,0,0,0,2,2,1,0,35,1,2,0,0.1,0.1,0.0,0,0,14,23,60.9,0,24,4,1,1
+Marouane Fellaini,27,be BEL,CM,30-108,21,0,0,0,0,0,0,0,0,12,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,8,0,1,0
+Juan Mata,8,es ESP,"RW,RM",29-316,88,0,0,0,0,2,0,0,0,29,1,2,0,0.5,0.5,0.0,0,0,18,19,94.7,1,12,0,1,0
+Jesse Lingard,14,eng ENG,RM,25-085,2,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0
+Alexis Sánchez,7,cl CHI,"AM,LM",29-081,89,0,0,0,0,0,0,0,0,39,2,2,0,0.0,0.0,0.5,3,0,18,32,56.3,5,20,4,3,3
+Matteo Darmian,36,it ITA,LM,28-098,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Nemanja Matić,31,rs SRB,DM,29-221,90,0,0,0,0,0,0,0,0,54,6,0,3,0.0,0.0,0.0,0,0,28,38,73.7,4,26,1,1,1
+Scott McTominay,39,sct SCO,"DM,CM",21-092,90,0,0,0,0,0,0,0,0,36,2,4,0,0.0,0.0,0.0,0,0,24,28,85.7,2,20,1,0,0
+Ashley Young,18,eng ENG,LB,32-244,90,0,0,0,0,0,0,0,0,56,5,4,0,0.0,0.0,0.1,2,0,29,41,70.7,3,23,2,0,0
+Chris Smalling,12,eng ENG,CB,28-108,90,0,0,0,0,0,0,0,0,40,2,2,4,0.0,0.0,0.0,0,0,16,19,84.2,3,7,0,0,0
+Eric Bailly,3,ci CIV,CB,23-332,90,0,0,0,0,0,0,0,0,36,2,6,1,0.0,0.0,0.0,0,0,16,19,84.2,1,5,0,1,1
+Antonio Valencia,25,ec ECU,RB,32-218,90,0,0,0,0,0,0,1,0,49,0,2,0,0.0,0.0,0.0,1,0,22,40,55.0,3,24,1,0,0
+David de Gea,1,es ESP,GK,27-123,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,1,11,32,34.4,0,14,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kai Havertz,29,de GER,FW,22-148,90,1,0,0,0,3,1,0,0,50,0,1,2,0.4,0.4,0.0,1,0,34,40,85.0,8,17,3,0,0
+Callum Hudson-Odoi,20,eng ENG,FW,20-364,84,0,0,0,0,3,2,0,0,35,1,0,1,0.3,0.3,0.8,10,0,23,26,88.5,3,16,4,1,1
+Christian Pulisic,10,us USA,FW,23-049,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,6,0,0,0
+Ross Barkley,18,eng ENG,AM,27-336,72,0,0,0,0,4,0,0,0,57,0,1,0,0.3,0.3,0.4,9,0,38,49,77.6,7,30,3,4,4
+Ruben Loftus-Cheek,12,eng ENG,AM,25-287,18,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,4,9,2,2,1
+Jorginho,5,it ITA,CM,29-321,90,0,0,0,0,2,1,0,0,87,1,0,4,0.1,0.1,0.0,2,0,72,78,92.3,10,36,2,1,0
+N'Golo Kanté,7,fr FRA,CM,30-222,84,0,0,0,0,0,0,0,0,58,1,0,3,0.0,0.0,0.0,2,1,43,50,86.0,8,27,3,3,3
+Mason Mount,19,eng ENG,CM,22-300,6,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,0,0,0,0,0
+Ben Chilwell,21,eng ENG,WB,24-320,90,0,0,0,0,3,0,0,0,77,0,0,0,0.1,0.1,0.0,5,0,57,63,90.5,6,35,4,1,0
+Reece James,24,eng ENG,WB,21-333,90,0,1,0,0,2,0,1,0,100,1,0,0,0.2,0.2,0.4,8,1,74,91,81.3,5,46,4,3,2
+Antonio Rüdiger,2,de GER,CB,28-248,90,0,0,0,0,3,0,0,0,93,0,1,0,0.1,0.1,0.0,4,0,71,87,81.6,10,44,3,0,0
+Thiago Silva,6,br BRA,CB,37-045,90,0,0,0,0,4,0,0,0,93,4,0,0,0.1,0.1,0.0,1,0,77,84,91.7,3,43,0,0,0
+Andreas Christensen,4,dk DEN,CB,25-210,90,0,0,0,0,1,0,0,0,90,0,1,0,0.3,0.3,0.1,0,0,69,85,81.2,7,28,0,0,0
+Edouard Mendy,16,sn SEN,GK,29-250,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,13,0,0,0

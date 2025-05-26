@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,33,br BRA,FW,20-362,90,1,0,0,0,1,1,0,0,55,1,1,1,0.5,0.5,0.0,2,0,39,44,88.6,5,32,0,6,1
+Raheem Sterling,7,eng ENG,FW,23-113,63,1,0,0,0,4,1,0,0,37,0,0,0,0.4,0.4,0.0,3,0,26,31,83.9,1,26,2,2,1
+Bernardo Silva,20,pt POR,FW,23-233,27,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,1,0,33,33,100.0,3,20,0,0,0
+David Silva,21,es ESP,CM,32-082,90,0,2,0,0,3,0,0,0,110,0,0,0,0.2,0.2,0.5,8,2,97,104,93.3,14,72,7,0,0
+Fernandinho,25,br BRA,CM,32-331,90,0,0,0,0,4,1,0,0,183,1,0,1,0.1,0.1,0.0,1,1,164,173,94.8,9,117,4,2,2
+Kevin De Bruyne,17,be BEL,CM,26-276,76,0,1,0,0,1,0,0,0,148,3,0,1,0.0,0.0,0.5,6,1,128,142,90.1,11,93,4,3,2
+İlkay Gündoğan,8,de GER,CM,27-158,14,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,33,35,94.3,2,26,1,1,1
+Leroy Sané,19,de GER,WB,22-079,90,1,0,0,0,2,1,0,0,63,1,0,1,0.1,0.1,0.2,6,1,42,50,84.0,1,44,2,2,2
+Kyle Walker,2,eng ENG,WB,27-307,90,0,0,0,0,1,0,0,0,66,0,0,0,0.1,0.1,0.1,2,0,54,63,85.7,3,32,6,1,0
+Aymeric Laporte,14,es ESP,CB,23-308,86,0,0,0,0,1,0,0,0,84,1,1,0,0.0,0.0,0.0,5,1,73,80,91.3,4,38,0,0,0
+Danilo,3,br BRA,WB,26-259,4,0,0,0,0,0,0,0,0,5,0,1,1,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0
+Vincent Kompany,4,be BEL,CB,31-355,90,0,0,0,0,0,0,0,0,104,0,0,0,0.0,0.0,0.0,0,0,92,97,94.8,2,60,0,0,0
+Nicolás Otamendi,30,ar ARG,CB,30-047,90,0,0,0,0,1,0,0,0,128,1,0,0,0.1,0.1,0.0,1,0,108,120,90.0,5,83,1,0,0
+Ederson,31,br BRA,GK,24-226,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,32,34,94.1,0,20,0,0,0

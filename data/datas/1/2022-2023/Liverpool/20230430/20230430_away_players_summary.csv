@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,"FW,AM",29-276,90,1,0,0,0,1,1,0,0,22,1,0,2,0.4,0.4,0.7,3,1,9,13,69.2,3,12,0,1,0
+Son Heung-min,7,kr KOR,"AM,FW",30-296,90,1,1,0,0,3,1,1,0,24,1,0,1,0.8,0.8,0.1,1,1,7,15,46.7,0,13,2,0,0
+Dejan Kulusevski,21,se SWE,AM,23-005,65,0,0,0,0,1,1,0,0,26,0,1,0,0.1,0.1,0.1,1,0,15,16,93.8,1,10,1,3,1
+Pape Matar Sarr,29,sn SEN,CM,20-228,25,0,0,0,0,0,0,0,0,13,0,1,0,0.0,0.0,0.0,0,0,11,11,100.0,0,5,0,0,0
+Pierre Højbjerg,5,dk DEN,CM,27-268,90,0,0,0,0,1,0,0,0,52,3,1,0,0.1,0.1,0.0,1,0,35,43,81.4,2,28,2,5,3
+Oliver Skipp,4,eng ENG,CM,22-226,83,0,0,0,0,0,0,0,0,41,5,0,2,0.0,0.0,0.0,0,0,24,29,82.8,0,18,0,1,1
+Richarlison,9,br BRA,FW,25-355,7,1,0,0,0,1,1,1,0,5,0,0,0,0.1,0.1,0.0,0,0,3,3,100.0,1,4,0,0,0
+Ivan Perišić,14,hr CRO,"WB,LB",34-087,89,0,1,0,0,0,0,0,0,54,4,2,1,0.0,0.0,0.4,5,3,28,39,71.8,1,19,2,3,2
+Arnaut Danjuma,16,nl NED,WB,26-089,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Pedro Porro,23,es ESP,"WB,RB",23-229,89,0,0,0,0,2,2,0,0,56,3,2,1,0.0,0.0,0.1,3,0,27,43,62.8,1,33,1,2,1
+Lucas Moura,27,br BRA,WB,30-260,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,2,0,1,1
+Ben Davies,33,wls WAL,CB,30-006,90,0,0,0,0,0,0,0,0,37,3,0,1,0.0,0.0,0.0,0,0,19,29,65.5,0,11,0,1,0
+Eric Dier,15,eng ENG,CB,29-105,90,0,0,0,0,0,0,0,0,61,2,1,2,0.0,0.0,0.0,0,0,36,51,70.6,2,31,0,0,0
+Cristian Romero,17,ar ARG,CB,25-003,90,0,1,0,0,1,0,0,0,55,2,0,0,0.5,0.5,0.5,2,1,37,46,80.4,2,29,0,0,0
+Fraser Forster,20,eng ENG,GK,35-044,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,19,35,54.3,0,20,0,0,0

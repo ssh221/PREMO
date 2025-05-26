@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Diogo Jota,20,pt POR,"FW,AM",25-000,81,0,0,0,0,4,0,0,0,43,0,0,1,1.1,1.1,0.0,2,0,26,34,76.5,4,21,2,0,0
+Alex Oxlade-Chamberlain,15,eng ENG,AM,28-111,9,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,3,4,75.0,1,2,0,0,0
+Sadio Mané,10,sn SEN,LW,29-238,90,0,0,0,0,1,1,0,0,47,2,0,1,0.3,0.3,0.0,4,0,25,37,67.6,7,33,3,3,2
+Mohamed Salah,11,eg EGY,RW,29-172,89,0,1,0,0,2,1,0,0,42,0,1,0,0.2,0.2,0.5,3,1,20,29,69.0,1,26,1,2,1
+James Milner,7,eng ENG,RW,35-334,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Thiago Alcántara,6,es ESP,"LM,DM",30-237,90,0,0,0,0,4,1,0,0,106,2,2,1,0.7,0.7,0.1,5,0,81,94,86.2,16,62,0,2,1
+Fabinho,3,br BRA,"CM,DM",28-042,90,0,0,0,0,0,0,1,0,79,2,3,1,0.0,0.0,0.0,1,0,62,70,88.6,6,43,1,0,0
+Jordan Henderson,14,eng ENG,RM,31-170,67,0,0,0,0,0,0,0,0,57,1,0,0,0.0,0.0,0.0,0,0,42,54,77.8,6,21,3,0,0
+Divock Origi,27,be BEL,FW,26-230,23,1,0,0,0,3,1,0,0,17,0,0,0,0.5,0.5,0.0,1,0,6,10,60.0,0,9,0,1,1
+Andrew Robertson,26,sct SCO,LB,27-268,90,0,0,0,0,0,0,1,0,89,3,0,1,0.0,0.0,0.0,3,0,64,85,75.3,11,39,2,0,0
+Virgil van Dijk,4,nl NED,CB,30-149,90,0,0,0,0,0,0,0,0,99,0,0,0,0.0,0.0,0.0,2,1,88,95,92.6,8,55,1,0,0
+Joël Matip,32,cm CMR,CB,30-118,90,0,0,0,0,1,0,0,0,95,3,1,0,0.0,0.0,0.0,2,0,79,86,91.9,11,57,6,4,3
+Trent Alexander-Arnold,66,eng ENG,RB,23-058,90,0,0,0,0,2,0,0,0,89,1,2,2,0.1,0.1,0.3,6,0,63,78,80.8,15,35,1,0,0
+Alisson,1,br BRA,GK,29-063,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,1,0,20,23,87.0,0,14,0,0,0

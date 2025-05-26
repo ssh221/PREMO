@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Raúl Jiménez,7,mx MEX,FW,32-240,90,1,0,0,0,5,2,1,0,37,0,1,0,0.5,0.5,0.1,7,0,22,27,81.5,1,29,0,3,2
+Willian,20,br BRA,LW,35-144,79,0,0,0,0,2,0,0,0,35,0,2,0,0.1,0.1,0.1,5,1,25,31,80.6,5,26,3,1,0
+Issa Diop,31,fr FRA,LW,26-356,11,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0
+Bobby De Cordova-Reid,14,jm JAM,RW,30-332,79,1,0,0,0,1,1,0,0,31,1,2,1,0.3,0.3,0.1,1,0,15,22,68.2,1,21,1,1,0
+Harry Wilson,8,wls WAL,RW,26-284,11,0,0,0,0,1,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,0,0,0,0
+Alex Iwobi,22,ng NGA,AM,27-242,71,0,0,0,0,2,0,0,0,41,0,1,1,0.1,0.1,0.1,2,0,29,36,80.6,6,31,2,1,0
+Andreas Pereira,18,br BRA,AM,27-364,19,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,0,0,6,13,46.2,0,7,1,0,0
+Tom Cairney,10,sct SCO,DM,32-345,89,0,1,0,0,1,1,1,0,62,1,2,1,0.1,0.1,0.2,1,1,48,53,90.6,4,40,4,1,1
+Harrison Reed,6,eng ENG,DM,28-338,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+João Palhinha,26,pt POR,DM,28-175,90,0,0,0,0,1,0,0,0,47,2,2,2,0.0,0.0,0.0,2,1,30,37,81.1,2,25,0,2,1
+Antonee Robinson,33,us USA,LB,26-145,90,0,0,0,0,0,0,0,0,51,6,3,2,0.0,0.0,0.2,3,0,24,33,72.7,4,25,3,3,1
+Calvin Bassey,3,ng NGA,CB,24-000,90,0,0,0,0,0,0,1,0,75,3,2,1,0.0,0.0,0.0,0,0,59,63,93.7,4,44,2,1,1
+Tosin Adarabioyo,4,eng ENG,CB,26-098,90,0,0,0,0,1,0,0,0,57,1,1,0,0.0,0.0,0.0,0,0,40,46,87.0,0,38,1,0,0
+Timothy Castagne,21,be BEL,RB,28-026,90,0,0,0,0,0,0,0,0,54,0,1,0,0.0,0.0,0.0,0,0,33,45,73.3,1,26,2,1,1
+Bernd Leno,17,de GER,GK,31-302,90,0,0,0,0,0,0,1,0,37,0,0,0,0.0,0.0,0.0,0,0,21,36,58.3,0,18,0,0,0

@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Che Adams,10,sct SCO,FW,26-299,75,0,0,0,0,5,0,0,0,25,0,0,0,0.7,0.7,0.0,2,1,9,16,56.3,2,17,2,0,0
+Paul Onuachu,12,ng NGA,FW,28-345,15,0,0,0,0,2,0,0,0,6,0,0,0,0.7,0.7,0.0,0,0,0,3,0.0,0,0,0,0,0
+Stuart Armstrong,17,sct SCO,LW,31-039,75,0,1,0,0,1,0,0,0,60,1,0,1,0.1,0.1,0.4,3,1,42,51,82.4,4,42,3,5,2
+Samuel Edozie,23,eng ENG,LW,20-100,15,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.1,2,0,5,8,62.5,1,9,3,2,2
+Theo Walcott,32,eng ENG,RW,34-053,60,0,0,0,0,1,0,0,0,25,0,0,1,0.0,0.0,0.1,1,0,15,20,75.0,3,17,1,2,2
+Kamaldeen Sulemana,20,gh GHA,RW,21-082,30,0,0,0,0,1,1,0,0,16,0,1,2,0.0,0.0,0.0,3,0,7,9,77.8,0,9,1,2,2
+Carlos Alcaraz,26,ar ARG,AM,20-159,75,1,0,0,0,2,1,0,0,25,0,0,1,0.5,0.5,0.0,1,0,13,17,76.5,2,17,0,1,0
+Adam Armstrong,9,eng ENG,AM,26-087,15,0,0,0,0,1,0,0,0,5,1,0,0,0.1,0.1,0.6,1,0,2,3,66.7,0,2,0,0,0
+Roméo Lavia,45,be BEL,DM,19-122,90,0,0,0,0,1,0,0,0,82,1,2,2,0.0,0.0,0.0,3,1,62,73,84.9,9,53,1,1,1
+James Ward-Prowse,8,eng ENG,DM,28-188,90,1,1,1,1,1,1,0,0,83,0,1,1,0.8,0.0,0.6,8,2,58,74,78.4,6,39,0,2,0
+Ainsley Maitland-Niles,3,eng ENG,LB,25-252,90,0,0,0,0,0,0,0,0,76,1,0,1,0.0,0.0,0.1,2,0,55,68,80.9,5,46,1,0,0
+Armel Bella Kotchap,37,de GER,CB,21-148,37,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,36,39,92.3,3,32,0,0,0
+Lyanco,4,br BRA,CB,26-096,53,1,0,0,0,3,1,0,0,46,0,1,1,0.3,0.3,0.3,1,0,33,39,84.6,5,29,0,0,0
+Jan Bednarek,35,pl POL,CB,27-026,90,0,0,0,0,0,0,0,0,86,1,4,1,0.0,0.0,0.0,0,0,66,76,86.8,12,61,3,0,0
+Kyle Walker-Peters,2,eng ENG,RB,26-025,90,0,0,0,0,0,0,0,0,68,0,0,1,0.0,0.0,0.1,6,0,51,60,85.0,3,42,7,3,2
+Alex McCarthy,1,eng ENG,GK,33-156,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,23,29,79.3,0,14,0,0,0

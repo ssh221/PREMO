@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,9,gh GHA,FW,28-106,90,1,1,0,0,3,2,0,0,47,1,1,1,1.2,1.2,0.9,7,3,28,31,90.3,4,27,4,10,8
+Wilfried Zaha,11,ci CIV,LW,27-046,90,0,0,0,0,1,0,0,0,76,1,0,1,0.1,0.1,0.1,6,0,44,58,75.9,6,62,18,20,12
+Max Meyer,7,de GER,RW,24-099,74,0,0,0,0,1,0,0,0,43,5,1,0,0.0,0.0,0.1,1,0,18,30,60.0,3,20,2,1,0
+Connor Wickham,21,eng ENG,CM,26-270,16,0,1,0,0,1,1,0,0,11,0,0,0,0.4,0.4,0.4,0,0,3,6,50.0,1,6,2,2,0
+James McArthur,18,sct SCO,CM,32-080,90,0,0,0,0,0,0,0,0,76,1,1,1,0.0,0.0,0.0,2,1,53,67,79.1,6,40,4,1,0
+Luka Milivojević,4,rs SRB,CM,28-263,90,0,0,0,0,2,0,0,0,90,0,1,1,0.1,0.1,0.1,1,0,66,83,79.5,12,33,1,0,0
+Cheikhou Kouyaté,8,sn SEN,CM,30-005,87,1,0,0,0,3,1,0,0,48,1,0,0,0.7,0.7,0.0,0,0,24,31,77.4,2,24,0,2,1
+James McCarthy,22,ie IRL,RW,29-044,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0
+Patrick van Aanholt,3,nl NED,LB,29-119,64,0,0,0,0,1,0,0,0,74,0,5,1,0.1,0.1,0.0,3,0,55,65,84.6,9,31,3,4,3
+Jaïro Riedewald,44,nl NED,LB,23-108,26,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,1,0,13,14,92.9,2,4,1,0,0
+Mamadou Sakho,12,fr FRA,CB,29-316,90,0,0,0,0,0,0,0,0,88,3,3,1,0.0,0.0,0.0,0,0,69,76,90.8,4,45,0,0,0
+James Tomkins,5,eng ENG,CB,30-272,90,0,0,0,0,1,0,0,0,67,2,1,0,0.1,0.1,0.0,1,0,56,57,98.2,0,31,0,0,0
+Martin Kelly,34,eng ENG,RB,29-243,90,0,0,0,0,0,0,0,0,72,2,0,3,0.0,0.0,0.0,0,0,41,59,69.5,3,22,0,0,0
+Vicente Guaita,31,es ESP,GK,32-350,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,17,19,89.5,0,7,0,0,0

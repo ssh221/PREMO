@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Son Heung-min,7,kr KOR,FW,26-237,78,0,0,0,0,1,0,0,0,29,0,0,2,0.0,0.0,0.0,1,0,20,22,90.9,3,21,1,2,1
+Fernando Llorente,18,es ESP,FW,34-004,12,0,0,0,0,0,0,1,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,0,0
+Harry Kane,10,eng ENG,FW,25-217,90,1,0,1,1,0,0,0,0,24,0,0,0,0.8,0.0,0.0,1,1,6,14,42.9,2,19,1,5,2
+Christian Eriksen,23,dk DEN,"AM,CM",27-016,90,0,0,0,0,3,1,0,0,56,1,0,0,0.5,0.5,0.0,4,1,33,46,71.7,3,39,1,2,1
+Moussa Sissoko,17,fr FRA,"CM,RM",29-198,90,0,0,0,0,1,1,0,0,62,1,1,3,0.1,0.1,0.0,4,0,35,43,81.4,6,42,5,10,3
+Victor Wanyama,12,ke KEN,CM,27-250,58,0,0,0,0,0,0,0,0,32,0,0,1,0.0,0.0,0.0,0,0,21,30,70.0,4,22,1,1,1
+Érik Lamela,11,ar ARG,"AM,LM",26-363,32,0,0,0,0,1,0,1,0,13,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,1,9,0,1,0
+Danny Rose,3,eng ENG,"WB,DM",28-243,90,0,0,0,0,0,0,1,0,52,3,0,2,0.0,0.0,0.0,2,0,22,34,64.7,4,29,7,6,3
+Kieran Trippier,2,eng ENG,"WB,RB",28-164,90,0,0,0,0,0,0,0,0,106,6,2,0,0.0,0.0,0.1,5,0,68,91,74.7,6,56,6,1,1
+Jan Vertonghen,5,be BEL,"CB,LB",31-312,90,0,0,0,0,2,0,0,0,80,3,1,1,0.1,0.1,0.0,0,0,57,70,81.4,4,52,0,0,0
+Davinson Sánchez,6,co COL,CB,22-263,90,0,0,0,0,0,0,0,0,69,0,3,1,0.0,0.0,0.0,0,0,54,61,88.5,2,49,0,0,0
+Toby Alderweireld,4,be BEL,CB,30-000,90,0,0,0,0,2,0,0,0,91,0,1,1,0.1,0.1,0.0,1,0,65,87,74.7,7,64,1,0,0
+Hugo Lloris,1,fr FRA,GK,32-066,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,34,46,73.9,0,36,0,0,0

@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Taiwo Awoniyi,9,ng NGA,FW,25-079,63,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,11,0,2,0
+Joe Worrall,4,eng ENG,CB,25-293,27,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.0,0,0,12,15,80.0,2,8,0,0,0
+Jesse Lingard,11,eng ENG,LW,29-319,55,0,0,0,0,2,0,0,0,15,1,0,0,0.3,0.3,0.0,0,0,5,8,62.5,0,4,0,1,0
+Emmanuel Dennis,25,ng NGA,"FW,LW",24-349,35,0,0,0,0,0,0,0,0,17,1,0,1,0.0,0.0,0.0,0,0,10,11,90.9,2,10,1,2,0
+Morgan Gibbs-White,10,eng ENG,RW,22-276,55,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.1,1,0,10,19,52.6,0,15,1,2,0
+Brennan Johnson,20,wls WAL,"FW,RW",21-160,35,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,1,0,0
+Cheikhou Kouyaté,21,sn SEN,"LM,CM",32-313,80,0,0,0,0,0,0,0,0,26,2,2,0,0.0,0.0,0.0,0,0,9,14,64.3,0,10,1,1,0
+Lewis O'Brien,14,eng ENG,CM,24-016,10,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0
+Remo Freuler,23,ch SUI,CM,30-198,90,0,0,0,0,1,1,0,0,39,2,1,2,0.0,0.0,0.0,0,0,22,31,71.0,3,14,0,0,0
+Ryan Yates,22,eng ENG,"RM,CM",24-343,90,0,0,0,0,0,0,0,0,37,2,0,3,0.0,0.0,0.0,0,0,20,26,76.9,2,8,0,0,0
+Renan Lodi,32,br BRA,LB,24-205,63,0,0,0,0,0,0,0,0,30,3,0,2,0.0,0.0,0.0,0,0,19,24,79.2,0,16,0,2,1
+Neco Williams,7,wls WAL,LB,21-200,27,0,0,0,0,1,1,0,0,19,0,1,1,0.0,0.0,0.0,1,0,8,14,57.1,1,8,3,1,1
+Scott McKenna,26,sct SCO,CB,25-352,90,0,0,0,0,0,0,0,0,50,2,0,1,0.0,0.0,0.0,1,0,33,39,84.6,1,21,0,1,1
+Steve Cook,3,eng ENG,CB,31-194,90,0,0,0,0,1,0,0,0,33,1,1,5,0.1,0.1,0.0,0,0,18,23,78.3,0,15,0,1,1
+Serge Aurier,24,ci CIV,RB,29-310,90,0,0,0,0,0,0,0,0,52,8,0,4,0.0,0.0,0.0,0,0,22,32,68.8,3,16,0,1,0
+Dean Henderson,1,eng ENG,GK,25-232,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,18,0,0,0

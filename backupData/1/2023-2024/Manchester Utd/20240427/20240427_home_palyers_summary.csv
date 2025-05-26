@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Rasmus Højlund,11,dk DEN,FW,21-083,64,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,11,1,0,0
+Amad Diallo,16,ci CIV,FW,21-291,26,0,0,0,0,3,1,0,0,12,1,0,0,0.2,0.2,0.1,5,0,5,7,71.4,2,10,2,1,1
+Alejandro Garnacho,17,ar ARG,LW,19-301,90,0,0,0,0,6,1,0,0,38,0,0,1,0.5,0.5,0.4,10,0,16,20,80.0,3,30,5,3,1
+Antony,21,br BRA,RW,24-063,90,1,0,0,0,8,6,1,0,59,4,3,1,1.5,1.5,0.0,6,1,34,38,89.5,4,35,5,4,1
+Bruno Fernandes,8,pt POR,AM,29-232,90,0,0,0,0,3,1,0,0,86,0,2,2,0.1,0.1,1.3,12,0,50,70,71.4,13,52,4,1,1
+Christian Eriksen,14,dk DEN,DM,32-073,80,0,0,0,0,1,0,0,0,58,2,1,1,0.1,0.1,0.1,6,0,38,47,80.9,7,28,0,0,0
+Sofyan Amrabat,4,ma MAR,DM,27-250,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,0,0,0,0
+Kobbie Mainoo,37,eng ENG,DM,19-008,64,0,0,0,0,1,0,0,0,35,1,1,0,0.0,0.0,0.0,4,0,27,29,93.1,2,28,0,4,2
+Scott McTominay,39,sct SCO,DM,27-141,25,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,10,11,90.9,3,10,1,0,0
+Mason Mount,7,eng ENG,DM,25-108,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.1,1,0,2,2,100.0,1,2,1,0,0
+Diogo Dalot,20,pt POR,LB,25-040,90,0,0,0,0,1,0,0,0,39,0,0,1,0.0,0.0,0.0,0,0,25,32,78.1,0,15,0,0,0
+Harry Maguire,5,eng ENG,CB,31-053,90,0,0,0,0,0,0,0,0,56,1,2,2,0.0,0.0,0.0,2,0,34,43,79.1,5,21,3,0,0
+Casemiro,18,br BRA,CB,32-064,90,0,0,0,0,3,1,0,0,74,3,0,4,0.1,0.1,0.0,1,0,43,61,70.5,2,40,1,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,26-153,90,0,0,0,0,0,0,0,0,47,1,1,1,0.0,0.0,0.0,2,0,27,34,79.4,4,26,0,0,0
+André Onana,24,cm CMR,GK,28-025,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,31,47,66.0,0,31,0,0,0

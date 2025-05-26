@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Taiwo Awoniyi,9,ng NGA,FW,25-145,70,1,0,0,0,2,1,0,0,20,1,0,1,0.7,0.7,0.0,1,0,6,9,66.7,0,12,0,1,0
+Sam Surridge,16,eng ENG,FW,24-160,20,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,5,10,50.0,0,8,1,0,0
+Brennan Johnson,20,wls WAL,FW,21-226,83,0,1,0,0,1,0,1,0,26,4,0,0,0.4,0.4,0.8,3,1,8,15,53.3,0,12,4,3,2
+Neco Williams,7,wls WAL,FW,21-266,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,1,3,0,0,0
+Morgan Gibbs-White,10,eng ENG,AM,22-342,70,0,0,0,0,2,0,0,0,35,1,0,2,0.1,0.1,0.0,3,0,12,23,52.2,1,20,2,1,0
+Gustavo Scarpa,31,br BRA,AM,28-364,20,0,0,0,0,1,0,0,0,10,0,0,1,0.1,0.1,0.0,0,0,5,7,71.4,2,7,1,0,0
+Orel Mangala,5,be BEL,LM,24-292,59,0,0,0,0,1,0,0,0,28,2,1,0,0.0,0.0,0.0,2,0,15,21,71.4,3,13,3,3,1
+Jack Colback,8,eng ENG,LM,33-072,31,0,0,0,0,0,0,0,0,14,3,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,2,0,0,0
+Remo Freuler,23,ch SUI,CM,30-264,90,0,0,0,0,0,0,1,0,39,2,0,0,0.0,0.0,0.0,0,0,21,28,75.0,2,14,0,0,0
+Ryan Yates,22,eng ENG,RM,25-044,90,0,0,0,0,2,0,0,0,34,1,0,0,0.1,0.1,0.5,3,0,17,26,65.4,0,14,0,0,0
+Renan Lodi,32,br BRA,LB,24-271,83,0,0,0,0,0,0,0,0,45,4,0,1,0.0,0.0,0.0,3,0,23,36,63.9,2,23,1,0,0
+Harry Toffolo,15,eng ENG,LB,27-138,7,0,0,0,0,0,0,0,0,3,0,0,2,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Willy Boly,30,ci CIV,CB,31-335,90,0,0,0,0,0,0,0,0,45,1,2,1,0.0,0.0,0.0,0,0,21,29,72.4,0,18,0,0,0
+Joe Worrall,4,eng ENG,CB,25-359,90,0,0,0,0,0,0,0,0,37,1,2,0,0.0,0.0,0.0,0,0,17,25,68.0,2,9,0,0,0
+Serge Aurier,24,ci CIV,RB,30-011,90,0,0,0,0,2,0,0,0,66,2,5,2,0.0,0.0,0.0,1,0,25,42,59.5,1,22,1,1,0
+Dean Henderson,1,eng ENG,GK,25-298,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,11,30,36.7,0,14,0,0,0

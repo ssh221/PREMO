@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-041,90,0,0,0,0,2,0,1,0,43,1,1,0,0.1,0.1,0.0,0,0,26,31,83.9,1,16,0,0,0
+Ryan Sessegnon,3,eng ENG,"LW,WB,LB",18-162,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,1,0,24,39,61.5,4,26,5,3,3
+Aboubakar Kamara,47,mr MTN,"RW,AM,RM",23-234,90,0,0,0,0,4,0,1,0,51,2,1,1,0.2,0.2,0.0,0,0,30,37,81.1,1,24,5,0,0
+André Schürrle,14,de GER,"AM,LM",27-355,90,0,0,0,0,2,1,0,0,45,1,0,2,0.1,0.1,0.0,0,0,26,32,81.3,2,19,2,2,1
+Jean Seri,24,ci CIV,"DM,CM",27-100,79,0,0,0,0,0,0,0,0,78,0,2,1,0.0,0.0,0.3,8,0,66,73,90.4,6,41,3,0,0
+Andre-Frank Zambo Anguissa,29,cm CMR,CM,22-345,11,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,1,0,16,17,94.1,2,10,0,0,0
+Kevin McDonald,6,sct SCO,"DM,CB",29-357,72,0,0,0,0,0,0,2,1,46,0,0,1,0.0,0.0,0.1,2,0,37,43,86.0,3,18,0,0,0
+Maxime Le Marchand,20,fr FRA,LB,29-016,59,0,0,0,0,1,0,0,0,56,1,1,0,0.1,0.1,0.0,2,0,33,49,67.3,5,28,3,0,0
+Tom Cairney,10,sct SCO,CM,27-280,31,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,27,29,93.1,4,19,0,0,0
+Tim Ream,13,us USA,CB,31-022,90,0,0,0,0,0,0,0,0,66,1,1,0,0.0,0.0,0.0,0,0,55,61,90.2,0,25,0,0,0
+Denis Odoi,4,gh GHA,CB,30-153,90,0,0,0,0,1,0,0,0,86,0,4,0,0.1,0.1,0.0,5,0,61,69,88.4,5,38,0,1,0
+Timothy Fosu-Mensah,21,nl NED,"RB,WB",20-298,90,0,0,0,0,1,0,0,0,85,3,3,1,0.0,0.0,0.1,2,0,57,75,76.0,8,43,4,1,1
+Sergio Rico,25,es ESP,GK,25-056,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,16,29,55.2,0,12,0,0,0

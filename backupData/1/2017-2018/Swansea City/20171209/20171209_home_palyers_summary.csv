@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Bony,2,ci CIV,FW,28-364,90,1,0,0,0,3,2,0,0,38,1,0,0,0.2,0.2,0.0,2,0,19,29,65.5,1,20,2,2,2
+Wayne Routledge,15,eng ENG,LW,32-336,55,0,0,0,0,0,0,0,0,24,0,1,1,0.0,0.0,0.2,1,0,10,17,58.8,1,12,0,0,0
+Jordan Ayew,18,gh GHA,LW,26-089,35,0,0,0,0,5,1,0,0,28,2,0,0,0.2,0.2,0.0,3,0,17,19,89.5,1,16,3,3,3
+Nathan Dyer,12,eng ENG,RW,30-010,64,0,0,0,0,1,0,0,0,48,4,1,0,0.0,0.0,0.0,1,0,27,40,67.5,2,30,5,2,1
+Luciano Narsingh,11,nl NED,RW,27-087,26,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.4,2,0,8,12,66.7,0,6,2,1,1
+Tom Carroll,14,eng ENG,LM,25-195,75,0,0,0,0,1,0,1,0,70,0,0,0,0.1,0.1,0.1,5,0,54,66,81.8,13,41,4,1,1
+Tammy Abraham,10,eng ENG,LM,20-068,15,0,0,0,0,3,0,0,0,6,0,0,0,0.7,0.7,0.0,4,1,0,1,0.0,0,6,2,2,2
+Roque Mesa,51,es ESP,CM,28-185,90,0,0,0,0,1,0,1,0,72,4,0,0,0.0,0.0,0.0,6,0,60,65,92.3,6,40,2,0,0
+Ki Sung-yueng,4,kr KOR,RM,28-319,90,0,0,0,0,0,0,0,0,47,2,3,0,0.0,0.0,0.5,7,0,34,41,82.9,2,24,0,0,0
+Martin Olsson,16,se SWE,LB,29-206,90,0,0,0,0,1,0,0,0,57,2,1,0,0.0,0.0,0.0,2,0,31,45,68.9,4,25,2,1,1
+Alfie Mawson,6,eng ENG,CB,23-324,90,0,0,0,0,2,0,0,0,50,2,0,1,0.2,0.2,0.0,1,0,31,43,72.1,2,19,0,2,2
+Mike van der Hoorn,5,nl NED,CB,25-055,90,0,0,0,0,0,0,0,0,54,0,3,2,0.0,0.0,0.0,0,0,31,40,77.5,1,19,0,0,0
+Kyle Naughton,26,eng ENG,RB,29-022,90,0,0,0,0,1,0,0,0,82,3,0,0,0.0,0.0,0.0,1,0,55,76,72.4,7,31,2,0,0
+Łukasz Fabiański,1,pl POL,GK,32-235,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,14,0,0,0

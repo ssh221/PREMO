@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Tammy Abraham,9,eng ENG,FW,22-063,82,1,1,0,0,5,2,0,0,39,1,1,2,0.6,0.6,0.1,4,1,13,18,72.2,0,17,1,2,0
+Michy Batshuayi,23,be BEL,FW,26-063,8,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,1,0,2,2,100.0,0,3,1,0,0
+Christian Pulisic,22,us USA,LW,21-077,85,0,0,0,0,5,1,0,0,52,1,0,0,0.5,0.5,0.1,7,0,30,34,88.2,2,42,4,9,6
+Callum Hudson-Odoi,20,eng ENG,"LW,RW",19-027,5,0,0,0,0,2,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,4,3,2,2
+Willian,10,br BRA,RW,31-117,89,0,0,0,0,4,3,0,0,76,1,0,0,0.3,0.3,0.1,9,2,50,67,74.6,7,52,5,4,4
+Jorginho,5,it ITA,CM,27-349,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Mason Mount,19,eng ENG,"AM,LW",20-328,90,1,0,0,0,5,2,1,0,56,1,0,0,0.2,0.2,0.0,3,0,35,42,83.3,4,35,4,3,2
+Mateo Kovačić,17,hr CRO,"DM,LM",25-212,90,0,0,0,0,0,0,1,0,117,1,0,0,0.0,0.0,0.1,7,0,98,107,91.6,16,78,2,4,1
+N'Golo Kanté,7,fr FRA,"DM,RM",28-250,90,0,0,0,0,2,0,0,0,126,0,3,2,0.0,0.0,0.3,9,0,101,116,87.1,11,70,2,1,0
+César Azpilicueta,28,es ESP,LB,30-098,90,0,0,0,0,1,0,0,0,88,2,0,4,0.0,0.0,0.2,3,0,60,77,77.9,8,41,0,1,1
+Kurt Zouma,15,fr FRA,CB,25-038,90,0,0,0,0,1,1,0,0,70,1,0,0,0.0,0.0,0.0,1,0,54,65,83.1,2,42,0,0,0
+Andreas Christensen,4,dk DEN,CB,23-238,90,0,0,0,0,0,0,0,0,76,2,2,1,0.0,0.0,0.0,0,0,65,68,95.6,2,49,0,0,0
+Reece James,24,eng ENG,RB,19-361,90,0,1,0,0,0,0,0,0,86,2,0,0,0.0,0.0,0.5,2,1,62,74,83.8,8,52,2,2,0
+Kepa Arrizabalaga,1,es ESP,GK,25-062,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,23,28,82.1,0,18,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,32-292,90,0,0,0,0,2,0,0,0,31,1,0,1,0.1,0.1,0.1,2,0,10,16,62.5,0,20,0,3,0
+Pablo Fornals,8,es ESP,"LW,DM",26-326,75,0,0,0,0,1,0,0,0,51,1,1,2,0.0,0.0,0.0,3,0,29,42,69.0,1,24,3,1,0
+Gianluca Scamacca,7,it ITA,DM,24-013,15,0,0,0,0,1,0,0,0,8,1,0,0,0.2,0.2,0.0,2,0,2,4,50.0,1,6,0,1,0
+Jarrod Bowen,20,eng ENG,RW,26-025,90,0,0,0,0,3,2,0,0,36,1,2,1,0.2,0.2,0.1,2,0,14,26,53.8,1,20,2,3,2
+Lucas Paquetá,11,br BRA,"LM,AM",25-140,90,0,0,0,0,1,0,0,0,60,0,0,1,0.0,0.0,0.1,4,0,40,50,80.0,7,34,1,4,2
+Declan Rice,41,eng ENG,"CM,DM",24-000,90,0,0,0,0,2,0,1,0,72,4,1,0,0.1,0.1,0.2,3,0,50,64,78.1,6,41,1,1,1
+Tomáš Souček,28,cz CZE,RM,27-321,59,0,0,0,0,1,0,0,0,21,0,2,2,0.1,0.1,0.0,1,0,8,14,57.1,1,6,0,1,0
+Saïd Benrahma,22,dz ALG,LW,27-157,31,0,0,0,0,2,1,0,0,29,1,1,0,0.1,0.1,0.1,3,0,18,21,85.7,3,19,2,2,2
+Aaron Cresswell,3,eng ENG,LB,33-030,90,0,0,0,0,1,0,0,0,75,1,1,2,0.0,0.0,0.0,4,0,51,66,77.3,11,36,1,0,0
+Angelo Ogbonna,21,it ITA,CB,34-236,90,0,0,0,0,0,0,0,0,35,0,3,0,0.0,0.0,0.0,1,0,19,26,73.1,0,16,0,0,0
+Nayef Aguerd,27,ma MAR,CB,26-290,90,0,0,0,0,0,0,1,0,43,1,0,4,0.0,0.0,0.0,0,0,31,34,91.2,2,22,0,0,0
+Vladimír Coufal,5,cz CZE,RB,30-145,90,0,0,0,0,2,0,0,0,53,0,0,1,0.1,0.1,0.2,5,0,28,44,63.6,11,22,4,0,0
+Łukasz Fabiański,1,pl POL,GK,37-271,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,8,0,0,0

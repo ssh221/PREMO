@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Armando Broja,19,al ALB,FW,22-022,64,1,0,0,0,2,1,0,0,22,1,0,0,0.4,0.4,0.0,1,0,10,13,76.9,1,17,2,3,2
+Raheem Sterling,7,eng ENG,FW,28-298,26,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,7,1,3,1
+Mykhailo Mudryk,10,ua UKR,LW,22-270,45,1,0,0,0,2,1,0,0,15,1,0,0,0.6,0.6,0.0,0,0,3,7,42.9,1,12,4,1,0
+Ian Maatsen,29,nl NED,LW,21-206,45,0,0,0,0,1,0,0,0,18,1,0,1,0.1,0.1,0.1,2,0,7,13,53.8,0,9,1,0,0
+Cole Palmer,20,eng ENG,RW,21-149,77,0,0,0,0,2,1,1,0,43,0,2,1,0.1,0.1,0.2,3,1,27,33,81.8,3,36,5,2,0
+Lesley Ugochukwu,16,fr FRA,DM,19-190,13,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,7,11,63.6,0,8,0,0,0
+Enzo Fernández,8,ar ARG,"LM,AM",22-258,89,0,0,0,0,2,1,0,0,76,3,1,3,0.4,0.4,0.0,2,0,51,58,87.9,6,50,3,1,1
+Alex Matos,52,eng ENG,AM,18-364,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Moisés Caicedo,25,ec ECU,"CM,DM",21-334,89,0,0,0,0,0,0,0,0,58,3,1,2,0.0,0.0,0.0,2,1,43,49,87.8,1,47,2,3,2
+Noni Madueke,11,eng ENG,DM,21-206,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Conor Gallagher,23,eng ENG,"RM,RW",23-238,90,0,0,0,0,1,0,0,0,58,6,1,2,0.1,0.1,0.1,3,0,39,46,84.8,7,38,5,2,1
+Levi Colwill,26,eng ENG,LB,20-218,90,0,1,0,0,0,0,0,0,56,3,1,2,0.0,0.0,0.5,1,1,35,44,79.5,4,31,3,0,0
+Thiago Silva,6,br BRA,CB,39-010,90,0,0,0,0,0,0,0,0,57,4,1,0,0.0,0.0,0.0,0,0,42,45,93.3,0,28,0,0,0
+Axel Disasi,2,fr FRA,CB,25-205,90,0,0,0,0,1,0,0,0,70,0,0,0,0.1,0.1,0.0,0,0,56,65,86.2,1,52,0,1,1
+Marc Cucurella,3,es ESP,RB,25-072,90,0,0,0,0,0,0,1,0,70,2,1,1,0.0,0.0,0.0,0,0,52,58,89.7,2,43,0,0,0
+Robert Sánchez,1,es ESP,GK,25-318,90,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,0,0,38,45,84.4,0,31,0,0,0

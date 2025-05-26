@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+William Osula,32,dk DEN,FW,20-008,90,0,0,0,0,2,0,1,0,22,0,0,1,0.2,0.2,0.0,0,0,6,9,66.7,0,13,1,2,0
+Ben Osborn,23,eng ENG,LW,29-007,86,0,0,0,0,1,0,0,0,41,2,0,6,0.1,0.1,0.0,0,0,11,22,50.0,3,11,0,1,0
+Andre Brooks,35,eng ENG,LW,19-357,4,0,0,0,0,0,0,0,0,12,0,0,1,0.0,0.0,0.0,0,0,8,9,88.9,0,6,0,0,0
+Bénie Traoré,11,ci CIV,RW,20-255,86,0,0,0,0,0,0,0,0,20,2,0,1,0.0,0.0,0.3,2,0,10,12,83.3,3,14,2,5,0
+Antwoine Hackford,39,eng ENG,RW,19-145,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Max Lowe,3,eng ENG,LM,26-093,79,0,0,0,0,0,0,0,0,33,8,1,1,0.0,0.0,0.0,1,0,12,18,66.7,3,9,0,0,0
+Yasser Larouci,27,dz ALG,"LB,LM",22-223,11,0,0,0,0,0,0,0,0,10,1,2,0,0.0,0.0,0.0,0,0,5,5,100.0,0,2,0,0,0
+Oliver Norwood,16,nir NIR,"CM,LM",32-122,90,0,0,0,0,2,1,0,0,57,1,1,3,0.0,0.0,0.1,4,0,35,49,71.4,4,26,0,0,0
+Chris Basham,6,eng ENG,CM,35-023,79,0,0,0,0,0,0,0,0,32,1,2,3,0.0,0.0,0.0,0,0,18,21,85.7,1,12,0,1,0
+Vinicius Souza,21,br BRA,"RM,CM",24-056,11,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,1,0,3,5,60.0,1,4,0,0,0
+George Baldock,2,gr GRE,"RM,RB",30-156,90,0,0,0,0,0,0,0,0,52,2,0,2,0.0,0.0,0.0,2,0,27,43,62.8,3,24,1,1,1
+Jack Robinson,19,eng ENG,CB,29-345,79,0,0,0,0,0,0,0,0,33,0,1,3,0.0,0.0,0.0,0,0,11,21,52.4,0,9,0,0,0
+Anis Ben Slimane,25,tn TUN,"CM,CB",22-149,11,0,0,0,0,0,0,1,0,6,0,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,0,1,0
+John Egan,12,ie IRL,CB,30-296,90,0,0,0,0,1,0,0,0,38,1,2,1,0.0,0.0,0.0,0,0,8,23,34.8,1,10,0,0,0
+Anel Ahmedhodžić,15,ba BIH,CB,24-139,90,0,0,0,0,2,0,1,0,42,2,1,1,0.1,0.1,0.0,1,0,17,27,63.0,1,18,1,1,1
+Wes Foderingham,18,eng ENG,GK,32-210,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,10,31,32.3,0,15,0,0,0

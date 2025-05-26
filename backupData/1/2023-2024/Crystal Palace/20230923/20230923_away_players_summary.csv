@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Raúl Jiménez,7,mx MEX,FW,32-141,78,0,0,0,0,2,1,0,0,26,0,0,1,0.1,0.1,0.0,1,0,15,20,75.0,0,13,0,0,0
+Carlos Vinícius,30,br BRA,FW,28-182,12,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,1,0,0,0
+Willian,20,br BRA,LW,35-045,90,0,0,0,0,2,2,0,0,50,0,0,1,0.1,0.1,0.0,4,0,37,42,88.1,5,35,2,4,2
+Bobby De Cordova-Reid,14,jm JAM,RW,30-233,78,0,0,0,0,0,0,0,0,35,3,0,2,0.0,0.0,0.0,0,0,22,27,81.5,5,16,4,2,1
+Harry Wilson,8,wls WAL,RW,26-185,12,0,0,0,0,1,0,0,0,17,2,1,0,0.0,0.0,0.0,0,0,8,12,66.7,1,8,1,2,1
+Andreas Pereira,18,br BRA,LM,27-265,74,0,0,0,0,2,1,0,0,34,3,0,0,0.2,0.2,0.1,2,0,17,23,73.9,2,13,2,0,0
+Alex Iwobi,22,ng NGA,LM,27-143,16,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,3,8,1,0,0
+João Palhinha,26,pt POR,CM,28-076,90,0,0,0,0,1,0,1,0,44,5,2,2,0.1,0.1,0.0,0,0,24,31,77.4,2,19,0,1,1
+Harrison Reed,6,eng ENG,RM,28-239,90,0,0,0,0,1,0,0,0,56,4,1,1,0.0,0.0,0.1,4,0,32,41,78.0,4,21,0,0,0
+Antonee Robinson,33,us USA,LB,26-046,90,0,0,0,0,0,0,0,0,77,2,4,0,0.0,0.0,0.1,2,0,40,58,69.0,6,41,3,2,1
+Tim Ream,13,us USA,CB,35-353,90,0,0,0,0,0,0,1,0,71,3,0,0,0.0,0.0,0.0,0,0,51,59,86.4,8,39,4,0,0
+Issa Diop,31,fr FRA,CB,26-257,90,0,0,0,0,0,0,0,0,88,2,1,0,0.0,0.0,0.0,1,0,67,79,84.8,9,59,3,0,0
+Timothy Castagne,21,be BEL,RB,27-292,90,0,0,0,0,1,1,0,0,65,3,0,2,0.0,0.0,0.0,3,0,39,54,72.2,4,22,4,2,1
+Bernd Leno,17,de GER,GK,31-203,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,42,44,95.5,0,32,0,0,0

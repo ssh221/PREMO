@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marko Arnautović,7,at AUT,FW,29-128,58,1,0,0,0,5,2,0,0,30,1,0,0,0.3,0.3,0.0,2,1,14,17,82.4,1,15,1,0,0
+Javier Hernández,17,mx MEX,FW,30-085,32,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,8,11,72.7,0,9,0,0,0
+Felipe Anderson,8,br BRA,"FW,LM",25-132,90,0,1,0,0,2,1,0,0,63,2,4,1,0.1,0.1,0.2,7,1,32,51,62.7,5,37,5,3,1
+Michail Antonio,30,jm JAM,LM,28-150,62,0,0,0,0,2,1,0,0,20,0,0,1,0.1,0.1,0.5,2,0,9,13,69.2,4,11,2,2,2
+Lucas Pérez,27,es ESP,"LM,FW",29-349,28,0,0,0,0,0,0,0,0,15,2,0,0,0.0,0.0,0.0,2,0,7,13,53.8,1,7,1,0,0
+Jack Wilshere,19,eng ENG,CM,26-236,90,0,0,0,0,0,0,1,0,43,2,2,0,0.0,0.0,0.0,0,0,33,37,89.2,1,22,1,5,5
+Carlos Sánchez,15,co COL,CM,32-200,90,0,0,0,0,1,0,0,0,46,2,0,1,0.0,0.0,0.0,3,0,34,39,87.2,4,16,0,3,1
+Robert Snodgrass,11,sct SCO,RM,30-352,74,0,0,0,0,2,1,0,0,42,0,1,2,0.5,0.5,0.1,2,0,27,36,75.0,4,25,2,1,1
+Andriy Yarmolenko,20,ua UKR,RM,28-306,16,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,4,0,0,0
+Arthur Masuaku,26,cd COD,LB,24-291,90,0,0,0,0,0,0,0,0,62,3,5,2,0.0,0.0,0.0,3,0,37,49,75.5,5,31,5,4,4
+Issa Diop,23,fr FRA,CB,21-228,90,0,0,0,0,0,0,1,0,34,1,1,2,0.0,0.0,0.0,0,0,12,17,70.6,0,7,0,0,0
+Fabián Balbuena,4,py PAR,CB,27-002,90,0,0,0,0,0,0,0,0,33,0,2,1,0.0,0.0,0.0,0,0,16,22,72.7,1,12,0,0,0
+Ryan Fredericks,24,eng ENG,RB,25-319,90,0,0,0,0,0,0,1,0,52,1,2,2,0.0,0.0,0.1,3,0,32,42,76.2,2,22,4,6,3
+Łukasz Fabiański,1,pl POL,GK,33-129,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,0,15,29,51.7,0,12,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,9,fr FRA,FW,24-204,78,0,1,0,0,1,0,0,0,22,1,1,0,0.1,0.1,0.4,2,1,9,14,64.3,1,11,2,3,1
+Danny Welbeck,18,eng ENG,FW,30-100,12,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Adam Lallana,14,eng ENG,"FW,CM",32-300,90,1,0,0,0,4,2,0,0,57,5,1,1,0.6,0.6,0.0,0,0,33,45,73.3,7,16,1,1,0
+Leandro Trossard,11,be BEL,"LM,RM,FW",26-092,90,0,0,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,2,0,24,27,88.9,4,23,2,5,1
+Alexis Mac Allister,10,ar ARG,CM,22-072,67,0,0,0,0,0,0,0,0,43,5,0,1,0.0,0.0,0.0,1,0,23,30,76.7,5,18,0,1,0
+Steven Alzate,17,co COL,LM,22-179,23,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,7,7,100.0,1,5,0,1,0
+Yves Bissouma,8,ml MLI,CM,24-188,89,0,0,0,0,0,0,0,0,33,2,1,2,0.0,0.0,0.0,0,0,15,22,68.2,1,15,0,1,1
+Alireza Jahanbakhsh,16,ir IRN,CM,27-207,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Pascal Groß,13,de GER,"RM,FW",29-264,90,0,0,0,0,0,0,0,0,54,1,0,1,0.0,0.0,0.3,5,0,32,47,68.1,5,31,6,3,1
+Dan Burn,33,eng ENG,LB,28-301,90,0,0,0,0,0,0,0,0,80,7,2,3,0.0,0.0,0.0,1,1,42,60,70.0,9,24,0,2,1
+Lewis Dunk,5,eng ENG,CB,29-105,90,0,0,0,0,1,0,0,0,41,1,2,0,0.1,0.1,0.0,0,0,26,33,78.8,1,14,0,0,0
+Ben White,3,eng ENG,CB,23-149,90,0,0,0,0,0,0,0,0,34,2,0,0,0.0,0.0,0.0,0,0,21,27,77.8,4,18,0,3,2
+Joël Veltman,34,nl NED,RB,29-050,90,0,0,0,0,1,0,0,0,54,4,0,2,0.1,0.1,0.0,0,0,23,43,53.5,4,15,0,1,0
+Robert Sánchez,26,es ESP,GK,23-108,90,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,25,35,71.4,0,23,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,"FW,LM",25-310,90,0,0,0,0,2,0,0,0,34,0,0,1,0.1,0.1,0.1,4,0,16,27,59.3,3,23,4,1,1
+Anwar El Ghazi,21,nl NED,LW,26-186,78,0,0,0,0,3,1,1,0,36,0,0,0,0.2,0.2,0.1,2,0,15,25,60.0,0,22,3,1,0
+Keinan Davis,39,eng ENG,FW,23-265,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,3,3,100.0,0,7,0,0,0
+Leon Bailey,31,jm JAM,"RW,RM",24-088,90,0,0,0,0,2,1,0,0,42,3,0,0,0.1,0.1,0.0,2,0,15,28,53.6,4,25,2,5,2
+Emi Buendía,10,ar ARG,AM,24-315,70,0,0,0,0,3,1,0,0,37,5,0,0,0.2,0.2,0.2,7,0,17,27,63.0,6,21,2,2,1
+Cameron Archer,35,eng ENG,"FW,AM",20-107,20,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,6,0,0,0
+Marvelous Nakamba,19,zw ZIM,DM,27-290,62,0,0,0,0,0,0,0,0,36,2,1,2,0.0,0.0,0.0,2,0,21,29,72.4,2,18,1,1,1
+Jacob Ramsey,41,eng ENG,"CM,DM",20-161,28,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,2,0,11,17,64.7,4,17,1,0,0
+John McGinn,7,sct SCO,"DM,CM",27-018,90,0,0,0,0,2,0,0,0,36,2,2,0,0.0,0.0,0.1,2,0,20,27,74.1,4,16,0,1,1
+Matt Targett,3,eng ENG,LB,26-048,90,0,0,0,0,0,0,0,0,71,1,1,1,0.0,0.0,0.1,2,0,47,63,74.6,10,36,4,1,1
+Tyrone Mings,5,eng ENG,CB,28-237,90,0,0,0,0,1,0,0,0,47,1,1,0,0.1,0.1,0.0,0,0,21,32,65.6,0,20,0,0,0
+Axel Tuanzebe,16,cd COD,CB,23-356,90,0,0,0,0,0,0,1,0,35,2,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,20,0,0,0
+Matty Cash,2,pl POL,RB,24-090,90,0,0,0,0,0,0,0,0,64,5,5,1,0.0,0.0,0.0,2,0,31,46,67.4,2,26,0,2,2
+Emiliano Martínez,1,ar ARG,GK,29-064,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,1,0,17,20,85.0,0,10,0,0,0

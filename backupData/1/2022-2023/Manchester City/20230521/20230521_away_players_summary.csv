@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Raheem Sterling,17,eng ENG,FW,28-164,68,0,0,0,0,2,2,0,0,29,0,0,2,0.3,0.3,0.1,4,0,12,18,66.7,2,21,6,3,2
+Noni Madueke,31,eng ENG,FW,21-072,22,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,2,0,5,7,71.4,1,8,3,1,0
+Kai Havertz,29,de GER,FW,23-344,84,0,0,0,0,3,1,1,0,33,1,0,0,0.2,0.2,0.3,3,0,24,27,88.9,2,26,1,1,1
+Christian Pulisic,10,us USA,FW,24-245,6,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0
+Conor Gallagher,23,eng ENG,AM,23-104,68,0,0,0,0,2,0,0,0,22,3,0,2,0.3,0.3,0.0,0,0,12,13,92.3,2,14,0,1,1
+Mykhailo Mudryk,15,ua UKR,AM,22-136,22,0,0,0,0,2,0,0,0,7,0,0,0,0.1,0.1,0.1,1,0,3,4,75.0,0,6,1,0,0
+Ruben Loftus-Cheek,12,eng ENG,CM,27-118,80,0,0,0,0,0,0,0,0,30,1,1,0,0.0,0.0,0.0,1,0,23,25,92.0,6,20,5,4,2
+Carney Chukwuemeka,30,eng ENG,CM,19-213,10,0,0,0,0,0,0,0,0,5,0,1,1,0.0,0.0,0.1,2,0,4,4,100.0,1,3,2,0,0
+Enzo Fernández,5,ar ARG,CM,22-124,90,0,0,0,0,0,0,1,0,55,1,0,4,0.0,0.0,0.1,6,0,40,47,85.1,10,38,1,5,2
+Lewis Hall,67,eng ENG,WB,18-255,80,0,0,0,0,2,2,0,0,43,5,0,0,0.1,0.1,0.3,2,0,25,30,83.3,1,27,2,2,0
+Kalidou Koulibaly,26,sn SEN,"CB,WB",31-335,10,0,0,0,0,0,0,0,0,10,2,0,1,0.0,0.0,0.0,0,0,5,6,83.3,0,6,0,0,0
+César Azpilicueta,28,es ESP,WB,33-266,90,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,2,0,29,35,82.9,3,25,0,2,1
+Trevoh Chalobah,14,eng ENG,"CB,WB",23-320,90,0,0,0,0,2,1,0,0,51,0,0,1,0.2,0.2,0.0,0,0,39,43,90.7,0,35,0,1,1
+Thiago Silva,6,br BRA,CB,38-241,90,0,0,0,0,0,0,0,0,57,1,3,2,0.0,0.0,0.0,0,0,46,48,95.8,2,38,0,0,0
+Wesley Fofana,33,fr FRA,CB,22-155,90,0,0,0,0,0,0,0,0,57,0,1,2,0.0,0.0,0.0,1,0,43,51,84.3,1,41,0,0,0
+Kepa Arrizabalaga,1,es ESP,GK,28-230,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,32,42,76.2,0,31,0,0,0

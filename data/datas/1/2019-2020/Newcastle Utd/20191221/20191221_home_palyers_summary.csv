@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joelinton,9,br BRA,FW,23-129,76,0,0,0,0,1,0,0,0,39,1,1,2,0.1,0.1,0.0,1,0,22,25,88.0,2,30,2,3,0
+Dwight Gayle,12,eng ENG,FW,29-065,14,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Andy Carroll,7,eng ENG,FW,30-349,90,0,0,0,0,2,0,0,0,39,0,1,1,0.1,0.1,0.0,2,0,14,24,58.3,1,23,0,2,0
+Miguel Almirón,24,py PAR,"CM,DM",25-314,90,1,0,0,0,2,2,1,0,52,4,2,1,0.3,0.3,0.0,2,0,34,38,89.5,8,41,4,5,2
+Jonjo Shelvey,8,eng ENG,"CM,DM",27-297,90,0,0,0,0,2,0,0,0,48,1,2,0,0.1,0.1,0.0,2,0,28,39,71.8,5,27,0,2,2
+Isaac Hayden,14,eng ENG,CM,24-274,63,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,0,0,12,23,52.2,0,14,4,1,1
+Sean Longstaff,36,eng ENG,"DM,CM",22-052,27,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,2,1,0,0
+Paul Dummett,3,wls WAL,WB,28-086,89,0,0,0,0,0,0,0,0,62,2,0,2,0.0,0.0,0.2,3,0,36,52,69.2,9,37,2,1,1
+DeAndre Yedlin,22,us USA,WB,26-165,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Javier Manquillo,19,es ESP,WB,25-230,90,0,0,0,0,0,0,0,0,38,6,1,1,0.0,0.0,0.0,2,1,20,28,71.4,1,20,2,1,0
+Florian Lejeune,20,fr FRA,CB,28-215,90,0,0,0,0,1,1,0,0,72,4,2,3,0.0,0.0,0.0,0,0,43,59,72.9,4,37,0,3,2
+Federico Fernández,18,ar ARG,CB,30-303,90,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.0,0,0,37,43,86.0,0,37,0,0,0
+Fabian Schär,5,ch SUI,CB,28-001,90,0,0,0,0,0,0,1,0,63,4,3,0,0.0,0.0,0.0,3,1,38,54,70.4,5,46,1,1,0
+Martin Dúbravka,1,sk SVK,GK,30-340,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,16,20,80.0,0,5,0,0,0

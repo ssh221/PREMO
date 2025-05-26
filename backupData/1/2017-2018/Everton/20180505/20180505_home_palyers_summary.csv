@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cenk Tosun,14,tr TUR,FW,26-332,90,0,0,0,0,1,0,0,0,25,1,0,0,0.0,0.0,0.0,0,0,12,14,85.7,0,17,0,1,1
+Nikola Vlašić,27,hr CRO,AM,20-213,57,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.1,1,0,8,9,88.9,0,12,1,0,0
+Oumar Niasse,19,sn SEN,FW,28-017,33,0,0,0,0,2,0,0,0,16,0,0,0,0.1,0.1,0.0,4,0,5,12,41.7,1,9,0,1,0
+Yannick Bolasie,7,cd COD,RW,28-346,45,0,0,0,0,1,1,0,0,18,0,0,0,0.1,0.1,0.0,0,0,7,10,70.0,3,11,0,1,0
+Ramiro Funes Mori,25,ar ARG,"CB,RW",27-061,45,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,2,23,2,0,0
+Tom Davies,26,eng ENG,"AM,CM,RM",19-309,90,1,0,0,0,2,1,1,0,53,1,1,0,0.1,0.1,0.0,0,0,34,46,73.9,5,31,1,2,1
+Morgan Schneiderlin,2,fr FRA,"CM,DM",28-178,90,0,0,0,0,0,0,1,0,59,3,2,1,0.0,0.0,0.0,2,0,45,50,90.0,5,36,0,1,0
+Idrissa Gana Gueye,17,sn SEN,"CM,LM",28-221,90,0,1,0,0,0,0,0,0,67,2,2,3,0.0,0.0,0.1,4,1,45,54,83.3,6,37,2,0,0
+Leighton Baines,3,eng ENG,"WB,LB",33-145,90,0,0,0,0,1,1,0,0,58,0,0,1,0.1,0.1,0.1,2,0,36,56,64.3,7,32,3,0,0
+Michael Keane,4,eng ENG,CB,25-114,90,0,0,0,0,2,0,0,0,51,1,0,1,0.1,0.1,0.0,0,0,35,41,85.4,2,26,1,0,0
+Phil Jagielka,6,eng ENG,CB,35-261,79,0,0,0,0,0,0,0,0,58,1,4,0,0.0,0.0,0.0,0,0,39,47,83.0,3,27,0,1,1
+Davy Klaassen,20,nl NED,AM,25-073,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,4,0,0,0
+Séamus Coleman,23,ie IRL,"WB,RB",29-206,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.1,4,0,39,55,70.9,3,36,8,5,5
+Jordan Pickford,1,eng ENG,GK,24-059,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,25,42,59.5,0,21,0,0,0

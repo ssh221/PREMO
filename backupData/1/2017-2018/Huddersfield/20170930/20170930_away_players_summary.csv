@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,24-064,86,2,0,0,0,5,3,0,0,32,2,0,0,0.5,0.5,0.0,3,2,13,16,81.3,1,22,3,2,1
+Son Heung-min,7,kr KOR,FW,25-084,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,1,1,1,100.0,1,1,1,0,0
+Dele Alli,20,eng ENG,AM,21-172,90,0,0,0,0,2,0,1,0,48,1,2,2,0.1,0.1,0.2,4,1,24,33,72.7,4,30,1,7,4
+Christian Eriksen,23,dk DEN,AM,25-228,74,0,0,0,0,1,1,0,0,57,0,1,1,0.1,0.1,0.0,2,0,35,49,71.4,3,28,3,3,1
+Moussa Sissoko,17,fr FRA,AM,28-045,16,1,0,0,0,2,2,0,0,8,0,0,0,0.3,0.3,0.0,1,0,4,6,66.7,0,4,0,2,2
+Harry Winks,29,eng ENG,CM,21-240,90,0,0,0,0,0,0,0,0,77,0,1,2,0.0,0.0,0.0,1,0,58,66,87.9,9,47,2,3,1
+Eric Dier,15,eng ENG,CM,23-258,90,0,0,0,0,1,0,0,0,57,2,2,1,0.0,0.0,0.0,0,0,34,45,75.6,3,21,0,1,1
+Ben Davies,33,wls WAL,WB,24-159,90,1,1,0,0,2,1,0,0,74,1,0,0,0.4,0.4,0.2,4,1,48,66,72.7,7,26,0,0,0
+Kieran Trippier,2,eng ENG,WB,27-011,81,0,2,0,0,0,0,0,0,82,1,0,3,0.0,0.0,0.5,3,2,55,73,75.3,6,27,1,0,0
+Kyle Walker-Peters,37,eng ENG,WB,20-170,9,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,4,0,0,0
+Jan Vertonghen,5,be BEL,CB,30-159,90,0,0,0,0,1,0,0,0,69,3,1,2,0.0,0.0,0.0,1,0,47,60,78.3,2,37,1,2,1
+Davinson Sánchez,6,co COL,CB,21-110,90,0,0,0,0,0,0,0,0,86,2,0,1,0.0,0.0,0.0,1,0,72,76,94.7,1,46,0,0,0
+Toby Alderweireld,4,be BEL,CB,28-212,90,0,0,0,0,0,0,0,0,91,3,0,1,0.0,0.0,0.0,2,0,63,81,77.8,7,58,2,1,1
+Hugo Lloris,1,fr FRA,GK,30-278,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,29,33,87.9,0,12,0,0,0

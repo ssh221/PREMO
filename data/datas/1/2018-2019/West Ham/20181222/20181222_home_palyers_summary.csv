@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Javier Hernández,17,mx MEX,FW,30-204,74,0,0,0,0,3,2,0,0,24,0,1,1,0.6,0.6,0.0,1,0,9,16,56.3,0,15,0,2,1
+Grady Diangana,45,cd COD,FW,20-247,16,0,0,0,0,0,0,0,0,15,1,0,1,0.0,0.0,0.0,1,0,5,8,62.5,0,6,1,1,0
+Michail Antonio,30,jm JAM,"FW,RM",28-269,90,0,0,0,0,4,1,1,0,59,2,1,4,0.8,0.8,0.2,3,0,21,37,56.8,5,26,2,2,0
+Felipe Anderson,8,br BRA,LM,25-251,90,0,0,0,0,2,0,0,0,66,2,1,3,0.1,0.1,0.7,5,0,37,50,74.0,4,29,1,6,1
+Declan Rice,41,eng ENG,CM,19-342,90,0,0,0,0,1,1,0,0,60,1,1,1,0.1,0.1,0.0,1,0,40,51,78.4,2,31,0,0,0
+Mark Noble,16,eng ENG,CM,31-228,55,0,0,0,0,1,0,0,0,39,0,0,1,0.0,0.0,0.0,2,0,28,34,82.4,7,20,1,1,1
+Andy Carroll,9,eng ENG,FW,29-350,35,0,0,0,0,3,1,0,0,19,1,0,1,0.4,0.4,0.0,2,0,8,9,88.9,1,5,0,0,0
+Robert Snodgrass,11,sct SCO,"RM,CM",31-106,90,0,0,0,0,3,1,0,0,59,1,0,1,0.2,0.2,0.3,10,0,34,46,73.9,6,34,8,2,2
+Arthur Masuaku,26,cd COD,LB,25-045,90,0,0,0,0,1,1,0,0,80,2,6,4,0.0,0.0,0.0,1,0,43,59,72.9,4,26,3,4,4
+Issa Diop,23,fr FRA,CB,21-347,90,0,0,0,0,0,0,1,0,50,3,2,1,0.0,0.0,0.0,0,0,30,35,85.7,4,13,0,0,0
+Fabián Balbuena,4,py PAR,CB,27-121,33,0,0,0,0,0,0,1,0,17,1,1,2,0.0,0.0,0.0,0,0,6,11,54.5,0,5,0,0,0
+Angelo Ogbonna,21,it ITA,CB,30-213,57,0,0,0,0,0,0,0,0,31,2,0,0,0.0,0.0,0.0,1,0,17,25,68.0,0,7,0,0,0
+Pablo Zabaleta,5,ar ARG,RB,33-340,90,0,0,0,0,0,0,0,0,67,3,0,1,0.0,0.0,0.0,1,0,38,54,70.4,7,29,2,2,2
+Łukasz Fabiański,1,pl POL,GK,33-248,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,10,17,58.8,0,8,0,0,0

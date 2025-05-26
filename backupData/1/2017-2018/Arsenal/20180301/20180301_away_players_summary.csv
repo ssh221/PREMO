@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sergio Agüero,10,ar ARG,FW,29-272,81,0,1,0,0,4,2,0,0,43,1,0,0,0.7,0.7,0.3,1,1,28,35,80.0,2,31,6,6,5
+Yaya Touré,42,ci CIV,"CM,FW",34-292,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,0,7,0,0,0
+Leroy Sané,19,de GER,"LW,LM",22-049,90,1,1,0,0,1,1,0,0,48,0,0,0,0.4,0.4,0.0,3,3,34,36,94.4,3,40,2,9,6
+Bernardo Silva,20,pt POR,"RW,RM",23-203,90,1,0,0,0,1,1,0,0,54,3,3,3,0.0,0.0,0.0,2,0,29,39,74.4,2,36,3,2,2
+David Silva,21,es ESP,LM,32-052,86,1,0,0,0,1,1,0,0,65,0,0,2,0.3,0.3,0.0,1,0,46,58,79.3,4,46,2,1,1
+Gabriel Jesus,33,br BRA,FW,20-332,4,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,0,0,0
+İlkay Gündoğan,8,de GER,CM,27-128,90,0,0,0,0,0,0,0,0,82,0,3,1,0.0,0.0,0.1,1,0,67,73,91.8,4,47,0,3,2
+Kevin De Bruyne,17,be BEL,"RM,FW",26-246,90,0,0,0,0,1,0,0,0,82,1,5,3,0.0,0.0,0.6,4,1,53,68,77.9,6,51,3,4,2
+Danilo,3,br BRA,"LB,RB",26-229,90,0,0,0,0,0,0,0,0,78,1,0,1,0.0,0.0,0.0,0,0,62,69,89.9,4,38,3,1,1
+Nicolás Otamendi,30,ar ARG,CB,30-017,90,0,0,0,0,0,0,1,0,93,2,1,2,0.0,0.0,0.0,0,0,67,78,85.9,1,48,0,1,1
+Vincent Kompany,4,be BEL,CB,31-325,90,0,0,0,0,0,0,0,0,105,1,2,0,0.0,0.0,0.0,0,0,82,95,86.3,3,59,1,0,0
+Kyle Walker,2,eng ENG,RB,27-277,71,0,1,0,0,0,0,0,0,70,1,1,0,0.0,0.0,0.4,1,1,52,64,81.3,1,39,0,1,1
+Oleksandr Zinchenko,35,ua UKR,LB,21-076,19,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,1,0,27,30,90.0,0,17,0,0,0
+Ederson,31,br BRA,GK,24-196,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,18,0,0,0

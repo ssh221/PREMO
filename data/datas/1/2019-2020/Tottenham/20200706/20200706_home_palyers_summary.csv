@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,26-344,90,0,0,0,0,2,0,0,0,35,1,0,2,0.1,0.1,0.1,5,0,17,23,73.9,3,24,0,0,0
+Son Heung-min,7,kr KOR,LW,27-364,77,0,0,0,0,4,2,0,0,39,0,0,0,0.2,0.2,0.1,4,0,23,32,71.9,2,28,0,1,0
+Steven Bergwijn,23,nl NED,"LW,LM",22-272,13,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,7,1,0,0
+Lucas Moura,27,br BRA,RW,27-328,81,0,0,0,0,1,0,0,0,34,2,0,1,0.0,0.0,0.0,2,0,10,22,45.5,2,26,3,1,1
+Érik Lamela,11,ar ARG,"RW,RM",28-124,9,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,2,1
+Giovani Lo Celso,18,ar ARG,LM,24-088,89,0,0,0,0,1,0,0,0,54,4,0,1,0.1,0.1,0.0,3,0,34,45,75.6,2,41,2,0,0
+Jan Vertonghen,5,be BEL,CB,33-073,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Harry Winks,8,eng ENG,CM,24-155,90,0,0,0,0,1,0,0,0,72,1,2,1,0.0,0.0,0.0,1,0,63,65,96.9,7,58,1,1,1
+Moussa Sissoko,17,fr FRA,"RM,CM",30-325,90,0,0,0,0,0,0,1,0,46,1,1,1,0.0,0.0,0.0,2,0,36,40,90.0,2,35,0,1,1
+Ben Davies,33,wls WAL,LB,27-073,90,0,0,0,0,2,0,1,0,78,3,0,2,0.0,0.0,0.0,3,0,52,65,80.0,10,43,3,4,3
+Eric Dier,15,eng ENG,CB,26-173,90,0,0,0,0,1,0,0,0,67,0,2,0,0.1,0.1,0.0,1,0,48,58,82.8,1,51,0,0,0
+Toby Alderweireld,4,be BEL,CB,31-126,90,0,0,0,0,0,0,1,0,59,1,0,1,0.0,0.0,0.0,0,0,41,52,78.8,2,40,0,0,0
+Serge Aurier,24,ci CIV,RB,27-195,90,0,0,0,0,0,0,0,0,61,0,2,1,0.0,0.0,0.0,1,0,40,48,83.3,0,35,3,1,0
+Hugo Lloris,1,fr FRA,GK,33-193,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,19,28,67.9,0,12,0,0,0

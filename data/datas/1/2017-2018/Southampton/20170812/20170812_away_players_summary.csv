@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Tammy Abraham,10,eng ENG,"FW,RW",19-314,80,0,0,0,0,3,0,0,0,16,1,0,1,0.2,0.2,0.0,2,0,6,7,85.7,0,6,1,1,1
+Kyle Bartley,27,eng ENG,RW,26-082,10,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,0,2,0,0,0
+Jordan Ayew,18,gh GHA,"FW,LW",25-335,90,0,0,0,0,0,0,0,0,35,1,0,2,0.0,0.0,0.0,0,0,16,23,69.6,0,18,2,1,0
+Wayne Routledge,15,eng ENG,"AM,FW",32-217,85,0,0,0,0,0,0,0,0,25,0,0,1,0.0,0.0,0.1,1,0,13,19,68.4,2,11,0,1,1
+Oliver McBurnie,62,sct SCO,FW,21-069,5,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,0,0,0,0
+Tom Carroll,14,eng ENG,LM,25-076,90,0,0,0,0,0,0,0,0,47,2,2,2,0.0,0.0,0.0,1,0,33,40,82.5,6,12,0,0,0
+Leon Britton,7,eng ENG,CM,34-330,73,0,0,0,0,0,0,0,0,30,0,0,3,0.0,0.0,0.0,0,0,24,25,96.0,2,5,0,0,0
+Jay Fulton,56,sct SCO,CM,23-133,17,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0
+Leroy Fer,8,nl NED,RM,27-219,90,0,0,0,0,1,0,0,0,50,5,0,0,0.0,0.0,0.1,1,0,35,40,87.5,4,19,0,3,2
+Martin Olsson,16,se SWE,LB,29-087,90,0,0,0,0,0,0,0,0,53,0,0,3,0.0,0.0,0.0,0,0,26,43,60.5,3,24,2,0,0
+Alfie Mawson,6,eng ENG,CB,23-205,90,0,0,0,0,0,0,0,0,50,0,0,1,0.0,0.0,0.0,0,0,35,41,85.4,0,11,0,0,0
+Federico Fernández,33,ar ARG,CB,28-172,90,0,0,0,0,0,0,0,0,67,1,1,4,0.0,0.0,0.0,0,0,41,50,82.0,3,27,0,0,0
+Kyle Naughton,26,eng ENG,RB,28-268,90,0,0,0,0,0,0,0,0,63,1,5,7,0.0,0.0,0.0,1,0,35,47,74.5,4,9,0,0,0
+Łukasz Fabiański,1,pl POL,GK,32-116,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,29,44,65.9,0,7,0,0,0

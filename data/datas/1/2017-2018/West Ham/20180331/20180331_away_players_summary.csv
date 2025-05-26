@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Manolo Gabbiadini,20,it ITA,FW,26-125,45,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,5,0,0,0
+Shane Long,7,ie IRL,RW,31-068,45,0,0,0,0,1,0,0,0,26,1,0,1,0.1,0.1,0.1,2,0,15,21,71.4,1,12,1,1,0
+Charlie Austin,10,eng ENG,FW,28-269,82,0,0,0,0,3,0,0,0,28,0,1,2,0.2,0.2,0.0,2,0,13,18,72.2,2,15,0,0,0
+Guido Carrillo,9,ar ARG,FW,26-310,8,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Nathan Redmond,22,eng ENG,"LM,LW",24-025,66,0,0,0,0,1,0,0,0,32,2,0,2,0.0,0.0,0.0,1,0,13,21,61.9,1,20,1,4,2
+Sofiane Boufal,19,ma MAR,LW,24-195,24,0,0,0,0,1,0,0,0,16,1,0,0,0.0,0.0,0.1,3,0,10,11,90.9,3,14,2,3,2
+Pierre Højbjerg,23,dk DEN,"DM,CM",22-238,90,0,0,0,0,1,0,0,0,77,2,2,2,0.1,0.1,0.0,1,0,49,67,73.1,7,45,0,6,4
+Mario Lemina,18,ga GAB,"DM,CM",24-211,90,0,0,0,0,0,0,1,0,62,2,2,1,0.0,0.0,0.0,1,0,44,54,81.5,7,42,1,3,3
+Dušan Tadić,11,rs SRB,"AM,RM",29-131,90,0,0,0,0,1,0,1,0,47,1,0,1,0.0,0.0,0.1,3,0,20,36,55.6,3,27,3,1,1
+Ryan Bertrand,21,eng ENG,LB,28-238,90,0,0,0,0,0,0,0,0,69,2,3,1,0.0,0.0,0.0,1,0,39,51,76.5,4,31,1,0,0
+Wesley Hoedt,6,nl NED,CB,24-025,90,0,0,0,0,1,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,33,43,76.7,6,29,1,0,0
+Jack Stephens,5,eng ENG,CB,24-063,90,0,0,0,0,0,0,1,0,56,1,2,0,0.0,0.0,0.0,1,0,32,44,72.7,2,19,0,1,0
+Cédric Soares,2,pt POR,RB,26-212,90,0,0,0,0,0,0,0,0,60,4,0,3,0.0,0.0,0.1,2,0,32,49,65.3,3,28,0,0,0
+Alex McCarthy,13,eng ENG,GK,28-118,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,11,19,57.9,0,9,0,0,0

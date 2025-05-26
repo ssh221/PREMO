@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,35-124,80,2,0,0,0,3,2,0,0,25,1,0,0,1.1,1.1,0.1,2,0,16,20,80.0,5,14,2,0,0
+Patson Daka,29,zm ZAM,FW,23-218,10,0,0,0,0,1,1,0,0,9,1,0,1,0.1,0.1,0.0,1,1,3,4,75.0,0,5,0,0,0
+Harvey Barnes,7,eng ENG,"LW,LM",24-157,90,2,1,0,0,3,2,0,0,46,2,1,1,0.6,0.6,0.7,3,1,29,34,85.3,5,35,3,2,0
+Kiernan Dewsbury-Hall,22,eng ENG,"DM,CM",23-251,90,0,0,0,0,1,0,0,0,64,2,2,1,0.0,0.0,0.2,3,0,38,51,74.5,4,41,4,2,0
+Youri Tielemans,8,be BEL,"DM,CM",25-008,90,0,1,0,0,0,0,1,0,66,4,0,3,0.0,0.0,0.4,3,1,43,57,75.4,3,33,1,0,0
+James Maddison,10,eng ENG,"AM,RM",25-173,90,1,2,0,0,2,1,0,0,58,0,0,0,0.4,0.4,0.5,6,3,42,53,79.2,10,47,4,4,3
+Nampalys Mendy,24,sn SEN,DM,29-326,45,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,0,0,26,30,86.7,1,26,2,0,0
+Marc Albrighton,11,eng ENG,RW,32-178,45,0,1,0,0,0,0,0,0,26,4,0,0,0.0,0.0,0.4,1,1,12,19,63.2,2,18,1,2,0
+James Justin,2,eng ENG,LB,24-081,90,0,0,0,0,0,0,0,0,78,3,1,1,0.0,0.0,0.0,2,1,55,67,82.1,3,46,1,1,0
+Jonny Evans,6,nir NIR,CB,34-132,56,0,0,0,0,0,0,0,0,58,3,0,1,0.0,0.0,0.0,0,0,38,49,77.6,1,37,0,0,0
+Daniel Amartey,18,gh GHA,CB,27-145,34,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,28,29,96.6,1,26,0,1,1
+Wesley Fofana,3,fr FRA,CB,21-149,90,0,0,0,0,0,0,0,0,80,2,0,1,0.0,0.0,0.0,0,0,74,75,98.7,4,60,0,1,1
+Timothy Castagne,27,be BEL,RB,26-161,90,0,0,0,0,3,1,0,0,74,3,2,2,0.3,0.3,0.0,1,0,50,59,84.7,1,41,1,0,0
+Danny Ward,12,wls WAL,GK,28-327,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,0,24,0,0,0

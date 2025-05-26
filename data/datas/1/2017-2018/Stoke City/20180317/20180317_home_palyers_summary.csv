@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Peter Crouch,25,eng ENG,FW,37-046,90,0,0,0,0,2,1,0,0,33,0,0,0,0.1,0.1,0.0,0,0,13,27,48.1,1,15,0,1,1
+Ramadan Sobhi,32,eg EGY,LW,21-053,71,0,0,0,0,0,0,0,0,50,3,0,4,0.0,0.0,0.2,2,0,27,35,77.1,4,35,5,4,2
+Eric Maxim Choupo-Moting,10,cm CMR,LW,28-359,7,1,0,0,0,1,1,0,0,1,0,0,0,0.4,0.4,0.0,0,0,0,0,,0,1,0,0,0
+Jesé,11,es ESP,LW,25-019,12,0,0,0,0,0,0,0,0,9,2,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,6,0,2,2
+Xherdan Shaqiri,22,ch SUI,RW,26-158,75,0,0,0,0,1,0,0,0,30,0,0,2,0.1,0.1,0.0,1,0,20,24,83.3,2,25,2,0,0
+Saido Berahino,9,bi BDI,RW,24-225,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,1,5,0,0,0
+Charlie Adam,16,sct SCO,LM,32-097,29,0,0,0,0,1,0,0,1,27,0,1,0,0.0,0.0,0.0,2,0,12,20,60.0,4,17,0,3,3
+Joe Allen,4,wls WAL,CM,28-003,90,0,1,0,0,1,0,0,0,68,2,0,1,0.1,0.1,0.4,4,2,46,59,78.0,3,50,3,1,1
+Badou Ndiaye,27,sn SEN,RM,27-141,90,0,0,0,0,2,1,0,0,34,3,0,1,0.0,0.0,0.0,1,0,22,25,88.0,1,25,0,0,0
+Kostas Stafylidis,21,gr GRE,LB,24-105,90,0,0,0,0,0,0,0,0,47,3,0,1,0.0,0.0,0.0,1,0,30,40,75.0,5,23,1,0,0
+Kurt Zouma,6,fr FRA,CB,23-141,90,0,0,0,0,0,0,0,0,40,2,3,0,0.0,0.0,0.0,1,0,23,27,85.2,1,21,1,1,0
+Ryan Shawcross,17,eng ENG,CB,30-164,90,0,0,0,0,0,0,1,0,35,2,4,2,0.0,0.0,0.0,0,0,15,22,68.2,2,11,1,0,0
+Glen Johnson,8,eng ENG,RB,33-206,90,0,0,0,0,1,1,0,0,48,2,4,0,0.0,0.0,0.1,4,0,27,37,73.0,6,28,2,1,1
+Jack Butland,1,eng ENG,GK,25-007,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,18,38,47.4,0,18,0,0,0

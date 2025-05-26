@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Nicolas Jackson,15,sn SEN,FW,22-166,71,0,1,0,0,1,0,0,0,14,0,0,0,0.3,0.3,0.2,3,2,8,10,80.0,2,9,2,3,1
+Ian Maatsen,29,nl NED,RW,21-268,19,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,7,42.9,0,6,0,0,0
+Mykhailo Mudryk,10,ua UKR,"LW,FW",22-332,80,0,0,0,0,1,0,0,0,28,1,1,0,0.0,0.0,0.0,3,1,8,14,57.1,0,17,4,7,2
+Armando Broja,19,al ALB,FW,22-084,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0
+Raheem Sterling,7,eng ENG,RW,28-360,65,0,0,0,0,0,0,0,0,34,0,1,1,0.0,0.0,0.0,1,0,14,22,63.6,4,20,4,3,0
+Cole Palmer,20,eng ENG,"AM,RW",21-211,25,0,0,0,0,1,1,0,0,18,0,1,0,0.0,0.0,0.0,1,0,8,12,66.7,0,6,1,1,0
+Conor Gallagher,23,eng ENG,AM,23-300,44,0,0,0,0,0,0,2,1,29,2,0,1,0.0,0.0,0.0,2,2,20,24,83.3,3,11,0,1,1
+Enzo Fernández,8,ar ARG,DM,22-320,90,2,0,1,1,2,1,1,0,51,2,1,0,1.5,0.7,0.0,0,0,26,39,66.7,4,29,1,3,1
+Moisés Caicedo,25,ec ECU,DM,22-031,90,0,0,0,0,1,0,0,0,43,1,3,1,0.0,0.0,0.0,0,0,30,33,90.9,1,20,1,1,0
+Levi Colwill,26,eng ENG,LB,20-280,90,1,0,0,0,1,1,0,0,40,1,2,1,0.2,0.2,0.0,0,0,20,25,80.0,0,16,0,0,0
+Benoît Badiashile,5,fr FRA,CB,22-252,90,0,1,0,0,0,0,1,0,50,1,1,2,0.0,0.0,0.5,2,1,33,35,94.3,2,29,0,1,0
+Thiago Silva,6,br BRA,CB,39-072,90,0,0,0,0,0,0,0,0,46,2,1,1,0.0,0.0,0.0,1,0,31,33,93.9,1,23,0,0,0
+Axel Disasi,2,fr FRA,RB,25-267,90,0,0,0,0,0,0,0,0,48,3,1,2,0.0,0.0,0.0,0,0,28,37,75.7,1,16,2,0,0
+Robert Sánchez,1,es ESP,GK,26-015,90,0,0,0,0,0,0,1,0,42,0,0,0,0.0,0.0,0.0,0,0,28,41,68.3,0,29,0,0,0

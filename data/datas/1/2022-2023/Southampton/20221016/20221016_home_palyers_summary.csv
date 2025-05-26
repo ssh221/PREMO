@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Che Adams,10,sct SCO,FW,26-095,73,0,0,0,0,3,3,0,0,32,1,0,2,0.3,0.3,0.0,3,0,10,19,52.6,1,19,2,1,1
+Sekou Mara,18,fr FRA,"FW,RW",20-078,17,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,2,0,0,0
+Adam Armstrong,9,eng ENG,LW,25-248,73,0,0,0,0,0,0,0,0,30,0,0,3,0.0,0.0,0.1,4,0,15,21,71.4,3,14,3,2,0
+Stuart Armstrong,17,sct SCO,"RW,FW",30-200,17,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,7,0,3,2
+Joe Aribo,7,ng NGA,RW,26-087,73,0,0,0,0,0,0,0,0,42,3,2,0,0.0,0.0,0.0,2,0,19,28,67.9,0,17,1,4,2
+Samuel Edozie,23,eng ENG,LW,19-261,17,0,0,0,0,1,1,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,5,0,0,0
+Mohamed Elyounoussi,24,no NOR,LM,28-073,90,0,0,0,0,3,2,0,0,40,1,1,1,0.1,0.1,0.1,1,0,19,28,67.9,2,21,2,3,2
+Ainsley Maitland-Niles,3,eng ENG,CM,25-048,74,0,0,0,0,0,0,0,0,30,1,2,2,0.0,0.0,0.0,0,0,18,21,85.7,1,15,0,0,0
+Ibrahima Diallo,27,fr FRA,CM,23-222,16,0,0,0,0,1,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,3,0,0,0
+James Ward-Prowse,8,eng ENG,RM,27-349,90,0,0,0,0,0,0,0,0,48,0,3,1,0.0,0.0,0.0,2,0,30,43,69.8,4,25,0,0,0
+Romain Perraud,15,fr FRA,LB,25-024,90,1,0,0,0,1,1,0,0,56,2,0,2,0.0,0.0,0.0,1,0,27,36,75.0,2,26,0,1,0
+Mohammed Salisu,22,gh GHA,CB,23-182,90,0,0,0,0,0,0,0,0,57,2,3,7,0.0,0.0,0.0,0,0,26,35,74.3,2,21,0,0,0
+Armel Bella Kotchap,37,de GER,CB,20-309,41,0,0,0,0,1,1,0,0,18,0,1,1,0.0,0.0,0.0,0,0,11,14,78.6,0,13,0,1,0
+Duje Ćaleta-Car,6,hr CRO,CB,26-029,49,0,0,0,0,0,0,0,0,21,0,1,1,0.0,0.0,0.0,0,0,9,13,69.2,0,8,0,0,0
+Kyle Walker-Peters,2,eng ENG,RB,25-186,90,0,0,0,0,0,0,1,0,55,3,0,4,0.0,0.0,0.0,2,1,29,43,67.4,3,20,1,1,1
+Gavin Bazunu,31,ie IRL,GK,20-238,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,0,19,0,0,0

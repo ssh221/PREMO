@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mbwana Samatta,20,tz TAN,FW,27-211,71,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,0,0,9,19,47.4,1,7,1,0,0
+Keinan Davis,39,eng ENG,FW,22-159,19,0,0,0,0,1,0,0,0,12,0,0,0,0.3,0.3,0.0,0,0,6,9,66.7,1,10,2,0,0
+Jack Grealish,10,eng ENG,LW,24-315,90,0,0,0,0,1,0,0,0,45,0,4,0,0.0,0.0,0.4,4,0,28,36,77.8,4,32,11,3,3
+Trézéguet,17,eg EGY,RW,25-294,90,1,0,0,0,2,2,0,0,23,5,0,1,0.1,0.1,0.0,1,0,8,13,61.5,0,8,0,0,0
+Conor Hourihane,14,ie IRL,LM,29-170,72,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,1,1,18,31,58.1,2,7,0,0,0
+Marvelous Nakamba,11,zw ZIM,LM,26-184,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,1,0,0,0
+Douglas Luiz,6,br BRA,CM,22-073,90,0,0,0,0,0,0,1,0,38,2,2,2,0.0,0.0,0.0,1,0,22,30,73.3,1,18,1,1,1
+John McGinn,7,sct SCO,RM,25-277,89,0,0,0,0,3,1,0,0,27,2,1,0,0.1,0.1,0.0,2,0,11,13,84.6,1,15,0,1,1
+Henri Lansbury,8,eng ENG,RM,29-283,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Matt Targett,18,eng ENG,LB,24-307,90,0,0,0,0,0,0,1,0,32,3,0,0,0.0,0.0,0.0,1,0,16,23,69.6,2,14,2,0,0
+Tyrone Mings,40,eng ENG,CB,27-130,90,0,1,0,0,0,0,0,0,49,1,0,1,0.0,0.0,0.0,0,0,29,36,80.6,3,23,0,0,0
+Ezri Konsa,15,eng ENG,CB,22-272,90,0,0,0,0,0,0,0,0,34,0,0,3,0.0,0.0,0.1,2,0,18,21,85.7,0,13,0,1,1
+Ahmed Elmohamady,27,eg EGY,RB,32-316,24,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,2,0,10,14,71.4,1,9,1,0,0
+Frederic Guilbert,24,fr FRA,RB,25-210,66,0,0,0,0,1,0,0,0,33,3,3,0,0.1,0.1,0.0,0,0,14,20,70.0,2,8,1,1,1
+Pepe Reina,29,es ESP,GK,37-325,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,17,0,0,0

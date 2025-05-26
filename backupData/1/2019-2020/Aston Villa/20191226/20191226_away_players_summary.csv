@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Teemu Pukki,22,fi FIN,FW,29-272,90,0,0,0,0,2,0,1,0,19,0,0,0,0.2,0.2,0.0,1,0,11,13,84.6,1,8,2,1,0
+Todd Cantwell,14,eng ENG,"LW,RW",21-302,90,0,0,0,0,1,1,0,0,55,0,0,0,0.1,0.1,0.0,1,0,44,49,89.8,5,43,1,1,0
+Emi Buendía,17,ar ARG,RW,23-001,75,0,0,0,0,2,1,0,0,70,0,0,3,0.1,0.1,0.3,8,0,42,57,73.7,5,42,2,5,3
+Onel Hernández,11,cu CUB,LW,26-328,15,0,0,0,0,1,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,1,3,33.3,0,6,1,2,1
+Kenny McLean,23,sct SCO,"AM,DM",27-352,90,0,0,0,0,2,0,0,0,79,0,1,0,0.1,0.1,0.1,5,0,47,64,73.4,7,51,5,1,0
+Tom Trybull,19,de GER,DM,26-292,74,0,0,0,0,1,1,1,0,58,2,0,0,0.1,0.1,0.0,2,0,50,53,94.3,4,44,1,2,1
+Mario Vrančić,8,ba BIH,DM,30-217,16,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,2,0,13,18,72.2,4,16,0,0,0
+Alexander Tettey,27,no NOR,DM,33-266,74,0,0,0,0,1,0,1,0,57,0,2,0,0.1,0.1,0.0,3,0,47,49,95.9,5,38,3,2,2
+Marco Stiepermann,18,de GER,AM,28-320,16,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,1,0,3,4,75.0,0,2,0,0,0
+Sam Byram,3,eng ENG,LB,26-101,90,0,0,0,0,4,0,0,0,63,0,3,2,0.5,0.5,0.1,1,0,40,48,83.3,1,31,0,0,0
+Grant Hanley,5,sct SCO,CB,28-036,90,0,0,0,0,1,1,0,0,53,0,0,1,0.0,0.0,0.0,0,0,34,40,85.0,3,28,0,0,0
+Christoph Zimmermann,6,de GER,CB,26-348,90,0,0,0,0,0,0,0,0,65,2,2,0,0.0,0.0,0.0,0,0,45,55,81.8,4,38,1,0,0
+Max Aarons,2,eng ENG,RB,19-356,90,0,0,0,0,0,0,0,0,74,2,0,2,0.0,0.0,0.4,7,0,50,64,78.1,4,46,6,6,4
+Tim Krul,1,nl NED,GK,31-267,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,17,0,0,0

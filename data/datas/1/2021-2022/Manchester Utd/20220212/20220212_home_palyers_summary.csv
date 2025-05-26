@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cristiano Ronaldo,7,pt POR,FW,37-007,90,0,0,0,0,2,1,0,0,28,1,0,0,0.7,0.7,0.2,2,0,10,14,71.4,0,11,0,4,2
+Jadon Sancho,25,eng ENG,"LW,AM",21-324,90,1,0,0,0,2,2,0,0,42,0,2,1,0.7,0.7,0.6,1,0,25,32,78.1,3,23,3,4,1
+Marcus Rashford,10,eng ENG,"RW,FW",24-104,81,0,1,0,0,1,0,1,0,39,0,0,0,0.0,0.0,0.4,1,1,14,27,51.9,0,24,4,5,2
+Jesse Lingard,14,eng ENG,FW,29-059,9,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,2,0,0,0
+Bruno Fernandes,18,pt POR,"AM,DM",27-157,90,0,0,0,0,0,0,0,0,60,2,0,1,0.0,0.0,0.1,4,1,36,54,66.7,7,34,0,1,1
+Paul Pogba,6,fr FRA,DM,28-334,90,0,0,0,0,2,1,1,0,66,2,1,1,0.3,0.3,0.0,2,0,40,48,83.3,8,29,0,3,2
+Scott McTominay,39,sct SCO,DM,25-066,74,0,0,0,0,1,0,1,0,53,3,1,1,0.0,0.0,0.0,0,0,37,42,88.1,3,24,0,3,2
+Anthony Elanga,36,se SWE,AM,19-291,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,7,0,0,0
+Luke Shaw,23,eng ENG,LB,26-215,90,0,0,0,0,0,0,0,0,75,2,0,3,0.0,0.0,0.7,4,0,58,69,84.1,5,43,3,0,0
+Harry Maguire,5,eng ENG,CB,28-344,90,0,0,0,0,3,2,0,0,65,2,1,2,0.3,0.3,0.0,2,0,47,56,83.9,1,25,0,0,0
+Raphaël Varane,19,fr FRA,CB,28-293,90,0,0,0,0,0,0,0,0,60,1,0,0,0.0,0.0,0.0,0,0,48,57,84.2,1,30,0,0,0
+Diogo Dalot,20,pt POR,RB,22-331,90,0,0,0,0,1,1,0,0,79,1,1,1,0.0,0.0,0.0,0,0,60,73,82.2,9,46,2,0,0
+David de Gea,1,es ESP,GK,31-097,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,22,27,81.5,0,13,0,0,0

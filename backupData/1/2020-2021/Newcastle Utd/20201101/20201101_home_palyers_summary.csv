@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Allan Saint-Maximin,10,fr FRA,FW,23-234,73,0,0,0,0,2,1,0,0,33,1,0,2,0.5,0.5,0.0,1,0,22,24,91.7,2,27,3,5,4
+Ryan Fraser,21,sct SCO,FW,26-251,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,6,0,0,0
+Callum Wilson,13,eng ENG,FW,28-248,86,2,0,1,1,3,1,1,0,23,0,0,0,1.8,1.0,0.5,3,1,9,14,64.3,1,10,1,1,0
+Andy Carroll,7,eng ENG,FW,31-300,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Miguel Almirón,24,py PAR,CM,26-265,82,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,3,0,27,32,84.4,3,30,1,4,2
+Isaac Hayden,14,eng ENG,CM,25-224,8,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,1,0,0,0
+Jeff Hendrick,16,ie IRL,CM,28-275,90,0,0,0,0,1,0,0,0,53,0,1,1,0.0,0.0,0.0,1,1,38,48,79.2,1,30,0,0,0
+Sean Longstaff,36,eng ENG,CM,23-002,90,0,0,0,0,1,1,0,0,47,2,0,1,0.5,0.5,0.1,5,1,36,41,87.8,1,20,1,0,0
+Jamal Lewis,15,nir NIR,LB,22-281,90,0,0,0,0,0,0,0,0,62,3,1,0,0.0,0.0,0.0,2,1,38,49,77.6,1,37,3,3,1
+Federico Fernández,18,ar ARG,CB,31-254,90,0,0,0,0,0,0,0,0,67,1,1,2,0.0,0.0,0.0,2,0,41,49,83.7,2,31,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,26-356,90,0,0,0,0,1,0,0,0,41,2,0,1,0.1,0.1,0.0,1,0,28,33,84.8,0,21,0,0,0
+Fabian Schär,5,ch SUI,CB,28-317,90,0,0,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,0,0,33,43,76.7,1,32,0,3,0
+Jacob Murphy,23,eng ENG,RB,25-251,90,0,0,0,0,2,0,1,0,54,2,2,1,0.1,0.1,0.0,2,0,26,41,63.4,4,28,4,5,4
+Karl Darlow,26,wls WAL,GK,30-024,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,14,30,46.7,0,16,0,0,0

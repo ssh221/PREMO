@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Steve Mounié,24,bj BEN,FW,23-123,62,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,6,0,1,0
+Collin Quaner,23,de GER,FW,26-226,28,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,7,10,70.0,1,4,0,0,0
+Laurent Depoitre,20,be BEL,FW,29-054,90,0,0,0,0,1,1,0,0,37,0,1,0,0.1,0.1,0.0,0,0,14,25,56.0,1,19,0,1,0
+Philip Billing,8,dk DEN,CM,21-233,90,0,0,0,0,0,0,0,0,43,2,1,2,0.0,0.0,0.0,1,0,26,33,78.8,1,20,1,0,0
+Jonathan Hogg,6,eng ENG,CM,29-055,90,0,0,0,0,0,0,0,0,51,1,0,2,0.0,0.0,0.0,1,0,31,43,72.1,5,27,0,2,1
+Aaron Mooy,10,au AUS,CM,27-137,78,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,0,0,27,36,75.0,6,23,0,1,1
+Rajiv van La Parra,17,nl NED,RM,26-240,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,5,2,1,0
+Chris Löwe,15,de GER,LB,28-289,78,0,0,0,0,1,0,0,0,36,0,2,2,0.1,0.1,0.1,1,0,10,25,40.0,0,14,3,2,0
+Tom Ince,22,eng ENG,LM,26-000,12,0,0,0,0,3,0,0,0,12,1,0,0,0.2,0.2,0.0,0,0,3,6,50.0,1,4,0,0,0
+Terence Kongolo,5,nl NED,"CB,LB",23-350,90,0,0,0,0,0,0,0,0,30,0,2,1,0.0,0.0,0.0,1,0,16,20,80.0,0,13,0,0,0
+Christopher Schindler,26,de GER,CB,27-276,90,0,0,0,0,0,0,0,0,44,2,2,4,0.0,0.0,0.1,1,0,21,27,77.8,0,13,0,0,0
+Mathias Jørgensen,25,dk DEN,CB,27-282,90,0,0,0,0,0,0,0,0,43,3,2,2,0.0,0.0,0.0,0,0,27,28,96.4,5,13,0,0,0
+Florent Hadergjonaj,33,xk KVX,RB,23-183,90,0,0,0,0,0,0,0,0,50,0,2,2,0.0,0.0,0.0,0,0,20,38,52.6,3,19,3,4,3
+Jonas Lössl,1,dk DEN,GK,28-363,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,12,29,41.4,0,12,0,0,0

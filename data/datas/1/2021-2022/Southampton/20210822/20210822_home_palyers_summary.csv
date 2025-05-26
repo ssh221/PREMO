@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Adam Armstrong,9,eng ENG,FW,24-193,90,0,0,0,0,2,1,0,0,24,1,0,0,0.4,0.4,0.0,2,0,10,16,62.5,1,12,3,3,0
+Che Adams,10,sct SCO,FW,25-040,90,0,0,0,0,2,0,0,0,34,2,1,1,0.1,0.1,0.4,4,0,10,22,45.5,2,17,1,0,0
+Moussa Djenepo,19,ml MLI,LM,23-068,69,0,0,0,0,1,0,1,0,33,1,1,0,0.0,0.0,0.0,3,0,11,17,64.7,3,17,2,5,2
+Ibrahima Diallo,27,fr FRA,CM,22-167,21,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,3,0,0,0
+James Ward-Prowse,8,eng ENG,CM,26-294,90,0,0,0,0,2,2,0,0,62,1,4,1,0.1,0.1,0.1,2,0,35,51,68.6,2,17,0,1,0
+Oriol Romeu,6,es ESP,CM,29-332,90,0,0,0,0,0,0,0,0,59,6,0,3,0.0,0.0,0.0,0,0,25,36,69.4,2,14,1,1,0
+Theo Walcott,32,eng ENG,RM,32-159,45,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,6,0,3,1
+Jan Bednarek,35,pl POL,CB,25-132,45,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,3,0,0,0
+Romain Perraud,15,fr FRA,LB,23-334,78,0,0,0,0,0,0,0,0,30,2,1,1,0.0,0.0,0.0,1,0,10,23,43.5,1,9,2,0,0
+Kyle Walker-Peters,2,eng ENG,LB,24-131,12,0,0,0,0,0,0,0,0,13,1,2,0,0.0,0.0,0.0,0,0,9,9,100.0,1,3,1,1,1
+Mohammed Salisu,22,gh GHA,CB,22-127,90,0,0,0,0,0,0,0,0,45,0,3,4,0.0,0.0,0.0,1,0,27,34,79.4,3,21,1,1,1
+Jack Stephens,5,eng ENG,"CB,RB",27-207,90,0,0,0,0,0,0,1,0,49,5,2,3,0.0,0.0,0.0,0,0,22,35,62.9,2,17,0,1,1
+Valentino Livramento,21,eng ENG,"RB,RM",18-283,90,0,0,0,0,1,0,0,0,48,1,6,0,0.0,0.0,0.0,0,0,25,31,80.6,2,20,4,3,3
+Alex McCarthy,1,eng ENG,GK,31-262,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,7,24,29.2,0,8,0,0,0

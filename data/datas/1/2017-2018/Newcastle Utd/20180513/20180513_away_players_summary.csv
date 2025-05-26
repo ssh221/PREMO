@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Olivier Giroud,18,fr FRA,FW,31-225,75,0,0,0,0,2,1,0,0,27,0,0,0,0.1,0.1,0.0,0,0,15,23,65.2,5,15,0,0,0
+Álvaro Morata,9,es ESP,FW,25-202,15,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,1,2,0,0,0
+Eden Hazard,10,be BEL,FW,27-126,81,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,0,0,30,38,78.9,4,37,5,5,4
+Pedro,11,es ESP,FW,30-289,9,0,0,0,0,1,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,9,11,81.8,0,11,0,0,0
+Tiemoué Bakayoko,14,fr FRA,DM,23-269,90,0,0,0,0,1,0,1,0,62,5,1,0,0.0,0.0,0.0,1,0,43,51,84.3,3,28,1,4,1
+N'Golo Kanté,7,fr FRA,DM,27-045,90,0,0,0,0,0,0,0,0,66,5,5,0,0.0,0.0,0.0,3,0,51,57,89.5,9,50,3,3,3
+Ross Barkley,8,eng ENG,DM,24-159,76,0,0,0,0,1,1,0,0,38,0,0,2,0.7,0.7,0.1,2,0,23,31,74.2,3,27,6,6,5
+Willian,22,br BRA,DM,29-277,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,6,0,0,0
+Emerson Palmieri,33,it ITA,WB,23-283,90,0,0,0,0,0,0,0,0,74,2,0,0,0.0,0.0,0.0,0,0,52,65,80.0,0,45,4,4,2
+Victor Moses,15,ng NGA,WB,27-152,90,0,0,0,0,1,0,0,0,76,0,0,2,0.1,0.1,0.0,3,0,53,67,79.1,4,45,2,0,0
+Gary Cahill,24,eng ENG,CB,32-145,90,0,0,0,0,0,0,0,0,83,2,2,0,0.0,0.0,0.0,0,0,67,73,91.8,4,52,0,0,0
+Andreas Christensen,27,dk DEN,CB,22-033,90,0,0,0,0,0,0,0,0,78,0,3,2,0.0,0.0,0.0,0,0,60,62,96.8,2,50,0,0,0
+César Azpilicueta,28,es ESP,CB,28-258,90,0,0,0,0,0,0,0,0,110,2,3,2,0.0,0.0,0.0,0,0,75,90,83.3,12,57,3,0,0
+Thibaut Courtois,13,be BEL,GK,26-002,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,18,0,0,0

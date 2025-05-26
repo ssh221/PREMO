@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Darwin Núñez,9,uy URU,FW,24-231,90,1,0,0,0,5,2,1,0,41,2,1,0,0.9,0.9,0.4,3,0,15,25,60.0,0,30,5,1,0
+Luis Díaz,7,co COL,LW,27-028,81,1,0,0,0,5,4,0,0,42,1,0,1,1.0,1.0,0.1,5,0,25,27,92.6,9,30,4,3,2
+Cody Gakpo,18,nl NED,LW,24-279,9,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,2,1
+Diogo Jota,20,pt POR,RW,27-068,90,1,0,0,0,6,3,0,0,52,3,1,0,0.5,0.5,0.0,3,1,26,35,74.3,1,33,3,3,0
+Curtis Jones,17,eng ENG,"RB,LM",23-011,90,0,0,0,0,1,0,0,0,86,2,0,1,0.0,0.0,0.2,6,0,73,81,90.1,8,53,2,3,1
+Wataru Endo,3,jp JPN,CM,31-001,89,0,0,0,0,1,0,1,0,79,4,0,2,0.0,0.0,0.6,5,1,60,68,88.2,7,52,0,1,0
+James McConnell,53,eng ENG,CM,19-150,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Alexis Mac Allister,10,ar ARG,"LM,RM",25-048,89,0,0,0,0,2,0,0,0,57,4,1,2,0.1,0.1,0.0,3,0,36,46,78.3,5,28,0,1,0
+Bobby Clark,42,eng ENG,LM,19-003,1,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Andrew Robertson,26,sct SCO,LB,29-336,89,0,0,0,0,1,0,0,0,99,2,0,1,0.1,0.1,0.4,7,0,70,86,81.4,5,61,5,2,0
+Kostas Tsimikas,21,gr GRE,LB,27-274,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,1,0,0
+Virgil van Dijk,4,nl NED,CB,32-217,90,0,0,0,0,1,1,0,0,109,0,0,0,0.2,0.2,0.0,2,0,95,103,92.2,8,66,2,0,0
+Jarell Quansah,78,eng ENG,CB,21-012,90,0,0,0,0,1,0,1,0,125,2,0,0,0.0,0.0,0.0,0,0,99,116,85.3,3,80,2,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,25-126,45,0,1,0,0,1,0,0,0,63,1,1,0,0.0,0.0,0.3,4,1,44,59,74.6,7,35,0,1,1
+Harvey Elliott,19,eng ENG,RM,20-312,45,0,1,0,0,1,0,0,0,41,1,0,2,0.0,0.0,0.1,6,1,30,35,85.7,5,23,2,0,0
+Caoimhín Kelleher,62,ie IRL,GK,25-079,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,34,39,87.2,0,32,0,0,0

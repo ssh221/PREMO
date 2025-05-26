@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kenneth Zohore,10,dk DEN,FW,25-026,80,0,0,0,0,2,0,0,0,19,1,0,0,0.2,0.2,0.0,0,0,5,13,38.5,0,11,1,2,2
+Danny Ward,9,eng ENG,FW,27-077,10,0,0,0,0,1,0,0,0,6,0,0,0,0.1,0.1,0.0,0,0,2,5,40.0,1,1,1,0,0
+Bobby De Cordova-Reid,14,jm JAM,FW,26-024,90,0,0,0,0,0,0,0,0,32,3,0,1,0.0,0.0,0.0,0,0,14,22,63.6,0,16,0,0,0
+Junior Hoilett,33,ca CAN,LM,28-266,67,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,13,18,72.2,0,13,1,0,0
+Josh Murphy,11,eng ENG,LM,24-002,23,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,1,9,1,1,0
+Aron Gunnarsson,17,is ISL,CM,29-310,90,0,0,0,0,2,0,0,0,56,4,1,2,0.0,0.0,0.1,2,0,23,39,59.0,2,15,0,2,2
+Leandro Bacuna,15,cw CUW,CM,27-189,90,0,0,0,0,0,0,1,0,40,3,1,0,0.0,0.0,0.0,1,0,20,34,58.8,2,9,2,2,2
+Nathaniel Mendez-Laing,19,gt GUA,RM,26-317,68,0,0,0,0,1,0,0,0,25,3,0,2,0.1,0.1,0.0,1,0,11,16,68.8,2,10,1,1,0
+Callum Paterson,13,sct SCO,RM,24-136,22,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,1,0,5,7,71.4,0,0,0,0,0
+Joe Bennett,3,eng ENG,LB,28-335,90,0,0,0,0,0,0,0,0,42,0,2,1,0.0,0.0,0.1,2,0,21,37,56.8,5,12,1,0,0
+Sol Bamba,22,ci CIV,CB,34-044,90,0,0,0,0,0,0,0,0,32,4,4,2,0.0,0.0,0.0,1,0,11,18,61.1,1,10,1,1,1
+Sean Morrison,4,eng ENG,CB,28-049,90,0,0,0,0,0,0,1,0,46,2,3,2,0.0,0.0,0.1,1,0,13,32,40.6,1,13,0,0,0
+Bruno Ecuele Manga,5,ga GAB,RB,30-225,90,0,0,0,0,0,0,0,0,46,1,2,4,0.0,0.0,0.0,0,0,15,32,46.9,1,16,0,0,0
+Neil Etheridge,1,ph PHI,GK,29-019,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,6,20,30.0,0,8,0,0,0

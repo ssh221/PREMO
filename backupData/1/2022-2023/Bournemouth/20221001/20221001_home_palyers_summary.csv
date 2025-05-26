@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Solanke,9,eng ENG,FW,25-017,90,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.1,2,0,15,18,83.3,1,19,1,6,2
+Kieffer Moore,21,wls WAL,FW,30-054,71,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.1,2,0,14,21,66.7,0,19,3,0,0
+Ryan Christie,10,sct SCO,LM,27-221,19,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,3,3,0,1,0
+Philip Billing,29,dk DEN,"LM,FW",26-112,90,0,0,0,0,1,0,0,0,40,2,0,0,0.0,0.0,0.0,0,0,21,29,72.4,3,29,2,0,0
+Jefferson Lerma,8,co COL,CM,27-341,90,0,0,0,0,3,0,1,0,79,1,2,0,0.2,0.2,0.0,2,0,56,67,83.6,5,44,0,1,1
+Lewis Cook,4,eng ENG,CM,25-240,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,27,30,90.0,4,19,0,0,0
+Marcus Tavernier,16,eng ENG,RM,23-193,90,0,0,0,0,2,0,0,0,50,1,0,0,0.1,0.1,0.0,2,0,23,39,59.0,0,30,3,2,1
+Jordan Zemura,33,zw ZIM,LB,22-321,90,0,0,0,0,0,0,0,0,41,3,2,1,0.0,0.0,0.0,0,0,22,31,71.0,2,18,0,0,0
+Marcos Senesi,25,ar ARG,CB,25-144,90,0,0,0,0,0,0,0,0,57,2,3,1,0.0,0.0,0.1,1,0,38,48,79.2,2,35,0,1,1
+Chris Mepham,6,wls WAL,CB,24-330,90,0,0,0,0,0,0,0,0,41,2,1,4,0.0,0.0,0.0,1,0,24,31,77.4,2,17,0,0,0
+Adam Smith,15,eng ENG,RB,31-155,90,0,0,0,0,0,0,0,0,59,2,1,3,0.0,0.0,0.0,1,0,42,53,79.2,4,34,0,0,0
+Neto,13,br BRA,GK,33-074,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,35,68.6,0,20,0,0,0

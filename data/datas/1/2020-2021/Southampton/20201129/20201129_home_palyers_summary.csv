@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Che Adams,10,sct SCO,FW,24-139,90,0,0,0,0,1,0,0,0,36,1,0,1,0.1,0.1,0.1,3,0,19,26,73.1,1,16,0,1,0
+Theo Walcott,32,eng ENG,"FW,LM",31-258,90,0,0,0,0,2,2,0,0,38,0,0,0,0.1,0.1,0.0,1,1,15,24,62.5,0,22,1,6,2
+Moussa Djenepo,12,ml MLI,LM,22-167,71,0,0,0,0,2,1,0,0,48,3,0,2,0.1,0.1,0.0,4,2,21,31,67.7,3,23,6,4,3
+Shane Long,7,ie IRL,FW,33-312,19,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,4,0,0,0
+Oriol Romeu,6,es ESP,CM,29-066,90,0,0,0,0,0,0,0,0,74,4,3,2,0.0,0.0,0.0,1,0,57,64,89.1,2,31,0,1,1
+James Ward-Prowse,8,eng ENG,CM,26-028,90,1,1,0,0,1,1,1,0,80,3,2,2,0.1,0.1,0.1,3,1,55,66,83.3,2,28,0,1,1
+Stuart Armstrong,17,sct SCO,RM,28-244,89,0,0,0,0,1,0,0,0,59,2,1,2,0.0,0.0,0.0,1,0,37,47,78.7,3,29,2,4,4
+Ibrahima Diallo,27,fr FRA,RM,21-266,1,0,0,0,0,0,0,0,0,3,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Ryan Bertrand,3,eng ENG,LB,31-116,90,0,0,0,0,1,0,0,0,72,3,2,1,0.0,0.0,0.0,1,0,42,59,71.2,6,36,1,0,0
+Jannik Vestergaard,4,dk DEN,CB,28-118,90,0,0,0,0,0,0,0,0,55,2,1,0,0.0,0.0,0.0,1,0,40,51,78.4,0,30,0,0,0
+Jan Bednarek,35,pl POL,CB,24-231,90,1,0,0,0,1,1,0,0,85,0,1,4,0.1,0.1,0.0,1,0,61,73,83.6,1,41,0,0,0
+Kyle Walker-Peters,2,eng ENG,RB,23-230,89,0,0,0,0,1,0,0,0,84,3,1,0,0.0,0.0,0.0,2,0,56,72,77.8,4,37,3,1,1
+Dan Nlundulu,40,eng ENG,RB,21-298,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Alex McCarthy,1,eng ENG,GK,30-362,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,38,76.3,0,21,0,0,0

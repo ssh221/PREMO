@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michy Batshuayi,23,be BEL,FW,23-314,58,0,0,0,0,1,1,0,0,23,0,0,0,0.0,0.0,0.0,1,0,12,18,66.7,1,10,0,0,0
+Álvaro Morata,9,es ESP,FW,24-293,32,1,1,0,0,3,2,0,0,12,0,0,0,0.4,0.4,0.5,2,1,5,5,100.0,1,10,0,0,0
+Jeremie Boga,38,ci CIV,AM,20-221,17,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0
+Andreas Christensen,27,dk DEN,CB,21-124,72,0,0,0,0,0,0,0,0,53,1,1,0,0.0,0.0,0.0,1,0,42,47,89.4,4,34,2,1,1
+Charly Musonda Jr.,17,be BEL,CB,20-301,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Willian,22,br BRA,AM,29-003,90,0,1,0,0,1,0,0,0,72,2,0,0,0.0,0.0,0.4,5,1,40,57,70.2,5,47,6,3,2
+N'Golo Kanté,7,fr FRA,CM,26-136,90,0,0,0,0,4,0,0,0,75,2,2,1,0.1,0.1,0.0,8,1,54,61,88.5,8,50,2,1,0
+Cesc Fàbregas,4,es ESP,CM,30-100,80,0,0,0,0,0,0,2,1,97,0,0,1,0.0,0.0,0.2,7,0,77,93,82.8,9,59,3,1,1
+Marcos Alonso,3,es ESP,WB,26-227,90,0,0,0,0,5,2,1,0,59,2,1,1,0.2,0.2,0.1,7,0,35,41,85.4,2,33,3,2,1
+César Azpilicueta,28,es ESP,WB,27-349,90,0,0,0,0,0,0,0,0,75,3,1,0,0.0,0.0,0.0,3,1,57,71,80.3,5,33,3,0,0
+Gary Cahill,24,eng ENG,CB,31-236,13,0,0,0,0,0,0,0,1,14,0,0,0,0.0,0.0,0.0,0,0,12,12,100.0,1,8,1,0,0
+David Luiz,30,br BRA,CB,30-112,90,1,0,0,0,3,1,1,0,56,0,2,0,0.7,0.7,0.0,1,0,39,46,84.8,2,33,2,0,0
+Antonio Rüdiger,2,de GER,CB,24-162,90,0,0,0,0,2,0,1,0,88,0,2,3,0.0,0.0,0.0,2,0,67,75,89.3,10,54,3,0,0
+Thibaut Courtois,13,be BEL,GK,25-093,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,24,38,63.2,0,19,0,0,0

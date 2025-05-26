@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Yoane Wissa,11,cd COD,FW,25-162,81,0,0,0,0,2,0,0,0,14,0,0,1,0.9,0.9,0.0,0,0,6,10,60.0,0,4,0,0,0
+Saman Ghoddos,14,ir IRN,"WB,FW",28-159,9,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,1,1
+Bryan Mbeumo,19,cm CMR,FW,22-189,90,0,0,0,0,2,1,0,0,38,0,0,0,0.2,0.2,0.5,2,0,18,29,62.1,0,25,2,2,2
+Vitaly Janelt,27,de GER,CM,23-278,60,0,0,0,0,1,0,0,0,25,0,1,2,0.0,0.0,0.0,0,0,14,17,82.4,0,10,0,0,0
+Josh Dasilva,10,eng ENG,CM,23-112,30,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,1,0,6,12,50.0,1,6,1,1,1
+Christian Nørgaard,6,dk DEN,CM,27-339,90,0,0,0,0,1,0,0,0,69,10,3,2,0.0,0.0,0.0,2,0,39,49,79.6,3,33,1,1,1
+Mathias Jensen,8,dk DEN,CM,26-042,90,0,0,0,0,0,0,0,0,59,6,1,2,0.0,0.0,0.9,5,0,34,45,75.6,7,31,0,6,4
+Rico Henry,3,eng ENG,WB,24-219,90,0,0,0,0,1,0,0,0,53,3,1,0,0.1,0.1,0.0,2,0,30,40,75.0,3,17,4,0,0
+Sergi Canós,7,es ESP,WB,25-010,85,0,0,0,0,1,0,1,0,51,3,1,2,0.3,0.3,0.1,2,0,22,35,62.9,4,25,4,4,1
+Shandon Baptiste,26,gd GRN,FW,23-310,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0
+Ethan Pinnock,5,jm JAM,CB,28-259,90,0,0,0,0,0,0,0,0,68,4,0,1,0.0,0.0,0.0,1,0,35,52,67.3,3,27,1,1,1
+Pontus Jansson,18,se SWE,CB,30-364,90,0,0,0,0,1,1,0,0,52,1,2,2,0.1,0.1,0.0,0,0,21,33,63.6,1,14,0,0,0
+Kristoffer Ajer,20,no NOR,CB,23-301,90,0,0,0,0,0,0,0,0,53,3,2,0,0.0,0.0,0.0,3,0,29,46,63.0,5,23,2,0,0
+David Raya,1,es ESP,GK,26-150,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,28,45,62.2,1,32,0,0,0

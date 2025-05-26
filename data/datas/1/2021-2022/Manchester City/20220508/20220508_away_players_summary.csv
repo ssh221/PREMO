@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,20,nz NZL,FW,30-152,67,0,0,0,0,1,1,0,0,20,0,0,0,0.3,0.3,0.0,0,0,11,16,68.8,1,10,0,0,0
+Callum Wilson,9,eng ENG,FW,30-070,23,0,0,0,0,1,1,0,0,10,0,0,0,0.3,0.3,0.0,1,0,6,7,85.7,1,4,1,0,0
+Allan Saint-Maximin,10,fr FRA,LW,25-057,90,0,0,0,0,2,0,0,0,35,0,0,0,0.1,0.1,0.3,4,0,15,22,68.2,1,25,6,6,5
+Miguel Almirón,24,py PAR,RW,28-087,79,0,0,0,0,0,0,0,0,24,4,2,1,0.0,0.0,0.0,1,0,11,15,73.3,3,12,2,0,0
+Jacob Murphy,23,eng ENG,RW,27-073,11,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.3,1,0,2,3,66.7,0,3,1,0,0
+Joelinton,7,br BRA,LM,25-267,90,0,0,0,0,0,0,0,0,36,1,1,2,0.0,0.0,0.0,0,0,25,27,92.6,3,17,0,1,1
+Bruno Guimarães,39,br BRA,CM,24-173,90,0,0,0,0,1,0,1,0,47,5,1,3,0.0,0.0,0.0,2,0,30,33,90.9,1,25,2,4,0
+Sean Longstaff,36,eng ENG,RM,24-190,90,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,1,0,18,22,81.8,1,13,0,0,0
+Matt Targett,13,eng ENG,LB,26-232,90,0,0,0,0,0,0,1,0,33,2,1,1,0.0,0.0,0.1,2,0,19,27,70.4,1,11,1,0,0
+Dan Burn,33,eng ENG,CB,29-364,90,0,0,0,0,0,0,1,0,35,3,1,0,0.0,0.0,0.0,0,0,21,27,77.8,0,15,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,28-178,90,0,0,0,0,2,1,0,0,43,1,0,2,0.1,0.1,0.0,0,0,27,32,84.4,1,21,0,0,0
+Emil Krafth,17,se SWE,RB,27-279,67,0,0,0,0,0,0,0,0,26,2,1,0,0.0,0.0,0.0,0,0,16,20,80.0,1,9,0,0,0
+Kieran Trippier,15,eng ENG,RB,31-231,23,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,6,13,46.2,0,4,0,0,0
+Martin Dúbravka,1,sk SVK,GK,33-113,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,22,43,51.2,0,22,0,0,0

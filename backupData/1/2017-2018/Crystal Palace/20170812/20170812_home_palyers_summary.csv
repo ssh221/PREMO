@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Christian Benteke,17,be BEL,FW,26-252,90,0,0,0,0,3,1,0,0,28,0,0,1,0.2,0.2,0.0,1,0,9,19,47.4,3,12,0,0,0
+Wilfried Zaha,11,ci CIV,AM,24-275,90,0,0,0,0,3,2,0,0,39,1,0,1,0.4,0.4,0.0,4,0,12,21,57.1,1,31,5,6,4
+Ruben Loftus-Cheek,8,eng ENG,"CM,AM",21-201,90,0,0,0,0,1,0,0,0,51,3,3,1,0.0,0.0,0.0,6,0,33,36,91.7,5,29,4,8,5
+Jason Puncheon,42,eng ENG,CM,31-055,90,0,0,0,0,2,0,1,0,56,3,2,1,0.1,0.1,0.0,1,0,40,48,83.3,8,28,1,0,0
+Luka Milivojević,4,rs SRB,CM,26-127,45,0,0,0,0,0,0,0,0,31,0,2,0,0.0,0.0,0.0,0,0,22,29,75.9,5,14,0,1,1
+Andros Townsend,10,eng ENG,AM,26-027,45,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.1,3,0,9,18,50.0,0,10,1,2,2
+Patrick van Aanholt,3,nl NED,WB,26-348,90,0,0,0,0,3,1,0,0,69,2,2,3,0.1,0.1,0.3,5,0,40,58,69.0,3,15,2,2,2
+Joel Ward,2,eng ENG,WB,27-287,90,0,0,0,0,0,0,0,0,53,6,3,0,0.0,0.0,0.0,0,0,27,38,71.1,2,15,0,0,0
+Jaïro Riedewald,44,nl NED,CB,20-337,90,0,0,0,0,0,0,0,0,62,2,1,0,0.0,0.0,0.0,0,0,42,50,84.0,4,25,0,1,1
+Scott Dann,6,eng ENG,CB,30-179,90,0,0,0,0,1,0,0,0,52,1,3,1,0.1,0.1,0.0,0,0,38,44,86.4,1,23,0,3,3
+Timothy Fosu-Mensah,24,nl NED,CB,19-222,77,0,0,0,0,0,0,0,0,48,4,2,1,0.0,0.0,0.0,1,0,28,38,73.7,1,15,1,0,0
+James Tomkins,5,eng ENG,CB,28-136,13,0,0,0,0,1,0,0,0,12,0,1,0,0.1,0.1,0.0,0,0,10,11,90.9,0,6,0,0,0
+Wayne Hennessey,13,wls WAL,GK,30-200,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,23,34,67.6,0,15,0,0,0

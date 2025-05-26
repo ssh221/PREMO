@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Elijah Adebayo,11,eng ENG,FW,26-034,90,0,0,0,0,4,1,0,0,33,0,0,0,0.3,0.3,0.0,1,1,7,15,46.7,0,19,0,5,1
+Carlton Morris,9,eng ENG,AM,28-056,86,1,0,1,1,1,1,1,0,30,0,0,0,0.8,0.0,0.0,1,0,19,23,82.6,2,20,4,3,1
+Cauley Woodrow,10,eng ENG,AM,29-070,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,1,4,0,0,0
+Jordan Clark,18,eng ENG,AM,30-141,52,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,8,15,53.3,0,12,1,0,0
+Tahith Chong,14,nl NED,AM,24-068,38,0,0,0,0,1,0,0,0,24,0,0,2,0.0,0.0,0.3,4,0,15,18,83.3,4,19,4,2,2
+Ross Barkley,6,eng ENG,CM,30-067,90,0,0,0,0,3,0,0,0,82,1,1,2,0.1,0.1,0.2,6,0,59,72,81.9,8,51,0,2,2
+Albert Sambi Lokonga,28,be BEL,CM,24-111,90,0,0,0,0,0,0,0,0,90,3,1,1,0.0,0.0,0.0,1,0,74,81,91.4,12,62,9,1,0
+Alfie Doughty,45,eng ENG,WB,24-051,86,0,0,0,0,2,0,0,0,88,3,0,0,0.1,0.1,0.4,14,0,57,81,70.4,8,50,6,2,1
+Luke Berry,8,eng ENG,WB,31-213,4,0,0,0,0,1,0,0,0,9,0,0,0,0.2,0.2,0.0,0,0,6,7,85.7,0,5,1,0,0
+Chiedozie Ogbene,7,ie IRL,WB,26-285,90,0,0,0,0,1,0,0,0,79,0,0,0,0.0,0.0,0.1,4,0,59,74,79.7,8,44,6,1,1
+Amari'i Bell,29,jm JAM,CB,29-281,90,0,0,0,0,0,0,0,0,88,7,2,0,0.0,0.0,0.0,2,0,66,75,88.0,14,52,3,0,0
+Gabriel Osho,2,ng NGA,CB,25-180,90,0,0,0,0,2,0,0,0,70,2,3,0,0.1,0.1,0.0,0,0,51,57,89.5,3,48,1,1,0
+Reece Burke,16,eng ENG,CB,27-161,67,0,0,0,0,3,1,0,0,59,0,0,0,0.1,0.1,0.0,2,0,42,51,82.4,3,41,3,1,0
+Andros Townsend,30,eng ENG,CB,32-209,23,0,0,0,0,1,1,0,0,31,0,0,0,0.0,0.0,0.0,1,0,17,28,60.7,0,22,4,1,0
+Thomas Kaminski,24,be BEL,GK,31-110,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,32,34,94.1,0,18,0,0,0

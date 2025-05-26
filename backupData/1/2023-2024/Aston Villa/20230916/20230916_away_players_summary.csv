@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Odsonne Édouard,22,fr FRA,"AM,FW",25-243,89,1,0,0,0,1,1,0,0,45,4,1,1,0.3,0.3,0.1,3,0,14,26,53.8,4,22,3,4,0
+Naouirou Ahamada,29,fr FRA,LW,21-171,1,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,5,8,62.5,0,8,2,0,0
+Eberechi Eze,10,eng ENG,"LW,FW,AM",25-079,90,0,0,0,0,4,2,1,0,52,1,0,1,0.4,0.4,0.0,1,0,31,37,83.8,5,36,4,11,7
+Jeffrey Schlupp,15,gh GHA,"RW,LM",30-267,90,0,0,0,0,0,0,0,0,38,3,0,1,0.0,0.0,0.0,1,0,15,23,65.2,3,19,0,2,0
+Will Hughes,19,eng ENG,"DM,CM",28-152,90,0,0,0,0,0,0,1,0,57,5,1,6,0.0,0.0,0.0,0,0,33,39,84.6,0,20,0,3,2
+Cheick Doucouré,28,ml MLI,"DM,CM",23-251,89,0,0,0,0,0,0,0,0,48,4,4,3,0.0,0.0,0.3,3,1,31,35,88.6,10,20,3,3,3
+Jesurun Rak Sakyi,49,eng ENG,DM,20-346,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0
+Jordan Ayew,9,gh GHA,RM,32-005,24,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,1,0
+Jean-Philippe Mateta,14,fr FRA,FW,26-080,66,0,1,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.3,2,1,7,12,58.3,1,15,1,3,0
+Tyrick Mitchell,3,eng ENG,LB,24-015,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,0,0,35,46,76.1,0,23,2,1,1
+Chris Richards,26,us USA,CB,23-172,90,0,0,0,0,0,0,0,0,36,1,1,3,0.0,0.0,0.0,0,0,20,24,83.3,0,13,0,0,0
+Joachim Andersen,16,dk DEN,CB,27-108,90,0,0,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.4,1,0,22,34,64.7,3,18,1,0,0
+Joel Ward,2,eng ENG,RB,33-322,90,0,0,0,0,1,0,1,0,38,2,1,2,0.4,0.4,0.0,0,0,20,30,66.7,1,12,1,0,0
+Sam Johnstone,1,eng ENG,GK,30-175,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,12,22,54.5,0,14,0,0,0

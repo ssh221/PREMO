@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cristiano Ronaldo,7,pt POR,FW,36-328,89,1,1,0,0,7,1,0,0,45,1,0,1,1.9,1.9,0.1,2,1,22,34,64.7,3,19,5,0,0
+Fred,17,br BRA,FW,28-300,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Edinson Cavani,21,uy URU,FW,34-319,90,0,0,0,0,1,0,0,0,25,0,0,0,0.1,0.1,0.1,1,0,17,21,81.0,3,11,0,1,1
+Jadon Sancho,25,eng ENG,AM,21-280,90,0,0,0,0,1,0,0,0,61,2,0,1,0.1,0.1,0.0,4,0,46,51,90.2,6,38,7,3,0
+Mason Greenwood,11,eng ENG,AM,20-090,80,0,0,0,0,4,2,0,0,52,1,0,0,0.2,0.2,0.2,6,1,31,43,72.1,2,36,4,2,2
+Diogo Dalot,20,pt POR,AM,22-287,10,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,7,14,50.0,1,9,3,0,0
+Nemanja Matić,31,rs SRB,DM,33-151,90,0,0,0,0,0,0,0,0,62,0,0,0,0.0,0.0,0.0,2,0,51,57,89.5,6,40,0,0,0
+Scott McTominay,39,sct SCO,DM,25-022,90,1,0,0,0,3,3,0,0,69,0,1,0,0.1,0.1,0.2,5,1,43,57,75.4,8,46,0,1,1
+Luke Shaw,23,eng ENG,LB,26-171,90,0,0,0,0,2,0,0,0,83,2,1,1,0.1,0.1,0.7,7,0,56,75,74.7,6,44,4,0,0
+Harry Maguire,5,eng ENG,CB,28-300,90,0,0,0,0,0,0,0,0,52,0,1,0,0.0,0.0,0.0,2,0,35,46,76.1,3,25,0,0,0
+Eric Bailly,3,ci CIV,CB,27-262,65,0,0,0,0,0,0,0,0,42,2,2,2,0.0,0.0,0.0,1,0,27,34,79.4,2,20,0,0,0
+Raphaël Varane,19,fr FRA,CB,28-249,25,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,2,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,24-034,90,0,0,0,0,0,0,0,0,79,0,0,2,0.0,0.0,0.0,3,0,52,65,80.0,3,37,0,2,2
+David de Gea,1,es ESP,GK,31-053,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,10,29,34.5,0,15,0,0,0

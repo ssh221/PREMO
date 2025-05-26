@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cody Gakpo,18,nl NED,FW,23-302,78,2,0,0,0,3,2,0,0,39,1,0,1,0.3,0.3,0.1,3,1,15,25,60.0,1,22,0,6,1
+Roberto Firmino,9,br BRA,FW,31-154,12,1,1,0,0,1,1,0,0,3,0,0,0,0.3,0.3,0.3,0,0,0,0,,0,2,0,0,0
+Darwin Núñez,27,uy URU,LW,23-254,78,2,0,0,0,4,2,0,0,31,0,0,0,0.9,0.9,0.0,1,0,8,21,38.1,1,21,2,3,1
+Diogo Jota,20,pt POR,LW,26-091,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,1,0
+Mohamed Salah,11,eg EGY,RW,30-263,90,2,2,0,0,3,2,1,0,53,1,0,3,0.7,0.7,0.6,6,3,24,34,70.6,7,41,2,4,1
+Jordan Henderson,14,eng ENG,LM,32-261,77,0,1,0,0,1,0,0,0,52,2,1,2,0.1,0.1,0.1,3,1,38,44,86.4,2,28,0,0,0
+Stefan Bajcetic,43,es ESP,LM,18-134,13,0,0,0,0,0,0,0,0,9,0,2,0,0.0,0.0,0.0,0,0,5,6,83.3,0,6,1,2,2
+Fabinho,3,br BRA,CM,29-133,78,0,0,0,0,0,0,1,0,44,0,3,1,0.0,0.0,0.0,3,1,33,39,84.6,9,16,0,0,0
+James Milner,7,eng ENG,CM,37-060,12,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,1,5,5,100.0,1,2,1,0,0
+Harvey Elliott,19,eng ENG,RM,19-335,84,0,1,0,0,3,1,0,0,67,4,1,2,0.2,0.2,0.5,5,2,45,55,81.8,11,35,3,1,1
+Curtis Jones,17,eng ENG,RM,22-034,6,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,1,3,3,100.0,1,3,0,0,0
+Andrew Robertson,26,sct SCO,LB,28-359,90,0,1,0,0,2,0,0,0,74,4,1,1,0.2,0.2,0.3,4,1,40,60,66.7,5,31,3,2,1
+Virgil van Dijk,4,nl NED,CB,31-240,90,0,0,0,0,0,0,0,0,52,1,0,0,0.0,0.0,0.0,0,0,41,47,87.2,5,27,0,0,0
+Ibrahima Konaté,5,fr FRA,CB,23-284,90,0,0,0,0,1,0,0,0,59,0,0,1,0.2,0.2,0.0,0,0,43,49,87.8,1,35,0,1,1
+Trent Alexander-Arnold,66,eng ENG,RB,24-149,90,0,0,0,0,0,0,0,0,77,4,1,0,0.0,0.0,0.3,2,0,54,73,74.0,11,35,0,1,1
+Alisson,1,br BRA,GK,30-154,90,0,0,0,0,0,0,0,0,54,0,0,1,0.0,0.0,0.0,1,1,40,51,78.4,0,39,0,0,0

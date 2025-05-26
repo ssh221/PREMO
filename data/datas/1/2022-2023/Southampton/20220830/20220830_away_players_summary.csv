@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kai Havertz,29,de GER,FW,23-080,65,0,0,0,0,2,1,0,0,37,1,0,0,0.2,0.2,0.0,1,0,18,24,75.0,2,18,2,3,0
+Christian Pulisic,10,us USA,WB,23-346,25,0,0,0,0,0,0,1,0,25,3,0,0,0.0,0.0,0.0,0,0,11,16,68.8,1,13,1,1,0
+Raheem Sterling,17,eng ENG,"FW,AM",27-265,90,1,0,0,0,2,2,0,0,41,0,0,0,0.5,0.5,0.3,4,0,22,30,73.3,3,29,2,3,1
+Mason Mount,19,eng ENG,"AM,CM",23-232,90,0,0,0,0,2,0,0,0,61,3,0,1,0.1,0.1,0.3,3,0,29,43,67.4,9,33,4,0,0
+Hakim Ziyech,22,ma MAR,AM,29-164,90,0,0,0,0,1,0,0,0,55,3,2,0,0.1,0.1,0.0,3,0,28,40,70.0,5,39,0,5,2
+Jorginho,5,it ITA,DM,30-253,66,0,0,0,0,0,0,0,0,57,4,5,0,0.0,0.0,0.0,1,0,38,46,82.6,7,29,1,0,0
+Ben Chilwell,21,eng ENG,WB,25-252,24,0,0,0,0,0,0,0,0,27,3,1,1,0.0,0.0,0.0,0,0,15,20,75.0,0,8,1,0,0
+Ruben Loftus-Cheek,12,eng ENG,DM,26-219,45,0,0,0,0,0,0,0,0,35,1,2,0,0.0,0.0,0.0,0,0,23,30,76.7,3,20,0,0,0
+Mateo Kovačić,8,hr CRO,"CM,AM",28-116,45,0,0,0,0,1,0,0,0,51,3,3,1,0.0,0.0,0.0,3,0,39,43,90.7,7,29,1,0,0
+Marc Cucurella,32,es ESP,"LB,CB",24-039,90,0,0,0,0,0,0,0,0,89,1,1,5,0.0,0.0,0.0,1,0,66,72,91.7,7,46,2,2,0
+Kalidou Koulibaly,26,sn SEN,CB,31-071,90,0,0,0,0,0,0,0,0,87,1,1,1,0.0,0.0,0.0,0,0,61,77,79.2,6,52,2,0,0
+Thiago Silva,6,br BRA,CB,37-342,90,0,0,0,0,1,0,0,0,97,0,3,4,0.0,0.0,0.0,0,0,70,81,86.4,5,55,0,1,1
+César Azpilicueta,28,es ESP,RB,33-002,65,0,0,0,0,0,0,0,0,73,2,2,3,0.0,0.0,0.2,2,0,49,64,76.6,4,24,2,0,0
+Armando Broja,18,al ALB,FW,20-354,25,0,0,0,0,1,1,0,0,8,1,0,1,0.2,0.2,0.0,0,0,2,5,40.0,0,4,1,1,1
+Edouard Mendy,16,sn SEN,GK,30-182,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,27,27,100.0,0,19,0,0,0

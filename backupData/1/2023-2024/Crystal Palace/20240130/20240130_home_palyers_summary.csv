@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jean-Philippe Mateta,14,fr FRA,FW,26-216,89,0,0,0,0,1,0,0,0,33,1,0,0,0.1,0.1,0.0,1,1,18,23,78.3,0,24,0,1,0
+Odsonne Édouard,22,fr FRA,FW,26-014,1,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,4,0,2,0
+Jordan Ayew,9,gh GHA,"LW,RW",32-141,90,0,0,0,0,2,0,0,0,60,5,2,2,0.1,0.1,0.1,5,0,33,40,82.5,6,40,4,5,0
+Michael Olise,7,fr FRA,RW,22-049,68,1,2,0,0,4,1,0,0,59,0,1,1,0.2,0.2,0.7,6,3,25,44,56.8,4,42,6,6,3
+Jeffrey Schlupp,15,gh GHA,LW,31-038,22,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,3,9,33.3,1,5,0,1,1
+Jefferson Lerma,8,co COL,"LM,RM",29-097,90,0,0,0,0,0,0,1,0,57,1,0,2,0.0,0.0,0.0,0,0,36,45,80.0,6,25,1,0,0
+Will Hughes,19,eng ENG,CM,28-288,90,0,0,0,0,0,0,0,0,61,5,2,2,0.0,0.0,0.0,1,0,38,47,80.9,3,33,2,2,1
+Eberechi Eze,10,eng ENG,"RM,LM",25-215,76,2,0,0,0,4,3,0,0,47,1,0,0,0.8,0.8,0.1,4,1,30,38,78.9,4,29,6,5,3
+David Ozoh,52,eng ENG,RM,18-244,14,0,0,0,0,0,0,0,0,11,3,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,3,1,0,0
+Tyrick Mitchell,3,eng ENG,LB,24-151,90,0,0,0,0,0,0,0,0,77,8,0,2,0.0,0.0,0.0,1,0,47,58,81.0,9,29,1,3,1
+Marc Guéhi,6,eng ENG,CB,23-201,90,0,0,0,0,0,0,0,0,73,1,2,0,0.0,0.0,0.1,2,0,60,68,88.2,7,47,1,1,0
+Joachim Andersen,16,dk DEN,CB,27-244,90,0,0,0,0,1,0,0,0,79,0,0,0,0.0,0.0,0.0,0,0,62,74,83.8,6,50,4,0,0
+Chris Richards,26,us USA,RB,23-308,90,0,0,0,0,0,0,0,0,67,3,1,3,0.0,0.0,0.0,1,1,43,56,76.8,5,33,0,0,0
+Dean Henderson,30,eng ENG,GK,26-324,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,17,21,81.0,0,15,0,0,0

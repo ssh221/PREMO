@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Morgan Gibbs-White,10,eng ENG,FW,23-316,90,0,0,0,0,1,0,0,0,39,3,0,2,0.0,0.0,0.0,1,0,13,28,46.4,4,20,3,4,1
+Anthony Elanga,21,se SWE,FW,21-226,83,0,0,0,0,1,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,7,13,53.8,0,12,1,1,0
+Chris Wood,11,nz NZL,FW,32-002,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0
+Cheikhou Kouyaté,8,sn SEN,CM,33-353,62,0,0,0,0,2,1,1,0,27,2,1,1,0.2,0.2,0.0,3,1,15,19,78.9,2,10,0,0,0
+Danilo,28,br BRA,CM,22-224,28,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,0,0
+Orel Mangala,5,be BEL,CM,25-266,90,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,25,31,80.6,3,16,2,3,2
+Ryan Yates,22,eng ENG,CM,26-018,90,0,0,0,0,1,0,0,0,41,1,2,1,0.1,0.1,0.0,1,0,20,29,69.0,0,18,0,2,1
+Harry Toffolo,15,eng ENG,WB,28-112,90,1,0,0,0,2,1,0,0,39,0,0,2,0.9,0.9,0.0,1,0,17,31,54.8,2,13,0,0,0
+Neco Williams,7,wls WAL,WB,22-240,90,0,1,0,0,0,0,0,0,52,5,2,6,0.0,0.0,0.9,3,1,18,27,66.7,2,16,1,2,1
+Moussa Niakhate,19,sn SEN,CB,27-276,90,0,0,0,0,0,0,0,0,56,3,3,1,0.0,0.0,0.1,2,0,31,45,68.9,5,29,3,0,0
+Murillo,40,br BRA,CB,21-158,76,0,0,0,0,0,0,0,0,56,3,1,1,0.0,0.0,0.0,0,0,34,40,85.0,1,26,1,2,1
+Felipe,18,br BRA,CB,34-207,14,0,0,0,0,1,0,0,0,7,1,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,1,0,0,0
+Willy Boly,30,ci CIV,CB,32-309,90,0,0,0,0,0,0,0,0,51,2,1,1,0.0,0.0,0.0,0,0,29,44,65.9,3,21,2,0,0
+Matt Turner,1,us USA,GK,29-168,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,15,25,60.0,0,13,0,0,0

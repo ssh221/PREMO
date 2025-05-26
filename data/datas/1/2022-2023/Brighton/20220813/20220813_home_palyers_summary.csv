@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Welbeck,18,eng ENG,FW,31-260,90,0,0,0,0,1,0,0,0,17,1,0,0,0.1,0.1,0.0,2,0,8,9,88.9,1,8,0,0,0
+Pascal Groß,13,de GER,"FW,AM",31-059,90,0,0,0,0,1,0,0,0,53,0,0,0,0.5,0.5,0.4,4,0,31,48,64.6,7,29,2,0,0
+Adam Lallana,14,eng ENG,AM,34-095,64,0,0,0,0,2,2,0,0,34,1,1,1,0.3,0.3,0.0,3,0,22,26,84.6,2,18,2,1,0
+Enock Mwepu,8,zm ZAM,"AM,FW",24-224,26,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.1,1,0,9,12,75.0,2,8,2,0,0
+Moisés Caicedo,25,ec ECU,CM,20-284,90,0,0,0,0,1,1,0,0,52,4,2,0,0.0,0.0,0.0,1,0,33,42,78.6,9,18,0,1,0
+Alexis Mac Allister,10,ar ARG,CM,23-232,90,0,0,0,0,2,0,1,0,61,7,0,0,0.0,0.0,0.0,0,0,46,53,86.8,9,39,1,0,0
+Leandro Trossard,11,be BEL,WB,27-252,74,0,0,0,0,2,1,0,0,42,0,0,1,0.1,0.1,0.0,2,0,21,34,61.8,6,23,5,2,1
+Tariq Lamptey,2,gh GHA,WB,21-317,16,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,1,8,1,1,0
+Solly March,7,eng ENG,WB,28-024,73,0,0,0,0,3,1,1,0,49,0,2,0,0.3,0.3,0.1,2,0,21,39,53.8,4,21,2,0,0
+Kaoru Mitoma,22,jp JPN,WB,25-085,17,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.5,3,0,6,8,75.0,2,4,1,2,2
+Adam Webster,4,eng ENG,CB,27-221,90,0,0,0,0,0,0,0,0,44,1,0,1,0.0,0.0,0.0,1,0,27,36,75.0,1,12,0,1,0
+Lewis Dunk,5,eng ENG,CB,30-265,90,0,0,0,0,0,0,0,0,46,0,2,0,0.0,0.0,0.0,0,0,26,32,81.3,3,15,0,0,0
+Joël Veltman,34,nl NED,CB,30-210,90,0,0,0,0,1,0,0,0,60,2,1,3,0.1,0.1,0.0,4,0,43,51,84.3,1,19,1,0,0
+Robert Sánchez,1,es ESP,GK,24-268,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,14,0,0,0

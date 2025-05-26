@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,26-208,90,0,1,0,0,2,0,0,0,33,1,1,0,0.1,0.1,0.5,3,1,13,22,59.1,1,21,3,3,0
+Alexis Sánchez,7,cl CHI,LW,29-003,88,1,0,0,0,2,1,0,0,60,2,1,0,0.3,0.3,0.2,5,0,27,48,56.3,5,44,3,2,1
+Theo Walcott,14,eng ENG,RW,28-281,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,1,1,1,1
+Alex Iwobi,17,ng NGA,RW,21-233,77,0,1,0,0,0,0,1,0,40,0,0,1,0.0,0.0,0.0,2,1,20,32,62.5,2,28,2,0,0
+Danny Welbeck,23,eng ENG,"RW,LW",27-026,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,1,2,0,0,0
+Mesut Özil,11,de GER,AM,29-068,90,1,0,0,0,3,1,0,0,77,1,1,0,0.6,0.6,0.0,2,1,51,67,76.1,12,62,7,0,0
+Granit Xhaka,29,ch SUI,DM,25-086,90,1,0,0,0,3,1,0,0,70,2,1,0,0.1,0.1,0.0,2,2,48,61,78.7,6,48,2,0,0
+Jack Wilshere,10,eng ENG,DM,25-355,90,0,0,0,0,0,0,0,0,53,2,2,2,0.0,0.0,0.0,3,0,33,42,78.6,8,38,7,4,4
+Ainsley Maitland-Niles,30,eng ENG,LB,20-115,90,0,0,0,0,0,0,0,0,66,2,2,1,0.0,0.0,0.0,1,0,45,54,83.3,0,38,0,0,0
+Nacho Monreal,18,es ESP,CB,31-299,45,0,0,0,0,0,0,0,0,43,0,0,2,0.0,0.0,0.0,0,0,34,38,89.5,4,22,1,1,1
+Shkodran Mustafi,20,de GER,CB,25-249,45,0,0,0,0,0,0,0,0,44,2,1,0,0.0,0.0,0.0,1,0,34,40,85.0,4,26,0,0,0
+Laurent Koscielny,6,fr FRA,CB,32-103,90,0,0,0,0,0,0,0,0,67,2,3,1,0.0,0.0,0.0,0,0,40,54,74.1,2,35,0,0,0
+Héctor Bellerín,24,es ESP,RB,22-278,90,0,1,0,0,1,1,0,0,67,4,0,1,0.0,0.0,0.3,1,1,43,56,76.8,7,39,0,1,1
+Petr Čech,33,cz CZE,GK,35-216,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,25,41,61.0,0,26,0,0,0

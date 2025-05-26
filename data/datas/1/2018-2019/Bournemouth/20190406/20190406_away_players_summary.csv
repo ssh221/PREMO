@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ashley Barnes,10,eng ENG,FW,29-158,90,1,0,0,0,2,1,1,0,39,0,0,2,0.4,0.4,0.0,3,0,15,24,62.5,4,16,0,0,0
+Chris Wood,11,nz NZL,FW,27-120,90,1,1,0,0,3,1,0,0,32,0,0,0,0.5,0.5,0.4,4,2,19,24,79.2,1,11,0,1,1
+Dwight McNeil,31,eng ENG,LM,19-135,90,0,0,0,0,1,0,0,0,42,3,2,2,0.1,0.1,0.1,2,1,17,31,54.8,2,20,3,1,1
+Jack Cork,4,eng ENG,CM,29-285,90,0,0,0,0,0,0,0,0,41,0,1,1,0.0,0.0,0.0,1,0,25,30,83.3,2,14,1,1,1
+Ashley Westwood,18,eng ENG,CM,29-005,90,1,1,0,0,2,1,0,0,59,1,0,1,0.1,0.1,0.4,5,2,31,48,64.6,6,17,0,2,1
+Jeff Hendrick,13,ie IRL,RM,27-065,81,0,0,0,0,0,0,1,0,23,1,0,0,0.0,0.0,0.0,1,0,12,19,63.2,3,6,0,0,0
+Jóhann Berg Guðmundsson,7,is ISL,RM,28-161,9,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0
+Charlie Taylor,3,eng ENG,LB,25-200,90,0,0,0,0,0,0,0,0,39,0,0,2,0.0,0.0,0.0,1,1,23,32,71.9,1,10,3,0,0
+Ben Mee,6,eng ENG,CB,29-197,90,0,0,0,0,2,0,1,0,39,1,1,0,0.2,0.2,0.0,0,0,24,29,82.8,9,12,0,1,1
+James Tarkowski,5,eng ENG,CB,26-138,90,0,0,0,0,0,0,0,0,40,3,0,0,0.0,0.0,0.0,0,0,18,30,60.0,2,15,0,0,0
+Matthew Lowton,2,eng ENG,RB,29-301,90,0,0,0,0,0,0,0,0,46,2,0,1,0.0,0.0,0.0,0,0,23,37,62.2,0,10,0,1,1
+Tom Heaton,1,eng ENG,GK,32-356,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,14,36,38.9,0,9,0,0,0

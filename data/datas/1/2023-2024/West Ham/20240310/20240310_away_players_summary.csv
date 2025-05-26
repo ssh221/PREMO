@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilson Odobert,47,fr FRA,FW,19-103,67,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.1,2,0,10,15,66.7,2,13,2,1,0
+Hannes Delcroix,44,be BEL,CB,25-011,23,0,0,0,0,0,0,1,0,11,0,1,1,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,1,1
+David Datro Fofana,23,ci CIV,FW,21-079,90,1,0,0,0,3,2,0,0,39,2,0,2,0.2,0.2,0.0,3,1,13,23,56.5,2,29,4,10,5
+Jacob Bruun Larsen,34,dk DEN,LM,25-173,45,0,0,0,0,2,1,0,0,31,0,0,2,0.0,0.0,0.0,0,0,17,21,81.0,1,17,4,4,2
+Josh Brownhill,8,eng ENG,LM,28-082,45,0,0,0,0,2,1,0,0,33,1,0,0,0.2,0.2,0.2,3,0,19,23,82.6,5,10,0,0,0
+Sander Berge,16,no NOR,CM,26-025,90,0,0,0,0,2,0,1,0,61,1,0,1,0.1,0.1,0.3,4,1,46,52,88.5,6,43,7,2,0
+Josh Cullen,24,ie IRL,CM,27-338,90,0,0,0,0,0,0,0,0,55,4,0,0,0.0,0.0,0.0,3,0,36,49,73.5,4,28,1,0,0
+Vitinho,22,br BRA,RM,24-231,89,0,0,0,0,1,0,0,0,29,2,0,2,0.0,0.0,0.0,1,0,12,17,70.6,1,12,3,4,2
+Jóhann Berg Guðmundsson,7,is ISL,RM,33-135,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0
+Charlie Taylor,3,eng ENG,LB,30-174,90,0,0,0,0,1,0,0,0,60,1,1,0,0.0,0.0,0.0,1,0,35,50,70.0,2,31,1,0,0
+Maxime Estève,33,fr FRA,CB,21-289,90,0,0,0,0,0,0,1,0,70,4,4,2,0.0,0.0,0.0,0,0,44,56,78.6,4,35,0,0,0
+Dara O'Shea,2,ie IRL,CB,25-006,90,0,0,0,0,0,0,0,0,61,0,1,1,0.0,0.0,0.0,1,0,33,49,67.3,2,25,0,0,0
+Lorenz Assignon,20,tg TOG,RB,23-262,90,0,0,0,0,0,0,1,0,45,2,2,2,0.0,0.0,0.0,0,0,19,29,65.5,1,16,1,1,0
+James Trafford,1,eng ENG,GK,21-152,90,0,0,0,0,0,0,0,0,71,0,0,0,0.0,0.0,0.0,0,0,31,71,43.7,1,38,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Taiwo Awoniyi,9,ng NGA,FW,26-182,67,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,2,9,1,0,0
+Divock Origi,27,be BEL,FW,28-298,23,0,0,0,0,1,0,0,0,5,1,0,0,0.1,0.1,0.0,1,0,2,3,66.7,0,0,0,0,0
+Callum Hudson-Odoi,14,eng ENG,LW,23-095,90,1,0,0,0,1,1,0,0,47,0,0,0,0.0,0.0,0.1,4,2,30,39,76.9,4,32,6,6,4
+Anthony Elanga,21,se SWE,RW,21-289,90,1,0,0,0,2,2,0,0,28,2,0,1,0.8,0.8,0.0,0,0,7,14,50.0,2,16,2,4,1
+Morgan Gibbs-White,10,eng ENG,"AM,DM",24-014,90,0,1,0,0,3,0,1,0,59,1,0,0,0.3,0.3,0.5,2,1,35,47,74.5,4,30,5,3,1
+Nicolás Domínguez,16,ar ARG,DM,25-227,77,0,1,0,0,2,0,0,0,64,3,0,3,0.1,0.1,0.4,3,1,45,50,90.0,3,27,0,2,1
+Danilo,28,br BRA,DM,22-287,13,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,1,0,11,12,91.7,2,9,2,0,0
+Ryan Yates,22,eng ENG,DM,26-081,72,0,0,0,0,1,0,0,0,37,3,0,0,0.0,0.0,0.0,0,0,19,27,70.4,1,12,0,0,0
+Gio Reyna,20,us USA,AM,21-089,18,0,0,0,0,1,0,0,0,17,0,1,0,0.1,0.1,0.1,0,0,11,13,84.6,0,8,1,1,1
+Nuno Tavares,3,pt POR,LB,24-015,90,0,0,0,0,2,0,0,0,58,2,0,2,0.1,0.1,0.3,3,0,38,47,80.9,5,37,2,1,1
+Murillo,40,br BRA,CB,21-221,90,0,0,0,0,0,0,0,0,50,1,1,1,0.0,0.0,0.0,2,0,25,39,64.1,6,24,1,0,0
+Moussa Niakhate,19,sn SEN,CB,27-339,90,0,0,0,0,0,0,0,0,61,3,0,1,0.0,0.0,0.0,2,0,34,52,65.4,1,31,0,0,0
+Neco Williams,7,wls WAL,RB,22-303,90,0,0,0,0,0,0,0,0,43,3,0,1,0.0,0.0,0.0,0,0,26,37,70.3,3,17,1,2,2
+Matz Sels,26,be BEL,GK,31-349,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,15,24,62.5,0,12,0,0,0

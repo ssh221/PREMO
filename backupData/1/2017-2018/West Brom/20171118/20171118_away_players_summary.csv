@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Álvaro Morata,9,es ESP,FW,25-026,90,1,1,0,0,3,2,1,0,27,0,1,0,0.5,0.5,0.5,3,2,14,18,77.8,3,24,2,3,2
+Eden Hazard,10,be BEL,FW,26-315,70,2,0,0,0,4,4,1,0,52,0,0,0,0.7,0.7,0.0,6,3,33,43,76.7,8,42,9,8,7
+Pedro,11,es ESP,FW,30-113,20,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,4,0,0,0
+Tiemoué Bakayoko,14,fr FRA,DM,23-093,90,0,0,0,0,1,0,0,0,50,1,0,1,0.1,0.1,0.0,0,0,39,42,92.9,4,34,1,4,2
+N'Golo Kanté,7,fr FRA,DM,26-234,76,0,0,0,0,0,0,0,0,79,3,2,1,0.0,0.0,0.3,4,0,65,72,90.3,6,53,3,0,0
+Willian,22,br BRA,DM,29-101,14,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,8,1,1,0
+Cesc Fàbregas,4,es ESP,DM,30-198,66,0,2,0,0,0,0,1,0,76,0,1,0,0.0,0.0,0.4,4,2,60,71,84.5,15,48,2,0,0
+Danny Drinkwater,6,eng ENG,DM,27-258,24,0,0,0,0,1,0,0,0,26,0,0,2,0.0,0.0,0.0,0,0,20,23,87.0,2,15,1,0,0
+Marcos Alonso,3,es ESP,WB,26-325,90,1,0,0,0,2,1,0,0,74,1,2,1,0.3,0.3,0.0,0,0,46,61,75.4,1,46,5,0,0
+Davide Zappacosta,21,it ITA,WB,25-160,90,0,0,0,0,0,0,0,0,70,6,1,0,0.0,0.0,0.0,0,0,48,58,82.8,0,41,5,6,2
+Gary Cahill,24,eng ENG,CB,31-334,90,0,0,0,0,0,0,0,0,76,1,2,0,0.0,0.0,0.0,0,0,59,66,89.4,2,45,0,1,1
+Andreas Christensen,27,dk DEN,CB,21-222,90,0,0,0,0,0,0,0,0,56,0,0,0,0.0,0.0,0.0,0,0,48,50,96.0,1,35,2,1,1
+César Azpilicueta,28,es ESP,CB,28-082,90,0,0,0,0,0,0,0,0,98,1,1,1,0.0,0.0,0.0,2,0,79,91,86.8,5,59,3,0,0
+Thibaut Courtois,13,be BEL,GK,25-191,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,28,37,75.7,0,17,0,0,0

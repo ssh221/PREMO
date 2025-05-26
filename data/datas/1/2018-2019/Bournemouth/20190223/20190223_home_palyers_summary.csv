@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Solanke,29,eng ENG,FW,21-162,89,0,0,0,0,6,2,0,0,39,2,1,1,0.7,0.7,0.0,3,0,13,21,61.9,0,16,2,4,2
+Lys Mousset,9,fr FRA,FW,23-015,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Joshua King,17,no NOR,FW,27-039,90,1,0,1,2,0,0,0,0,38,0,0,1,1.6,0.0,0.2,5,1,18,26,69.2,4,25,3,2,1
+Ryan Fraser,24,sct SCO,LM,24-364,90,0,0,0,0,0,0,0,0,60,2,3,1,0.0,0.0,0.1,4,0,32,49,65.3,3,37,4,1,1
+Dan Gosling,4,eng ENG,CM,29-022,90,0,0,0,0,1,0,1,0,68,5,3,0,0.0,0.0,0.4,2,0,39,54,72.2,7,29,0,1,1
+Jefferson Lerma,8,co COL,CM,24-121,90,0,0,0,0,0,0,1,0,43,1,0,2,0.0,0.0,0.0,1,0,29,35,82.9,6,21,0,1,1
+Jordon Ibe,10,eng ENG,RM,23-077,90,0,0,0,0,1,0,0,0,43,3,0,0,0.1,0.1,0.0,3,0,20,28,71.4,3,28,7,3,2
+Adam Smith,15,eng ENG,LB,27-300,90,0,0,0,0,0,0,1,0,69,0,2,1,0.0,0.0,0.0,0,0,51,60,85.0,5,42,5,1,1
+Nathan Aké,5,nl NED,CB,24-005,90,0,0,0,0,0,0,0,0,46,3,0,2,0.0,0.0,0.0,0,0,17,27,63.0,0,15,0,0,0
+Chris Mepham,33,wls WAL,CB,21-110,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,0,0,35,49,71.4,2,38,0,2,2
+Nathaniel Clyne,23,eng ENG,RB,27-324,90,0,0,0,0,0,0,0,0,61,5,3,1,0.0,0.0,0.0,1,1,34,46,73.9,2,29,0,1,0
+Artur Boruc,1,pl POL,GK,39-003,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,16,30,53.3,0,14,0,0,0

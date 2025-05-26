@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Liam Delap,19,eng ENG,FW,22-084,67,0,0,0,0,2,1,1,0,12,0,0,0,0.2,0.2,0.1,2,0,3,4,75.0,0,12,1,2,1
+George Hirst,27,sct SCO,FW,26-077,23,1,0,0,0,1,1,1,0,6,0,0,0,0.3,0.3,0.1,1,0,3,4,75.0,1,1,0,0,0
+Julio Enciso,9,py PAR,"LW,AM",21-100,89,1,0,0,0,6,3,0,0,33,0,0,1,0.3,0.3,0.0,2,1,13,17,76.5,0,17,3,7,2
+Axel Tuanzebe,40,cd COD,RB,27-170,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,0,0
+Omari Hutchinson,20,eng ENG,"RW,RM",21-185,90,0,0,0,0,1,0,0,0,39,1,0,1,0.0,0.0,0.2,4,0,23,28,82.1,2,26,3,3,1
+Conor Chaplin,10,eng ENG,AM,28-076,67,0,0,0,0,0,0,1,0,21,0,0,0,0.0,0.0,0.1,2,0,13,20,65.0,1,8,1,1,1
+Jack Clarke,47,eng ENG,"LW,LM",24-161,23,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,6,6,100.0,2,8,2,4,1
+Jack Taylor,14,ie IRL,DM,26-314,81,0,0,0,0,0,0,0,0,44,3,2,1,0.0,0.0,0.0,1,1,33,36,91.7,2,21,0,0,0
+Jens Cajuste,12,se SWE,"DM,CM",25-266,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,1,0,1,1
+Sam Morsy,5,eg EGY,DM,33-235,67,0,0,0,0,0,0,1,0,30,2,0,0,0.0,0.0,0.0,1,0,20,25,80.0,1,11,2,1,0
+Kalvin Phillips,8,eng ENG,"DM,CM",29-152,23,0,0,0,0,1,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,10,14,71.4,2,8,0,0,0
+Jacob Greaves,24,eng ENG,LB,24-233,90,0,0,0,0,0,0,0,0,61,5,0,0,0.0,0.0,0.0,0,0,36,44,81.8,2,14,1,0,0
+Cameron Burgess,15,au AUS,CB,29-194,90,0,1,0,0,0,0,0,0,70,1,1,0,0.0,0.0,0.0,1,1,48,58,82.8,1,25,0,0,0
+Luke Woolfenden,6,eng ENG,CB,26-194,90,0,0,0,0,0,0,0,0,56,0,1,0,0.0,0.0,0.0,0,0,46,49,93.9,0,27,0,0,0
+Dara O'Shea,26,ie IRL,"RB,CB",26-060,90,0,0,0,0,1,0,0,0,44,2,0,0,0.0,0.0,0.0,2,1,28,36,77.8,1,10,0,0,0
+Alex Palmer,31,eng ENG,GK,28-266,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,34,40,85.0,0,23,0,0,0

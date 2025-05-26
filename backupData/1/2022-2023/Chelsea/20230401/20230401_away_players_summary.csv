@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,27-092,90,1,0,0,0,2,1,0,0,31,0,0,1,0.8,0.8,0.0,0,0,10,17,58.8,0,13,1,4,2
+Emi Buendía,10,ar ARG,FW,26-097,75,0,0,0,0,0,0,0,0,23,1,1,1,0.0,0.0,0.1,2,0,15,17,88.2,1,14,2,3,1
+Leon Bailey,31,jm JAM,FW,25-235,15,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,1,1
+Jacob Ramsey,41,eng ENG,LM,21-308,90,0,1,0,0,0,0,0,0,43,5,2,2,0.0,0.0,0.0,3,2,19,26,73.1,2,22,5,6,2
+Douglas Luiz,6,br BRA,CM,24-327,86,0,0,0,0,0,0,0,0,36,1,2,0,0.0,0.0,0.0,0,0,21,31,67.7,3,12,0,2,1
+Leander Dendoncker,32,be BEL,CM,27-351,4,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Boubacar Kamara,44,fr FRA,CM,23-129,45,0,0,0,0,0,0,1,0,17,2,0,1,0.0,0.0,0.0,0,0,8,11,72.7,0,5,0,0,0
+Calum Chambers,16,eng ENG,RB,28-071,45,0,0,0,0,0,0,1,0,23,5,1,0,0.0,0.0,0.0,1,0,8,14,57.1,1,5,0,0,0
+John McGinn,7,sct SCO,"CM,RM",28-165,90,1,0,0,0,2,1,0,0,30,4,0,0,0.1,0.1,0.4,2,0,13,16,81.3,4,15,1,5,4
+Álex Moreno,15,es ESP,LB,29-297,88,0,0,0,0,0,0,0,0,51,3,1,1,0.0,0.0,0.0,0,0,29,34,85.3,0,24,1,2,0
+Lucas Digne,27,fr FRA,LB,29-255,2,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,1,0,0
+Tyrone Mings,5,eng ENG,CB,30-019,90,0,0,0,0,0,0,0,0,43,0,1,3,0.0,0.0,0.0,0,0,29,32,90.6,0,20,0,0,0
+Ezri Konsa,4,eng ENG,CB,25-160,90,0,0,0,0,0,0,0,0,34,3,0,1,0.0,0.0,0.0,0,0,25,27,92.6,0,16,0,0,0
+Ashley Young,18,eng ENG,"RM,RB",37-266,90,0,0,0,0,0,0,0,0,36,0,0,2,0.0,0.0,0.0,0,0,13,24,54.2,1,13,0,1,0
+Emiliano Martínez,1,ar ARG,GK,30-211,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,28,43,65.1,0,19,0,0,0

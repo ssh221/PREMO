@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Taiwo Awoniyi,9,ng NGA,FW,26-085,81,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,3,1,12,14,85.7,2,9,1,0,0
+Danilo,28,br BRA,FW,22-190,9,0,0,0,0,0,0,1,0,3,0,1,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,1,0
+Anthony Elanga,21,se SWE,LW,21-192,90,0,0,0,0,0,0,0,0,39,1,2,2,0.0,0.0,0.0,1,1,15,23,65.2,1,22,6,2,0
+Morgan Gibbs-White,10,eng ENG,RW,23-282,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,12,24,50.0,1,14,0,1,0
+Nicolás Domínguez,16,ar ARG,LM,25-130,86,0,0,0,0,3,1,0,0,35,8,0,0,0.3,0.3,0.0,1,0,15,21,71.4,2,13,0,0,0
+Ryan Yates,22,eng ENG,LM,25-349,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Orel Mangala,5,be BEL,CM,25-232,90,1,0,0,0,1,1,0,0,30,1,1,1,0.0,0.0,0.0,0,0,20,21,95.2,0,13,0,1,1
+Ibrahim Sangaré,6,ci CIV,RM,25-338,90,0,0,0,0,0,0,0,0,29,2,0,2,0.0,0.0,0.0,2,0,12,21,57.1,1,12,0,0,0
+Harry Toffolo,15,eng ENG,LB,28-078,70,0,2,0,0,0,0,0,0,31,3,0,1,0.0,0.0,0.1,2,2,17,23,73.9,1,16,0,0,0
+Serge Aurier,24,ci CIV,RB,30-316,20,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,2,1,0,0,0
+Murillo,40,br BRA,CB,21-124,90,0,0,0,0,0,0,0,0,37,1,1,1,0.0,0.0,0.0,0,0,18,26,69.2,0,22,0,0,0
+Moussa Niakhate,19,sn SEN,CB,27-242,90,0,0,0,0,0,0,0,0,41,5,2,2,0.0,0.0,0.0,0,0,17,24,70.8,0,13,0,0,0
+Ola Aina,43,ng NGA,"RB,LB",27-028,85,1,0,0,0,1,1,0,0,40,3,0,1,0.0,0.0,0.2,1,0,18,27,66.7,2,21,1,1,1
+Neco Williams,7,wls WAL,LB,22-206,5,0,0,0,0,0,0,0,0,7,4,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,2,0,0,0
+Odisseas Vlachodimos,23,gr GRE,GK,29-193,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,21,31,67.7,0,10,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,27-310,90,0,0,0,0,2,1,0,0,29,1,0,0,0.3,0.3,0.0,1,0,18,22,81.8,1,18,3,1,0
+Moussa Diaby,19,fr FRA,FW,24-121,90,0,0,0,0,1,1,0,0,41,2,1,0,0.0,0.0,0.3,4,0,28,32,87.5,2,26,2,3,0
+Nicolò Zaniolo,22,it ITA,LM,24-126,45,0,0,0,0,2,1,0,0,19,0,0,1,0.2,0.2,0.0,2,0,7,11,63.6,3,18,1,2,1
+Leon Bailey,31,jm JAM,RM,26-088,45,0,0,0,0,3,0,0,0,32,0,0,1,0.3,0.3,0.0,1,0,13,20,65.0,0,25,3,6,2
+Douglas Luiz,6,br BRA,CM,25-180,85,0,0,0,0,1,0,0,0,101,1,1,2,0.0,0.0,0.0,2,0,82,93,88.2,8,71,3,2,1
+Leander Dendoncker,32,be BEL,CM,28-204,5,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0
+Boubacar Kamara,44,fr FRA,"CM,RB",23-347,77,0,0,0,0,0,0,1,0,81,1,1,0,0.0,0.0,0.0,1,0,75,76,98.7,8,66,3,2,0
+Diego Carlos,3,br BRA,CB,30-235,13,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,23,91.3,3,22,0,0,0
+John McGinn,7,sct SCO,"LM,RM",29-018,90,0,0,0,0,1,0,0,0,59,0,1,0,0.1,0.1,0.3,4,0,40,49,81.6,11,46,1,4,2
+Lucas Digne,12,fr FRA,LB,30-108,90,0,0,0,0,1,0,0,0,91,3,1,0,0.0,0.0,0.4,7,0,67,83,80.7,10,65,5,3,2
+Pau Torres,14,es ESP,CB,26-293,90,0,0,0,0,0,0,0,0,115,1,0,2,0.0,0.0,0.0,1,0,94,105,89.5,14,93,6,2,1
+Ezri Konsa,4,eng ENG,"CB,RB",26-013,90,0,0,0,0,0,0,0,0,84,1,2,1,0.0,0.0,0.0,0,0,75,80,93.8,10,66,1,2,2
+Matty Cash,2,pl POL,RB,26-090,58,0,0,0,0,1,0,0,0,48,0,1,0,0.1,0.1,0.1,2,0,37,40,92.5,1,41,1,2,0
+Youri Tielemans,8,be BEL,CM,26-182,32,0,0,0,0,1,0,0,0,46,0,0,0,0.1,0.1,0.0,1,0,40,44,90.9,14,37,3,1,1
+Emiliano Martínez,1,ar ARG,GK,31-064,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,27,28,96.4,1,21,0,0,0

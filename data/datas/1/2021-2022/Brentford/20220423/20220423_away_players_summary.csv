@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,28-269,90,0,0,0,0,4,0,0,0,33,1,0,1,0.2,0.2,0.0,1,0,10,16,62.5,2,19,2,2,0
+Son Heung-min,7,kr KOR,LW,29-289,90,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.2,4,0,37,51,72.5,7,36,6,5,5
+Dejan Kulusevski,21,se SWE,"RW,RM",21-363,90,0,0,0,0,2,0,0,0,50,2,2,1,0.1,0.1,0.0,2,0,30,37,81.1,2,28,3,1,1
+Ryan Sessegnon,19,eng ENG,LM,21-340,73,0,0,0,0,0,0,0,0,51,1,0,0,0.0,0.0,0.0,0,0,24,39,61.5,1,20,4,0,0
+Davinson Sánchez,6,co COL,CB,25-315,17,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,9,1,0,0
+Pierre Højbjerg,5,dk DEN,CM,26-261,90,0,0,0,0,0,0,0,0,94,2,2,4,0.0,0.0,0.1,4,0,74,81,91.4,10,50,2,2,1
+Rodrigo Bentancur,30,uy URU,CM,24-302,90,0,0,0,0,3,0,1,0,81,0,1,2,0.3,0.3,0.0,2,0,63,69,91.3,8,52,4,1,1
+Emerson,12,br BRA,RM,23-099,85,0,0,0,0,0,0,0,0,56,2,0,2,0.0,0.0,0.1,1,0,34,45,75.6,2,23,2,1,1
+Lucas Moura,27,br BRA,"RW,RM",29-253,5,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Ben Davies,33,wls WAL,"CB,LM",28-364,90,0,0,0,0,0,0,0,0,72,0,2,1,0.0,0.0,0.0,1,0,45,60,75.0,6,42,4,0,0
+Eric Dier,15,eng ENG,CB,28-098,90,0,0,0,0,0,0,0,0,83,2,0,1,0.0,0.0,0.0,0,0,64,72,88.9,2,54,0,0,0
+Cristian Romero,4,ar ARG,CB,23-361,90,0,0,0,0,0,0,0,0,72,1,5,7,0.0,0.0,0.1,1,0,51,55,92.7,8,44,1,0,0
+Hugo Lloris,1,fr FRA,GK,35-118,90,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,17,64.7,0,7,0,0,0

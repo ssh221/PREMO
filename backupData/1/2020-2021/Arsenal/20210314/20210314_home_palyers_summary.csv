@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,29-290,87,1,0,1,1,4,1,0,0,28,1,0,0,1.4,0.6,0.0,4,1,13,17,76.5,1,19,1,2,2
+Mohamed Elneny,25,eg EGY,AM,28-246,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0
+Emile Smith Rowe,32,eng ENG,LW,20-229,76,0,0,0,0,1,0,0,0,56,1,1,1,0.0,0.0,0.5,5,0,37,41,90.2,4,34,5,4,2
+Willian,12,br BRA,LW,32-217,14,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,6,83.3,1,4,0,0,0
+Bukayo Saka,7,eng ENG,RW,19-190,45,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.2,2,0,13,17,76.5,0,15,0,0,0
+Nicolas Pépé,19,ci CIV,RW,25-289,45,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,1,1,15,23,65.2,3,19,2,2,0
+Martin Ødegaard,11,no NOR,"AM,FW",22-087,90,1,0,0,0,2,1,0,0,73,3,1,0,0.1,0.1,0.1,5,0,56,62,90.3,10,41,1,1,0
+Granit Xhaka,34,ch SUI,DM,28-168,90,0,0,0,0,1,0,1,0,76,3,4,1,0.0,0.0,0.0,0,0,66,70,94.3,8,50,3,0,0
+Thomas Partey,18,gh GHA,DM,27-274,90,0,0,0,0,2,0,0,0,71,3,1,0,0.1,0.1,0.0,2,0,51,64,79.7,8,39,2,3,2
+Kieran Tierney,3,sct SCO,LB,23-282,90,0,1,0,0,1,0,0,0,68,6,1,0,0.0,0.0,0.1,5,2,40,56,71.4,5,38,5,3,2
+Gabriel Magalhães,6,br BRA,CB,23-085,90,0,0,0,0,0,0,0,0,67,0,0,1,0.0,0.0,0.0,0,0,55,63,87.3,2,47,1,1,1
+David Luiz,23,br BRA,CB,33-326,90,0,0,0,0,0,0,0,0,70,1,1,2,0.0,0.0,0.0,0,0,52,59,88.1,5,45,2,1,0
+Cédric Soares,17,pt POR,RB,29-195,90,0,0,0,0,1,0,0,0,66,2,1,0,0.1,0.1,0.0,1,0,43,57,75.4,7,31,2,1,0
+Bernd Leno,1,de GER,GK,29-010,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,19,0,0,0

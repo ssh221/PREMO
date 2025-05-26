@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,9,br BRA,FW,25-027,90,1,0,0,0,2,2,0,0,47,1,1,3,0.7,0.7,0.3,6,1,28,34,82.4,2,31,2,4,3
+Jack Grealish,10,eng ENG,LW,26-232,90,0,0,0,0,1,0,1,0,52,0,1,2,0.1,0.1,0.0,2,0,26,37,70.3,3,37,4,10,6
+Raheem Sterling,7,eng ENG,RW,27-143,90,0,0,0,0,4,0,0,0,45,2,1,1,0.3,0.3,0.0,4,1,16,22,72.7,3,30,6,17,10
+Phil Foden,47,eng ENG,AM,21-337,79,0,2,0,0,0,0,0,0,40,0,1,1,0.0,0.0,1.1,5,3,26,35,74.3,2,21,2,2,1
+Bernardo Silva,20,pt POR,AM,27-263,11,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.3,1,0,8,8,100.0,1,8,3,2,0
+İlkay Gündoğan,8,de GER,DM,31-188,90,0,0,0,0,3,0,0,0,68,0,0,0,0.2,0.2,0.1,5,0,53,59,89.8,5,34,1,0,0
+Rodri,16,es ESP,DM,25-312,82,1,0,0,0,1,1,0,0,71,2,2,0,0.3,0.3,0.0,2,0,59,61,96.7,1,25,0,0,0
+Fernandinho,25,br BRA,DM,36-361,8,1,0,0,0,1,1,0,0,13,0,0,0,0.1,0.1,0.0,1,0,12,12,100.0,2,5,0,0,0
+Nathan Aké,6,nl NED,LB,27-071,59,1,0,0,0,2,1,0,0,60,2,1,0,0.3,0.3,0.0,0,0,40,53,75.5,3,37,0,0,0
+Oleksandr Zinchenko,11,ua UKR,LB,25-136,31,0,0,0,0,1,0,0,0,41,0,0,2,0.0,0.0,0.0,3,1,29,34,85.3,5,18,1,1,0
+Aymeric Laporte,14,es ESP,CB,27-338,90,0,0,0,0,0,0,0,0,97,1,0,2,0.0,0.0,0.0,0,0,82,87,94.3,6,64,0,0,0
+Rúben Dias,3,pt POR,CB,24-351,90,0,1,0,0,0,0,0,0,102,0,2,1,0.0,0.0,0.2,1,1,88,95,92.6,6,67,0,0,0
+João Cancelo,27,pt POR,RB,27-338,90,0,0,0,0,3,1,1,0,107,1,0,2,0.4,0.4,0.1,5,1,78,92,84.8,11,58,7,5,3
+Ederson,31,br BRA,GK,28-256,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,0,19,0,0,0

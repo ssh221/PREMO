@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gonzalo Higuaín,9,ar ARG,FW,31-083,90,1,0,0,0,6,2,0,0,34,0,0,1,0.6,0.6,0.2,5,1,20,24,83.3,3,20,0,0,0
+Eden Hazard,10,be BEL,LW,28-055,73,0,1,0,0,5,2,0,0,48,0,0,0,0.2,0.2,0.2,3,1,33,41,80.5,4,37,7,2,2
+Pedro,11,es ESP,RW,31-218,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,6,0,0,0
+Willian,22,br BRA,"RW,LW",30-206,90,0,0,0,0,5,2,0,0,76,2,0,0,0.2,0.2,0.0,9,1,57,64,89.1,10,53,11,1,0
+Ross Barkley,8,eng ENG,LM,25-088,77,0,0,0,0,1,0,0,0,85,1,1,0,0.0,0.0,0.1,7,0,72,76,94.7,6,54,4,1,0
+Ruben Loftus-Cheek,12,eng ENG,LM,23-039,13,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,11,15,73.3,2,12,1,2,2
+Jorginho,5,it ITA,CM,27-073,67,1,0,0,0,1,1,1,0,76,1,1,0,0.1,0.1,0.2,4,0,65,72,90.3,10,60,1,0,0
+Mateo Kovačić,17,hr CRO,CM,24-301,23,0,0,0,0,0,0,0,0,23,0,2,3,0.0,0.0,0.0,0,0,17,18,94.4,1,7,0,0,0
+N'Golo Kanté,7,fr FRA,RM,27-339,90,0,0,0,0,2,0,0,0,87,7,0,2,0.1,0.1,0.1,5,0,68,74,91.9,12,55,4,1,1
+Emerson Palmieri,33,it ITA,LB,24-212,90,0,0,0,0,0,0,0,0,78,1,1,1,0.0,0.0,0.0,0,0,63,70,90.0,3,47,2,2,1
+Andreas Christensen,27,dk DEN,CB,22-327,90,0,0,0,0,0,0,0,0,76,0,2,1,0.0,0.0,0.0,1,0,65,69,94.2,3,49,0,0,0
+Antonio Rüdiger,2,de GER,CB,26-000,90,0,0,0,0,0,0,0,0,93,1,1,1,0.0,0.0,0.0,1,0,77,85,90.6,7,66,1,0,0
+César Azpilicueta,28,es ESP,RB,29-187,90,0,1,0,0,0,0,0,0,81,2,2,2,0.0,0.0,0.2,3,1,59,70,84.3,8,42,0,0,0
+Kepa Arrizabalaga,1,es ESP,GK,24-151,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,37,43,86.0,0,30,0,0,0

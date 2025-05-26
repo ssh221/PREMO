@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,18,eng ENG,FW,30-232,85,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,2,0,4,4,100.0,1,6,0,0,0
+Maxwel Cornet,14,ci CIV,FW,26-166,5,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,1,0
+Saïd Benrahma,22,dz ALG,"LM,LW",27-214,90,1,0,1,1,9,4,0,0,50,0,0,1,1.2,0.4,0.2,4,0,16,35,45.7,2,32,4,3,1
+Lucas Paquetá,11,br BRA,CM,25-197,75,0,0,0,0,2,0,1,0,50,2,1,1,0.2,0.2,0.1,5,2,33,42,78.6,5,24,1,1,1
+Pablo Fornals,8,es ESP,AM,27-018,15,0,0,0,0,1,0,0,0,7,0,0,0,0.2,0.2,0.1,1,0,6,6,100.0,1,4,1,0,0
+Tomáš Souček,28,cz CZE,"CM,DM",28-013,90,0,0,0,0,0,0,0,0,21,1,3,2,0.0,0.0,0.0,1,0,10,14,71.4,3,4,0,0,0
+Jarrod Bowen,20,eng ENG,"RM,RW",26-082,90,0,0,0,0,1,0,0,0,38,0,1,1,0.0,0.0,0.2,9,0,11,27,40.7,0,21,8,10,7
+Declan Rice,41,eng ENG,DM,24-057,90,0,0,0,0,0,0,0,0,61,7,2,1,0.0,0.0,0.5,2,0,43,50,86.0,1,36,0,1,0
+Emerson Palmieri,33,it ITA,LB,28-221,90,0,0,0,0,1,0,0,0,61,5,1,3,0.1,0.1,0.1,1,0,37,50,74.0,5,28,1,0,0
+Nayef Aguerd,27,ma MAR,CB,26-347,90,0,0,0,0,1,0,0,0,78,0,0,1,0.4,0.4,0.0,2,0,57,66,86.4,0,60,0,0,0
+Kurt Zouma,4,fr FRA,CB,28-136,90,0,0,0,0,1,0,0,0,59,1,1,2,0.2,0.2,0.1,2,0,44,46,95.7,4,35,0,0,0
+Thilo Kehrer,24,de GER,RB,26-172,90,0,0,0,0,0,0,0,0,60,2,3,0,0.0,0.0,0.0,2,0,42,51,82.4,9,28,1,0,0
+Alphonse Areola,13,fr FRA,GK,30-013,90,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,14,17,82.4,0,11,0,0,0

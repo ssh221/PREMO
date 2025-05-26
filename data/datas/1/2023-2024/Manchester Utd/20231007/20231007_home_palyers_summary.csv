@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Rasmus Højlund,11,dk DEN,FW,20-245,90,0,0,0,0,2,0,0,0,39,0,0,0,0.1,0.1,0.0,2,0,18,26,69.2,1,23,1,4,1
+Marcus Rashford,10,eng ENG,LW,25-341,62,0,0,0,0,3,1,0,0,38,0,0,2,0.1,0.1,0.0,3,0,20,28,71.4,3,21,4,6,4
+Alejandro Garnacho,17,ar ARG,"LW,WB",19-098,28,0,0,0,0,1,0,0,0,24,0,0,0,0.0,0.0,0.2,5,0,15,19,78.9,2,19,2,2,1
+Bruno Fernandes,8,pt POR,"RW,AM,DM,CM",29-029,90,0,0,0,0,4,2,0,0,97,1,2,0,0.2,0.2,0.1,7,1,65,88,73.9,13,55,0,2,1
+Mason Mount,7,eng ENG,"AM,RW",24-270,62,0,0,0,0,1,0,0,0,35,0,0,0,0.1,0.1,0.1,3,0,24,30,80.0,2,20,0,1,0
+Antony,21,br BRA,"RW,WB",23-225,28,0,0,0,0,3,0,0,0,23,0,0,1,0.1,0.1,0.0,1,0,15,19,78.9,4,21,2,0,0
+Sofyan Amrabat,4,ma MAR,"DM,LB",27-047,86,0,0,0,0,0,0,0,0,75,0,0,2,0.0,0.0,0.1,3,0,65,68,95.6,12,56,1,1,0
+Scott McTominay,39,sct SCO,FW,26-303,4,2,0,0,0,2,2,0,0,5,1,0,0,0.4,0.4,0.0,0,0,2,2,100.0,1,2,0,0,0
+Casemiro,18,br BRA,DM,31-226,45,0,0,0,0,1,0,0,0,30,1,1,0,0.1,0.1,0.1,1,0,22,27,81.5,1,14,0,0,0
+Christian Eriksen,14,dk DEN,"DM,CM",31-235,45,0,0,0,0,1,1,0,0,39,0,0,0,0.0,0.0,0.0,3,0,29,35,82.9,4,26,1,0,0
+Victor Lindelöf,2,se SWE,LB,29-082,70,0,0,0,0,0,0,0,0,67,0,2,2,0.0,0.0,0.0,1,0,53,58,91.4,3,40,2,0,0
+Anthony Martial,9,fr FRA,AM,27-306,20,0,0,0,0,1,1,0,0,9,0,0,0,0.2,0.2,0.0,0,0,7,7,100.0,1,5,0,0,0
+Jonny Evans,35,nir NIR,CB,35-277,90,0,0,0,0,0,0,0,0,58,1,1,1,0.0,0.0,0.0,1,0,48,54,88.9,3,29,0,0,0
+Harry Maguire,5,eng ENG,CB,30-216,90,0,1,0,0,0,0,0,0,68,0,2,0,0.0,0.0,0.3,4,1,57,65,87.7,4,41,2,0,0
+Diogo Dalot,20,pt POR,"RB,CB",24-203,90,0,0,0,0,2,1,0,0,84,0,2,0,0.2,0.2,0.2,6,1,66,76,86.8,12,49,3,3,1
+André Onana,24,cm CMR,GK,27-188,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,22,31,71.0,0,24,0,0,0

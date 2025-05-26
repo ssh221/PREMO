@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Evan Ferguson,28,ie IRL,FW,18-178,38,0,0,0,0,2,2,0,0,16,0,0,1,0.2,0.2,0.1,2,0,11,13,84.6,2,10,0,0,0
+Danny Welbeck,18,eng ENG,FW,32-140,52,1,0,0,0,6,2,0,0,31,1,0,3,1.4,1.4,0.1,4,0,16,17,94.1,3,16,0,3,2
+Kaoru Mitoma,22,jp JPN,LW,25-330,90,0,0,0,0,2,1,0,0,44,2,0,1,0.2,0.2,0.3,8,0,25,28,89.3,5,33,8,7,2
+Solly March,7,eng ENG,RW,28-269,90,0,1,0,0,2,0,0,0,54,3,1,1,0.1,0.1,0.1,6,2,30,44,68.2,6,35,7,4,3
+Alexis Mac Allister,10,ar ARG,"DM,AM",24-112,90,0,0,0,0,5,0,0,0,70,0,1,2,0.6,0.6,0.1,4,0,48,58,82.8,4,40,1,2,2
+Moisés Caicedo,25,ec ECU,DM,21-164,90,0,0,0,0,0,0,0,0,78,9,1,1,0.0,0.0,0.0,6,0,60,65,92.3,6,38,2,1,0
+Pascal Groß,13,de GER,"RB,DM",31-304,90,0,1,0,0,1,1,0,0,67,1,0,0,0.1,0.1,0.4,3,1,53,63,84.1,7,42,2,1,1
+Pervis Estupiñán,30,ec ECU,LB,25-084,90,0,0,0,0,3,1,0,0,70,4,3,1,0.2,0.2,0.0,2,0,44,56,78.6,3,32,0,1,1
+Lewis Dunk,5,eng ENG,CB,31-145,90,0,0,0,0,0,0,0,0,97,3,0,1,0.0,0.0,0.0,1,0,82,94,87.2,6,58,1,1,0
+Adam Webster,4,eng ENG,CB,28-101,86,0,0,0,0,1,0,0,0,74,0,0,0,0.0,0.0,0.0,1,0,61,69,88.4,5,54,1,0,0
+Jan Paul van Hecke,29,nl NED,CB,22-311,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0
+Joël Veltman,34,nl NED,RB,31-090,27,0,0,0,0,0,0,1,0,23,1,0,0,0.0,0.0,0.0,1,0,18,21,85.7,0,14,1,0,0
+Julio Enciso,20,py PAR,AM,19-082,63,1,0,0,0,4,3,0,0,40,0,0,1,0.3,0.3,0.2,6,0,18,29,62.1,5,27,6,8,5
+Robert Sánchez,1,es ESP,GK,25-148,90,0,0,0,0,0,0,1,0,35,0,0,0,0.0,0.0,0.0,1,0,33,33,100.0,0,25,0,0,0

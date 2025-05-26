@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,11,nz NZL,FW,27-085,80,0,0,0,0,2,1,0,0,26,0,0,0,0.1,0.1,0.7,3,0,9,16,56.3,0,11,0,0,0
+Peter Crouch,15,eng ENG,FW,38-031,10,0,0,0,0,1,1,0,0,5,0,0,0,0.2,0.2,0.0,0,0,2,3,66.7,1,2,0,0,0
+Ashley Barnes,10,eng ENG,FW,29-123,90,1,0,0,0,6,1,0,0,30,1,0,1,1.2,1.2,0.1,2,0,10,17,58.8,2,14,0,0,0
+Dwight McNeil,31,eng ENG,LM,19-100,71,0,0,0,0,1,0,0,0,47,2,0,2,0.1,0.1,0.0,1,0,31,36,86.1,4,23,3,2,0
+Robbie Brady,12,ie IRL,LM,27-047,19,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.2,1,0,2,6,33.3,1,6,0,0,0
+Jack Cork,4,eng ENG,CM,29-250,90,0,0,0,0,2,0,0,0,53,2,0,1,0.1,0.1,0.0,4,0,35,41,85.4,4,25,0,2,0
+Ashley Westwood,18,eng ENG,CM,28-335,90,0,1,0,0,2,1,0,0,88,1,1,1,0.1,0.1,0.5,4,1,62,81,76.5,13,34,1,0,0
+Jeff Hendrick,13,ie IRL,RM,27-030,45,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.0,3,0,11,19,57.9,3,11,0,0,0
+Jóhann Berg Guðmundsson,7,is ISL,RM,28-126,45,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.2,3,0,20,29,69.0,2,17,3,2,1
+Charlie Taylor,3,eng ENG,LB,25-165,90,0,0,0,0,0,0,0,0,67,1,1,1,0.0,0.0,0.1,4,1,40,56,71.4,4,32,4,2,2
+Ben Mee,6,eng ENG,CB,29-162,90,0,0,0,0,2,0,1,0,72,3,1,2,0.1,0.1,0.0,2,0,46,59,78.0,4,38,0,0,0
+James Tarkowski,5,eng ENG,CB,26-103,90,0,0,0,0,1,0,0,0,55,1,2,1,0.1,0.1,0.0,2,0,28,43,65.1,2,22,0,1,0
+Phil Bardsley,26,sct SCO,RB,33-247,90,0,0,0,0,0,0,0,0,79,2,2,1,0.0,0.0,0.1,2,0,55,71,77.5,8,26,1,0,0
+Tom Heaton,1,eng ENG,GK,32-321,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,15,27,55.6,0,9,0,0,0

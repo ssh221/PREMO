@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eddie Nketiah,30,eng ENG,FW,22-357,66,1,0,0,0,3,1,0,0,33,0,0,1,0.9,0.9,0.3,3,0,15,22,68.2,1,19,1,1,0
+Alexandre Lacazette,9,fr FRA,FW,30-359,24,0,0,0,0,2,0,0,0,9,0,0,0,0.2,0.2,0.0,0,0,7,7,100.0,3,6,0,0,0
+Gabriel Martinelli,35,br BRA,LW,20-338,90,1,1,1,1,3,1,0,0,63,1,1,2,1.8,1.1,0.9,7,2,36,43,83.7,7,39,2,6,2
+Bukayo Saka,7,eng ENG,RW,20-259,77,0,1,0,0,3,0,0,0,54,1,0,0,0.4,0.4,0.1,8,3,36,44,81.8,2,29,2,4,1
+Nicolas Pépé,19,ci CIV,RW,26-358,13,0,1,0,0,1,1,0,0,13,0,0,0,0.0,0.0,0.1,3,1,10,11,90.9,0,8,1,2,2
+Martin Ødegaard,8,no NOR,AM,23-156,90,1,0,0,0,3,1,0,0,91,0,1,0,0.2,0.2,0.3,7,0,72,84,85.7,15,66,7,1,1
+Granit Xhaka,34,ch SUI,DM,29-237,62,0,0,0,0,1,1,0,0,70,0,0,1,0.0,0.0,0.1,5,0,59,67,88.1,7,52,3,0,0
+Albert Sambi Lokonga,23,be BEL,DM,22-212,28,0,0,0,0,1,1,0,0,26,0,0,0,0.0,0.0,0.0,1,0,22,22,100.0,3,19,2,1,0
+Mohamed Elneny,25,eg EGY,DM,29-315,90,0,0,0,0,2,0,0,0,105,1,0,2,0.0,0.0,0.0,4,1,97,100,97.0,13,79,1,0,0
+Nuno Tavares,20,pt POR,LB,22-116,90,0,0,0,0,2,0,0,0,66,3,0,1,0.1,0.1,0.0,3,0,47,55,85.5,4,45,5,1,0
+Gabriel Magalhães,6,br BRA,CB,24-154,90,1,0,0,0,1,1,0,0,62,2,0,0,0.4,0.4,0.0,0,0,54,57,94.7,8,49,0,0,0
+Rob Holding,16,eng ENG,CB,26-244,90,0,0,0,0,0,0,0,0,68,0,0,1,0.0,0.0,0.0,0,0,59,64,92.2,5,46,0,0,0
+Cédric Soares,17,pt POR,RB,30-264,90,1,1,0,0,3,1,0,0,102,3,3,1,0.1,0.1,0.4,2,0,66,88,75.0,7,69,2,1,1
+Aaron Ramsdale,32,eng ENG,GK,24-008,90,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,21,24,87.5,1,18,0,0,0

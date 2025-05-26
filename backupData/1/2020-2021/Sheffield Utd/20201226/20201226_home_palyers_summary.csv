@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Oliver Burke,14,sct SCO,FW,23-263,45,0,0,0,0,1,1,0,0,25,2,0,2,0.1,0.1,0.0,1,0,7,13,53.8,0,7,0,1,0
+Oliver McBurnie,9,sct SCO,FW,24-205,45,0,0,0,0,2,0,0,0,25,0,0,0,0.4,0.4,0.0,0,0,11,17,64.7,1,8,1,0,0
+Rhian Brewster,24,eng ENG,"AM,FW",20-269,75,0,0,0,0,0,0,0,0,26,0,0,1,0.0,0.0,0.6,1,0,17,20,85.0,3,10,0,1,1
+Lys Mousset,11,fr FRA,FW,24-322,15,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,5,0,0,0
+David McGoldrick,17,ie IRL,AM,33-027,62,0,0,0,0,1,0,0,0,23,2,0,2,0.6,0.6,0.0,2,0,9,18,50.0,2,12,1,2,2
+Oliver Norwood,16,nir NIR,CM,29-258,28,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.5,6,0,27,38,71.1,5,14,0,0,0
+Ben Osborn,23,eng ENG,CM,26-143,90,0,0,0,0,0,0,0,0,62,3,2,4,0.0,0.0,0.1,2,0,42,50,84.0,3,28,1,2,2
+Ethan Ampadu,22,wls WAL,CM,20-103,90,0,0,0,0,1,0,0,0,46,4,1,1,0.0,0.0,0.0,1,0,28,36,77.8,1,17,0,1,1
+Enda Stevens,3,ie IRL,WB,30-170,90,0,0,0,0,1,0,0,0,69,3,2,0,0.0,0.0,0.1,1,0,36,54,66.7,5,29,3,1,1
+George Baldock,2,gr GRE,WB,27-292,90,0,0,0,0,0,0,1,0,42,1,0,2,0.0,0.0,0.0,0,0,22,32,68.8,2,12,2,1,0
+Jack Robinson,19,eng ENG,CB,27-116,90,0,0,0,0,1,0,1,0,76,2,2,3,0.1,0.1,0.0,1,0,48,61,78.7,2,35,0,0,0
+John Egan,12,ie IRL,CB,28-067,90,0,0,0,0,2,0,0,0,47,1,1,0,0.1,0.1,0.0,0,0,29,40,72.5,1,23,1,0,0
+Chris Basham,6,eng ENG,CB,32-159,90,0,0,0,0,1,0,0,0,58,0,3,1,0.0,0.0,0.0,0,0,41,49,83.7,4,29,1,1,0
+Aaron Ramsdale,1,eng ENG,GK,22-226,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,11,30,36.7,0,18,0,0,0
