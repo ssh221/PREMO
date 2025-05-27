@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Diogo Jota,20,pt POR,FW,24-155,78,0,0,0,0,3,2,0,0,45,1,2,0,0.4,0.4,0.0,1,0,22,35,62.9,4,24,4,3,2
+Roberto Firmino,9,br BRA,FW,29-218,12,0,1,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,1,1,4,5,80.0,1,2,1,0,0
+Sadio Mané,10,sn SEN,LW,29-028,89,1,0,0,0,2,1,0,0,52,2,0,2,0.5,0.5,0.7,6,0,30,40,75.0,4,34,6,7,4
+Curtis Jones,17,eng ENG,LW,20-098,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,0,0
+Mohamed Salah,11,eg EGY,RW,28-327,86,0,1,0,0,4,2,0,0,41,1,1,0,0.5,0.5,0.6,3,1,23,29,79.3,1,28,5,3,1
+Alex Oxlade-Chamberlain,15,eng ENG,RW,27-266,4,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0
+Georginio Wijnaldum,5,nl NED,LM,30-178,90,0,0,0,0,1,0,0,0,48,0,0,0,0.1,0.1,0.0,1,0,37,41,90.2,3,32,1,2,1
+Fabinho,3,br BRA,CM,27-197,90,0,0,0,0,0,0,0,0,80,4,2,3,0.0,0.0,0.0,2,1,56,62,90.3,6,35,0,0,0
+Thiago Alcántara,6,es ESP,RM,30-027,90,1,0,0,0,2,1,0,0,88,2,0,6,0.1,0.1,0.0,3,0,67,72,93.1,9,46,0,2,1
+Andrew Robertson,26,sct SCO,LB,27-058,90,0,0,0,0,0,0,0,0,96,1,1,2,0.0,0.0,0.0,4,0,71,87,81.6,8,53,2,1,0
+Rhys Williams,46,eng ENG,CB,20-094,90,0,0,0,0,0,0,0,0,68,2,0,0,0.0,0.0,0.0,0,0,61,64,95.3,3,37,0,0,0
+Nathaniel Phillips,47,eng ENG,CB,24-048,90,0,0,0,0,2,0,0,0,71,0,1,0,0.1,0.1,0.0,0,0,54,60,90.0,3,44,0,1,1
+Trent Alexander-Arnold,66,eng ENG,RB,22-213,90,0,0,0,0,0,0,0,0,84,1,1,1,0.0,0.0,0.3,5,0,60,76,78.9,8,54,2,1,0
+Alisson,1,br BRA,GK,28-218,90,0,0,0,0,0,0,0,0,45,1,0,0,0.0,0.0,0.0,0,0,34,42,81.0,0,22,0,0,0

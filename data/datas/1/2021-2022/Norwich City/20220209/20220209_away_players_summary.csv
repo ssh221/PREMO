@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jean-Philippe Mateta,14,fr FRA,FW,24-226,79,0,0,0,0,1,1,1,0,19,0,0,1,0.0,0.0,0.0,2,0,8,12,66.7,1,11,3,3,3
+Odsonne Édouard,22,fr FRA,FW,24-024,11,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Wilfried Zaha,11,ci CIV,LW,29-091,90,1,0,0,1,3,1,0,0,65,0,0,0,0.9,0.1,0.0,2,0,38,49,77.6,6,45,5,1,1
+Michael Olise,7,fr FRA,RW,20-059,69,0,1,0,0,0,0,0,0,76,0,2,1,0.0,0.0,0.1,4,1,52,66,78.8,9,57,4,6,1
+Jordan Ayew,9,gh GHA,RW,30-151,21,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,10,15,66.7,0,12,2,1,1
+Jeffrey Schlupp,15,gh GHA,LM,29-048,79,0,0,0,0,2,1,0,0,64,2,1,1,0.1,0.1,0.0,0,0,45,52,86.5,2,45,1,1,1
+Eberechi Eze,10,eng ENG,LM,23-225,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,2,2
+Will Hughes,12,eng ENG,CM,26-298,90,0,0,0,0,4,0,0,0,67,1,0,1,0.0,0.0,0.0,1,0,54,58,93.1,6,42,0,0,0
+Conor Gallagher,23,eng ENG,RM,22-003,90,0,0,0,0,2,2,1,0,60,2,2,1,0.2,0.2,0.0,3,0,39,48,81.3,1,35,1,2,1
+Tyrick Mitchell,3,eng ENG,LB,22-161,90,0,0,0,0,0,0,0,0,87,4,1,4,0.0,0.0,0.0,1,0,57,76,75.0,4,39,1,1,1
+Marc Guéhi,6,eng ENG,CB,21-211,90,0,0,0,0,0,0,0,0,123,0,2,0,0.0,0.0,0.0,1,0,103,118,87.3,5,87,3,0,0
+Joachim Andersen,16,dk DEN,CB,25-254,90,0,0,0,0,0,0,0,0,106,1,1,0,0.0,0.0,0.0,1,0,87,102,85.3,6,73,0,0,0
+Joel Ward,2,eng ENG,RB,32-103,90,0,0,0,0,0,0,0,0,96,5,1,2,0.0,0.0,0.0,3,1,68,84,81.0,6,53,0,0,0
+Vicente Guaita,13,es ESP,GK,35-030,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,0,19,0,0,0

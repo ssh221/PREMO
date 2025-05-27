@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mbaye Diagne,17,sn SEN,FW,29-187,90,1,0,0,0,2,1,0,0,31,0,0,0,0.4,0.4,0.0,3,0,12,22,54.5,0,16,0,0,0
+Matheus Pereira,12,br BRA,FW,24-363,90,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.2,5,0,27,37,73.0,4,31,2,3,1
+Ainsley Maitland-Niles,30,eng ENG,"CM,DM",23-247,77,0,0,0,0,1,0,1,0,39,1,0,0,0.0,0.0,0.0,1,0,26,30,86.7,6,21,2,1,1
+Callum Robinson,7,ie IRL,CM,26-090,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0
+Okay Yokuşlu,35,tr TUR,"CM,DM",27-055,90,0,0,0,0,1,0,0,0,54,4,3,1,0.0,0.0,0.0,0,0,31,39,79.5,4,31,1,2,2
+Conor Gallagher,18,eng ENG,"RM,DM",21-086,90,0,0,0,0,2,1,0,0,56,6,1,0,0.4,0.4,0.1,2,0,28,35,80.0,7,35,0,2,1
+Conor Townsend,14,eng ENG,"LB,WB",28-060,90,0,1,0,0,1,1,0,0,70,4,2,4,0.1,0.1,0.3,2,1,32,54,59.3,3,32,1,1,0
+Darnell Furlong,2,eng ENG,"RB,WB",25-184,90,0,0,0,0,2,0,1,0,42,3,0,0,0.1,0.1,0.0,0,0,18,32,56.3,2,24,2,1,0
+Dara O'Shea,27,ie IRL,CB,22-060,32,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,0,0,16,23,69.6,3,15,0,1,0
+Matt Phillips,10,sct SCO,LM,30-051,58,0,0,0,0,0,0,0,0,22,0,0,3,0.0,0.0,0.4,2,1,11,15,73.3,1,17,3,1,0
+Kyle Bartley,5,eng ENG,CB,29-346,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,0,0,25,30,83.3,1,15,0,1,1
+Semi Ajayi,6,ng NGA,CB,27-175,90,0,0,0,0,1,0,0,0,40,2,2,1,0.1,0.1,0.0,1,0,23,30,76.7,3,19,0,0,0
+Sam Johnstone,1,eng ENG,GK,28-039,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,22,0,0,0

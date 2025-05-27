@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Nicolas Jackson,15,sn SEN,"FW,LW",22-179,89,1,0,0,0,3,2,0,0,35,0,0,1,1.1,1.1,0.0,2,0,21,26,80.8,2,18,1,2,1
+Malo Gusto,27,fr FRA,LW,20-211,1,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0
+Mykhailo Mudryk,10,ua UKR,LW,22-345,68,0,0,0,0,1,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,21,29,72.4,2,26,2,6,2
+Enzo Fernández,8,ar ARG,"AM,LW",22-333,22,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,13,17,76.5,0,14,1,0,0
+Raheem Sterling,7,eng ENG,RW,29-008,74,0,1,0,0,1,1,0,0,58,2,1,1,0.1,0.1,0.5,2,1,37,47,78.7,4,34,5,4,1
+Armando Broja,19,al ALB,"FW,RW",22-097,16,0,0,0,0,2,0,0,0,12,0,0,1,1.0,1.0,0.0,1,0,9,9,100.0,0,10,2,2,2
+Cole Palmer,20,eng ENG,"AM,RW",21-224,89,1,1,0,0,5,2,0,0,81,1,0,0,0.7,0.7,1.8,7,3,59,65,90.8,10,60,3,6,2
+Ian Maatsen,29,nl NED,RW,21-281,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Conor Gallagher,23,eng ENG,DM,23-313,90,0,0,0,0,2,1,1,0,105,1,5,3,0.1,0.1,0.1,3,0,87,90,96.7,15,60,6,3,1
+Moisés Caicedo,25,ec ECU,DM,22-044,90,0,0,0,0,1,0,0,0,120,1,1,1,0.0,0.0,0.1,2,0,97,113,85.8,9,67,2,2,2
+Levi Colwill,26,eng ENG,LB,20-293,90,0,0,0,0,0,0,0,0,65,2,3,2,0.0,0.0,0.0,1,0,50,57,87.7,7,24,0,0,0
+Benoît Badiashile,5,fr FRA,CB,22-265,90,0,0,0,0,0,0,0,0,140,3,1,0,0.0,0.0,0.0,5,0,121,131,92.4,7,86,0,0,0
+Thiago Silva,6,br BRA,CB,39-085,90,0,0,0,0,0,0,0,0,150,1,4,0,0.0,0.0,0.1,1,0,132,141,93.6,8,104,0,1,0
+Axel Disasi,2,fr FRA,RB,25-280,90,0,0,0,0,0,0,0,0,110,4,2,0,0.0,0.0,0.0,0,0,89,98,90.8,2,54,2,2,1
+Đorđe Petrović,28,rs SRB,GK,24-069,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,22,24,91.7,0,17,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Rhian Brewster,24,eng ENG,FW,20-336,59,0,0,0,0,2,1,0,0,10,0,0,1,0.1,0.1,0.0,2,0,3,4,75.0,2,7,0,1,0
+Oliver Burke,14,sct SCO,FW,23-330,29,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,7,1,0,0
+Oliver McBurnie,9,sct SCO,FW,24-272,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+David McGoldrick,17,ie IRL,"FW,LM",33-094,72,1,0,0,0,4,1,1,0,39,0,0,0,0.7,0.7,0.1,2,0,16,22,72.7,2,24,0,4,1
+Ben Osborn,23,eng ENG,LM,26-210,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,1,5,20.0,0,1,0,0,0
+John Fleck,4,sct SCO,CM,29-191,90,0,0,0,0,0,0,0,0,41,4,1,1,0.0,0.0,0.0,4,0,16,30,53.3,1,18,1,1,0
+Oliver Norwood,16,nir NIR,CM,29-325,90,0,0,0,0,2,0,0,0,54,4,2,2,0.0,0.0,0.1,2,0,30,37,81.1,7,33,0,0,0
+John Lundstram,7,eng ENG,"CM,RM",27-013,90,0,0,0,0,0,0,0,0,40,0,0,2,0.0,0.0,0.0,0,0,21,29,72.4,3,20,2,0,0
+Enda Stevens,3,ie IRL,"WB,LB",30-237,90,0,0,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.1,1,0,22,29,75.9,5,15,2,0,0
+George Baldock,2,gr GRE,"WB,RB",27-359,90,0,1,0,0,1,0,0,0,43,2,6,1,0.0,0.0,0.5,1,1,16,18,88.9,1,16,1,2,0
+Kean Bryan,29,eng ENG,CB,24-122,90,0,0,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.0,1,0,17,25,68.0,3,17,0,0,0
+Phil Jagielka,15,eng ENG,CB,38-198,56,0,0,0,0,0,0,0,1,27,0,0,1,0.0,0.0,0.0,0,0,18,22,81.8,0,19,0,0,0
+Ethan Ampadu,22,wls WAL,CB,20-170,90,0,0,0,0,0,0,0,0,41,2,2,3,0.0,0.0,0.0,0,0,18,25,72.0,2,14,0,0,0
+Aaron Ramsdale,1,eng ENG,GK,22-293,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,10,34,29.4,0,17,0,1,1

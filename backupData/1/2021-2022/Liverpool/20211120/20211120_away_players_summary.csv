@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,FW,32-155,90,0,0,0,0,1,1,0,0,19,0,0,1,0.1,0.1,0.1,1,0,7,13,53.8,2,10,1,0,0
+Alexandre Lacazette,9,fr FRA,FW,30-176,66,0,0,0,0,0,0,0,0,23,3,1,0,0.0,0.0,0.1,4,0,14,19,73.7,5,15,2,1,1
+Martin Ødegaard,8,no NOR,FW,22-338,24,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,11,15,73.3,1,12,0,0,0
+Emile Smith Rowe,10,eng ENG,LM,21-115,90,0,0,0,0,0,0,0,0,28,0,2,0,0.0,0.0,0.0,0,0,18,21,85.7,2,21,2,2,0
+Albert Sambi Lokonga,23,be BEL,CM,22-029,52,0,0,0,0,1,1,0,0,36,1,3,0,0.0,0.0,0.0,0,0,25,31,80.6,0,20,0,1,1
+Ainsley Maitland-Niles,15,eng ENG,CM,24-083,38,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,12,0,0,0
+Thomas Partey,5,gh GHA,CM,28-160,83,0,0,0,0,1,1,0,0,45,1,0,1,0.0,0.0,0.0,1,0,32,35,91.4,3,31,1,4,3
+Mohamed Elneny,25,eg EGY,CM,29-132,7,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,0,0,0
+Bukayo Saka,7,eng ENG,RM,20-076,90,0,0,0,0,2,0,0,0,40,0,0,1,0.2,0.2,0.0,1,0,22,27,81.5,1,24,5,1,1
+Nuno Tavares,20,pt POR,LB,21-298,90,0,0,0,0,0,0,0,0,65,4,1,2,0.0,0.0,0.0,1,0,38,52,73.1,2,31,1,3,2
+Gabriel Magalhães,6,br BRA,CB,23-336,90,0,0,0,0,0,0,0,0,60,5,0,2,0.0,0.0,0.0,0,0,45,52,86.5,1,38,0,1,1
+Ben White,4,eng ENG,CB,24-043,90,0,0,0,0,0,0,0,0,58,2,1,2,0.0,0.0,0.0,0,0,32,42,76.2,2,23,0,1,0
+Takehiro Tomiyasu,18,jp JPN,RB,23-015,90,0,0,0,0,0,0,0,0,55,0,0,1,0.0,0.0,0.2,2,0,34,45,75.6,5,26,0,1,0
+Aaron Ramsdale,32,eng ENG,GK,23-190,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,29,37,78.4,0,25,0,0,0

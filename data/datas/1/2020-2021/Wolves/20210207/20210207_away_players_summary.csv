@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kelechi Iheanacho,14,ng NGA,FW,24-127,60,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.2,3,0,15,16,93.8,2,17,1,0,0
+Jamie Vardy,9,eng ENG,FW,34-027,30,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,0,5,0,0,0
+Harvey Barnes,15,eng ENG,LW,23-060,90,0,0,0,0,2,0,0,0,47,0,0,2,0.1,0.1,0.0,5,0,30,36,83.3,1,34,6,2,2
+Ayoze Pérez,17,es ESP,RW,27-193,60,0,0,0,0,0,0,0,0,37,1,1,4,0.0,0.0,0.0,2,0,17,25,68.0,1,21,0,4,3
+Marc Albrighton,11,eng ENG,RW,31-081,30,0,0,0,0,1,0,0,0,19,3,0,0,0.0,0.0,0.1,2,0,10,13,76.9,2,9,2,1,0
+James Maddison,10,eng ENG,AM,24-076,90,0,0,0,0,6,3,1,0,56,1,0,2,0.4,0.4,0.0,3,0,32,45,71.1,2,28,2,2,1
+Hamza Choudhury,20,bd BAN,DM,23-129,90,0,0,0,0,0,0,0,0,93,5,1,2,0.0,0.0,0.0,0,0,75,80,93.8,6,63,0,1,0
+Youri Tielemans,8,be BEL,DM,23-276,90,0,0,0,0,1,0,0,0,99,2,0,2,0.0,0.0,0.1,5,0,76,89,85.4,11,67,1,4,1
+James Justin,2,eng ENG,LB,22-350,90,0,0,0,0,0,0,0,0,68,4,1,3,0.0,0.0,0.0,0,0,54,58,93.1,3,40,2,0,0
+Çağlar Söyüncü,4,tr TUR,CB,24-260,90,0,0,0,0,1,0,1,0,93,0,0,3,0.0,0.0,0.0,0,0,78,86,90.7,3,62,1,0,0
+Jonny Evans,6,nir NIR,CB,33-035,90,0,0,0,0,0,0,1,0,88,1,1,0,0.0,0.0,0.0,0,0,71,78,91.0,6,65,2,1,0
+Ricardo Pereira,21,pt POR,RB,27-124,90,0,0,0,0,0,0,0,0,68,2,1,3,0.0,0.0,0.0,1,0,40,52,76.9,5,33,2,2,1
+Kasper Schmeichel,1,dk DEN,GK,34-094,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,6,0,0,0

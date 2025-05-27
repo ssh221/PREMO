@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,28-247,90,0,0,0,0,1,1,0,0,20,0,0,1,0.1,0.1,0.0,1,0,7,13,53.8,0,14,1,0,0
+Hakim Ziyech,22,ma MAR,AM,28-302,68,0,0,0,0,1,0,0,0,20,0,1,1,0.1,0.1,0.0,0,0,12,16,75.0,2,15,2,1,0
+Callum Hudson-Odoi,20,eng ENG,"LM,AM",21-069,22,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,14,78.6,1,10,0,0,0
+Christian Pulisic,10,us USA,AM,23-119,68,0,0,0,0,0,0,0,0,25,0,0,2,0.0,0.0,0.0,1,0,16,20,80.0,0,16,5,1,1
+Timo Werner,11,de GER,"RM,AM",25-315,22,0,0,0,0,1,0,0,0,9,0,0,0,0.1,0.1,0.0,0,0,5,7,71.4,1,7,1,0,0
+Mateo Kovačić,8,hr CRO,CM,27-254,90,0,0,0,0,0,0,1,0,66,4,1,0,0.0,0.0,0.1,2,0,55,61,90.2,4,43,0,3,3
+N'Golo Kanté,7,fr FRA,CM,30-292,90,0,0,0,0,0,0,0,0,57,5,1,0,0.0,0.0,0.0,0,0,43,48,89.6,4,39,0,1,0
+Marcos Alonso,3,es ESP,WB,31-018,80,0,0,0,0,1,0,1,0,61,3,1,0,0.0,0.0,0.0,1,0,40,47,85.1,2,36,0,1,0
+Mason Mount,19,eng ENG,FW,23-005,10,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,4,2,1,1
+César Azpilicueta,28,es ESP,"WB,RB",32-140,90,0,0,0,0,0,0,0,0,69,5,0,2,0.0,0.0,0.1,2,0,42,50,84.0,4,31,1,2,2
+Malang Sarr,31,fr FRA,"CB,LB",22-357,90,0,0,0,0,0,0,0,0,87,3,4,1,0.0,0.0,0.0,0,0,61,71,85.9,4,47,0,0,0
+Thiago Silva,6,br BRA,CB,37-115,90,0,0,0,0,0,0,0,0,57,0,3,4,0.0,0.0,0.0,0,0,40,44,90.9,2,36,0,0,0
+Antonio Rüdiger,2,de GER,CB,28-318,90,0,0,0,0,0,0,0,0,65,1,0,0,0.0,0.0,0.0,0,0,47,55,85.5,2,44,1,0,0
+Kepa Arrizabalaga,1,es ESP,GK,27-104,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,27,43,62.8,0,28,0,0,0

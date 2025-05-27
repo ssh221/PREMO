@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wout Weghorst,9,nl NED,FW,29-210,77,0,0,0,0,1,0,0,0,24,0,0,1,0.1,0.1,0.0,2,0,9,15,60.0,3,7,0,3,1
+Ashley Barnes,10,eng ENG,FW,32-126,13,0,0,0,0,0,0,1,0,7,3,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,0,1,0
+Jay Rodriguez,19,eng ENG,FW,32-219,62,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,3,10,30.0,0,3,0,0,0
+Maxwel Cornet,20,ci CIV,FW,25-159,28,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,4,7,57.1,0,8,1,0,0
+Dwight McNeil,11,eng ENG,LM,22-103,90,0,0,0,0,2,0,0,0,49,2,0,2,0.3,0.3,0.2,1,0,27,39,69.2,2,22,2,3,1
+Josh Brownhill,8,eng ENG,CM,26-076,90,0,0,0,0,0,0,0,0,44,8,0,0,0.0,0.0,0.0,1,0,26,34,76.5,4,12,0,0,0
+Ashley Westwood,18,eng ENG,CM,31-338,90,0,0,0,0,0,0,1,0,52,2,1,0,0.0,0.0,0.0,0,0,33,47,70.2,3,11,0,1,0
+Aaron Lennon,17,eng ENG,RM,34-323,90,0,0,0,0,0,0,0,0,25,1,0,0,0.0,0.0,0.1,4,0,13,18,72.2,1,12,2,3,2
+Charlie Taylor,3,eng ENG,LB,28-168,90,0,0,0,0,0,0,0,0,49,2,3,1,0.0,0.0,0.0,1,0,24,38,63.2,1,16,0,0,0
+James Tarkowski,5,eng ENG,CB,29-106,90,0,0,0,0,0,0,0,0,38,4,2,3,0.0,0.0,0.0,0,0,19,24,79.2,1,12,0,0,0
+Nathan Collins,22,ie IRL,CB,20-309,90,0,0,0,0,1,0,0,0,42,2,2,2,0.2,0.2,0.0,0,0,16,25,64.0,4,12,0,0,0
+Connor Roberts,14,wls WAL,RB,26-163,90,0,0,0,0,0,0,0,0,53,1,1,3,0.0,0.0,0.0,1,0,28,43,65.1,6,17,0,1,0
+Nick Pope,1,eng ENG,GK,29-320,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,9,19,47.4,0,11,0,0,0

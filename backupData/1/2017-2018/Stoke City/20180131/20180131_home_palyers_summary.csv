@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mame Biram Diouf,18,sn SEN,FW,30-046,84,0,0,0,0,1,0,1,0,20,0,0,0,0.1,0.1,0.0,2,0,3,15,20.0,0,13,2,0,0
+Saido Berahino,9,bi BDI,FW,24-180,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Eric Maxim Choupo-Moting,10,cm CMR,"LW,LM",28-314,90,0,0,0,0,1,0,0,0,26,0,0,0,0.1,0.1,0.0,1,0,9,15,60.0,2,21,5,9,7
+Xherdan Shaqiri,22,ch SUI,"RW,RM",26-113,90,0,0,0,0,2,1,0,0,31,0,0,0,0.1,0.1,0.3,4,0,15,23,65.2,2,17,1,0,0
+Joe Allen,4,wls WAL,"AM,CM",27-323,90,0,0,0,0,1,0,0,0,41,3,1,2,0.1,0.1,0.0,2,0,21,28,75.0,7,20,1,1,1
+Charlie Adam,16,sct SCO,DM,32-052,59,0,0,0,0,2,1,1,0,26,0,0,0,0.1,0.1,0.1,4,0,10,19,52.6,3,14,0,1,1
+Peter Crouch,25,eng ENG,"DM,FW",37-001,31,0,0,0,0,2,1,0,0,15,0,0,0,0.4,0.4,0.0,0,0,5,11,45.5,2,6,0,0,0
+Darren Fletcher,24,sct SCO,"DM,CM",33-364,90,0,0,0,0,0,0,0,0,42,1,1,0,0.0,0.0,0.0,2,0,25,39,64.1,4,23,1,2,2
+Erik Pieters,3,nl NED,LB,29-177,90,0,0,0,0,0,0,1,0,58,1,1,2,0.0,0.0,0.0,0,0,28,47,59.6,7,19,2,0,0
+Kurt Zouma,6,fr FRA,CB,23-096,90,0,0,0,0,0,0,0,0,51,1,6,0,0.0,0.0,0.0,0,0,21,34,61.8,3,21,0,0,0
+Ryan Shawcross,17,eng ENG,CB,30-119,90,0,0,0,0,1,1,0,0,47,1,0,3,0.0,0.0,0.0,0,0,12,28,42.9,3,8,0,0,0
+Moritz Bauer,2,at AUT,RB,26-006,90,0,0,0,0,1,0,1,0,51,3,2,0,0.0,0.0,0.0,1,0,19,39,48.7,3,17,2,0,0
+Jack Butland,1,eng ENG,GK,24-327,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,17,31,54.8,0,20,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,35-282,63,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,1,1,7,15,46.7,1,9,0,1,0
+Patson Daka,20,zm ZAM,FW,24-011,27,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.2,1,0,4,8,50.0,1,8,0,0,0
+Harvey Barnes,7,eng ENG,LM,24-315,84,1,0,0,0,1,1,0,0,32,1,0,1,0.5,0.5,0.0,0,0,14,19,73.7,1,21,1,4,1
+Kelechi Iheanacho,14,ng NGA,FW,26-017,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0
+Kiernan Dewsbury-Hall,22,eng ENG,"CM,LM",24-044,90,0,1,0,0,0,0,0,0,55,0,0,5,0.0,0.0,0.5,2,1,32,41,78.0,3,29,0,5,1
+Youri Tielemans,8,be BEL,CM,25-166,90,0,0,0,0,1,0,1,0,77,4,2,3,0.0,0.0,0.0,1,0,54,64,84.4,5,43,0,0,0
+Dennis Praet,26,be BEL,RM,28-159,69,0,0,0,0,1,0,0,0,31,2,1,1,0.2,0.2,0.0,1,0,16,20,80.0,3,16,2,3,1
+Ayoze Pérez,17,es ESP,RM,29-083,21,0,0,0,0,1,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,6,1,1,0
+Boubakary Soumaré,42,fr FRA,DM,23-235,63,0,0,0,0,0,0,1,0,46,3,0,0,0.0,0.0,0.0,1,0,28,35,80.0,4,15,1,2,1
+Nampalys Mendy,24,sn SEN,"DM,CM",30-119,27,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,6,7,85.7,1,2,0,0,0
+James Justin,2,eng ENG,LB,24-239,90,0,0,0,0,0,0,0,0,64,0,1,0,0.0,0.0,0.0,0,0,45,59,76.3,2,23,0,1,0
+Wout Faes,3,be BEL,CB,24-200,90,0,0,0,0,0,0,0,0,85,7,0,2,0.0,0.0,0.0,0,0,59,70,84.3,1,45,0,1,1
+Daniel Amartey,18,gh GHA,CB,27-303,90,0,0,0,0,0,0,0,0,65,4,1,1,0.0,0.0,0.0,0,0,49,53,92.5,1,35,0,1,0
+Timothy Castagne,27,be BEL,RB,26-319,90,0,0,0,0,1,0,0,0,70,3,0,4,0.0,0.0,0.0,1,0,41,56,73.2,7,29,1,0,0
+Danny Ward,1,wls WAL,GK,29-120,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,23,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,20,fr FRA,FW,26-062,65,0,0,0,0,0,0,1,0,13,0,0,0,0.0,0.0,0.0,1,0,9,11,81.8,0,10,0,0,0
+Dominic Calvert-Lewin,9,eng ENG,FW,25-213,25,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,0,0,0,0
+Demarai Gray,11,jm JAM,"FW,CM",26-109,90,0,0,0,0,1,0,0,0,31,0,0,1,0.1,0.1,0.0,0,0,20,23,87.0,0,24,1,2,0
+Amadou Onana,8,be BEL,CM,21-060,90,0,0,0,0,1,0,0,0,39,3,0,0,0.2,0.2,0.0,0,0,20,27,74.1,1,20,1,4,2
+Idrissa Gana Gueye,27,sn SEN,CM,33-019,80,0,0,0,0,0,0,1,0,45,0,2,2,0.0,0.0,0.0,2,0,35,37,94.6,0,30,0,0,0
+Salomón Rondón,33,ve VEN,FW,33-029,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,2,0,0,0
+Alex Iwobi,17,ng NGA,"CM,RB",26-165,90,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,24,28,85.7,0,25,1,2,1
+Dwight McNeil,7,eng ENG,LB,22-327,90,0,0,0,0,0,0,1,0,54,5,0,4,0.0,0.0,0.1,1,0,24,34,70.6,3,27,3,3,1
+Vitaliy Mykolenko,19,ua UKR,CB,23-139,90,0,0,0,0,0,0,1,0,56,0,2,3,0.0,0.0,0.0,0,0,44,48,91.7,1,40,1,0,0
+Conor Coady,30,eng ENG,CB,29-232,90,0,0,0,0,0,0,0,0,66,2,0,2,0.0,0.0,0.1,1,0,54,60,90.0,0,51,0,0,0
+James Tarkowski,2,eng ENG,CB,29-330,90,0,0,0,0,1,0,0,0,73,3,0,6,0.1,0.1,0.0,0,0,46,56,82.1,2,39,0,0,0
+Séamus Coleman,23,ie IRL,RB,34-004,66,0,0,0,0,1,0,0,0,25,0,1,0,0.0,0.0,0.0,1,0,12,18,66.7,2,9,1,0,0
+James Garner,37,eng ENG,CM,21-216,24,0,0,0,0,0,0,0,0,14,1,1,2,0.0,0.0,0.0,0,0,9,10,90.0,2,9,0,0,0
+Jordan Pickford,1,eng ENG,GK,28-222,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,16,34,47.1,0,21,0,0,0

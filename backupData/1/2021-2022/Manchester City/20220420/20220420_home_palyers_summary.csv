@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Bernardo Silva,20,pt POR,"FW,RM",27-253,90,1,0,0,0,2,2,0,0,61,2,1,1,0.3,0.3,0.0,4,0,40,50,80.0,7,44,2,3,1
+Phil Foden,47,eng ENG,LW,21-327,90,1,0,0,0,2,1,0,0,47,1,0,0,0.1,0.1,0.1,3,0,36,39,92.3,5,37,3,0,0
+Riyad Mahrez,26,dz ALG,RW,31-058,90,1,1,0,0,4,1,0,0,79,3,0,2,0.4,0.4,0.1,4,1,54,62,87.1,4,52,6,6,2
+İlkay Gündoğan,8,de GER,LM,31-178,90,0,0,0,0,2,0,0,0,69,2,0,2,0.2,0.2,0.0,4,1,48,55,87.3,4,42,1,2,1
+Rodri,16,es ESP,CM,25-302,90,0,0,0,0,1,0,0,0,84,1,1,0,0.0,0.0,0.0,1,0,71,81,87.7,7,59,1,0,0
+Kevin De Bruyne,17,be BEL,RM,30-296,82,0,1,0,0,3,1,0,0,59,0,0,0,0.1,0.1,0.6,7,1,34,54,63.0,9,36,4,1,0
+Gabriel Jesus,9,br BRA,FW,25-017,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0
+Nathan Aké,6,nl NED,LB,27-061,45,0,0,0,0,0,0,0,0,44,1,1,0,0.0,0.0,0.0,0,0,33,39,84.6,3,24,0,0,0
+Rúben Dias,3,pt POR,CB,24-341,45,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,1,0,37,39,94.9,3,25,1,0,0
+Aymeric Laporte,14,es ESP,CB,27-328,90,0,0,0,0,0,0,0,0,112,0,0,1,0.0,0.0,0.0,2,0,92,101,91.1,14,86,2,0,0
+John Stones,5,eng ENG,"CB,RB",27-327,76,0,0,0,0,1,0,0,0,69,0,2,0,0.1,0.1,0.0,0,0,58,62,93.5,5,50,0,0,0
+Oleksandr Zinchenko,11,ua UKR,LB,25-126,14,0,0,0,0,0,0,0,0,13,1,2,0,0.0,0.0,0.0,1,1,6,8,75.0,1,7,0,0,0
+João Cancelo,27,pt POR,"RB,LB",27-328,90,0,0,0,0,2,0,0,0,95,5,4,0,0.0,0.0,0.0,3,0,65,76,85.5,5,59,0,2,0
+Ederson,31,br BRA,GK,28-246,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,27,0,0,0

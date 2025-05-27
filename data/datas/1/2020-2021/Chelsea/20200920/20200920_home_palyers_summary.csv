@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kai Havertz,29,de GER,FW,21-101,45,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,1,6,0,0,0
+Fikayo Tomori,14,eng ENG,CB,22-276,45,0,0,0,0,0,0,0,0,41,2,2,1,0.0,0.0,0.0,0,0,28,29,96.6,0,13,0,0,0
+Timo Werner,11,de GER,"LW,FW,LM",24-198,90,0,0,0,0,1,0,0,0,39,1,1,0,0.0,0.0,0.0,3,0,19,27,70.4,5,20,7,10,6
+Mason Mount,19,eng ENG,"RW,LM,RM",21-254,90,0,0,0,0,1,0,0,0,50,2,2,3,0.0,0.0,0.0,1,0,27,34,79.4,2,27,2,4,2
+Mateo Kovačić,17,hr CRO,"LM,CM",26-137,78,0,0,0,0,0,0,0,0,67,0,0,1,0.0,0.0,0.0,3,0,57,62,91.9,5,41,0,2,1
+Tammy Abraham,9,eng ENG,FW,22-354,12,0,0,0,0,1,1,0,0,8,0,1,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,1,0,0
+Jorginho,5,it ITA,CM,28-275,78,0,0,0,1,0,0,0,0,64,3,1,1,0.8,0.0,0.0,0,0,44,53,83.0,1,29,0,0,0
+Ross Barkley,8,eng ENG,CM,26-290,12,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,1,1
+N'Golo Kanté,7,fr FRA,"RM,CM",29-175,90,0,0,0,0,0,0,0,0,52,4,3,2,0.0,0.0,0.0,1,0,30,39,76.9,0,22,0,5,4
+Marcos Alonso,3,es ESP,LB,29-267,90,0,0,0,0,0,0,0,0,59,0,0,2,0.0,0.0,0.0,1,0,44,52,84.6,3,36,2,2,1
+Kurt Zouma,15,fr FRA,CB,25-329,90,0,0,0,0,1,1,0,0,58,0,0,0,0.0,0.0,0.0,0,0,44,49,89.8,0,32,0,0,0
+Andreas Christensen,4,dk DEN,CB,24-163,44,0,0,0,0,0,0,0,1,47,0,0,2,0.0,0.0,0.0,0,0,37,40,92.5,0,28,0,0,0
+Reece James,24,eng ENG,RB,20-287,90,0,0,0,0,0,0,0,0,71,5,1,1,0.0,0.0,0.0,0,0,41,54,75.9,2,27,1,2,1
+Kepa Arrizabalaga,1,es ESP,GK,25-353,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,1,0,43,50,86.0,0,31,0,0,0

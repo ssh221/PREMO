@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jean-Philippe Mateta,14,fr FRA,FW,26-283,73,1,0,0,0,1,1,1,0,13,2,0,0,0.4,0.4,0.0,0,0,5,7,71.4,0,6,1,0,0
+Odsonne Édouard,22,fr FRA,FW,26-081,17,1,0,0,0,2,1,0,0,7,2,0,0,0.5,0.5,0.0,0,0,2,2,100.0,0,5,0,0,0
+Eberechi Eze,10,eng ENG,LW,25-282,63,0,0,0,0,0,0,0,0,25,1,1,2,0.0,0.0,0.0,1,0,14,19,73.7,2,18,1,0,0
+Jeffrey Schlupp,15,gh GHA,"LW,RW",31-105,27,0,1,0,0,1,1,0,0,6,0,0,0,0.0,0.0,0.4,1,1,3,4,75.0,0,5,0,0,0
+Jordan Ayew,9,gh GHA,RW,32-208,73,0,0,0,0,2,0,0,0,18,0,1,0,0.1,0.1,0.0,1,1,11,13,84.6,2,10,1,1,1
+Michael Olise,7,fr FRA,RW,22-116,17,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.1,2,0,6,8,75.0,2,9,1,2,1
+Tyrick Mitchell,3,eng ENG,LM,24-218,74,0,0,0,0,0,0,0,0,25,1,1,2,0.0,0.0,0.0,0,0,9,18,50.0,0,13,1,0,0
+Nathaniel Clyne,17,eng ENG,LM,33-001,16,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,6,7,85.7,0,2,0,0,0
+Will Hughes,19,eng ENG,CM,28-355,81,0,0,0,0,0,0,0,0,29,2,0,2,0.0,0.0,0.0,0,0,19,22,86.4,0,11,0,0,0
+Naouirou Ahamada,29,fr FRA,CM,22-008,9,0,0,0,0,1,1,0,0,6,0,0,0,0.0,0.0,0.0,1,1,2,4,50.0,2,5,2,0,0
+Adam Wharton,20,eng ENG,CM,19-309,90,0,1,0,0,0,0,0,0,33,0,1,1,0.0,0.0,0.4,2,1,23,27,85.2,4,19,2,1,0
+Daniel Muñoz,12,co COL,RM,27-316,90,0,0,0,0,0,0,0,0,45,3,2,4,0.0,0.0,0.0,1,0,20,31,64.5,2,19,2,0,0
+Jefferson Lerma,8,co COL,CB,29-164,90,0,0,0,0,0,0,0,0,57,1,3,1,0.0,0.0,0.0,2,0,35,43,81.4,0,31,1,1,1
+Joachim Andersen,16,dk DEN,CB,27-311,90,0,0,0,0,0,0,0,0,61,4,0,1,0.0,0.0,0.0,1,0,34,42,81.0,1,34,0,1,1
+Joel Ward,2,eng ENG,CB,34-160,90,0,0,0,0,0,0,0,0,40,1,3,2,0.0,0.0,0.0,0,0,20,24,83.3,2,19,0,1,1
+Dean Henderson,30,eng ENG,GK,27-025,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,0,5,0,0,0

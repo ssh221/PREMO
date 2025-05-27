@@ -1,0 +1,3 @@
+﻿player,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions
+Jordan Pickford,eng ENG,27-006,42,2,2,,0.0,0.9,6,10,60.0,23,4,34.8,32.9,2,100.0,65.0,8,,,,
+João Virgínia,pt POR,21-154,48,3,0,3,100.0,0.3,2,9,22.2,12,3,50.0,44.6,3,100.0,67.3,4,1,25.0,0,10.0

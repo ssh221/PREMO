@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Javier Hernández,17,mx MEX,FW,30-248,78,0,0,0,0,4,1,1,0,20,0,0,1,0.3,0.3,0.0,1,0,7,10,70.0,0,10,1,0,0
+Andy Carroll,9,eng ENG,FW,30-029,12,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,1,0
+Felipe Anderson,8,br BRA,"LM,RM",25-295,89,0,1,0,0,1,0,0,0,57,2,3,4,0.0,0.0,0.2,7,1,30,38,78.9,9,35,9,6,3
+Arthur Masuaku,26,cd COD,LM,25-089,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Robert Snodgrass,11,sct SCO,CM,31-150,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.4,7,1,21,27,77.8,2,18,2,2,1
+Mark Noble,16,eng ENG,CM,31-272,78,0,0,0,0,2,0,0,0,28,0,0,0,0.1,0.1,0.1,4,0,13,20,65.0,4,9,0,2,1
+Pedro Obiang,14,gq EQG,"CM,DM",26-314,12,0,0,0,0,0,0,0,0,8,2,1,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0
+Michail Antonio,30,jm JAM,"RM,LM",28-313,90,1,0,0,0,1,1,0,0,43,2,1,2,0.1,0.1,0.0,2,0,20,26,76.9,7,22,2,4,1
+Declan Rice,41,eng ENG,DM,20-021,90,0,0,0,0,1,0,0,0,38,8,2,0,0.1,0.1,0.0,2,0,19,26,73.1,4,12,1,2,2
+Aaron Cresswell,3,eng ENG,LB,29-051,90,0,0,0,0,3,0,0,0,46,0,1,1,0.1,0.1,0.0,1,0,15,28,53.6,2,11,1,1,0
+Angelo Ogbonna,21,it ITA,CB,30-257,90,0,0,0,0,0,0,0,0,27,3,3,1,0.0,0.0,0.0,0,0,10,14,71.4,0,6,0,0,0
+Issa Diop,23,fr FRA,CB,22-026,90,0,0,0,0,1,0,0,0,24,1,1,1,0.1,0.1,0.0,0,0,6,13,46.2,0,4,0,0,0
+Ryan Fredericks,24,eng ENG,RB,26-117,90,0,0,0,0,0,0,0,0,42,0,1,2,0.0,0.0,0.0,1,0,18,29,62.1,2,12,0,1,1
+Łukasz Fabiański,1,pl POL,GK,33-292,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,15,42,35.7,0,16,0,0,0

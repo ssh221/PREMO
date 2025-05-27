@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Son Heung-min,7,kr KOR,FW,28-161,86,1,0,0,0,1,1,0,0,30,0,0,0,0.3,0.3,0.3,3,0,18,23,78.3,3,16,2,1,1
+Dele Alli,20,eng ENG,FW,24-249,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Harry Kane,10,eng ENG,FW,27-141,90,0,0,0,0,4,0,0,0,33,0,2,1,0.2,0.2,0.0,2,0,12,19,63.2,2,20,1,1,0
+Steven Bergwijn,23,nl NED,LM,23-069,75,0,0,0,0,2,0,0,0,27,2,0,2,0.5,0.5,0.0,1,0,8,12,66.7,0,14,1,4,0
+Sergio Reguilón,3,es ESP,LM,24-000,15,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,1,0,3,6,50.0,0,4,0,0,0
+Giovani Lo Celso,18,ar ARG,CM,24-251,57,0,1,0,0,0,0,1,0,32,2,0,1,0.0,0.0,0.4,2,1,17,24,70.8,2,9,0,0,0
+Lucas Moura,27,br BRA,RM,28-125,33,0,0,0,0,0,0,0,0,17,1,1,1,0.0,0.0,0.0,1,0,6,13,46.2,2,6,0,1,1
+Pierre Højbjerg,5,dk DEN,CM,25-133,90,0,0,0,0,0,0,1,0,42,5,2,3,0.0,0.0,0.0,1,0,19,29,65.5,0,16,0,1,1
+Moussa Sissoko,17,fr FRA,"RM,CM",31-122,90,0,0,0,0,0,0,0,0,36,2,3,0,0.0,0.0,0.0,0,0,14,25,56.0,2,21,3,3,1
+Ben Davies,33,wls WAL,LB,27-236,90,0,0,0,0,0,0,0,0,36,1,2,1,0.0,0.0,0.0,0,0,11,25,44.0,1,14,2,0,0
+Eric Dier,15,eng ENG,CB,26-336,90,0,0,0,0,1,1,0,0,34,0,1,1,0.1,0.1,0.0,0,0,14,24,58.3,2,17,0,0,0
+Toby Alderweireld,4,be BEL,CB,31-289,90,0,0,0,0,0,0,0,0,34,2,0,2,0.0,0.0,0.0,1,0,12,21,57.1,1,10,0,0,0
+Serge Aurier,24,ci CIV,RB,27-358,90,0,0,0,0,0,0,0,0,56,10,2,1,0.0,0.0,0.0,0,0,22,35,62.9,1,23,1,2,0
+Hugo Lloris,1,fr FRA,GK,33-356,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,1,1,17,27,63.0,0,16,0,0,0

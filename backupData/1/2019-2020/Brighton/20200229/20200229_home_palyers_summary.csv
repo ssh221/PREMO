@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,7,fr FRA,"FW,AM",23-199,90,0,0,0,0,5,4,0,0,39,1,0,0,0.5,0.5,0.0,2,0,22,27,81.5,4,21,4,3,1
+Solly March,20,eng ENG,LW,25-224,65,0,0,0,0,6,3,0,0,40,3,0,1,0.6,0.6,0.0,3,0,20,26,76.9,3,25,2,1,1
+Glenn Murray,17,eng ENG,FW,36-157,25,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,0,6,0,0,0
+Aaron Mooy,18,au AUS,"RW,DM",29-167,90,0,0,0,0,4,1,0,0,62,3,2,0,0.1,0.1,0.7,6,0,34,49,69.4,11,33,5,0,0
+Leandro Trossard,11,be BEL,"AM,LW",25-087,90,0,0,0,0,1,0,0,0,30,1,0,1,0.0,0.0,0.4,3,0,17,23,73.9,6,24,1,0,0
+Yves Bissouma,8,ml MLI,DM,23-183,81,0,0,0,0,1,0,0,0,63,4,0,1,0.0,0.0,0.0,3,0,44,50,88.0,13,45,2,7,5
+Steven Alzate,46,co COL,RB,21-174,9,0,0,0,0,0,0,0,0,19,2,2,0,0.0,0.0,0.0,1,0,11,14,78.6,2,10,1,2,2
+Davy Pröpper,24,nl NED,DM,28-180,90,0,0,0,0,0,0,0,0,77,5,2,2,0.0,0.0,0.1,4,0,53,63,84.1,14,44,2,0,0
+Dan Burn,33,eng ENG,LB,27-296,90,0,0,0,0,0,0,0,0,96,4,2,2,0.0,0.0,0.0,3,0,65,82,79.3,2,45,5,2,1
+Lewis Dunk,5,eng ENG,CB,28-100,90,0,0,0,0,3,0,0,0,90,1,1,1,0.8,0.8,0.0,4,0,78,86,90.7,2,55,0,0,0
+Adam Webster,15,eng ENG,CB,25-056,90,0,0,0,0,0,0,0,0,100,1,0,2,0.0,0.0,0.2,4,0,65,86,75.6,8,55,1,1,1
+Martín Montoya,22,es ESP,RB,28-321,77,0,0,0,0,0,0,1,0,61,0,1,1,0.0,0.0,0.2,7,0,40,49,81.6,2,34,4,0,0
+Alireza Jahanbakhsh,16,ir IRN,"RW,RB",26-202,13,0,0,0,0,2,0,0,0,18,1,0,1,0.1,0.1,0.0,1,0,6,15,40.0,1,7,0,1,1
+Mathew Ryan,1,au AUS,GK,27-327,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,22,26,84.6,0,15,0,0,0

@@ -1,0 +1,3 @@
+﻿player,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions
+Vicente Guaita,es ESP,32-002,44,,,,,0.0,2,11,18.2,11,2,63.6,45.3,4,100.0,57.0,5,1,20.0,1,16.5
+Wayne Hennessey,wls WAL,31-353,46,2,2,0,0.0,1.0,1,9,11.1,7,0,100.0,58.1,3,66.7,49.7,11,1,9.1,1,21.0

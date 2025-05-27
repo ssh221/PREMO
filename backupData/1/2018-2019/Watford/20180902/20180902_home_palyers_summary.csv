@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Troy Deeney,9,eng ENG,FW,30-065,90,1,0,0,0,3,2,0,0,53,1,1,0,0.2,0.2,0.0,0,0,17,31,54.8,2,27,3,2,1
+Andre Gray,18,jm JAM,FW,27-068,69,0,0,0,0,1,0,0,0,19,0,0,1,0.0,0.0,0.0,1,0,8,13,61.5,1,17,0,0,0
+Isaac Success,10,ng NGA,"FW,RM",22-238,21,0,0,0,0,0,0,1,0,12,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,9,0,1,0
+Roberto Pereyra,37,ar ARG,"AM,LM",27-238,89,0,0,0,0,1,0,0,0,40,0,1,0,0.1,0.1,0.0,0,0,17,24,70.8,2,22,1,8,3
+Adrian Mariappa,6,jm JAM,"CB,LM",31-334,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Will Hughes,19,eng ENG,AM,23-138,85,0,0,0,0,0,0,0,0,39,2,3,4,0.0,0.0,0.0,3,1,20,26,76.9,4,18,0,0,0
+Nathaniel Chalobah,14,eng ENG,"DM,CM",23-264,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,0,0,0,0
+Étienne Capoue,29,fr FRA,DM,30-053,90,0,0,0,0,0,0,1,0,44,5,5,3,0.0,0.0,0.0,0,0,20,29,69.0,1,14,1,0,0
+Abdoulaye Doucouré,16,ml MLI,"DM,CM",25-244,90,0,0,0,0,0,0,0,0,47,2,0,3,0.0,0.0,0.0,2,0,27,36,75.0,6,21,1,1,1
+José Holebas,25,gr GRE,"LB,WB",34-067,90,0,2,0,0,1,0,0,0,52,2,2,1,0.1,0.1,0.2,3,3,26,38,68.4,6,19,2,2,1
+Christian Kabasele,27,be BEL,CB,27-190,90,0,0,0,0,0,0,0,0,41,0,4,1,0.0,0.0,0.0,0,0,10,15,66.7,1,10,0,0,0
+Craig Cathcart,15,nir NIR,CB,29-208,90,1,0,0,0,1,1,0,0,39,2,3,2,0.1,0.1,0.0,0,0,10,20,50.0,2,11,0,0,0
+Daryl Janmaat,2,nl NED,"RB,WB",29-042,90,0,0,0,0,0,0,0,0,51,1,2,1,0.0,0.0,0.2,4,0,29,38,76.3,5,24,3,2,2
+Ben Foster,26,eng ENG,GK,35-152,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,1,0,6,31,19.4,0,13,0,0,0

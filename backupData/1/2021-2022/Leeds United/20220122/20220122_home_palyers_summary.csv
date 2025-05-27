@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Daniel James,20,wls WAL,FW,24-073,70,0,0,0,0,2,2,1,0,14,0,0,1,0.3,0.3,0.0,0,0,4,9,44.4,2,10,5,2,1
+Tyler Roberts,11,wls WAL,FW,23-010,20,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,3,0,0,0
+Jack Harrison,22,eng ENG,LW,25-063,90,0,0,0,0,1,0,0,0,52,3,0,0,0.1,0.1,0.1,6,0,23,41,56.1,5,39,5,9,5
+Raphinha,10,br BRA,RW,25-039,90,0,0,0,0,3,0,0,0,47,0,0,1,0.1,0.1,0.2,4,0,18,37,48.6,2,31,5,6,3
+Rodrigo,19,es ESP,"AM,DM",30-322,90,0,0,0,0,2,1,1,0,56,1,0,1,0.1,0.1,0.0,3,0,32,42,76.2,8,37,8,3,2
+Mateusz Klich,43,pl POL,DM,31-223,79,0,0,0,0,2,0,0,0,48,1,1,1,0.0,0.0,0.0,1,0,28,34,82.4,3,24,0,1,0
+Joe Gelhardt,30,eng ENG,AM,19-263,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,6,1,4,2
+Robin Koch,5,de GER,DM,25-189,90,0,0,0,0,3,1,0,0,43,0,2,0,0.1,0.1,0.0,2,0,24,35,68.6,4,22,0,0,0
+Stuart Dallas,15,nir NIR,LB,30-278,90,0,0,0,0,0,0,1,0,79,6,2,0,0.0,0.0,0.0,1,0,57,65,87.7,10,51,4,0,0
+Pascal Struijk,21,nl NED,CB,22-164,90,0,0,0,0,0,0,0,0,88,0,0,5,0.0,0.0,0.0,0,0,70,80,87.5,9,60,1,0,0
+Diego Llorente,14,es ESP,CB,28-159,90,0,0,0,0,0,0,1,0,93,5,2,1,0.0,0.0,0.0,1,0,73,83,88.0,5,68,1,0,0
+Luke Ayling,2,eng ENG,RB,30-150,90,0,0,0,0,0,0,0,0,71,4,0,4,0.0,0.0,0.0,2,0,46,58,79.3,8,35,4,0,0
+Illan Meslier,1,fr FRA,GK,21-326,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,30,35,85.7,0,24,0,0,0

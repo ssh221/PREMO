@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wout Weghorst,9,nl NED,FW,29-182,90,0,0,0,0,2,0,0,0,38,0,0,0,0.2,0.2,0.0,3,0,16,26,61.5,0,18,0,2,1
+Maxwel Cornet,20,ci CIV,"FW,LM",25-131,90,0,0,0,0,4,2,0,0,32,0,0,0,0.2,0.2,0.0,2,0,9,20,45.0,0,13,1,2,0
+Dwight McNeil,11,eng ENG,"LM,RM",22-075,90,0,0,0,0,1,0,0,0,39,2,1,0,0.0,0.0,0.0,3,0,19,26,73.1,0,26,2,9,5
+Dale Stephens,16,eng ENG,CM,32-238,90,0,0,0,0,1,0,1,0,51,3,1,2,0.0,0.0,0.0,1,0,34,42,81.0,4,17,0,0,0
+Ashley Westwood,18,eng ENG,CM,31-310,90,0,0,0,0,1,0,0,0,57,0,1,1,0.0,0.0,0.1,3,0,41,54,75.9,3,20,0,0,0
+Aaron Lennon,17,eng ENG,RM,34-295,65,0,0,0,0,0,0,0,0,24,3,0,0,0.0,0.0,0.0,0,0,11,15,73.3,0,15,1,3,1
+Jay Rodriguez,19,eng ENG,FW,32-191,25,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,5,0,0,0
+Erik Pieters,23,nl NED,LB,33-182,90,0,0,0,0,3,0,0,0,66,3,0,2,0.1,0.1,0.0,0,0,39,53,73.6,2,26,0,2,2
+Ben Mee,6,eng ENG,CB,32-137,90,0,0,0,0,0,0,0,0,66,0,2,1,0.0,0.0,0.0,0,0,39,58,67.2,3,37,0,0,0
+James Tarkowski,5,eng ENG,CB,29-078,90,0,0,0,0,0,0,0,0,64,3,1,1,0.0,0.0,0.1,4,0,33,52,63.5,4,18,1,1,1
+Connor Roberts,14,wls WAL,RB,26-135,90,0,0,0,0,0,0,0,0,80,0,0,1,0.0,0.0,0.0,2,0,37,73,50.7,4,29,4,2,1
+Nick Pope,1,eng ENG,GK,29-292,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,17,0,0,0

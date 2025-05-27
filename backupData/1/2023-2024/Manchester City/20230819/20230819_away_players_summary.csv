@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,FW,23-332,65,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,2,0,8,10,80.0,1,9,1,2,1
+Callum Wilson,9,eng ENG,FW,31-173,25,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,2,0,3,5,60.0,0,5,1,2,1
+Anthony Gordon,10,eng ENG,LW,22-176,55,0,0,0,0,2,0,1,0,23,0,0,0,0.1,0.1,0.0,0,0,14,16,87.5,0,22,3,1,0
+Harvey Barnes,15,eng ENG,LW,25-253,35,0,0,0,0,1,1,1,0,15,0,0,0,0.0,0.0,0.0,1,0,13,14,92.9,1,10,1,0,0
+Miguel Almirón,24,py PAR,RW,29-190,85,0,0,0,0,2,0,0,0,39,0,0,2,0.1,0.1,0.1,2,0,23,29,79.3,3,32,7,1,0
+Valentino Livramento,21,eng ENG,RW,20-280,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Joelinton,7,br BRA,LM,27-005,56,0,0,0,0,1,0,1,0,23,0,2,1,0.0,0.0,0.1,2,0,17,20,85.0,1,16,0,0,0
+Sean Longstaff,36,eng ENG,"RM,LM",25-293,34,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,14,0,1,0
+Bruno Guimarães,39,br BRA,CM,25-276,90,0,0,0,0,1,0,1,0,71,0,1,0,0.1,0.1,0.0,1,0,62,66,93.9,6,61,0,0,0
+Sandro Tonali,8,it ITA,RM,23-103,65,0,0,0,0,0,0,1,0,40,1,0,0,0.0,0.0,0.0,0,0,32,37,86.5,3,28,0,0,0
+Elliot Anderson,32,eng ENG,LM,20-286,25,0,0,0,0,0,0,0,0,16,1,1,1,0.0,0.0,0.0,1,0,9,12,75.0,1,10,3,2,1
+Dan Burn,33,eng ENG,LB,31-102,90,0,0,0,0,0,0,0,0,54,2,1,1,0.0,0.0,0.0,0,0,43,51,84.3,0,33,2,0,0
+Sven Botman,4,nl NED,CB,23-219,90,0,0,0,0,0,0,0,0,64,1,0,0,0.0,0.0,0.0,1,0,53,60,88.3,2,43,0,0,0
+Fabian Schär,5,ch SUI,CB,31-242,90,0,0,0,0,0,0,0,0,80,2,0,2,0.0,0.0,0.0,0,0,59,67,88.1,2,59,0,0,0
+Kieran Trippier,2,eng ENG,RB,32-334,90,0,0,0,0,0,0,0,0,84,0,2,4,0.0,0.0,0.0,2,0,61,75,81.3,6,51,0,2,2
+Nick Pope,22,eng ENG,GK,31-122,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,25,28,89.3,0,17,0,0,0

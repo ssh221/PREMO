@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Christian Benteke,17,be BEL,FW,26-294,71,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.1,2,0,10,19,52.6,1,17,2,2,1
+Bakary Sako,26,ml MLI,FW,29-150,19,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,3,0,0,0
+Jeffrey Schlupp,15,gh GHA,LW,24-274,90,0,0,0,0,1,0,1,0,35,3,0,2,0.1,0.1,0.0,1,0,15,21,71.4,3,24,1,0,0
+Andros Townsend,10,eng ENG,RW,26-069,90,0,0,0,0,1,0,0,0,43,1,1,1,0.0,0.0,0.0,1,0,26,36,72.2,2,30,5,3,3
+Ruben Loftus-Cheek,8,eng ENG,AM,21-243,90,0,0,0,0,2,0,0,0,39,0,1,0,0.5,0.5,0.0,2,0,25,29,86.2,5,27,2,3,3
+Yohan Cabaye,7,fr FRA,DM,31-252,56,0,0,0,0,0,0,0,0,22,3,2,1,0.0,0.0,0.1,0,0,12,17,70.6,2,12,0,1,1
+Jason Puncheon,42,eng ENG,DM,31-097,34,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,1,0,8,9,88.9,1,10,0,0,0
+Luka Milivojević,4,rs SRB,DM,26-169,90,0,0,0,0,0,0,0,0,39,1,4,3,0.0,0.0,0.0,0,0,22,29,75.9,2,26,2,2,2
+Patrick van Aanholt,3,nl NED,LB,27-025,90,0,0,0,0,1,0,0,0,45,2,3,1,0.0,0.0,0.0,0,0,27,39,69.2,2,29,2,4,4
+Mamadou Sakho,12,fr FRA,CB,27-222,90,0,0,0,0,0,0,0,0,35,0,2,0,0.0,0.0,0.0,0,0,24,28,85.7,1,23,0,0,0
+Scott Dann,6,eng ENG,CB,30-221,90,0,0,0,0,0,0,0,0,44,0,1,4,0.0,0.0,0.0,1,0,20,31,64.5,1,28,1,0,0
+Timothy Fosu-Mensah,24,nl NED,RB,19-264,90,0,0,0,0,0,0,0,0,46,4,1,3,0.0,0.0,0.0,0,0,22,30,73.3,2,18,0,0,0
+Wayne Hennessey,13,wls WAL,GK,30-242,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,16,0,0,0

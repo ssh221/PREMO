@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jarrod Bowen,20,eng ENG,"FW,RM",27-032,90,0,0,0,0,4,0,0,0,32,1,0,1,0.4,0.4,0.0,1,0,11,17,64.7,2,23,2,2,0
+Danny Ings,18,eng ENG,FW,31-182,89,0,0,0,0,6,2,0,0,42,3,1,1,0.8,0.8,0.2,12,3,16,24,66.7,3,27,4,5,3
+Divin Mubama,45,eng ENG,FW,19-088,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0
+Pablo Fornals,8,es ESP,LM,27-333,90,0,0,0,0,0,0,0,0,63,3,2,0,0.0,0.0,0.1,4,0,29,42,69.0,6,35,1,2,1
+James Ward-Prowse,7,eng ENG,"CM,DM",29-081,90,1,0,1,1,0,0,1,0,54,1,4,1,0.8,0.0,0.3,7,0,42,44,95.5,4,20,0,0,0
+Tomáš Souček,28,cz CZE,CM,28-328,90,0,0,0,0,0,0,0,0,66,4,2,3,0.0,0.0,0.1,1,0,38,51,74.5,2,28,0,0,0
+Maxwel Cornet,17,ci CIV,RM,27-116,69,1,0,0,0,2,1,0,0,26,1,1,0,0.3,0.3,0.0,1,0,12,18,66.7,1,12,2,0,0
+Ben Johnson,2,eng ENG,CM,23-362,21,0,0,0,0,1,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,18,2,3,2
+Emerson Palmieri,33,it ITA,LB,29-171,90,0,0,0,0,0,0,0,0,53,2,1,2,0.0,0.0,0.0,2,0,39,42,92.9,6,26,2,0,0
+Kurt Zouma,4,fr FRA,CB,29-086,90,0,0,0,0,1,1,0,0,47,1,0,4,0.0,0.0,0.0,0,0,24,36,66.7,0,24,0,0,0
+Konstantinos Mavropanos,15,gr GRE,CB,26-041,90,0,0,0,0,1,0,0,0,43,1,0,2,0.0,0.0,0.0,0,0,20,32,62.5,0,19,0,0,0
+Vladimír Coufal,5,cz CZE,RB,31-152,89,0,0,0,0,0,0,2,1,64,1,0,2,0.0,0.0,0.2,2,0,30,53,56.6,3,28,2,3,1
+Alphonse Areola,23,fr FRA,GK,30-328,89,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,18,28,64.3,0,17,0,0,0
+Łukasz Fabiański,1,pl POL,GK,38-278,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0

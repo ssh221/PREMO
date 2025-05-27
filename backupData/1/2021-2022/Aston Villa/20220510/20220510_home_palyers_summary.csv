@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,20,eng ENG,FW,29-291,90,0,0,0,0,2,1,0,0,29,0,1,1,0.5,0.5,0.0,2,0,13,19,68.4,1,19,1,2,1
+Ollie Watkins,11,eng ENG,FW,26-131,80,0,0,0,0,1,1,0,0,16,1,0,0,0.1,0.1,0.0,1,0,4,10,40.0,1,9,2,2,2
+Bertrand Traoré,15,bf BFA,FW,26-246,10,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,2,1,0,0
+Philippe Coutinho,23,br BRA,AM,29-332,69,0,0,0,0,1,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,24,29,82.8,3,27,0,4,2
+Emi Buendía,10,ar ARG,AM,25-136,21,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,2,0,15,18,83.3,1,12,0,1,1
+John McGinn,7,sct SCO,LM,27-204,90,0,0,0,0,0,0,0,0,33,0,2,2,0.0,0.0,0.5,1,0,22,28,78.6,2,17,0,1,0
+Marvelous Nakamba,19,zw ZIM,CM,28-111,61,0,0,0,0,0,0,0,0,34,2,2,1,0.0,0.0,0.0,0,0,19,26,73.1,1,16,0,1,1
+Carney Chukwuemeka,33,eng ENG,RM,18-202,29,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,9,100.0,1,12,0,0,0
+Douglas Luiz,6,br BRA,"RM,CM",24-001,90,1,0,0,0,2,2,0,0,53,2,2,3,0.8,0.8,0.0,4,1,36,41,87.8,5,28,0,2,2
+Lucas Digne,27,fr FRA,LB,28-294,90,0,0,0,0,1,0,0,0,68,2,4,0,0.0,0.0,0.1,2,0,39,53,73.6,3,29,0,3,1
+Tyrone Mings,5,eng ENG,CB,29-058,90,0,0,0,0,0,0,0,0,41,1,1,2,0.0,0.0,0.1,1,0,21,29,72.4,3,22,0,0,0
+Ezri Konsa,4,eng ENG,CB,24-199,90,0,0,0,0,0,0,0,0,46,1,0,0,0.0,0.0,0.0,0,0,33,39,84.6,2,30,0,1,1
+Matty Cash,2,pl POL,RB,24-276,90,0,0,0,0,1,0,0,0,51,3,0,4,0.0,0.0,0.0,2,0,29,40,72.5,4,26,4,1,1
+Emiliano Martínez,1,ar ARG,GK,29-250,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,21,41,51.2,0,26,0,0,0

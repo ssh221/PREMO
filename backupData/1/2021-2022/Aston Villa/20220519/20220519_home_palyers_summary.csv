@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,26-140,77,0,0,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.0,1,0,10,10,100.0,0,13,0,1,1
+Danny Ings,20,eng ENG,FW,29-300,13,0,0,0,0,2,1,0,0,4,0,0,0,0.4,0.4,0.0,0,0,1,2,50.0,0,3,0,0,0
+Carney Chukwuemeka,33,eng ENG,AM,18-211,56,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,22,24,91.7,1,19,1,0,0
+Bertrand Traoré,15,bf BFA,AM,26-255,34,0,0,0,0,2,1,0,0,22,1,0,0,0.1,0.1,0.0,1,0,11,16,68.8,1,15,2,0,0
+Emi Buendía,10,ar ARG,AM,25-145,90,1,0,0,0,4,1,0,0,67,2,0,0,0.3,0.3,0.4,7,0,45,52,86.5,8,50,2,0,0
+Jacob Ramsey,41,eng ENG,LM,20-356,71,0,0,0,0,1,0,0,0,55,3,1,2,0.0,0.0,0.0,2,0,37,41,90.2,3,43,4,1,0
+Philippe Coutinho,23,br BRA,LM,29-341,19,0,0,0,0,2,1,0,0,34,0,0,0,0.0,0.0,0.0,6,0,30,32,93.8,9,29,6,0,0
+Douglas Luiz,6,br BRA,CM,24-010,90,0,0,0,0,0,0,0,0,126,0,2,0,0.0,0.0,0.1,9,1,106,120,88.3,5,91,5,1,0
+John McGinn,7,sct SCO,RM,27-213,90,0,1,0,0,3,3,0,0,63,3,0,4,0.1,0.1,0.2,5,1,40,52,76.9,11,50,1,0,0
+Lucas Digne,27,fr FRA,LB,28-303,90,0,0,0,0,1,0,0,0,79,1,0,0,0.0,0.0,0.4,5,0,59,73,80.8,1,55,5,1,0
+Tyrone Mings,5,eng ENG,CB,29-067,90,0,0,0,0,0,0,0,0,81,0,0,2,0.0,0.0,0.0,1,0,62,69,89.9,4,61,0,0,0
+Calum Chambers,16,eng ENG,CB,27-119,90,0,0,0,0,1,0,0,0,87,4,0,0,0.1,0.1,0.1,4,0,71,79,89.9,6,66,1,0,0
+Matty Cash,2,pl POL,RB,24-285,90,0,0,0,0,4,1,0,0,68,0,0,2,0.3,0.3,0.0,2,0,44,56,78.6,1,46,3,1,0
+Emiliano Martínez,1,ar ARG,GK,29-259,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,20,20,100.0,0,15,0,0,0

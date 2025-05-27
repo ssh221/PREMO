@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aaron Connolly,44,ie IRL,FW,19-355,67,0,0,0,0,1,0,0,0,20,0,0,1,0.0,0.0,0.1,1,0,4,8,50.0,0,9,1,1,0
+Martín Montoya,22,es ESP,RB,28-279,23,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,12,15,80.0,0,8,0,0,0
+Neal Maupay,7,fr FRA,FW,23-157,90,0,1,0,0,4,1,1,0,45,1,0,2,0.2,0.2,0.1,2,1,15,28,53.6,3,27,3,1,1
+Leandro Trossard,11,be BEL,"LM,LW",25-045,80,1,0,0,0,1,1,0,0,55,3,0,1,0.1,0.1,0.1,1,0,27,39,69.2,5,31,2,2,2
+Glenn Murray,17,eng ENG,FW,36-115,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0
+Dale Stephens,6,eng ENG,"CM,LM",30-220,90,0,0,0,0,1,0,0,0,75,4,3,2,0.1,0.1,0.0,2,0,53,64,82.8,8,38,0,0,0
+Davy Pröpper,24,nl NED,CM,28-138,90,0,0,0,0,0,0,0,0,70,2,1,0,0.0,0.0,0.0,2,0,50,59,84.7,7,40,2,0,0
+Aaron Mooy,18,au AUS,"RM,RW",29-125,80,0,0,0,0,1,0,0,0,41,0,2,0,0.4,0.4,0.0,1,0,24,32,75.0,7,33,4,3,2
+Pascal Groß,13,de GER,RM,28-217,10,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.1,2,0,7,8,87.5,1,5,0,0,0
+Bernardo,30,br BRA,LB,24-249,90,0,0,0,0,0,0,0,0,90,5,2,2,0.0,0.0,0.4,2,0,52,73,71.2,8,36,2,3,3
+Lewis Dunk,5,eng ENG,CB,28-058,90,0,0,0,0,1,0,1,0,68,2,1,0,0.1,0.1,0.1,1,0,52,62,83.9,2,36,0,0,0
+Adam Webster,15,eng ENG,CB,25-014,90,0,0,0,0,1,0,1,0,70,0,5,1,0.3,0.3,0.0,1,0,47,59,79.7,4,39,1,0,0
+Steven Alzate,46,co COL,"RB,LM,RM",21-132,90,0,0,0,0,0,0,0,0,69,2,2,2,0.0,0.0,0.0,2,1,48,57,84.2,5,36,2,4,3
+Mathew Ryan,1,au AUS,GK,27-285,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,32,40,80.0,0,23,0,0,0

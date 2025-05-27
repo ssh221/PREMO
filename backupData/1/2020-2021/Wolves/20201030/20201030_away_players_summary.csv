@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michy Batshuayi,23,be BEL,FW,27-028,83,0,0,0,0,1,0,0,0,23,0,0,0,0.1,0.1,0.0,3,0,11,13,84.6,1,10,1,2,1
+Christian Benteke,20,be BEL,FW,29-332,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Wilfried Zaha,11,ci CIV,LW,27-355,90,0,0,0,0,2,0,1,0,50,1,0,2,0.1,0.1,0.0,3,0,28,36,77.8,3,33,2,4,0
+Andros Townsend,10,eng ENG,RW,29-106,71,0,0,0,0,3,2,0,0,38,2,2,2,0.1,0.1,0.1,3,0,23,29,79.3,3,25,1,3,2
+Jordan Ayew,9,gh GHA,RW,29-049,19,0,0,0,0,0,0,0,0,18,0,1,1,0.0,0.0,0.0,0,0,13,14,92.9,0,10,1,1,0
+Jeffrey Schlupp,15,gh GHA,LM,27-312,64,0,0,0,0,1,0,0,0,48,1,0,2,0.0,0.0,0.0,0,0,33,42,78.6,2,33,5,2,2
+Eberechi Eze,25,eng ENG,"LM,LW",22-123,26,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.0,1,0,18,18,100.0,4,17,1,5,2
+Luka Milivojević,4,rs SRB,"CM,RM",29-206,85,0,0,0,0,1,0,0,1,87,1,0,2,0.1,0.1,0.0,3,0,71,80,88.8,7,68,1,0,0
+Jaïro Riedewald,44,nl NED,"RM,CM",24-051,90,0,0,0,0,0,0,0,0,56,4,1,2,0.0,0.0,0.0,2,0,44,48,91.7,4,42,1,2,2
+Patrick van Aanholt,3,nl NED,LB,30-062,90,0,0,0,0,1,0,1,0,78,0,1,1,0.1,0.1,0.1,1,0,58,66,87.9,8,52,2,3,1
+Scott Dann,6,eng ENG,CB,33-259,90,0,0,0,0,1,0,0,0,79,0,0,1,0.1,0.1,0.0,0,0,67,72,93.1,7,58,0,2,2
+Cheikhou Kouyaté,8,sn SEN,CB,30-314,90,0,0,0,0,0,0,0,0,81,0,1,1,0.0,0.0,0.0,1,0,68,75,90.7,0,58,0,0,0
+Nathaniel Clyne,17,eng ENG,RB,29-208,90,0,0,0,0,1,0,0,0,75,1,2,0,0.0,0.0,0.1,1,0,63,69,91.3,2,45,1,1,1
+Vicente Guaita,31,es ESP,GK,33-294,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,13,0,0,0

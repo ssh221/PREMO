@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Glenn Murray,17,eng ENG,FW,35-319,63,0,0,0,0,0,0,0,0,13,1,0,2,0.0,0.0,0.0,1,0,6,8,75.0,1,8,0,0,0
+Neal Maupay,7,fr FRA,LM,22-361,27,1,0,0,0,1,1,0,0,11,0,0,0,0.4,0.4,0.0,1,1,6,6,100.0,0,3,1,2,1
+Jürgen Locadia,9,cw CUW,LW,25-276,63,0,0,0,0,1,1,0,0,20,0,0,0,0.1,0.1,0.0,2,0,9,17,52.9,0,8,1,1,1
+Florin Andone,10,ro ROU,FW,26-121,27,1,0,0,0,1,1,0,0,14,1,0,1,0.4,0.4,0.0,0,0,3,6,50.0,0,8,1,2,1
+Pascal Groß,13,de GER,"RW,RM",28-056,90,0,0,0,0,0,0,0,0,53,2,0,1,0.0,0.0,0.0,1,0,30,44,68.2,7,26,2,0,0
+Solly March,20,eng ENG,"LM,LB",25-021,89,0,0,0,0,0,0,0,0,56,4,3,1,0.0,0.0,0.0,0,0,40,48,83.3,1,22,2,0,0
+Bernardo,30,br BRA,LB,24-088,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0
+Dale Stephens,6,eng ENG,CM,30-059,90,0,0,0,0,0,0,0,0,53,4,0,0,0.0,0.0,0.0,1,0,35,43,81.4,2,21,1,0,0
+Davy Pröpper,24,nl NED,CM,27-342,90,0,1,0,0,1,0,0,0,60,3,1,1,0.0,0.0,0.4,1,1,39,47,83.0,3,33,2,2,1
+Martín Montoya,22,es ESP,"RM,RB",28-118,90,0,0,0,0,0,0,0,0,63,2,1,1,0.0,0.0,0.1,2,1,32,50,64.0,5,29,2,3,1
+Dan Burn,33,eng ENG,CB,27-093,90,0,0,0,0,1,0,0,0,73,1,2,0,0.0,0.0,0.0,0,0,48,64,75.0,4,40,2,1,0
+Lewis Dunk,5,eng ENG,CB,27-262,90,0,1,0,0,0,0,1,0,71,2,2,2,0.0,0.0,0.4,1,1,54,59,91.5,5,41,0,0,0
+Shane Duffy,4,ie IRL,CB,27-221,90,0,0,0,0,0,0,0,0,65,4,2,2,0.0,0.0,0.0,0,0,37,50,74.0,2,26,1,1,1
+Mathew Ryan,1,au AUS,GK,27-124,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,28,39,71.8,0,22,0,0,0

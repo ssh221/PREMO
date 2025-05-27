@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Riyad Mahrez,26,dz ALG,"RW,FW",30-280,90,0,0,0,0,2,0,0,0,66,0,0,2,0.2,0.2,0.2,5,1,52,59,88.1,4,53,1,1,0
+Raheem Sterling,7,eng ENG,LW,26-355,86,0,0,0,0,2,0,0,0,51,0,0,1,0.1,0.1,0.5,5,0,31,39,79.5,4,36,6,3,0
+Fernandinho,25,br BRA,RM,36-208,4,1,0,0,0,1,1,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,2,0,0,0
+Gabriel Jesus,9,br BRA,"RW,FW,LW",24-239,90,0,0,0,0,4,1,0,0,46,0,0,0,0.5,0.5,0.2,5,1,28,36,77.8,5,33,5,1,0
+Bernardo Silva,20,pt POR,"LM,FW",27-110,90,0,0,0,0,1,1,0,0,76,1,0,0,0.1,0.1,0.1,6,1,59,68,86.8,7,60,3,1,1
+Rodri,16,es ESP,CM,25-159,90,0,0,0,0,0,0,0,0,87,4,1,0,0.0,0.0,0.0,2,0,76,80,95.0,10,61,0,2,1
+İlkay Gündoğan,8,de GER,"RM,LM",31-035,90,1,1,0,0,4,3,0,0,79,2,0,1,0.8,0.8,0.3,7,0,59,64,92.2,7,53,0,3,2
+João Cancelo,27,pt POR,LB,27-185,90,0,0,0,0,2,2,1,0,109,2,2,1,0.1,0.1,0.1,5,0,79,97,81.4,11,70,4,3,2
+Aymeric Laporte,14,es ESP,CB,27-185,90,0,0,0,0,1,0,1,0,96,1,2,0,0.1,0.1,0.0,0,0,82,88,93.2,10,70,0,0,0
+Rúben Dias,3,pt POR,CB,24-198,90,0,0,0,0,1,0,0,0,99,2,0,2,0.1,0.1,0.0,0,0,80,89,89.9,5,79,1,0,0
+Kyle Walker,2,eng ENG,RB,31-184,90,0,0,0,0,1,0,0,0,110,2,0,0,0.0,0.0,0.0,0,0,93,106,87.7,8,92,0,1,0
+Ederson,31,br BRA,GK,28-103,90,0,0,0,0,0,0,0,0,44,1,0,0,0.0,0.0,0.0,0,0,40,42,95.2,0,39,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jacob Bruun Larsen,34,dk DEN,FW,25-166,68,0,0,0,0,2,1,0,0,51,0,0,4,0.1,0.1,0.0,5,0,30,39,76.9,3,25,3,3,1
+Zeki Amdouni,25,ch SUI,"FW,CM",23-090,22,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,5,1,1,0
+David Datro Fofana,23,ci CIV,FW,21-072,90,0,0,0,0,2,2,0,0,38,2,0,0,0.1,0.1,0.1,1,0,15,21,71.4,4,21,3,3,0
+Wilson Odobert,47,fr FRA,LM,19-096,90,0,0,0,0,6,1,0,0,57,1,0,0,0.4,0.4,0.2,7,0,37,48,77.1,4,36,4,2,2
+Josh Cullen,24,ie IRL,CM,27-331,89,0,0,0,0,2,1,0,0,97,0,0,0,0.0,0.0,0.0,9,0,84,93,90.3,12,73,1,0,0
+Jóhann Berg Guðmundsson,7,is ISL,CM,33-128,1,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,2,9,1,1,1
+Sander Berge,16,no NOR,"CM,CB",26-018,90,0,0,0,0,1,0,0,0,76,5,0,0,0.1,0.1,0.0,2,0,64,70,91.4,8,51,3,2,2
+Vitinho,22,br BRA,RM,24-224,75,0,0,0,0,3,0,1,0,38,0,0,2,0.6,0.6,0.0,2,0,12,28,42.9,1,27,4,1,1
+Benson Manuel,10,ao ANG,RM,26-341,15,0,0,0,0,1,0,0,0,15,1,0,0,0.0,0.0,0.0,4,0,11,12,91.7,0,10,1,1,1
+Charlie Taylor,3,eng ENG,LB,30-167,90,0,0,0,0,0,0,0,0,65,1,0,1,0.0,0.0,0.4,3,0,44,57,77.2,3,28,3,0,0
+Maxime Estève,33,fr FRA,CB,21-282,90,0,0,0,0,2,0,0,0,85,2,0,1,0.1,0.1,0.0,0,0,69,78,88.5,3,67,2,1,1
+Dara O'Shea,2,ie IRL,CB,24-365,89,0,0,0,0,1,0,1,0,80,1,0,1,0.0,0.0,0.0,1,0,62,72,86.1,6,52,2,0,0
+Jay Rodriguez,9,eng ENG,FW,34-218,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0
+Lorenz Assignon,20,tg TOG,RB,23-255,90,0,0,0,0,0,0,0,0,57,5,2,1,0.0,0.0,0.3,3,0,32,47,68.1,1,31,3,1,0
+James Trafford,1,eng ENG,GK,21-145,90,0,0,0,0,0,0,0,0,83,0,0,0,0.0,0.0,0.0,0,0,55,82,67.1,0,63,0,1,1

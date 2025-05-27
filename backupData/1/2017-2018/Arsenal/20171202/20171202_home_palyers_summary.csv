@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,26-188,90,1,0,0,0,7,4,0,0,54,2,0,2,3.0,3.0,0.1,10,0,21,36,58.3,1,36,1,5,4
+Alexis Sánchez,7,cl CHI,"LW,AM",28-348,90,0,0,0,0,5,2,1,0,84,0,0,0,1.0,1.0,0.3,12,1,47,73,64.4,15,62,6,0,0
+Mesut Özil,11,de GER,"AM,CM",29-048,90,0,0,0,0,3,1,0,0,123,0,0,0,0.2,0.2,0.3,10,0,98,118,83.1,27,97,13,4,2
+Granit Xhaka,29,ch SUI,"DM,CM",25-066,69,0,0,0,0,2,0,0,0,68,5,0,2,0.1,0.1,0.8,3,0,54,61,88.5,12,45,1,0,0
+Danny Welbeck,23,eng ENG,"WB,RW",27-006,21,0,0,0,0,2,1,0,0,18,0,0,0,0.1,0.1,0.0,2,0,15,16,93.8,3,14,0,1,1
+Aaron Ramsey,8,wls WAL,"DM,CM",26-341,90,0,1,0,0,5,1,0,0,88,1,1,0,0.3,0.3,0.8,6,1,71,82,86.6,8,68,8,1,1
+Sead Kolašinac,31,ba BIH,"LB,WB",24-165,75,0,0,0,0,1,1,0,0,58,3,1,0,0.0,0.0,0.0,3,0,41,51,80.4,5,29,0,0,0
+Olivier Giroud,12,fr FRA,FW,31-063,15,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,6,16.7,0,3,0,0,0
+Héctor Bellerín,24,es ESP,"RB,CB,WB",22-258,90,0,0,0,0,1,1,1,0,65,1,0,0,0.0,0.0,0.0,3,0,57,61,93.4,7,42,0,0,0
+Nacho Monreal,18,es ESP,CB,31-279,90,0,0,0,0,1,1,0,0,72,3,1,2,0.0,0.0,0.1,1,0,59,65,90.8,7,51,3,0,0
+Shkodran Mustafi,20,de GER,CB,25-229,14,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,0,0
+Alex Iwobi,17,ng NGA,"RW,WB,DM",21-213,76,0,0,0,0,6,2,0,0,65,1,0,2,0.5,0.5,0.5,8,0,48,55,87.3,10,51,7,1,1
+Laurent Koscielny,6,fr FRA,CB,32-083,90,0,0,0,0,0,0,1,0,74,2,1,2,0.0,0.0,0.2,2,0,59,64,92.2,5,48,3,0,0
+Petr Čech,33,cz CZE,GK,35-196,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,16,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Andre Gray,18,jm JAM,FW,27-301,90,1,0,0,0,4,2,0,0,25,0,0,0,0.7,0.7,0.0,2,0,8,13,61.5,1,16,2,2,0
+Gerard Deulofeu,7,es ESP,"FW,RW",25-041,90,0,0,0,0,3,0,1,0,58,1,0,0,0.1,0.1,0.2,7,0,30,50,60.0,5,48,7,3,2
+Roberto Pereyra,37,ar ARG,"AM,WB,LM",28-106,90,0,0,0,0,2,1,0,0,58,1,2,0,0.1,0.1,0.0,3,1,32,37,86.5,6,40,2,8,5
+Will Hughes,19,eng ENG,"AM,CM",24-006,76,0,0,0,0,2,0,0,0,38,1,1,0,0.1,0.1,0.3,3,0,18,26,69.2,2,32,1,2,0
+Isaac Success,10,ng NGA,LW,23-106,14,0,0,0,0,1,0,0,0,9,1,0,0,0.1,0.1,0.0,0,0,4,4,100.0,1,6,0,0,0
+Étienne Capoue,29,fr FRA,"CM,DM",30-286,90,0,0,0,0,0,0,1,0,96,2,1,0,0.0,0.0,0.0,3,0,80,90,88.9,10,66,1,2,2
+Abdoulaye Doucouré,16,ml MLI,"CM,DM",26-112,90,0,0,0,0,1,1,1,0,98,2,0,1,0.1,0.1,0.1,2,0,69,91,75.8,9,73,3,2,1
+Adam Masina,11,ma MAR,"CB,LB",25-111,90,0,0,0,0,0,0,1,0,72,4,0,2,0.0,0.0,0.0,0,0,54,64,84.4,4,40,1,0,0
+Craig Cathcart,15,nir NIR,CB,30-076,45,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,32,0,0,0
+Kiko Femenía,21,es ESP,"WB,RM",28-080,45,0,0,0,0,0,0,0,0,39,1,2,1,0.0,0.0,0.1,2,1,29,34,85.3,1,23,1,1,1
+Christian Kabasele,27,be BEL,CB,28-058,90,0,0,0,0,0,0,1,0,86,0,3,1,0.0,0.0,0.0,0,0,57,72,79.2,3,53,0,0,0
+Daryl Janmaat,2,nl NED,"CB,RB",29-275,90,0,1,0,0,2,0,0,0,91,1,2,1,0.1,0.1,0.1,1,0,62,80,77.5,5,50,3,1,1
+Ben Foster,26,eng ENG,GK,36-020,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,25,44,56.8,0,23,0,0,0

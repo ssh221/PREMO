@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,FW,30-089,90,2,0,0,0,3,2,0,0,33,0,1,1,0.6,0.6,0.0,0,0,22,25,88.0,1,21,1,0,0
+Nicolas Pépé,19,ci CIV,"FW,RW",24-109,90,0,0,0,0,1,0,0,0,44,2,1,1,0.0,0.0,0.1,1,0,21,34,61.8,4,33,4,6,4
+Mesut Özil,10,de GER,AM,30-335,70,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,4,1,38,45,84.4,5,32,0,3,3
+Reiss Nelson,24,eng ENG,LW,19-279,20,0,0,0,0,1,1,0,0,11,2,0,0,0.1,0.1,0.0,0,0,4,5,80.0,2,7,1,1,0
+Dani Ceballos,8,es ESP,LM,23-039,59,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,42,47,89.4,6,36,4,1,0
+Joe Willock,28,eng ENG,"AM,LM",20-026,31,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,6,7,85.7,2,9,1,3,2
+Mattéo Guendouzi,29,fr FRA,RM,20-154,66,0,0,0,0,0,0,1,0,54,1,1,0,0.0,0.0,0.0,2,0,44,49,89.8,2,33,1,1,1
+Lucas Torreira,11,uy URU,"DM,RM",23-216,24,0,0,0,0,1,1,0,0,10,0,0,1,0.0,0.0,0.0,1,0,5,8,62.5,0,3,0,0,0
+Granit Xhaka,34,ch SUI,DM,26-353,90,0,0,0,0,1,0,0,0,62,4,2,2,0.0,0.0,0.0,0,0,44,53,83.0,4,40,2,1,1
+Sead Kolašinac,31,ba BIH,LB,26-087,90,0,1,0,0,0,0,1,0,52,0,0,1,0.0,0.0,0.1,2,1,42,47,89.4,2,30,1,0,0
+David Luiz,23,br BRA,CB,32-146,90,0,0,0,0,0,0,0,0,53,0,3,1,0.0,0.0,0.0,0,0,38,45,84.4,0,39,0,0,0
+Sokratis Papastathopoulos,5,gr GRE,CB,31-098,90,0,0,0,0,0,0,0,0,44,2,0,1,0.0,0.0,0.0,0,0,33,38,86.8,0,29,0,0,0
+Ainsley Maitland-Niles,15,eng ENG,RB,22-017,90,0,1,0,0,0,0,0,0,66,2,2,0,0.0,0.0,0.5,2,1,43,55,78.2,3,34,3,3,2
+Bernd Leno,1,de GER,GK,27-195,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,13,0,0,0

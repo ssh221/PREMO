@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Firmino,9,br BRA,"FW,AM",28-150,78,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,13,19,68.4,3,18,3,3,3
+Takumi Minamino,18,jp JPN,AM,25-044,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,8,1,1,1
+Sadio Mané,10,sn SEN,"LW,RW",27-325,90,0,0,0,0,0,0,0,0,40,1,0,2,0.0,0.0,0.0,1,0,23,30,76.7,1,31,2,4,2
+Mohamed Salah,11,eg EGY,"RW,FW",27-259,90,0,0,0,0,2,0,0,0,32,0,0,0,0.1,0.1,0.0,0,0,16,27,59.3,1,22,3,2,2
+Georginio Wijnaldum,5,nl NED,LM,29-110,60,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,0,0,31,34,91.2,4,30,2,0,0
+Adam Lallana,20,eng ENG,"DM,LM",31-295,30,0,0,0,0,2,0,0,0,52,1,0,0,0.1,0.1,0.0,1,0,45,48,93.8,8,39,3,0,0
+Fabinho,3,br BRA,"CM,DM",26-129,90,0,0,0,0,0,0,0,0,99,1,2,1,0.0,0.0,0.0,3,0,81,95,85.3,6,74,4,0,0
+Alex Oxlade-Chamberlain,15,eng ENG,RM,26-198,64,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.1,2,0,32,45,71.1,6,35,1,2,0
+Divock Origi,27,be BEL,LW,24-317,26,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,12,15,80.0,0,12,3,0,0
+Andrew Robertson,26,sct SCO,LB,25-355,90,0,0,0,0,1,1,0,0,103,0,1,5,0.1,0.1,0.0,4,0,72,89,80.9,6,68,3,2,1
+Virgil van Dijk,4,nl NED,CB,28-236,90,0,0,0,0,1,0,0,0,120,0,0,1,0.0,0.0,0.1,1,0,102,113,90.3,6,97,1,0,0
+Dejan Lovren,6,hr CRO,CB,30-239,90,0,0,0,0,0,0,0,0,130,3,1,1,0.0,0.0,0.0,0,0,97,119,81.5,10,92,2,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,21-145,90,0,0,0,0,1,0,0,0,111,0,1,0,0.0,0.0,0.0,1,0,75,102,73.5,12,70,1,2,0
+Alisson,1,br BRA,GK,27-150,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,25,0,0,0

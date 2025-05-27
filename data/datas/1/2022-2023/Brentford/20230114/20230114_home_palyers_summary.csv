@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ivan Toney,17,eng ENG,FW,26-304,81,1,0,1,1,1,0,0,0,26,0,0,0,0.8,0.0,0.0,2,1,8,19,42.1,0,18,1,1,1
+Kevin Schade,9,de GER,FW,21-048,9,0,0,0,0,0,0,0,0,5,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,1,0
+Yoane Wissa,11,cd COD,LW,26-133,70,0,0,0,0,1,0,0,0,28,1,0,0,0.0,0.0,0.0,2,0,13,18,72.2,1,21,2,3,1
+Mads Roerslev,30,dk DEN,RB,23-204,20,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.1,1,0,8,9,88.9,0,5,0,0,0
+Bryan Mbeumo,19,cm CMR,"RW,FW",23-160,88,0,0,0,0,1,1,0,0,38,2,0,0,0.0,0.0,0.0,0,0,18,28,64.3,2,24,2,2,0
+Keane Lewis-Potter,23,eng ENG,FW,21-326,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,1,0,0
+Josh Dasilva,10,eng ENG,"LM,CM",24-083,81,0,1,0,0,3,0,0,0,31,2,0,0,0.1,0.1,0.2,5,1,15,25,60.0,3,22,5,3,2
+Mikkel Damsgaard,24,dk DEN,CM,22-195,9,0,0,0,0,1,0,0,0,6,1,0,0,0.1,0.1,0.0,0,0,4,4,100.0,0,2,0,0,0
+Christian Nørgaard,6,dk DEN,CM,28-310,90,0,0,0,0,1,1,0,0,52,3,2,1,0.1,0.1,0.0,1,1,27,45,60.0,5,16,0,0,0
+Mathias Jensen,8,dk DEN,"RM,CM",27-013,90,1,0,0,0,1,1,0,0,72,3,0,3,0.1,0.1,0.0,3,0,35,57,61.4,6,34,0,4,2
+Vitaly Janelt,27,de GER,LB,24-249,90,0,0,0,0,1,0,0,0,82,3,0,1,0.0,0.0,0.0,4,0,51,69,73.9,6,46,2,2,0
+Ben Mee,16,eng ENG,CB,33-115,90,0,0,0,0,1,0,0,0,77,1,3,0,0.1,0.1,0.0,0,0,53,66,80.3,3,45,0,0,0
+Ethan Pinnock,5,jm JAM,CB,29-230,90,0,0,0,0,0,0,0,0,70,2,0,1,0.0,0.0,0.0,1,0,41,55,74.5,2,31,1,1,0
+Kristoffer Ajer,20,no NOR,"RB,CB",24-272,81,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.0,1,0,34,41,82.9,6,26,1,0,0
+Mathias Jørgensen,13,dk DEN,CB,32-266,9,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,12,91.7,1,9,0,0,0
+David Raya,1,es ESP,GK,27-121,90,0,0,0,0,0,0,1,0,29,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,20,0,0,0

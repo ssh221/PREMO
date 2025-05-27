@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Emmanuel Dennis,25,ng NGA,"FW,LM",24-089,90,0,0,0,0,2,0,1,0,36,1,1,2,0.2,0.2,0.0,3,0,13,23,56.5,1,23,3,4,3
+Joshua King,7,no NOR,FW,30-028,90,0,0,0,0,2,0,0,0,36,1,0,3,0.1,0.1,0.0,0,0,11,19,57.9,2,13,0,4,3
+Tom Cleverley,8,eng ENG,LM,32-184,69,0,0,0,0,0,0,0,0,26,2,0,3,0.0,0.0,0.0,0,0,13,21,61.9,3,7,1,0,0
+João Pedro,10,br BRA,FW,20-139,21,0,0,0,0,0,0,0,0,19,1,0,1,0.0,0.0,0.0,0,0,8,12,66.7,0,14,0,4,3
+Edo Kayembe,39,cd COD,CM,23-254,45,0,0,0,0,0,0,0,0,17,0,0,2,0.0,0.0,0.0,0,0,12,14,85.7,0,7,0,0,0
+Imran Louza,6,ma MAR,CM,22-287,45,0,0,0,0,1,0,1,0,41,1,2,3,0.1,0.1,0.0,1,0,20,28,71.4,2,21,2,2,1
+Moussa Sissoko,19,fr FRA,CM,32-180,90,0,0,0,0,0,0,0,0,40,3,0,1,0.0,0.0,0.1,5,0,22,28,78.6,5,20,2,3,2
+Juraj Kucka,33,sk SVK,RM,34-351,45,0,0,0,0,0,0,0,0,24,4,1,1,0.0,0.0,0.1,1,0,13,17,76.5,1,12,1,0,0
+Ismaila Sarr,23,sn SEN,RM,23-352,45,0,0,0,0,3,1,0,0,21,0,0,1,0.1,0.1,0.0,1,0,7,11,63.6,2,19,2,2,0
+Hassane Kamara,14,ci CIV,LB,27-344,90,0,0,0,0,0,0,1,0,54,3,2,2,0.0,0.0,0.0,1,0,25,41,61.0,2,22,0,1,0
+Samir Santos,22,br BRA,CB,27-069,90,0,0,0,0,0,0,0,0,42,0,5,0,0.0,0.0,0.0,0,0,25,31,80.6,2,20,1,0,0
+Craig Cathcart,15,nir NIR,CB,33-006,90,0,0,0,0,1,0,0,0,40,2,0,1,0.1,0.1,0.0,0,0,22,28,78.6,1,16,0,0,0
+Kiko Femenía,21,es ESP,RB,31-010,90,0,0,0,0,0,0,0,0,65,0,0,2,0.0,0.0,0.2,2,0,35,57,61.4,6,31,2,0,0
+Ben Foster,1,eng ENG,GK,38-315,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,1,0,10,27,37.0,0,12,0,0,0

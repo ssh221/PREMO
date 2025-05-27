@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Son Heung-min,7,kr KOR,"FW,RW",31-295,90,1,0,1,1,1,0,0,0,31,0,0,0,1.1,0.3,0.0,2,0,23,26,88.5,1,20,4,0,0
+Timo Werner,16,de GER,LW,28-053,30,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,7,1,0,0
+Brennan Johnson,22,wls WAL,"AM,LW",22-341,60,0,0,0,0,2,0,0,0,28,0,0,2,0.1,0.1,0.0,1,0,12,20,60.0,1,23,5,7,2
+Dejan Kulusevski,21,se SWE,"RW,LW",24-003,90,0,0,0,0,1,0,1,0,71,5,0,1,0.0,0.0,0.3,6,0,45,56,80.4,11,59,4,7,5
+James Maddison,10,eng ENG,AM,27-157,63,0,0,0,0,1,0,0,0,53,0,0,1,0.0,0.0,0.4,4,0,36,45,80.0,6,39,0,3,0
+Richarlison,9,br BRA,FW,26-354,27,0,0,0,0,1,0,0,0,7,0,0,0,0.1,0.1,0.0,1,0,3,4,75.0,0,6,1,1,0
+Pierre Højbjerg,5,dk DEN,DM,28-267,63,0,0,0,0,0,0,0,0,78,3,2,1,0.0,0.0,0.0,1,0,59,69,85.5,7,57,1,2,2
+Yves Bissouma,8,ml MLI,DM,27-242,27,0,0,0,0,0,0,0,0,33,2,0,0,0.0,0.0,0.0,0,0,27,27,100.0,6,22,2,0,0
+Rodrigo Bentancur,30,uy URU,DM,26-308,45,0,0,0,0,0,0,0,0,41,1,2,1,0.0,0.0,0.0,1,0,32,38,84.2,6,29,0,0,0
+Pape Matar Sarr,29,sn SEN,"DM,LB",21-227,45,0,0,0,0,0,0,0,0,36,2,3,0,0.0,0.0,0.1,2,0,28,28,100.0,4,26,1,1,1
+Ben Davies,33,wls WAL,LB,31-004,87,0,0,0,0,0,0,1,0,54,3,0,1,0.0,0.0,0.0,2,1,36,46,78.3,0,24,1,1,1
+Giovani Lo Celso,18,ar ARG,DM,28-019,3,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,7,8,87.5,0,6,0,0,0
+Micky van de Ven,37,nl NED,CB,23-009,90,0,0,0,0,0,0,0,0,90,2,0,1,0.0,0.0,0.0,0,0,73,84,86.9,4,72,0,0,0
+Cristian Romero,17,ar ARG,CB,26-001,90,1,0,0,0,4,1,0,0,81,4,0,2,1.0,1.0,0.0,2,1,64,68,94.1,5,55,0,0,0
+Pedro Porro,23,es ESP,RB,24-228,90,0,0,0,0,3,0,0,0,67,1,1,2,0.1,0.1,0.3,1,0,40,56,71.4,9,43,4,0,0
+Guglielmo Vicario,13,it ITA,GK,27-204,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,34,34,100.0,1,25,0,0,0

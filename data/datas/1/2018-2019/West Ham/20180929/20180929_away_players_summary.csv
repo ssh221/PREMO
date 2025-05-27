@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Anthony Martial,11,fr FRA,"FW,LW",22-298,70,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,4,29,3,7,3
+Juan Mata,8,es ESP,LW,30-154,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,1,0,0,0
+Romelu Lukaku,9,be BEL,FW,25-139,90,0,0,0,0,2,0,0,0,27,0,0,0,0.2,0.2,0.0,2,0,13,20,65.0,3,11,2,5,1
+Paul Pogba,6,fr FRA,"CM,LM",25-198,69,0,0,0,0,3,1,0,0,54,1,0,0,0.1,0.1,0.0,2,1,37,43,86.0,5,41,2,1,1
+Fred,17,br BRA,LM,25-208,21,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,2,0,17,20,85.0,2,18,2,0,0
+Nemanja Matić,31,rs SRB,CM,30-059,90,0,0,0,0,0,0,0,0,103,0,0,0,0.0,0.0,0.0,2,0,87,95,91.6,10,74,2,0,0
+Marouane Fellaini,27,be BEL,"CM,RM",30-311,90,0,0,0,0,1,1,0,0,48,1,2,2,0.2,0.2,0.0,2,0,28,35,80.0,6,26,0,1,0
+Luke Shaw,23,eng ENG,LB,23-079,90,0,1,0,0,0,0,0,0,76,0,2,1,0.0,0.0,0.2,3,1,54,69,78.3,3,35,7,0,0
+Victor Lindelöf,2,se SWE,CB,24-074,56,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,0,0,25,28,89.3,2,17,1,0,0
+Marcus Rashford,10,eng ENG,RW,20-333,34,1,0,0,0,2,1,0,0,26,0,0,1,0.2,0.2,0.0,1,0,14,19,73.7,2,16,3,2,1
+Chris Smalling,12,eng ENG,CB,28-311,90,0,0,0,0,0,0,0,0,35,5,2,0,0.0,0.0,0.0,0,0,18,21,85.7,2,10,0,0,0
+Scott McTominay,39,sct SCO,CB,21-295,90,0,0,0,0,1,1,0,0,54,1,2,0,0.0,0.0,0.0,1,0,42,51,82.4,3,36,2,0,0
+Ashley Young,18,eng ENG,RB,33-082,90,0,0,0,0,0,0,1,0,76,0,1,2,0.0,0.0,0.3,3,0,43,65,66.2,5,33,4,5,1
+David de Gea,1,es ESP,GK,27-326,90,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,14,19,73.7,0,10,0,0,0

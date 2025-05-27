@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Zaha,11,ci CIV,FW,26-014,89,0,0,0,0,4,0,0,0,48,0,0,0,0.1,0.1,0.4,3,0,28,34,82.4,3,38,4,4,1
+Jordan Ayew,14,gh GHA,FW,27-074,1,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.1,1,0,2,2,100.0,0,2,1,0,0
+Andros Townsend,10,eng ENG,FW,27-131,87,0,0,0,0,2,0,0,0,52,0,0,1,0.4,0.4,0.1,5,0,39,46,84.8,4,32,7,4,3
+Jeffrey Schlupp,15,gh GHA,LW,25-336,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,1,0,0,0
+Max Meyer,7,de GER,"LM,CM",23-067,90,0,0,0,0,1,0,0,0,42,0,0,0,0.0,0.0,0.0,3,0,28,35,80.0,1,27,6,1,1
+Luka Milivojević,4,rs SRB,CM,27-231,90,0,0,0,0,0,0,1,0,65,2,2,2,0.0,0.0,0.0,5,0,35,50,70.0,3,22,2,2,1
+Cheikhou Kouyaté,8,sn SEN,CM,28-338,90,0,0,0,0,3,1,0,0,42,0,2,1,0.1,0.1,0.0,1,0,26,33,78.8,2,22,1,0,0
+James McArthur,18,sct SCO,"RM,RW",31-048,90,0,0,0,0,0,0,0,0,60,5,1,2,0.0,0.0,0.0,1,0,34,46,73.9,5,27,1,1,1
+Patrick van Aanholt,3,nl NED,LB,28-087,90,0,0,0,0,3,1,0,0,43,1,1,2,0.5,0.5,0.0,0,0,22,31,71.0,0,21,2,3,2
+Mamadou Sakho,12,fr FRA,CB,28-284,90,0,0,0,0,0,0,1,0,38,0,2,0,0.0,0.0,0.0,3,0,21,24,87.5,1,14,0,1,1
+James Tomkins,5,eng ENG,CB,29-240,90,0,0,0,0,0,0,0,0,37,0,4,0,0.0,0.0,0.0,0,0,17,22,77.3,0,10,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,20-363,90,0,0,0,0,0,0,0,0,51,4,1,1,0.0,0.0,0.0,0,0,22,34,64.7,2,17,1,1,1
+Wayne Hennessey,13,wls WAL,GK,31-304,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,13,30,43.3,0,12,0,0,0

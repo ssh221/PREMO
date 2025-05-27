@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aaron Connolly,44,ie IRL,FW,19-278,85,0,0,0,0,4,0,0,0,32,0,0,1,0.2,0.2,0.0,1,0,15,20,75.0,0,18,1,4,3
+Ezequiel Schelotto,21,it ITA,FW,30-163,5,0,0,0,0,1,0,0,0,3,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,2,1,0,0
+Neal Maupay,7,fr FRA,FW,23-080,90,0,0,0,0,7,1,0,0,39,0,0,0,1.1,1.1,0.0,4,1,18,27,66.7,1,21,2,4,3
+Steven Alzate,46,co COL,LM,21-055,90,0,0,0,0,3,1,0,0,47,0,2,0,0.7,0.7,0.1,6,1,30,33,90.9,6,36,3,8,7
+Dale Stephens,6,eng ENG,CM,30-143,90,0,0,0,0,1,0,0,0,62,4,0,0,0.0,0.0,0.0,2,0,49,57,86.0,5,30,0,1,1
+Davy Pröpper,24,nl NED,CM,28-061,90,0,0,0,0,2,1,0,0,84,3,1,0,0.1,0.1,0.5,6,1,55,72,76.4,11,36,3,4,4
+Pascal Groß,13,de GER,RM,28-140,58,0,0,0,0,1,0,0,0,53,3,0,2,0.1,0.1,0.1,4,0,31,44,70.5,3,24,1,0,0
+Leandro Trossard,11,be BEL,RM,24-333,32,1,1,0,0,1,1,0,0,20,0,0,1,0.3,0.3,1.0,5,1,13,15,86.7,4,11,2,0,0
+Dan Burn,33,eng ENG,LB,27-177,90,0,0,0,0,0,0,0,0,73,1,1,1,0.0,0.0,0.0,1,0,47,65,72.3,3,37,2,2,0
+Lewis Dunk,5,eng ENG,CB,27-346,90,0,0,0,0,0,0,0,0,86,3,4,2,0.0,0.0,0.0,2,0,68,73,93.2,13,48,0,1,1
+Adam Webster,15,eng ENG,CB,24-302,35,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,33,36,91.7,0,23,1,0,0
+Shane Duffy,4,ie IRL,CB,27-305,55,1,0,0,0,1,1,0,0,40,0,1,0,0.3,0.3,0.0,1,0,30,36,83.3,2,28,1,0,0
+Martín Montoya,22,es ESP,RB,28-202,90,0,1,0,0,0,0,0,0,78,4,4,1,0.0,0.0,0.4,2,0,58,67,86.6,7,32,1,1,1
+Mathew Ryan,1,au AUS,GK,27-208,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,1,0,32,35,91.4,0,21,0,0,0

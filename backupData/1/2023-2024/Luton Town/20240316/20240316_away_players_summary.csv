@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,11,nz NZL,FW,32-100,74,1,0,0,0,1,1,0,0,21,0,0,0,0.5,0.5,0.4,1,0,9,13,69.2,0,16,0,0,0
+Felipe,18,br BRA,CB,34-305,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0
+Anthony Elanga,21,se SWE,"LW,RM",21-324,90,0,0,0,0,2,0,0,0,39,2,0,1,0.4,0.4,0.2,6,0,22,32,68.8,4,24,3,0,0
+Divock Origi,27,be BEL,RW,28-333,74,0,0,0,0,3,0,0,0,39,0,1,0,0.5,0.5,0.3,3,0,20,29,69.0,1,29,2,2,1
+Callum Hudson-Odoi,14,eng ENG,LM,23-130,16,0,0,0,0,1,0,0,0,9,1,0,0,0.0,0.0,0.0,2,0,5,7,71.4,0,6,2,1,1
+Morgan Gibbs-White,10,eng ENG,"AM,FW",24-049,81,0,1,0,0,4,1,0,0,47,2,1,2,0.5,0.5,0.8,6,1,18,34,52.9,6,25,2,2,1
+Nicolás Domínguez,16,ar ARG,FW,25-262,9,0,0,0,0,1,0,0,0,11,1,0,0,0.0,0.0,0.0,2,0,8,9,88.9,3,3,1,1,0
+Ibrahim Sangaré,6,ci CIV,"DM,CM",26-105,90,0,0,0,0,1,0,0,0,35,6,1,2,0.0,0.0,0.0,1,0,17,24,70.8,2,19,0,2,1
+Ryan Yates,22,eng ENG,"DM,CM",26-116,90,0,0,0,0,1,0,0,0,43,5,1,2,0.0,0.0,0.0,1,0,23,32,71.9,4,18,0,0,0
+Harry Toffolo,15,eng ENG,LB,28-210,90,0,0,0,0,0,0,1,0,30,4,1,1,0.0,0.0,0.0,0,0,17,21,81.0,4,13,0,0,0
+Murillo,40,br BRA,CB,21-256,90,0,0,0,0,1,1,0,0,31,2,1,1,0.0,0.0,0.0,0,0,12,20,60.0,0,13,0,0,0
+Willy Boly,30,ci CIV,CB,33-042,90,0,0,0,0,1,0,0,0,37,2,0,3,0.0,0.0,0.0,1,0,22,29,75.9,0,16,0,0,0
+Neco Williams,7,wls WAL,RB,22-338,90,0,0,0,0,0,0,0,0,67,0,1,2,0.0,0.0,0.0,3,1,34,51,66.7,2,41,0,5,3
+Matz Sels,26,be BEL,GK,32-019,90,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,16,0,0,0

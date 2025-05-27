@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kelechi Iheanacho,14,ng NGA,FW,26-124,66,1,2,0,0,2,1,0,0,20,1,0,1,0.9,0.9,1.3,2,2,9,12,75.0,4,14,2,0,0
+Jamie Vardy,9,eng ENG,FW,36-024,24,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,2,0,3,7,42.9,1,5,0,1,1
+Harvey Barnes,7,eng ENG,"LW,LM",25-057,90,0,1,0,0,1,1,0,0,27,0,0,0,0.1,0.1,0.5,1,1,13,20,65.0,3,18,2,2,0
+Tetê,37,br BRA,RW,22-354,82,1,0,0,0,3,1,0,0,40,1,1,1,0.8,0.8,0.0,3,1,22,31,71.0,1,26,5,8,6
+Çağlar Söyüncü,4,tr TUR,"AM,CB",26-257,8,0,0,0,0,0,0,1,0,3,0,1,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0
+James Maddison,10,eng ENG,AM,26-073,66,1,0,0,0,2,1,0,0,25,0,0,0,0.6,0.6,0.1,2,0,12,21,57.1,4,18,1,1,1
+Dennis Praet,26,be BEL,"RW,RM",28-266,24,1,0,0,0,1,1,0,0,11,0,0,1,0.3,0.3,0.0,0,0,3,6,50.0,0,6,0,0,0
+Kiernan Dewsbury-Hall,22,eng ENG,DM,24-151,66,0,0,0,0,0,0,0,0,45,2,2,2,0.0,0.0,0.0,2,1,23,32,71.9,4,24,0,3,2
+Nampalys Mendy,24,sn SEN,"DM,CM",30-226,24,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,1,0,1,1
+Youri Tielemans,8,be BEL,"DM,CM",25-273,90,0,0,0,0,0,0,1,0,58,3,2,5,0.0,0.0,0.4,2,0,45,51,88.2,8,21,0,0,0
+Victor Bernth Kristiansen,16,dk DEN,LB,20-050,80,0,0,0,0,0,0,0,0,53,6,0,1,0.0,0.0,0.0,2,2,21,40,52.5,0,23,3,4,2
+Luke Thomas,33,eng ENG,LB,21-239,10,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0
+Wout Faes,3,be BEL,CB,24-307,90,0,0,0,0,0,0,0,0,42,3,2,3,0.0,0.0,0.0,1,1,23,29,79.3,1,18,0,0,0
+Harry Souttar,15,au AUS,CB,24-105,90,0,0,0,0,0,0,0,0,45,1,0,1,0.0,0.0,0.0,0,0,27,35,77.1,0,22,0,0,0
+Timothy Castagne,27,be BEL,RB,27-061,90,0,0,0,0,0,0,1,0,65,6,0,2,0.0,0.0,0.0,1,0,44,52,84.6,3,20,0,0,0
+Danny Ward,1,wls WAL,GK,29-227,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,15,0,0,0

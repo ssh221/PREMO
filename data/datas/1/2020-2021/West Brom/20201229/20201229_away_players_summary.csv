@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patrick Bamford,9,eng ENG,FW,27-115,90,0,1,0,0,4,0,0,0,21,1,0,0,0.4,0.4,0.3,2,2,8,11,72.7,1,13,2,1,0
+Jack Harrison,22,eng ENG,LM,24-039,90,1,0,0,0,3,1,0,0,49,1,2,0,0.4,0.4,0.3,4,1,28,38,73.7,2,36,1,2,1
+Mateusz Klich,43,pl POL,CM,30-199,57,0,1,0,0,0,0,0,0,64,0,0,1,0.0,0.0,0.1,4,1,50,61,82.0,10,50,0,1,1
+Jamie Shackleton,46,eng ENG,CM,21-082,33,0,0,0,0,0,0,0,0,19,2,1,0,0.0,0.0,0.0,1,1,14,16,87.5,0,12,0,0,0
+Rodrigo,20,es ESP,CM,29-298,69,1,0,0,0,2,1,0,0,60,2,0,1,0.1,0.1,0.1,4,0,44,53,83.0,7,44,1,2,1
+Pablo Hernández,19,es ESP,CM,35-262,21,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,1,0,17,18,94.4,4,16,2,2,2
+Raphinha,18,br BRA,RM,24-015,80,1,0,0,0,2,2,0,0,52,0,0,1,0.1,0.1,0.0,0,0,33,45,73.3,6,36,5,2,0
+Hélder Costa,17,ao ANG,RM,26-352,10,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,5,1,0,0
+Kalvin Phillips,23,eng ENG,DM,25-027,90,0,0,0,0,1,1,0,0,95,2,1,1,0.0,0.0,0.2,4,0,77,86,89.5,8,59,0,3,2
+Ezgjan Alioski,10,mk MKD,LB,28-321,90,1,0,0,0,1,1,1,0,106,1,1,0,0.0,0.0,0.0,1,0,89,102,87.3,12,79,4,2,2
+Pascal Struijk,21,nl NED,CB,21-140,90,0,0,0,0,0,0,0,0,124,2,1,0,0.0,0.0,0.0,0,0,110,116,94.8,5,95,0,0,0
+Luke Ayling,2,eng ENG,CB,29-126,90,0,0,0,0,1,0,0,0,136,0,0,1,0.2,0.2,0.0,0,0,115,128,89.8,4,106,5,4,4
+Stuart Dallas,15,nir NIR,RB,29-254,90,0,1,0,0,0,0,0,0,104,1,0,0,0.0,0.0,0.1,6,2,89,98,90.8,7,79,7,1,1
+Illan Meslier,1,fr FRA,GK,20-302,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,0,26,0,0,0

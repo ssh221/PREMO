@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Nicolas Jackson,15,sn SEN,FW,22-300,87,1,1,0,0,3,2,0,0,32,0,0,1,0.5,0.5,0.2,4,2,13,16,81.3,1,24,2,11,5
+Deivid Washington,36,br BRA,FW,18-315,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0
+Mykhailo Mudryk,10,ua UKR,"LW,RW",23-101,79,0,0,0,0,2,1,1,0,28,0,0,0,0.2,0.2,0.8,2,0,15,18,83.3,1,19,1,2,1
+Ben Chilwell,21,eng ENG,LW,27-116,11,0,0,0,0,1,1,0,0,14,0,0,0,0.0,0.0,0.0,2,1,11,12,91.7,1,8,0,0,0
+Noni Madueke,11,eng ENG,RW,22-036,71,0,0,0,0,1,0,0,0,28,0,0,3,0.0,0.0,0.0,1,0,17,20,85.0,2,19,4,5,3
+Carney Chukwuemeka,17,eng ENG,"AM,LW",20-178,19,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,0,10,0,2,1
+Cole Palmer,20,eng ENG,AM,21-345,79,4,0,1,1,4,4,0,0,44,0,1,0,2.5,1.7,0.0,5,4,24,32,75.0,3,22,3,4,3
+Cesare Casadei,31,it ITA,RW,21-096,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,5,0,0,0
+Conor Gallagher,23,eng ENG,DM,24-069,90,0,0,0,0,0,0,0,0,88,1,2,1,0.0,0.0,0.0,4,1,69,74,93.2,1,52,2,5,4
+Moisés Caicedo,25,ec ECU,DM,22-165,90,0,0,0,0,1,0,0,0,84,6,4,2,0.0,0.0,0.1,2,0,56,66,84.8,3,49,2,4,2
+Marc Cucurella,3,es ESP,LB,25-268,90,0,1,0,0,0,0,0,0,82,2,0,3,0.0,0.0,0.1,1,1,59,71,83.1,0,45,0,0,0
+Thiago Silva,6,br BRA,CB,39-206,90,0,0,0,0,0,0,0,0,93,0,1,1,0.0,0.0,0.0,0,0,79,84,94.0,1,54,0,0,0
+Trevoh Chalobah,14,eng ENG,CB,24-285,90,0,0,0,0,0,0,0,0,104,1,0,1,0.0,0.0,0.0,0,0,85,92,92.4,2,73,0,0,0
+Malo Gusto,27,fr FRA,RB,20-332,87,0,0,0,0,0,0,0,0,92,0,1,1,0.0,0.0,0.1,1,0,69,81,85.2,4,53,5,1,0
+Alfie Gilchrist,42,eng ENG,RB,20-139,3,1,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,5,5,100.0,0,3,0,0,0
+Đorđe Petrović,28,rs SRB,GK,24-190,90,0,0,0,0,0,0,0,0,48,0,0,0,0.0,0.0,0.0,0,0,33,45,73.3,0,31,0,0,0

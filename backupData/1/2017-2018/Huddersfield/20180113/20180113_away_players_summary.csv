@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marko Arnautović,7,at AUT,FW,28-269,82,1,2,0,0,1,1,0,0,42,0,0,1,0.1,0.1,0.7,5,4,21,30,70.0,2,26,5,3,2
+André Ayew,20,gh GHA,FW,28-027,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0
+Manuel Lanzini,10,ar ARG,FW,24-332,84,2,0,0,0,4,3,0,0,50,0,2,0,0.5,0.5,0.0,3,0,34,41,82.9,3,25,2,6,6
+Declan Rice,41,eng ENG,CM,18-364,6,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Mark Noble,16,eng ENG,"DM,CM",30-250,90,1,0,0,0,1,1,0,0,47,2,1,1,0.1,0.1,0.0,0,0,30,38,78.9,5,14,0,1,1
+Pedro Obiang,14,gq EQG,"DM,CM",25-292,90,0,0,0,0,0,0,0,0,48,4,2,1,0.0,0.0,0.0,0,0,32,38,84.2,5,19,0,1,1
+Cheikhou Kouyaté,8,sn SEN,"DM,RW",28-023,90,0,1,0,0,1,0,0,0,45,1,0,1,0.3,0.3,0.1,2,2,21,33,63.6,2,19,2,1,1
+Arthur Masuaku,26,cd COD,"WB,LW",24-067,90,0,0,0,0,0,0,0,0,51,8,2,1,0.0,0.0,0.0,0,0,23,36,63.9,1,22,2,4,3
+Pablo Zabaleta,5,ar ARG,"WB,RB",32-362,90,0,0,0,0,0,0,0,0,53,4,1,5,0.0,0.0,0.0,0,0,24,36,66.7,0,9,0,0,0
+Aaron Cresswell,3,eng ENG,"CB,LB",28-029,90,0,0,0,0,0,0,1,0,36,1,2,1,0.0,0.0,0.0,1,0,20,29,69.0,2,8,0,0,0
+Angelo Ogbonna,21,it ITA,CB,29-235,90,0,0,0,0,1,0,0,0,33,0,5,1,0.0,0.0,0.0,1,0,10,16,62.5,0,8,0,0,0
+James Collins,19,wls WAL,CB,34-143,90,0,0,0,0,0,0,0,0,36,0,2,1,0.0,0.0,0.0,1,0,14,21,66.7,1,8,0,0,0
+Adrián,13,es ESP,GK,31-010,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,6,26,23.1,0,11,0,0,0

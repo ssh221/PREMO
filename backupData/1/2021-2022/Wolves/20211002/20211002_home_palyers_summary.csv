@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Raúl Jiménez,9,mx MEX,FW,30-150,90,0,2,0,0,1,0,0,0,46,1,0,1,0.0,0.0,0.4,6,4,27,36,75.0,3,37,3,6,5
+Hwang Hee-chan,26,kr KOR,LW,25-249,89,2,0,0,0,2,2,0,0,40,0,1,0,0.4,0.4,0.5,1,0,26,31,83.9,1,31,5,4,2
+Adama Traoré,37,es ESP,LW,25-250,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Francisco Trincão,11,pt POR,RW,21-277,85,0,0,0,0,3,0,0,0,42,0,2,1,0.6,0.6,0.0,1,0,22,26,84.6,2,29,5,6,4
+Leander Dendoncker,32,be BEL,RW,26-170,5,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,1,0,1,1,100.0,0,0,0,0,0
+Fernando Marçal,5,br BRA,LM,32-225,90,0,0,0,0,0,0,0,0,71,4,2,2,0.0,0.0,0.0,0,0,43,51,84.3,0,36,0,1,1
+João Moutinho,28,pt POR,CM,35-024,90,0,0,0,0,1,1,0,0,75,3,0,1,0.0,0.0,0.0,1,0,63,67,94.0,7,56,0,0,0
+Rúben Neves,8,pt POR,CM,24-203,90,0,0,0,0,0,0,0,0,83,3,2,2,0.0,0.0,0.0,2,0,60,73,82.2,5,60,0,0,0
+Nélson Semedo,22,pt POR,RM,27-320,90,0,0,0,0,0,0,0,0,58,6,1,1,0.0,0.0,0.0,0,0,38,45,84.4,0,37,2,2,1
+Romain Saïss,27,ma MAR,CB,31-190,90,0,0,0,0,0,0,0,0,79,1,2,1,0.0,0.0,0.0,1,0,51,64,79.7,3,45,0,0,0
+Conor Coady,16,eng ENG,CB,28-219,90,0,0,0,0,0,0,0,0,45,1,1,1,0.0,0.0,0.0,0,0,35,37,94.6,1,26,0,0,0
+Max Kilman,23,eng ENG,CB,24-132,90,0,0,0,0,0,0,0,0,57,5,1,0,0.0,0.0,0.0,0,0,35,41,85.4,2,37,0,0,0
+José Sá,1,pt POR,GK,28-258,90,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,0,0,14,22,63.6,0,18,0,0,0

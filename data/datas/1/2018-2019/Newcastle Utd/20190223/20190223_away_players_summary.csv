@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Laurent Depoitre,20,be BEL,FW,30-078,75,0,0,0,0,1,0,0,0,37,2,1,1,0.1,0.1,0.0,0,0,11,19,57.9,1,13,0,2,1
+Steve Mounié,24,bj BEN,FW,24-147,15,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,7,10,70.0,0,4,1,0,0
+Elias Kachunga,9,cd COD,"RM,FW,RW",26-307,90,0,0,0,0,0,0,0,0,31,2,0,1,0.0,0.0,0.0,1,0,13,23,56.5,0,13,1,1,0
+Jason Puncheon,42,eng ENG,"AM,LW",32-250,23,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,2,13,0,1,1
+Florent Hadergjonaj,33,xk KVX,RB,24-207,67,0,0,0,0,0,0,0,0,43,0,2,1,0.0,0.0,0.0,0,0,21,31,67.7,1,21,1,1,0
+Aaron Mooy,10,au AUS,"CM,LM",28-161,90,0,0,0,0,0,0,0,0,64,1,0,0,0.0,0.0,0.0,2,0,44,56,78.6,5,37,1,1,0
+Juninho Bacuna,7,cw CUW,"RM,LM",21-200,68,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,0,0,19,25,76.0,3,27,0,3,2
+Philip Billing,8,dk DEN,LM,22-257,22,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,9,12,75.0,0,7,0,0,0
+Jonathan Hogg,6,eng ENG,"CM,DM",30-079,90,0,0,0,0,0,0,0,0,86,2,1,1,0.0,0.0,0.0,0,0,64,73,87.7,4,48,0,1,1
+Chris Löwe,15,de GER,LB,29-313,90,0,0,0,0,1,0,0,0,104,2,2,1,0.0,0.0,0.1,1,0,72,92,78.3,4,48,2,1,0
+Christopher Schindler,26,de GER,CB,28-300,90,0,0,0,0,1,0,0,0,74,0,2,3,0.0,0.0,0.0,0,0,53,59,89.8,4,37,2,0,0
+Mathias Jørgensen,25,dk DEN,CB,28-306,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,37,41,90.2,4,28,1,0,0
+Tommy Smith,2,eng ENG,RB,26-315,19,0,0,0,0,0,0,0,1,25,1,0,0,0.0,0.0,0.0,0,0,21,24,87.5,1,14,0,0,0
+Jonas Lössl,1,dk DEN,GK,30-022,90,0,0,0,0,0,0,0,0,54,0,0,1,0.0,0.0,0.0,0,0,31,46,67.4,0,27,0,1,1

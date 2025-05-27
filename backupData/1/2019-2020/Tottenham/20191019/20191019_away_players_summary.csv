@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Pereyra,37,ar ARG,FW,28-285,83,0,0,0,0,1,0,1,0,45,0,1,1,0.1,0.1,0.1,4,0,30,38,78.9,2,35,3,1,1
+Will Hughes,19,eng ENG,FW,24-185,7,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Danny Welbeck,10,eng ENG,FW,28-327,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0
+Gerard Deulofeu,7,es ESP,FW,25-220,87,0,0,0,0,3,1,0,0,31,1,0,0,0.2,0.2,0.1,2,0,23,25,92.0,1,22,3,2,2
+Abdoulaye Doucouré,16,ml MLI,CM,26-291,90,1,0,0,0,2,1,0,0,54,4,1,1,0.3,0.3,0.1,5,0,25,38,65.8,4,30,2,6,4
+Nathaniel Chalobah,14,eng ENG,CM,24-311,90,0,0,0,0,0,0,0,0,43,0,2,2,0.0,0.0,0.0,0,0,19,32,59.4,1,14,0,0,0
+Tom Cleverley,8,eng ENG,CM,30-068,90,0,0,0,0,0,0,0,0,48,4,4,1,0.0,0.0,0.0,0,0,23,33,69.7,2,23,1,2,2
+José Holebas,25,gr GRE,LB,35-114,90,0,0,0,0,0,0,1,0,38,1,0,1,0.0,0.0,0.0,0,0,19,31,61.3,3,13,2,2,2
+Craig Cathcart,15,nir NIR,CB,30-255,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,1,18,24,75.0,0,15,0,0,0
+Craig Dawson,4,eng ENG,CB,29-166,90,0,0,0,0,0,0,0,0,41,2,1,3,0.0,0.0,0.0,0,0,15,21,71.4,0,12,0,0,0
+Christian Kabasele,27,be BEL,CB,28-237,90,0,0,0,0,0,0,0,0,42,5,3,0,0.0,0.0,0.0,0,0,14,18,77.8,3,12,0,1,1
+Daryl Janmaat,2,nl NED,RB,30-089,70,0,1,0,0,1,0,0,0,37,1,2,0,0.1,0.1,0.2,1,1,22,31,71.0,3,20,3,1,1
+Kiko Femenía,21,es ESP,RB,28-259,20,0,0,0,0,0,0,1,0,10,2,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0
+Ben Foster,26,eng ENG,GK,36-199,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,9,39,23.1,0,21,0,1,1

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,9,fr FRA,FW,24-197,90,0,0,0,0,3,2,0,0,39,1,0,0,0.3,0.3,0.1,5,0,22,27,81.5,3,19,0,0,0
+Aaron Connolly,7,ie IRL,LW,21-030,60,0,0,0,0,3,1,0,0,10,1,0,1,0.7,0.7,0.0,1,0,3,4,75.0,0,6,0,0,0
+Danny Welbeck,18,eng ENG,LW,30-093,30,0,0,0,1,0,0,0,0,7,0,0,0,0.8,0.0,0.0,1,0,2,2,100.0,0,2,0,1,1
+Leandro Trossard,11,be BEL,RW,26-085,90,0,0,0,0,1,1,0,0,59,3,0,1,0.1,0.1,0.0,4,0,33,41,80.5,8,38,1,2,1
+Alexis Mac Allister,10,ar ARG,AM,22-065,45,0,0,0,0,0,0,0,0,13,2,0,1,0.0,0.0,0.1,2,0,8,11,72.7,2,9,1,0,0
+Adam Lallana,14,eng ENG,AM,32-293,45,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.0,2,0,19,25,76.0,2,19,1,2,1
+Pascal Groß,13,de GER,DM,29-257,90,0,0,0,1,1,0,0,0,105,3,2,1,0.8,0.0,0.3,6,0,76,98,77.6,10,68,2,1,1
+Yves Bissouma,8,ml MLI,DM,24-181,90,0,0,0,0,1,0,0,0,75,1,1,0,0.0,0.0,0.0,1,0,59,68,86.8,8,49,1,0,0
+Dan Burn,33,eng ENG,LB,28-294,90,0,0,0,0,0,0,0,0,58,3,3,2,0.0,0.0,0.0,0,0,29,45,64.4,1,25,0,1,0
+Lewis Dunk,5,eng ENG,CB,29-098,90,0,0,0,0,1,1,0,0,95,2,0,0,0.1,0.1,0.0,0,0,79,89,88.8,4,63,5,1,1
+Ben White,3,eng ENG,CB,23-142,83,0,0,0,0,0,0,0,0,72,0,3,0,0.0,0.0,0.0,0,0,55,66,83.3,5,54,1,1,1
+Jakub Moder,15,pl POL,CB,21-326,7,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,3,8,37.5,1,6,0,1,1
+Joël Veltman,34,nl NED,RB,29-043,90,0,0,0,0,2,1,0,0,80,4,0,1,0.2,0.2,0.0,2,0,51,69,73.9,11,50,3,1,1
+Robert Sánchez,26,es ESP,GK,23-101,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,37,44,84.1,0,32,0,0,0

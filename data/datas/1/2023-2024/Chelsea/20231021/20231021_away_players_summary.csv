@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,9,br BRA,FW,26-201,67,0,0,0,0,3,0,0,0,21,1,1,1,0.3,0.3,0.0,1,0,10,14,71.4,1,13,1,2,0
+Eddie Nketiah,14,eng ENG,FW,24-144,23,0,0,0,0,2,1,1,0,10,2,0,0,0.1,0.1,0.0,0,0,2,3,66.7,0,5,0,1,0
+Gabriel Martinelli,11,br BRA,LW,22-125,77,0,0,0,0,1,0,0,0,46,1,1,0,0.0,0.0,0.2,4,0,34,40,85.0,3,27,5,4,1
+Leandro Trossard,19,be BEL,LW,28-321,13,1,0,0,0,1,1,0,0,4,0,0,0,0.2,0.2,0.0,0,0,1,2,50.0,0,3,0,0,0
+Bukayo Saka,7,eng ENG,RW,22-046,90,0,1,0,0,0,0,0,0,51,4,1,1,0.0,0.0,0.3,5,1,22,34,64.7,4,28,2,5,3
+Declan Rice,41,eng ENG,"LM,CM",24-280,90,1,0,0,0,1,1,0,0,60,3,0,1,0.1,0.1,0.0,2,0,46,53,86.8,7,32,2,2,1
+Jorginho,20,it ITA,CM,31-305,67,0,0,0,0,1,0,0,0,75,3,0,2,0.0,0.0,0.0,2,0,59,66,89.4,10,50,1,0,0
+Emile Smith Rowe,10,eng ENG,LM,23-085,23,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,6,12,50.0,1,6,1,0,0
+Martin Ødegaard,8,no NOR,RM,24-308,77,0,0,0,0,0,0,0,0,37,1,1,0,0.0,0.0,0.2,1,0,21,27,77.8,2,19,0,1,0
+Kai Havertz,29,de GER,RM,24-132,13,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,1,7,13,53.8,1,5,0,0,0
+Oleksandr Zinchenko,35,ua UKR,LB,26-310,45,0,0,0,0,0,0,1,0,34,1,0,0,0.0,0.0,0.0,0,0,28,32,87.5,6,21,1,0,0
+Takehiro Tomiyasu,18,jp JPN,LB,24-350,45,0,0,0,0,2,0,0,0,26,0,1,0,0.1,0.1,0.0,1,0,20,21,95.2,5,15,0,0,0
+Gabriel Magalhães,6,br BRA,CB,25-306,90,0,0,0,0,2,0,0,0,85,2,2,0,0.1,0.1,0.0,0,0,71,78,91.0,5,54,0,1,0
+William Saliba,2,fr FRA,CB,22-211,90,0,0,0,0,0,0,0,0,102,1,1,1,0.0,0.0,0.0,1,0,89,98,90.8,5,66,0,1,1
+Ben White,4,eng ENG,RB,26-013,90,0,0,0,0,0,0,1,0,66,0,1,2,0.0,0.0,0.1,3,0,52,63,82.5,5,30,0,0,0
+David Raya,22,es ESP,GK,28-036,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,41,52,78.8,0,33,0,0,0

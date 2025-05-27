@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pedro Neto,7,pt POR,"FW,LW",20-324,90,0,0,0,0,2,0,1,0,35,0,0,0,0.4,0.4,0.1,2,0,18,25,72.0,3,19,2,3,1
+Adama Traoré,37,es ESP,"FW,RW",25-002,89,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,7,11,63.6,0,9,2,2,2
+João Moutinho,28,pt POR,CM,34-141,1,0,0,0,0,0,0,0,0,1,0,1,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Daniel Podence,10,pt POR,AM,25-098,71,0,0,0,0,0,0,0,0,26,0,1,0,0.0,0.0,0.0,2,0,16,24,66.7,3,20,1,1,0
+Willian José,12,br BRA,FW,29-065,19,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,4,5,80.0,0,7,0,1,1
+Rúben Neves,8,pt POR,CM,23-320,90,0,0,0,0,1,0,0,0,44,1,5,2,0.1,0.1,0.0,0,0,26,33,78.8,2,19,0,2,1
+Leander Dendoncker,32,be BEL,CM,25-287,90,0,0,0,0,1,0,0,0,30,0,2,4,0.1,0.1,0.0,0,0,15,20,75.0,0,11,0,0,0
+Rayan Aït-Nouri,3,dz ALG,WB,19-235,45,0,0,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.0,0,0,8,13,61.5,0,11,0,2,0
+Ki-Jana Hoever,2,nl NED,"WB,RM,RB",19-009,45,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,8,13,61.5,2,7,0,2,2
+Nélson Semedo,22,pt POR,"WB,LM,LB",27-072,90,0,0,0,0,0,0,0,0,43,2,2,1,0.0,0.0,0.0,1,0,21,31,67.7,0,13,0,1,1
+Max Kilman,49,eng ENG,CB,23-249,90,0,0,0,0,0,0,0,0,32,1,2,1,0.0,0.0,0.0,0,0,15,23,65.2,0,15,0,1,1
+Conor Coady,16,eng ENG,CB,27-337,90,0,0,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,19,22,86.4,0,13,0,0,0
+Willy Boly,15,ci CIV,CB,29-359,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,19,24,79.2,1,13,0,0,0
+Rui Patrício,11,pt POR,GK,32-347,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,14,24,58.3,0,11,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Adam Armstrong,9,eng ENG,FW,24-304,42,0,0,0,0,2,1,0,0,11,0,0,0,0.1,0.1,0.0,0,0,4,7,57.1,0,3,0,0,0
+Mohamed Elyounoussi,24,no NOR,"LM,CM",27-129,48,0,0,0,0,0,0,0,0,21,2,1,1,0.0,0.0,0.1,1,0,8,11,72.7,3,7,0,0,0
+Armando Broja,18,al ALB,FW,20-092,69,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,1,0,10,16,62.5,4,11,0,1,0
+Lyanco,4,br BRA,CB,24-313,21,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0
+Nathan Tella,23,ng NGA,"FW,LM",22-159,90,0,0,0,0,3,3,0,0,29,0,0,3,0.2,0.2,0.1,5,0,11,12,91.7,1,18,3,1,1
+Ibrahima Diallo,27,fr FRA,CM,22-278,90,0,0,0,0,0,0,0,0,36,2,2,1,0.0,0.0,0.0,2,0,18,27,66.7,7,19,0,0,0
+James Ward-Prowse,8,eng ENG,CM,27-040,90,0,0,0,0,3,1,0,0,43,2,0,1,0.1,0.1,0.2,2,0,26,34,76.5,2,16,0,0,0
+Nathan Redmond,11,eng ENG,"RM,FW",27-280,90,0,0,0,0,2,1,0,0,32,1,1,2,0.1,0.1,0.1,2,0,17,22,77.3,4,19,0,1,1
+Kyle Walker-Peters,2,eng ENG,LB,24-242,90,0,0,0,0,0,0,0,0,50,3,1,2,0.0,0.0,0.0,2,0,28,38,73.7,2,20,1,0,0
+Jan Bednarek,35,pl POL,CB,25-243,90,0,0,0,0,1,0,0,0,71,0,2,2,0.2,0.2,0.0,1,0,42,61,68.9,4,35,0,0,0
+Jack Stephens,5,eng ENG,CB,27-318,90,0,0,0,0,0,0,0,0,63,1,0,1,0.0,0.0,0.1,2,0,33,49,67.3,3,27,0,0,0
+Valentino Livramento,21,eng ENG,RB,19-029,90,0,0,0,0,0,0,0,0,49,1,0,0,0.0,0.0,0.0,0,0,25,37,67.6,3,22,1,2,0
+Willy Caballero,13,ar ARG,GK,40-074,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,24,36,66.7,0,21,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Álvaro Morata,9,es ESP,FW,25-047,90,0,0,0,0,4,0,0,0,50,3,0,0,0.6,0.6,0.2,8,0,23,34,67.6,0,29,2,2,1
+Eden Hazard,10,be BEL,"FW,AM",26-336,90,0,0,0,0,3,0,0,0,75,0,0,0,0.2,0.2,0.0,7,0,57,66,86.4,12,55,9,7,5
+Tiemoué Bakayoko,14,fr FRA,DM,23-114,45,0,0,0,0,2,0,0,0,27,0,0,0,0.1,0.1,0.0,1,0,20,22,90.9,2,13,1,1,1
+Pedro,11,es ESP,"WB,DM",30-134,45,0,0,0,0,1,0,0,0,31,1,0,0,0.0,0.0,0.0,2,0,23,27,85.2,5,20,6,1,0
+N'Golo Kanté,7,fr FRA,"DM,CM",26-255,90,0,0,0,0,1,1,0,0,107,6,0,3,0.0,0.0,0.1,5,0,84,92,91.3,13,80,10,4,3
+Cesc Fàbregas,4,es ESP,"DM,CM",30-219,90,0,0,0,0,2,0,0,0,103,7,0,0,0.1,0.1,0.1,4,0,70,91,76.9,10,61,2,3,3
+Marcos Alonso,3,es ESP,WB,26-346,54,0,0,0,0,1,0,1,0,54,0,2,0,0.0,0.0,0.0,2,0,40,47,85.1,4,31,3,0,0
+Victor Moses,15,ng NGA,WB,26-362,36,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,0,0,17,27,63.0,3,15,2,2,2
+Davide Zappacosta,21,it ITA,WB,25-181,63,0,0,0,0,2,1,0,0,55,4,1,2,0.1,0.1,0.2,3,0,29,37,78.4,2,28,1,2,0
+Willian,22,br BRA,AM,29-122,27,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,1,0,12,16,75.0,2,13,2,0,0
+Gary Cahill,24,eng ENG,CB,31-355,90,0,0,0,0,1,0,0,0,76,0,0,0,0.0,0.0,0.0,0,0,65,74,87.8,0,51,0,0,0
+Andreas Christensen,27,dk DEN,CB,21-243,90,0,0,0,0,1,0,0,0,90,1,2,1,0.1,0.1,0.0,1,0,69,78,88.5,5,52,3,0,0
+César Azpilicueta,28,es ESP,CB,28-103,90,0,0,0,0,1,0,0,0,100,2,1,1,0.0,0.0,0.1,1,0,79,93,84.9,6,64,1,0,0
+Thibaut Courtois,13,be BEL,GK,25-212,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,31,33,93.9,0,13,0,0,0

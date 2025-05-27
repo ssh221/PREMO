@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Florin Andone,10,ro ROU,FW,25-357,69,0,0,0,0,1,0,0,0,29,0,1,1,0.1,0.1,0.0,0,0,12,16,75.0,1,15,2,0,0
+Glenn Murray,17,eng ENG,FW,35-190,21,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,4,4,100.0,1,7,1,0,0
+Solly March,20,eng ENG,LW,24-257,30,0,0,0,0,0,0,0,0,14,1,1,0,0.0,0.0,0.0,0,0,5,11,45.5,0,8,0,1,0
+Anthony Knockaert,11,fr FRA,"LW,RW",27-134,60,0,0,0,0,1,0,0,0,25,1,0,0,0.3,0.3,0.0,1,0,11,18,61.1,0,17,2,2,1
+Alireza Jahanbakhsh,16,ir IRN,RW,25-235,74,0,0,0,0,0,0,0,0,32,2,3,1,0.0,0.0,0.0,0,0,10,16,62.5,1,21,1,5,1
+Bernardo,30,br BRA,LW,23-324,16,0,0,0,0,1,1,0,0,17,2,1,2,0.0,0.0,0.0,1,0,7,8,87.5,1,9,0,0,0
+Yves Bissouma,8,ml MLI,LM,22-216,90,0,0,0,0,0,0,0,0,41,1,2,0,0.0,0.0,0.1,2,0,22,30,73.3,1,20,3,5,5
+Dale Stephens,6,eng ENG,CM,29-295,90,0,0,0,0,0,0,0,0,62,5,1,2,0.0,0.0,0.0,1,0,45,51,88.2,5,27,0,0,0
+Davy Pröpper,24,nl NED,RM,27-213,90,0,0,0,0,0,0,0,0,63,1,4,1,0.0,0.0,0.0,0,0,42,48,87.5,7,30,2,0,0
+Gaëtan Bong,3,cm CMR,LB,30-343,90,0,0,0,0,0,0,0,0,42,1,0,0,0.0,0.0,0.0,0,0,23,34,67.6,0,17,0,1,1
+Lewis Dunk,5,eng ENG,CB,27-133,90,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.3,1,0,27,29,93.1,0,22,0,0,0
+Shane Duffy,4,ie IRL,CB,27-092,90,0,0,0,0,0,0,0,0,45,0,1,4,0.0,0.0,0.0,0,0,28,33,84.8,0,20,0,0,0
+Bruno,2,es ESP,RB,38-184,90,0,0,0,0,0,0,0,0,53,2,1,1,0.0,0.0,0.0,0,0,38,47,80.9,0,20,1,0,0
+Mathew Ryan,1,au AUS,GK,26-360,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,32,59.4,0,13,0,0,0

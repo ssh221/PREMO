@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Timo Werner,11,de GER,FW,24-192,90,0,0,0,0,5,1,0,0,32,0,2,1,0.3,0.3,0.0,3,1,17,23,73.9,1,23,5,3,2
+Ruben Loftus-Cheek,12,eng ENG,FW,24-235,60,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,11,17,64.7,0,13,1,3,0
+Ross Barkley,8,eng ENG,FW,26-284,30,0,0,0,0,1,1,0,0,27,0,0,0,0.0,0.0,0.1,2,0,20,23,87.0,2,14,2,0,0
+Mason Mount,19,eng ENG,AM,21-248,90,0,0,0,0,1,0,0,0,55,4,0,2,0.0,0.0,0.1,3,1,34,40,85.0,2,28,2,4,2
+Kai Havertz,29,de GER,AM,21-095,79,0,0,0,0,0,0,0,0,34,3,0,0,0.0,0.0,0.1,2,0,24,27,88.9,4,19,1,2,1
+Callum Hudson-Odoi,20,eng ENG,AM,19-312,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,6,6,100.0,4,4,1,0,0
+Jorginho,5,it ITA,DM,28-269,84,1,1,1,1,0,0,0,0,61,2,2,0,0.8,0.0,0.0,3,2,45,54,83.3,6,29,1,0,0
+César Azpilicueta,28,es ESP,RB,31-017,6,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,1,0,0,0
+N'Golo Kanté,7,fr FRA,DM,29-169,90,0,0,0,0,0,0,0,0,51,3,6,2,0.0,0.0,0.0,1,0,35,39,89.7,4,22,0,0,0
+Marcos Alonso,3,es ESP,LB,29-261,90,0,0,0,0,0,0,0,0,99,0,5,1,0.0,0.0,0.0,1,0,68,83,81.9,5,44,1,0,0
+Kurt Zouma,15,fr FRA,CB,25-323,90,1,0,0,0,1,1,0,0,61,0,4,2,0.1,0.1,0.0,0,0,43,51,84.3,1,32,0,0,0
+Andreas Christensen,4,dk DEN,CB,24-157,90,0,0,0,0,0,0,0,0,55,2,3,1,0.0,0.0,0.0,0,0,44,47,93.6,1,28,0,0,0
+Reece James,24,eng ENG,"RB,DM",20-281,90,1,1,0,0,1,1,0,0,71,2,3,3,0.0,0.0,0.1,2,1,47,60,78.3,0,34,1,0,0
+Kepa Arrizabalaga,1,es ESP,GK,25-347,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,28,57.1,0,15,0,0,0

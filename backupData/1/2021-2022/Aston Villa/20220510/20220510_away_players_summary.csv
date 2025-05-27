@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sadio Mané,10,sn SEN,FW,30-030,90,1,0,0,0,4,1,0,0,44,1,0,0,0.5,0.5,0.1,5,0,24,36,66.7,5,29,2,2,1
+Diogo Jota,20,pt POR,LW,25-157,90,0,0,0,0,2,0,0,0,40,1,0,0,0.1,0.1,0.3,4,1,23,33,69.7,2,17,4,2,0
+Luis Díaz,23,co COL,RW,25-117,71,0,1,0,0,1,0,0,0,33,0,0,0,0.0,0.0,0.2,2,1,21,28,75.0,2,26,5,4,2
+Mohamed Salah,11,eg EGY,RW,29-329,19,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.0,1,0,5,8,62.5,0,7,0,1,0
+Curtis Jones,17,eng ENG,LM,21-100,61,0,0,0,0,2,1,0,0,40,1,0,1,0.1,0.1,0.0,2,0,30,35,85.7,4,28,3,2,2
+Thiago Alcántara,6,es ESP,LM,31-029,29,0,0,0,0,0,0,0,0,25,0,0,2,0.0,0.0,0.0,0,0,22,23,95.7,2,15,1,0,0
+Fabinho,3,br BRA,CM,28-199,29,0,0,0,0,0,0,0,0,15,2,0,1,0.0,0.0,0.0,0,0,8,9,88.9,0,8,0,0,0
+Jordan Henderson,14,eng ENG,CM,31-327,61,0,0,0,0,0,0,0,0,50,2,0,0,0.0,0.0,0.0,3,0,42,47,89.4,6,22,0,1,1
+Naby Keïta,8,gn GUI,RM,27-089,90,0,0,0,0,2,0,0,0,60,3,2,2,0.0,0.0,0.0,0,0,36,46,78.3,5,32,5,8,6
+Kostas Tsimikas,21,gr GRE,LB,25-363,90,0,0,0,0,0,0,0,0,79,2,1,1,0.0,0.0,0.1,6,0,58,72,80.6,5,47,8,2,1
+Virgil van Dijk,4,nl NED,CB,30-306,90,0,0,0,0,1,1,0,0,70,1,1,0,0.2,0.2,0.0,2,1,58,62,93.5,3,42,0,0,0
+Joël Matip,32,cm CMR,CB,30-275,90,1,0,0,0,2,2,0,0,60,1,2,0,0.9,0.9,0.1,0,0,43,49,87.8,5,32,0,1,1
+Trent Alexander-Arnold,66,eng ENG,RB,23-215,90,0,0,0,0,2,0,0,0,104,1,2,0,0.1,0.1,0.0,2,0,70,95,73.7,10,65,3,4,3
+Alisson,1,br BRA,GK,29-220,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,28,32,87.5,0,15,0,0,0

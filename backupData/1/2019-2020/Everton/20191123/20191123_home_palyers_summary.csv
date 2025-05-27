@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cenk Tosun,14,tr TUR,FW,28-169,90,0,0,0,0,4,2,0,0,25,0,0,0,0.2,0.2,0.0,3,0,12,16,75.0,1,19,0,0,0
+Richarlison,7,br BRA,"LW,RM,LM",22-197,90,0,0,0,0,2,0,0,0,42,2,1,2,0.1,0.1,0.0,4,0,14,27,51.9,5,25,4,0,0
+Theo Walcott,11,eng ENG,"RW,RM",30-252,65,0,0,0,0,1,0,0,0,33,1,1,0,0.0,0.0,0.0,1,0,12,20,60.0,4,22,0,4,0
+Dominic Calvert-Lewin,9,eng ENG,FW,22-252,25,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,2,0,6,7,85.7,2,6,0,1,0
+Gylfi Sigurðsson,10,is ISL,"AM,CM",30-076,90,0,0,0,0,4,2,0,0,44,3,0,0,0.3,0.3,0.1,4,0,23,34,67.6,4,26,2,0,0
+Morgan Schneiderlin,18,fr FRA,DM,30-015,55,0,0,0,0,1,0,1,0,33,1,2,1,0.0,0.0,0.0,2,0,23,26,88.5,2,21,0,1,1
+Alex Iwobi,17,ng NGA,"LM,DM,CM",23-204,35,0,0,0,0,1,0,0,0,25,0,0,1,0.1,0.1,0.1,4,0,17,23,73.9,10,20,4,2,2
+Tom Davies,26,eng ENG,"DM,CM",21-146,90,0,0,0,0,2,2,0,0,58,0,1,0,0.1,0.1,0.0,2,0,40,49,81.6,7,42,2,3,1
+Lucas Digne,12,fr FRA,LB,26-126,90,0,0,0,0,1,1,0,0,85,3,0,2,0.1,0.1,0.2,6,0,51,77,66.2,5,31,0,1,0
+Mason Holgate,2,eng ENG,CB,23-032,90,0,0,0,0,1,0,1,0,57,2,0,3,0.0,0.0,0.0,1,0,35,49,71.4,2,38,1,0,0
+Yerry Mina,13,co COL,CB,25-061,90,0,0,0,0,1,0,0,0,61,2,0,1,0.0,0.0,0.1,1,0,39,49,79.6,9,35,1,0,0
+Djibril Sidibé,19,fr FRA,RB,27-117,65,0,0,0,0,0,0,0,0,54,4,0,0,0.0,0.0,0.0,1,0,33,43,76.7,5,27,2,0,0
+Séamus Coleman,23,ie IRL,RB,31-043,25,0,0,0,0,0,0,1,0,25,1,0,0,0.0,0.0,0.2,4,0,18,22,81.8,3,12,1,0,0
+Jordan Pickford,1,eng ENG,GK,25-261,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,24,0,0,0

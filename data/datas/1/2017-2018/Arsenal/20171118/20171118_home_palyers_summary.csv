@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,26-174,72,0,1,0,0,1,0,0,0,27,0,0,2,0.1,0.1,0.5,2,1,16,21,76.2,1,20,0,1,1
+Francis Coquelin,34,fr FRA,CM,26-189,18,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.6,1,0,6,7,85.7,1,6,0,0,0
+Alexis Sánchez,7,cl CHI,"AM,FW",28-334,90,1,0,0,0,6,4,1,0,57,2,0,0,1.7,1.7,0.2,10,1,25,40,62.5,9,46,3,6,5
+Mesut Özil,11,de GER,AM,29-034,83,0,1,0,0,0,0,0,0,49,2,0,0,0.0,0.0,0.6,5,1,28,40,70.0,4,31,2,2,0
+Alex Iwobi,17,ng NGA,AM,21-199,7,0,0,0,0,2,0,0,0,8,1,0,0,0.1,0.1,0.0,1,0,4,5,80.0,0,7,0,0,0
+Granit Xhaka,29,ch SUI,CM,25-052,90,0,0,0,0,2,0,1,0,59,1,0,1,0.1,0.1,0.0,0,0,35,49,71.4,6,28,2,1,0
+Aaron Ramsey,8,wls WAL,"CM,AM",26-327,90,0,0,0,0,0,0,0,0,51,5,2,2,0.0,0.0,0.0,2,0,27,38,71.1,5,27,1,0,0
+Sead Kolašinac,31,ba BIH,WB,24-151,90,0,0,0,0,1,0,0,0,59,2,1,0,0.0,0.0,0.0,0,0,31,48,64.6,6,27,3,0,0
+Héctor Bellerín,24,es ESP,WB,22-244,90,0,0,0,0,1,0,0,0,61,0,2,0,0.1,0.1,0.0,3,1,34,51,66.7,5,34,1,2,1
+Nacho Monreal,18,es ESP,CB,31-265,90,0,0,0,0,0,0,1,0,49,1,5,0,0.0,0.0,0.0,0,0,33,38,86.8,6,24,1,0,0
+Shkodran Mustafi,20,de GER,CB,25-215,90,1,0,0,0,1,1,1,0,54,0,2,1,0.1,0.1,0.0,0,0,24,35,68.6,4,18,0,0,0
+Laurent Koscielny,6,fr FRA,CB,32-069,90,0,0,0,0,0,0,0,0,62,3,3,2,0.0,0.0,0.0,0,0,28,41,68.3,1,24,1,0,0
+Petr Čech,33,cz CZE,GK,35-182,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,13,34,38.2,0,14,0,0,0

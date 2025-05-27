@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patrick Bamford,9,eng ENG,FW,29-187,65,1,0,0,0,2,1,0,0,37,0,2,1,0.3,0.3,0.1,4,1,20,26,76.9,2,21,2,4,2
+Rodrigo,19,es ESP,FW,32-005,25,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,5,80.0,1,8,0,0,0
+Jack Harrison,11,eng ENG,"LW,RW",26-111,89,1,1,0,0,2,1,0,0,56,2,2,2,0.1,0.1,0.2,4,1,27,40,67.5,4,41,7,3,0
+Luis Sinisterra,23,co COL,RW,23-267,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Crysencio Summerville,10,nl NED,RW,21-132,65,0,0,0,0,0,0,0,0,27,1,2,2,0.0,0.0,0.1,1,0,15,16,93.8,1,19,3,1,1
+Wilfried Gnonto,29,it ITA,LW,19-126,25,0,1,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,1,1,10,14,71.4,3,12,3,2,1
+Brenden Aaronson,7,us USA,AM,22-140,83,0,0,0,0,2,1,0,0,28,0,1,1,0.2,0.2,0.3,4,0,18,21,85.7,2,17,4,3,1
+Georginio Rutter,24,fr FRA,AM,20-325,7,0,0,0,0,0,0,0,0,6,2,0,2,0.0,0.0,0.0,0,0,2,2,100.0,1,2,0,0,0
+Marc Roca,8,es ESP,DM,26-105,65,0,0,0,0,3,0,0,0,39,1,2,0,0.1,0.1,0.0,1,0,29,34,85.3,6,18,1,0,0
+Weston McKennie,28,us USA,DM,24-195,25,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,0,0,6,10,60.0,1,6,0,0,0
+Tyler Adams,12,us USA,DM,24-025,90,0,0,0,0,1,0,0,0,59,1,2,1,0.0,0.0,0.0,4,0,45,50,90.0,8,31,1,1,1
+Junior Firpo,3,do DOM,LB,26-201,90,0,0,0,0,0,0,1,0,55,2,2,3,0.0,0.0,0.0,1,1,41,47,87.2,4,34,1,0,0
+Maximilian Wöber,39,at AUT,CB,25-035,90,0,0,0,0,0,0,0,0,51,2,5,2,0.0,0.0,0.0,1,0,19,30,63.3,1,21,0,0,0
+Robin Koch,5,de GER,CB,26-237,90,0,0,0,0,0,0,0,0,57,1,1,0,0.0,0.0,0.0,0,0,37,45,82.2,1,35,0,0,0
+Luke Ayling,2,eng ENG,RB,31-198,90,0,0,0,0,2,1,0,0,44,1,0,2,0.2,0.2,0.0,0,0,24,31,77.4,2,26,0,1,0
+Illan Meslier,1,fr FRA,GK,23-009,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,28,34,82.4,0,18,0,0,0

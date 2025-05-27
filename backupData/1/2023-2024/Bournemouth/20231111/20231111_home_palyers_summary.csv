@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Solanke,9,eng ENG,FW,26-058,90,2,0,0,0,4,2,0,0,33,2,0,3,1.1,1.1,0.4,2,0,9,12,75.0,0,16,2,3,1
+Marcus Tavernier,16,eng ENG,"LW,RW",24-234,89,0,0,0,0,2,1,0,0,57,3,0,2,0.2,0.2,0.1,4,0,36,43,83.7,6,32,7,2,2
+Joe Rothwell,8,eng ENG,DM,28-304,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Antoine Semenyo,24,gh GHA,RW,23-308,80,0,0,0,0,4,1,0,0,31,3,0,1,0.2,0.2,0.1,1,0,11,16,68.8,1,17,1,5,1
+Dango Ouattara,11,bf BFA,LW,21-273,10,0,0,0,0,1,1,0,0,6,1,0,0,0.2,0.2,0.1,1,0,2,3,66.7,0,4,2,1,0
+Justin Kluivert,19,nl NED,AM,24-190,67,0,0,0,0,1,1,0,0,21,1,0,0,0.0,0.0,0.0,3,0,11,14,78.6,1,12,1,4,2
+Luis Sinisterra,17,co COL,AM,24-147,23,0,0,0,0,5,2,0,0,16,0,1,0,0.6,0.6,0.0,3,1,7,10,70.0,1,10,2,2,1
+Lewis Cook,4,eng ENG,DM,26-281,90,0,0,0,0,0,0,1,0,58,3,3,0,0.0,0.0,0.1,2,0,31,48,64.6,1,22,0,2,1
+Ryan Christie,10,sct SCO,DM,28-262,90,0,0,0,0,2,2,0,0,53,4,1,1,0.1,0.1,0.5,6,1,29,38,76.3,1,22,1,4,1
+Lloyd Kelly,5,eng ENG,LB,25-036,90,0,0,0,0,0,0,0,0,72,1,1,0,0.0,0.0,0.0,2,0,54,69,78.3,6,45,0,0,0
+Marcos Senesi,25,ar ARG,CB,26-185,90,0,0,0,0,0,0,1,0,77,3,1,0,0.0,0.0,0.0,2,1,61,70,87.1,5,53,2,0,0
+Illia Zabarnyi,27,ua UKR,CB,21-071,90,0,0,0,0,0,0,0,0,74,2,1,1,0.0,0.0,0.0,2,0,55,65,84.6,2,52,0,0,0
+Max Aarons,37,eng ENG,RB,23-311,67,0,0,0,0,0,0,0,0,43,3,1,0,0.0,0.0,0.0,1,0,28,37,75.7,3,21,2,4,2
+Adam Smith,15,eng ENG,RB,32-196,23,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,3,0,0,0
+Neto,1,br BRA,GK,34-115,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,1,0,20,34,58.8,0,22,0,0,0

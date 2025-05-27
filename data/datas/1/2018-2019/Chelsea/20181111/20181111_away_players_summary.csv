@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Richarlison,30,br BRA,FW,21-185,88,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,1,0,11,19,57.9,2,19,3,2,0
+Dominic Calvert-Lewin,29,eng ENG,FW,21-240,2,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0
+Bernard,20,br BRA,LW,26-064,63,0,0,0,0,1,0,1,0,33,2,3,1,0.0,0.0,0.1,2,0,17,19,89.5,1,21,2,4,1
+Ademola Lookman,31,ng NGA,"AM,LW",21-022,27,0,0,0,0,0,0,0,0,9,1,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,5,1,2,2
+Theo Walcott,11,eng ENG,"RW,AM",29-240,90,0,0,0,0,1,0,0,0,33,2,0,0,0.0,0.0,0.0,1,0,15,22,68.2,2,25,2,3,1
+Gylfi Sigurðsson,10,is ISL,AM,29-064,75,0,0,0,0,1,1,0,0,37,5,3,2,0.0,0.0,0.0,2,0,15,22,68.2,4,12,3,1,0
+Phil Jagielka,6,eng ENG,CB,36-086,15,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0
+Idrissa Gana Gueye,17,sn SEN,"DM,CM",29-046,90,0,0,0,0,0,0,0,0,43,2,2,1,0.0,0.0,0.0,1,0,29,37,78.4,1,23,0,1,1
+André Gomes,8,pt POR,"DM,CM",25-104,90,0,0,0,0,1,0,0,0,39,2,0,1,0.2,0.2,0.0,0,0,27,33,81.8,5,31,3,2,2
+Lucas Digne,12,fr FRA,"LB,WB",25-114,90,0,0,0,0,0,0,0,0,55,3,3,2,0.0,0.0,0.2,3,0,28,40,70.0,2,23,1,0,0
+Yerry Mina,13,co COL,CB,24-049,90,0,0,0,0,0,0,1,0,38,1,0,0,0.0,0.0,0.0,0,0,29,33,87.9,1,26,0,0,0
+Michael Keane,4,eng ENG,CB,25-304,90,0,0,0,0,1,0,0,0,41,1,1,0,0.0,0.0,0.0,0,0,24,33,72.7,1,20,0,0,0
+Séamus Coleman,23,ie IRL,"RB,WB",30-031,90,0,0,0,0,0,0,0,0,51,2,1,0,0.0,0.0,0.0,1,0,30,41,73.2,4,27,3,2,1
+Jordan Pickford,1,eng ENG,GK,24-249,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,24,39,61.5,0,13,0,0,0

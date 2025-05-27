@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Steven Bergwijn,23,nl NED,"AM,FW",23-115,90,0,0,0,0,1,0,0,0,49,0,0,0,0.0,0.0,0.0,2,0,38,45,84.4,4,35,5,3,1
+Son Heung-min,7,kr KOR,"LW,AM",28-207,90,0,0,0,0,2,1,0,0,42,1,0,0,0.1,0.1,0.1,4,0,27,35,77.1,1,26,3,2,2
+Gareth Bale,9,wls WAL,"AM,RW",31-199,60,0,0,0,0,0,0,0,0,31,1,0,1,0.0,0.0,0.1,2,0,15,24,62.5,1,15,2,2,0
+Lucas Moura,27,br BRA,RW,28-171,30,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,5,9,55.6,1,11,1,5,2
+Pierre Højbjerg,5,dk DEN,"DM,CM",25-179,90,0,0,0,0,0,0,0,0,97,3,1,1,0.0,0.0,0.0,1,0,79,91,86.8,12,70,0,0,0
+Tanguy Ndombele,28,fr FRA,"CM,DM",24-034,73,0,0,0,0,0,0,0,0,60,2,1,2,0.0,0.0,0.0,1,0,36,42,85.7,6,40,2,7,5
+Érik Lamela,11,ar ARG,DM,28-333,17,0,0,0,0,2,1,0,0,11,0,0,0,0.1,0.1,0.0,2,0,7,7,100.0,3,8,0,1,0
+Ben Davies,33,wls WAL,"LB,WB",27-282,90,0,0,0,0,0,0,0,0,69,2,3,0,0.0,0.0,0.1,1,0,43,58,74.1,1,36,1,3,2
+Moussa Sissoko,17,fr FRA,"RB,WB",31-168,90,0,0,0,0,0,0,0,0,99,1,1,0,0.0,0.0,0.0,1,0,69,90,76.7,4,52,3,4,2
+Joe Rodon,14,wls WAL,CB,23-101,90,0,0,0,0,0,0,0,0,75,1,2,1,0.0,0.0,0.0,0,0,67,71,94.4,1,54,1,0,0
+Toby Alderweireld,4,be BEL,CB,31-335,90,0,0,0,0,0,0,1,0,87,1,2,3,0.0,0.0,0.0,0,0,53,68,77.9,0,51,0,1,1
+Davinson Sánchez,6,co COL,CB,24-233,45,0,0,0,0,0,0,0,0,30,1,0,2,0.0,0.0,0.0,0,0,19,24,79.2,3,19,0,0,0
+Carlos Vinícius,45,br BRA,FW,25-312,45,0,0,0,0,2,2,0,0,15,0,0,0,0.1,0.1,0.1,2,0,4,9,44.4,0,12,0,1,1
+Hugo Lloris,1,fr FRA,GK,34-036,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,30,73.3,0,16,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wesley Moraes,9,br BRA,FW,23-025,90,0,0,0,0,4,0,0,0,32,0,0,0,0.3,0.3,0.0,2,0,15,23,65.2,2,18,1,3,2
+Jack Grealish,10,eng ENG,"LW,LM",24-102,90,1,0,0,0,3,3,0,0,69,0,0,1,0.1,0.1,0.3,13,0,46,56,82.1,8,49,8,7,4
+Anwar El Ghazi,21,nl NED,"RW,RM",24-232,67,0,0,0,0,1,1,1,0,26,0,1,0,0.2,0.2,0.2,3,0,11,19,57.9,3,13,1,2,1
+Trézéguet,17,eg EGY,RM,25-081,23,0,0,0,0,3,1,0,0,17,1,0,0,0.2,0.2,0.1,1,0,6,10,60.0,0,7,1,0,0
+Conor Hourihane,14,ie IRL,LM,28-322,55,0,0,0,0,1,0,0,0,32,0,0,0,0.0,0.0,0.0,2,0,24,29,82.8,5,13,1,0,0
+Jonathan Kodjia,26,ci CIV,FW,30-060,35,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.1,2,0,4,6,66.7,0,5,1,1,1
+Douglas Luiz,6,br BRA,"RM,CM",21-226,90,0,0,0,0,4,0,0,0,56,0,0,0,0.1,0.1,0.0,3,0,34,43,79.1,1,38,2,3,3
+John McGinn,7,sct SCO,RM,25-064,7,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,0,0
+Marvelous Nakamba,11,zw ZIM,CM,25-336,83,0,0,0,0,0,0,0,0,63,0,5,3,0.0,0.0,0.0,1,0,43,53,81.1,3,32,0,1,1
+Matt Targett,18,eng ENG,LB,24-094,90,0,0,0,0,0,0,0,0,76,1,1,1,0.0,0.0,0.3,2,0,50,69,72.5,6,35,1,2,0
+Kortney Hause,30,eng ENG,CB,24-158,90,0,0,0,0,0,0,0,0,71,1,1,1,0.0,0.0,0.0,1,0,42,53,79.2,2,29,0,0,0
+Björn Engels,22,be BEL,CB,25-097,90,0,0,0,0,2,0,0,0,54,0,2,1,0.1,0.1,0.0,1,1,34,43,79.1,2,28,0,0,0
+Frederic Guilbert,24,fr FRA,RB,24-362,90,0,0,0,0,1,1,0,0,75,6,4,0,0.0,0.0,0.0,3,1,41,59,69.5,7,24,2,1,1
+Tom Heaton,1,eng ENG,GK,33-250,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,0,17,0,0,0

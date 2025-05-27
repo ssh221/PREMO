@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Daniel James,20,wls WAL,FW,24-094,90,0,0,0,0,1,0,1,0,22,1,0,0,0.1,0.1,0.0,1,0,8,14,57.1,2,16,1,2,2
+Jack Harrison,22,eng ENG,LW,25-084,90,0,0,0,0,1,0,0,0,59,4,0,1,0.0,0.0,0.1,5,0,22,39,56.4,2,42,3,10,4
+Raphinha,10,br BRA,RW,25-060,45,0,0,0,0,0,0,0,0,29,1,0,1,0.0,0.0,0.0,1,0,17,21,81.0,3,20,3,4,2
+Tyler Roberts,11,wls WAL,AM,23-031,45,0,0,0,0,0,0,0,0,13,2,0,0,0.0,0.0,0.0,0,0,7,9,77.8,2,5,1,0,0
+Rodrigo,19,es ESP,AM,30-343,90,0,0,0,0,4,0,0,0,59,0,0,0,0.1,0.1,0.0,0,0,40,46,87.0,6,40,3,3,1
+Stuart Dallas,15,nir NIR,CM,30-299,8,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,4,0,2,1
+Leo Fuhr Hjelde,33,no NOR,CM,18-170,82,0,0,0,0,0,0,0,0,71,4,3,2,0.0,0.0,0.0,2,0,45,58,77.6,3,37,1,0,0
+Mateusz Klich,43,pl POL,CM,31-244,45,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.0,1,0,15,21,71.4,4,16,0,1,0
+Adam Forshaw,4,eng ENG,RW,30-127,45,0,0,0,0,0,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,29,34,85.3,3,28,0,0,0
+Luke Ayling,2,eng ENG,CM,30-171,90,0,0,0,0,0,0,0,0,80,9,2,1,0.0,0.0,0.0,0,0,43,58,74.1,4,46,1,4,0
+Pascal Struijk,21,nl NED,CB,22-185,90,0,0,0,0,0,0,0,0,83,2,1,4,0.0,0.0,0.0,2,0,54,62,87.1,6,50,2,0,0
+Robin Koch,5,de GER,CB,25-210,90,0,0,0,0,1,0,0,0,66,1,1,0,0.0,0.0,0.0,1,0,45,54,83.3,1,38,0,0,0
+Diego Llorente,14,es ESP,CB,28-180,90,0,0,0,0,0,0,0,0,80,2,5,2,0.0,0.0,0.0,0,0,52,65,80.0,7,57,2,2,0
+Illan Meslier,1,fr FRA,GK,21-347,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,37,40,92.5,0,37,0,0,0

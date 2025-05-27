@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Armando Broja,19,al ALB,FW,22-105,58,0,0,0,0,1,0,0,0,14,0,0,0,0.1,0.1,0.0,0,0,7,8,87.5,1,8,1,2,1
+Mykhailo Mudryk,10,ua UKR,LM,22-353,32,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,3,0,17,23,73.9,3,20,3,1,0
+Raheem Sterling,7,eng ENG,"LW,RM",29-016,90,0,1,0,0,3,1,1,0,49,1,1,0,0.8,0.8,0.5,7,1,29,40,72.5,4,42,5,4,2
+Cole Palmer,20,eng ENG,"RW,CM",21-232,90,0,0,0,0,2,0,1,0,80,2,0,1,0.1,0.1,0.2,8,0,56,68,82.4,12,57,2,3,1
+Nicolas Jackson,15,sn SEN,"AM,FW",22-187,79,0,0,0,0,1,0,1,0,28,0,0,1,0.0,0.0,0.1,2,0,17,20,85.0,3,15,0,3,0
+Noni Madueke,11,eng ENG,FW,21-289,11,0,0,0,0,1,0,0,0,22,0,0,0,0.0,0.0,0.2,2,1,13,16,81.3,2,19,4,3,1
+Conor Gallagher,23,eng ENG,DM,23-321,90,0,0,0,0,3,1,1,0,81,2,1,0,0.2,0.2,0.0,1,0,67,73,91.8,7,46,3,2,2
+Lesley Ugochukwu,16,fr FRA,DM,19-273,58,0,0,0,0,0,0,0,0,41,2,0,1,0.0,0.0,0.0,1,0,32,37,86.5,1,25,1,1,0
+Christopher Nkunku,18,fr FRA,CM,26-040,32,1,0,0,0,4,2,0,0,26,0,0,0,0.8,0.8,0.0,1,0,18,19,94.7,3,19,2,0,0
+Levi Colwill,26,eng ENG,LB,20-301,78,0,0,0,0,0,0,0,0,60,3,1,1,0.0,0.0,0.0,0,0,48,51,94.1,5,34,1,2,2
+Ian Maatsen,29,nl NED,LB,21-289,12,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,12,18,66.7,1,7,1,0,0
+Thiago Silva,6,br BRA,CB,39-093,90,0,0,0,0,0,0,0,0,86,2,0,2,0.0,0.0,0.0,1,0,70,76,92.1,4,49,0,0,0
+Axel Disasi,2,fr FRA,CB,25-288,90,0,0,0,0,0,0,0,0,95,1,1,2,0.0,0.0,0.0,0,0,78,87,89.7,9,45,2,0,0
+Malo Gusto,27,fr FRA,RB,20-219,79,0,0,0,0,1,0,1,0,55,1,0,0,0.0,0.0,0.2,3,0,43,49,87.8,2,26,2,1,0
+Benoît Badiashile,5,fr FRA,RB,22-273,11,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,22,26,84.6,3,15,0,0,0
+Đorđe Petrović,28,rs SRB,GK,24-077,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,19,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Javier Hernández,17,mx MEX,FW,30-266,63,1,0,0,0,3,1,0,0,25,0,0,2,0.8,0.8,0.0,1,0,9,17,52.9,0,18,0,1,1
+Marko Arnautović,7,at AUT,FW,29-309,27,0,1,0,0,2,2,0,0,15,0,0,0,0.4,0.4,0.2,2,1,9,13,69.2,1,7,1,0,0
+Felipe Anderson,8,br BRA,LM,25-313,75,0,0,0,0,1,0,0,0,64,1,0,0,0.0,0.0,0.1,4,0,44,58,75.9,11,37,5,2,1
+Manuel Lanzini,10,ar ARG,FW,26-007,15,0,0,0,0,1,0,1,0,18,0,1,0,0.1,0.1,0.0,2,1,16,17,94.1,2,13,1,1,1
+Robert Snodgrass,11,sct SCO,"CM,LM",31-168,90,0,1,0,0,1,0,0,0,71,3,0,1,0.0,0.0,1.0,10,1,42,57,73.7,6,37,5,2,1
+Mark Noble,16,eng ENG,CM,31-290,90,0,0,0,0,0,0,0,0,84,2,1,0,0.0,0.0,0.1,2,1,63,74,85.1,8,51,4,4,2
+Michail Antonio,30,jm JAM,RM,28-331,90,1,0,0,0,5,2,0,0,73,3,2,1,0.3,0.3,0.6,5,0,38,55,69.1,6,40,5,3,1
+Declan Rice,41,eng ENG,"DM,CM",20-039,90,0,0,0,0,1,0,0,0,69,6,3,0,0.0,0.0,0.0,1,0,54,61,88.5,2,32,3,0,0
+Aaron Cresswell,3,eng ENG,LB,29-069,90,0,0,0,0,0,0,0,0,80,1,0,1,0.0,0.0,0.0,3,0,60,77,77.9,10,47,2,0,0
+Angelo Ogbonna,21,it ITA,CB,30-275,90,0,1,0,0,3,1,0,0,45,2,2,1,0.8,0.8,0.7,1,1,32,34,94.1,2,22,0,0,0
+Issa Diop,23,fr FRA,CB,22-044,90,1,0,0,0,3,1,0,0,55,1,1,1,0.4,0.4,0.0,0,0,39,43,90.7,1,24,0,0,0
+Pablo Zabaleta,5,ar ARG,RB,34-037,45,0,0,0,0,1,0,0,0,58,2,1,1,0.0,0.0,0.0,2,0,39,48,81.3,9,37,2,1,0
+Ryan Fredericks,24,eng ENG,RB,26-135,45,0,0,0,0,0,0,0,0,36,2,0,0,0.0,0.0,0.0,1,0,25,33,75.8,5,16,2,0,0
+Łukasz Fabiański,1,pl POL,GK,33-310,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,17,27,63.0,0,13,0,0,0

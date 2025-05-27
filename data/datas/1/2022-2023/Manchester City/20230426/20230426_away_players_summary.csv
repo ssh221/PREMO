@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,9,br BRA,"FW,LW",26-023,79,0,0,0,0,0,0,0,0,24,1,0,0,0.0,0.0,0.0,1,0,15,20,75.0,0,13,2,4,1
+Eddie Nketiah,14,eng ENG,LW,23-331,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,3,1,1,0
+Gabriel Martinelli,11,br BRA,LW,21-312,59,0,0,0,0,0,0,0,0,11,2,0,0,0.0,0.0,0.0,0,0,6,8,75.0,3,6,0,0,0
+Leandro Trossard,19,be BEL,FW,28-143,31,0,1,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.1,0,0,10,12,83.3,1,10,2,0,0
+Bukayo Saka,7,eng ENG,RW,21-233,79,0,0,0,0,1,0,0,0,30,0,0,1,0.1,0.1,0.0,1,0,15,22,68.2,1,20,0,4,2
+Reiss Nelson,24,eng ENG,RW,23-137,11,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,1,5,7,71.4,1,9,1,1,1
+Granit Xhaka,34,ch SUI,LM,30-211,59,0,0,0,0,1,1,0,0,21,0,0,1,0.0,0.0,0.0,3,0,15,18,83.3,1,14,0,2,2
+Jorginho,20,it ITA,LM,31-127,31,0,0,0,0,0,0,0,0,31,0,2,0,0.0,0.0,0.0,1,1,27,29,93.1,4,28,1,0,0
+Thomas Partey,5,gh GHA,CM,29-317,90,0,0,0,0,1,0,1,0,48,2,0,3,0.1,0.1,0.0,1,0,38,40,95.0,6,29,2,2,2
+Martin Ødegaard,8,no NOR,RM,24-130,70,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.1,1,0,24,29,82.8,3,20,0,0,0
+Emile Smith Rowe,10,eng ENG,RM,22-272,20,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,5,0,0,0
+Oleksandr Zinchenko,35,ua UKR,LB,26-132,90,0,0,0,0,1,0,0,0,67,1,1,0,0.0,0.0,0.0,2,0,51,61,83.6,3,43,1,1,1
+Gabriel Magalhães,6,br BRA,CB,25-128,90,0,0,0,0,2,0,0,0,68,0,0,0,0.1,0.1,0.0,1,0,51,62,82.3,2,51,1,0,0
+Rob Holding,16,eng ENG,CB,27-218,90,1,0,0,0,2,1,0,0,89,2,1,1,0.2,0.2,0.0,1,0,73,80,91.3,2,60,0,0,0
+Ben White,4,eng ENG,RB,25-200,90,0,0,0,0,0,0,0,0,59,1,1,2,0.0,0.0,0.0,0,0,45,52,86.5,2,34,0,0,0
+Aaron Ramsdale,1,eng ENG,GK,24-347,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,20,33,60.6,0,22,0,0,0

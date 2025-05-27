@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,27-113,90,0,0,0,0,2,0,0,0,25,0,0,2,0.3,0.3,0.0,1,0,15,19,78.9,0,4,0,0,0
+Jacob Ramsey,41,eng ENG,LW,21-329,90,0,0,0,0,3,0,0,0,37,1,0,0,0.5,0.5,0.1,3,0,21,24,87.5,2,22,2,6,2
+John McGinn,7,sct SCO,"RW,DM",28-186,90,0,0,0,0,2,0,0,0,41,2,0,1,0.1,0.1,0.0,3,0,24,30,80.0,7,19,2,0,0
+Emi Buendía,10,ar ARG,AM,26-118,90,0,1,0,0,3,1,0,0,54,2,2,0,0.3,0.3,0.9,8,2,21,37,56.8,3,33,4,4,1
+Douglas Luiz,6,br BRA,DM,24-348,90,1,0,0,0,2,1,1,0,64,3,1,2,0.4,0.4,0.1,3,0,43,54,79.6,9,30,1,3,2
+Leander Dendoncker,32,be BEL,DM,28-007,65,0,0,0,0,0,0,0,0,32,0,0,2,0.0,0.0,0.0,0,0,22,26,84.6,1,11,0,0,0
+Bertrand Traoré,9,bf BFA,RW,27-228,25,0,0,0,0,0,0,0,0,18,0,1,1,0.0,0.0,0.0,1,0,14,15,93.3,4,9,1,0,0
+Álex Moreno,15,es ESP,LB,29-318,65,0,0,0,0,1,0,0,0,31,1,1,1,0.0,0.0,0.0,0,0,16,19,84.2,0,16,4,3,1
+Lucas Digne,27,fr FRA,LB,29-276,25,0,0,0,0,0,0,0,0,28,0,0,1,0.0,0.0,0.3,4,0,19,26,73.1,0,8,0,0,0
+Tyrone Mings,5,eng ENG,CB,30-040,90,0,0,0,0,1,0,0,0,69,0,0,0,0.0,0.0,0.0,1,0,50,58,86.2,6,34,0,0,0
+Ezri Konsa,4,eng ENG,CB,25-181,90,0,0,0,0,0,0,0,0,57,0,0,0,0.0,0.0,0.0,1,0,47,54,87.0,2,32,0,1,0
+Ashley Young,18,eng ENG,RB,37-287,65,0,0,0,0,0,0,1,0,35,0,0,2,0.0,0.0,0.0,0,0,24,30,80.0,1,9,1,0,0
+Calum Chambers,16,eng ENG,RB,28-092,25,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.2,1,0,11,15,73.3,1,10,2,0,0
+Emiliano Martínez,1,ar ARG,GK,30-232,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,15,29,51.7,0,17,0,0,0
+Robin Olsen,25,se SWE,GK,33-104,45,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,9,20,45.0,0,9,0,0,0

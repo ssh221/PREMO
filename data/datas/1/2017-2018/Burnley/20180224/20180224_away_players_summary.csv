@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Guido Carrillo,9,ar ARG,FW,26-275,90,0,1,0,0,2,1,0,0,38,0,0,2,0.1,0.1,0.3,4,1,20,29,69.0,1,12,1,0,0
+Nathan Redmond,22,eng ENG,"LW,LM",23-355,90,0,0,0,0,3,1,0,0,42,2,1,0,0.1,0.1,0.2,5,0,20,33,60.6,3,27,5,6,5
+James Ward-Prowse,16,eng ENG,RW,23-115,67,0,0,0,0,0,0,0,0,37,2,0,1,0.0,0.0,0.0,1,0,24,34,70.6,2,23,0,0,0
+Josh Sims,39,eng ENG,"RW,RM",20-333,23,0,0,0,0,3,1,0,0,13,0,0,2,0.2,0.2,0.0,2,1,5,8,62.5,2,7,3,0,0
+Dušan Tadić,11,rs SRB,AM,29-096,80,0,0,0,0,1,0,0,0,37,0,0,1,0.1,0.1,0.0,2,0,19,28,67.9,2,20,2,1,1
+Manolo Gabbiadini,20,it ITA,"AM,FW",26-090,10,1,0,0,0,1,1,0,0,4,0,0,0,0.2,0.2,0.0,0,0,1,2,50.0,0,2,0,1,0
+Mario Lemina,18,ga GAB,DM,24-176,90,0,0,0,0,1,0,0,0,50,4,2,0,0.1,0.1,0.0,1,0,34,39,87.2,1,27,3,4,3
+Oriol Romeu,14,es ESP,DM,26-153,74,0,0,0,0,1,0,0,0,59,3,1,2,0.0,0.0,0.0,1,0,33,48,68.8,5,27,0,0,0
+Sofiane Boufal,19,ma MAR,"DM,AM",24-160,16,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,2,0,3,5,60.0,0,6,0,0,0
+Ryan Bertrand,21,eng ENG,LB,28-203,90,0,0,0,0,0,0,0,0,49,1,1,0,0.0,0.0,0.0,1,0,30,42,71.4,3,23,2,0,0
+Wesley Hoedt,6,nl NED,CB,23-355,90,0,0,0,0,0,0,0,0,55,8,2,1,0.0,0.0,0.0,0,0,19,30,63.3,3,24,2,0,0
+Jack Stephens,5,eng ENG,CB,24-028,90,0,0,0,0,1,1,0,0,49,0,2,0,0.1,0.1,0.0,0,0,21,39,53.8,3,26,0,0,0
+Cédric Soares,2,pt POR,RB,26-177,90,0,0,0,0,0,0,0,0,63,3,1,1,0.0,0.0,0.0,2,0,35,51,68.6,3,29,0,0,0
+Alex McCarthy,13,eng ENG,GK,28-083,90,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,18,34,52.9,0,17,0,0,0

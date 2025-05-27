@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Wilson,13,eng ENG,FW,25-264,90,3,0,0,0,4,3,0,0,42,0,0,1,0.5,0.5,0.0,1,1,15,26,57.7,2,23,3,0,0
+Joshua King,17,no NOR,"FW,RM",25-307,85,0,1,0,0,1,0,0,0,25,1,0,1,0.0,0.0,0.1,1,1,10,15,66.7,0,18,4,3,2
+Dan Gosling,4,eng ENG,RM,27-290,5,0,0,0,0,0,0,0,0,5,2,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Marc Pugh,7,eng ENG,LM,30-230,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,4,1,21,31,67.7,6,25,3,3,2
+Harry Arter,8,ie IRL,CM,27-325,87,1,0,0,0,2,1,1,0,24,3,0,1,0.1,0.1,0.0,2,1,12,16,75.0,0,8,0,0,0
+Lewis Cook,16,eng ENG,CM,20-288,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Andrew Surman,6,eng ENG,CM,31-090,90,0,1,0,0,1,1,0,0,34,0,1,0,0.1,0.1,0.2,2,1,12,20,60.0,1,12,0,1,0
+Jordon Ibe,33,eng ENG,RM,21-345,42,0,1,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.2,2,1,9,14,64.3,0,11,0,2,0
+Adam Smith,15,eng ENG,"RB,RM",26-203,48,0,0,0,0,0,0,0,0,18,2,1,2,0.0,0.0,0.0,0,0,5,8,62.5,0,5,1,0,0
+Charlie Daniels,11,eng ENG,LB,31-072,90,0,0,0,0,0,0,0,0,61,2,2,1,0.0,0.0,0.1,2,0,34,50,68.0,2,20,1,0,0
+Nathan Aké,5,nl NED,CB,22-273,90,0,0,0,0,0,0,0,0,34,1,1,2,0.0,0.0,0.0,0,0,10,16,62.5,0,6,0,0,0
+Steve Cook,3,eng ENG,CB,26-213,90,0,0,0,0,1,0,1,0,33,0,1,1,0.0,0.0,0.0,1,0,11,19,57.9,2,6,0,0,0
+Simon Francis,2,eng ENG,RB,32-275,44,0,0,0,0,0,0,2,1,32,0,1,0,0.0,0.0,0.0,1,0,13,27,48.1,1,7,0,0,0
+Asmir Begović,27,ba BIH,GK,30-151,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,12,31,38.7,0,7,0,0,0

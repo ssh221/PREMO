@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Álvaro Morata,9,es ESP,FW,25-160,87,1,0,0,0,2,1,0,0,37,2,0,0,0.5,0.5,0.0,0,0,13,24,54.2,3,14,1,2,0
+Callum Hudson-Odoi,70,eng ENG,LW,17-145,3,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,5,2,0,0
+Eden Hazard,10,be BEL,AM,27-084,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.2,10,0,29,41,70.7,8,42,9,6,5
+Willian,22,br BRA,"AM,RW",29-235,90,0,0,0,0,3,1,0,0,44,2,1,0,0.1,0.1,0.0,2,0,31,36,86.1,8,27,2,3,2
+N'Golo Kanté,7,fr FRA,"CM,DM",27-003,90,0,0,0,0,1,0,0,0,78,7,5,0,0.0,0.0,0.0,1,0,51,61,83.6,8,39,1,1,1
+Cesc Fàbregas,4,es ESP,"CM,RM",30-332,90,0,0,0,0,1,0,0,0,68,2,2,0,0.0,0.0,0.1,4,0,47,66,71.2,3,30,1,0,0
+Marcos Alonso,3,es ESP,WB,27-094,82,0,0,0,0,3,1,0,0,70,1,2,1,0.2,0.2,0.0,1,0,40,56,71.4,0,33,1,2,0
+Emerson Palmieri,33,it ITA,"LM,WB",23-241,8,0,0,0,0,0,0,0,0,10,1,0,0,0.0,0.0,0.0,0,0,6,8,75.0,1,6,1,0,0
+Victor Moses,15,ng NGA,WB,27-110,80,0,1,0,0,2,1,0,0,52,2,0,1,0.1,0.1,0.4,3,1,27,42,64.3,2,31,6,1,1
+Olivier Giroud,18,fr FRA,"WB,FW",31-183,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,3,0,0,0
+Antonio Rüdiger,2,de GER,CB,25-029,90,0,0,0,0,0,0,0,0,68,5,1,0,0.0,0.0,0.0,1,1,48,57,84.2,5,46,0,0,0
+Andreas Christensen,27,dk DEN,CB,21-356,90,0,0,0,0,1,0,0,0,67,1,5,1,0.1,0.1,0.0,1,0,44,56,78.6,1,29,0,0,0
+César Azpilicueta,28,es ESP,CB,28-216,90,0,0,0,0,1,0,0,0,68,4,4,0,0.0,0.0,0.1,1,0,46,58,79.3,3,33,3,1,1
+Willy Caballero,1,ar ARG,GK,36-185,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,23,31,74.2,0,16,0,0,0

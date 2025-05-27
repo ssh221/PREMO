@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Daniel James,20,wls WAL,FW,24-150,66,0,1,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,0,0,5,10,50.0,0,4,0,0,0
+Sam Greenwood,42,eng ENG,AM,20-073,24,0,1,0,0,0,0,0,0,10,3,0,0,0.0,0.0,0.1,2,1,1,4,25.0,1,7,1,3,2
+Jack Harrison,22,eng ENG,LW,25-140,90,1,0,0,0,1,1,0,0,60,9,1,1,0.0,0.0,0.0,1,0,20,38,52.6,4,27,3,4,2
+Raphinha,10,br BRA,RW,25-116,82,1,0,0,0,2,2,0,0,45,2,4,1,0.1,0.1,0.0,0,0,16,26,61.5,2,26,0,5,2
+Crysencio Summerville,38,nl NED,RW,20-161,8,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,1,0,2,6,33.3,1,3,2,1,1
+Rodrigo,19,es ESP,"AM,FW",31-034,90,1,0,0,0,2,1,0,0,42,0,0,2,0.3,0.3,0.0,2,1,23,35,65.7,1,15,3,2,2
+Mateusz Klich,43,pl POL,DM,31-300,58,0,0,0,0,0,0,0,0,44,2,0,2,0.0,0.0,0.0,1,0,24,37,64.9,1,21,0,1,1
+Kalvin Phillips,23,eng ENG,DM,26-128,32,0,0,0,0,1,1,0,0,18,2,1,1,0.0,0.0,0.0,0,0,9,12,75.0,2,4,0,0,0
+Robin Koch,5,de GER,DM,25-266,90,0,0,0,0,0,0,0,0,57,4,3,1,0.0,0.0,0.0,1,1,25,44,56.8,3,12,0,1,0
+Stuart Dallas,15,nir NIR,LB,30-355,90,0,0,0,0,0,0,0,0,59,8,1,0,0.0,0.0,0.2,2,0,37,49,75.5,2,24,1,2,1
+Liam Cooper,6,sct SCO,CB,30-222,90,0,0,0,0,0,0,0,0,67,3,5,0,0.0,0.0,0.0,0,0,38,55,69.1,1,28,0,0,0
+Diego Llorente,14,es ESP,CB,28-236,90,0,0,0,0,1,0,0,0,66,5,2,1,0.1,0.1,0.0,0,0,36,45,80.0,3,33,0,0,0
+Luke Ayling,2,eng ENG,RB,30-227,90,0,0,0,0,3,0,0,0,89,7,1,2,0.1,0.1,0.0,2,0,40,66,60.6,3,25,0,2,1
+Illan Meslier,1,fr FRA,GK,22-038,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,14,27,51.9,0,7,0,0,0

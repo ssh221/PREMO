@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,10,eng ENG,"FW,LW,RW",24-308,79,2,1,0,0,2,2,0,0,23,0,0,0,0.5,0.5,0.3,2,1,13,15,86.7,3,14,2,1,0
+Casemiro,18,br BRA,DM,30-193,11,0,0,0,0,0,0,0,0,10,2,2,1,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0
+Jadon Sancho,25,eng ENG,LW,22-163,66,0,0,0,0,1,1,0,0,24,0,0,2,0.1,0.1,0.0,1,1,14,17,82.4,1,19,2,3,0
+Fred,17,br BRA,AM,29-183,24,0,0,0,0,0,0,0,0,16,1,1,0,0.0,0.0,0.3,2,0,10,11,90.9,1,6,1,1,0
+Antony,21,br BRA,RW,22-192,57,1,0,0,0,3,2,0,0,27,2,1,1,0.4,0.4,0.0,1,0,10,15,66.7,1,18,2,2,0
+Cristiano Ronaldo,7,pt POR,FW,37-211,33,0,0,0,0,2,0,0,0,15,0,0,0,0.2,0.2,0.0,0,0,7,12,58.3,1,9,1,0,0
+Bruno Fernandes,8,pt POR,"AM,RW",27-361,90,0,1,0,0,1,1,0,0,37,1,1,1,0.3,0.3,0.4,3,2,22,31,71.0,3,22,0,0,0
+Christian Eriksen,14,dk DEN,"DM,LW",30-202,90,0,1,0,0,1,0,1,0,53,0,0,2,0.1,0.1,0.4,4,2,35,45,77.8,2,35,2,1,0
+Scott McTominay,39,sct SCO,DM,25-270,90,0,0,0,0,0,0,1,0,39,2,0,2,0.0,0.0,0.0,1,0,26,26,100.0,2,20,1,1,1
+Tyrell Malacia,12,nl NED,LB,23-018,90,0,0,0,0,0,0,0,0,47,1,2,0,0.0,0.0,0.0,0,0,31,38,81.6,0,26,0,2,1
+Lisandro Martínez,6,ar ARG,CB,24-229,79,0,0,0,0,0,0,0,0,43,2,0,1,0.0,0.0,0.0,1,0,29,34,85.3,0,31,0,0,0
+Harry Maguire,5,eng ENG,CB,29-183,11,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0
+Raphaël Varane,19,fr FRA,CB,29-132,90,0,0,0,0,0,0,0,0,30,5,0,1,0.0,0.0,0.0,0,0,14,20,70.0,0,16,0,0,0
+Diogo Dalot,20,pt POR,RB,23-170,90,0,0,0,0,0,0,0,0,55,1,0,3,0.0,0.0,0.1,1,0,29,43,67.4,1,24,2,1,1
+David de Gea,1,es ESP,GK,31-301,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.1,1,0,17,28,60.7,0,12,0,0,0

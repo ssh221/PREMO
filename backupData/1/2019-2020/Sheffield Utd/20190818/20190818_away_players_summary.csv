@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Zaha,11,ci CIV,"FW,AM,RW",26-281,90,0,0,0,0,1,0,0,0,36,0,0,0,0.1,0.1,0.0,3,0,19,24,79.2,5,29,1,7,2
+Christian Benteke,17,be BEL,FW,28-258,90,0,0,0,0,1,1,0,0,30,2,0,0,0.1,0.1,0.1,2,0,13,21,61.9,2,10,1,1,0
+Max Meyer,7,de GER,LM,23-334,64,0,0,0,0,0,0,0,0,20,1,0,2,0.0,0.0,0.0,0,0,13,17,76.5,0,12,1,0,0
+Jeffrey Schlupp,15,gh GHA,"AM,LW,LM",26-238,26,0,0,0,0,1,1,0,0,12,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,0,1,0
+Luka Milivojević,4,rs SRB,"CM,DM",28-133,90,0,0,0,0,1,0,0,0,78,2,0,1,0.0,0.0,0.0,1,0,52,68,76.5,6,32,1,0,0
+James McArthur,18,sct SCO,"CM,RM",31-315,81,0,0,0,0,0,0,0,0,43,2,1,2,0.0,0.0,0.0,1,0,29,35,82.9,5,18,0,0,0
+Connor Wickham,21,eng ENG,FW,26-140,9,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,3,5,60.0,0,2,0,0,0
+Andros Townsend,10,eng ENG,RM,28-033,69,0,0,0,0,2,2,0,0,39,2,1,1,0.1,0.1,0.0,0,0,20,25,80.0,3,27,1,4,4
+James McCarthy,22,ie IRL,"DM,LM",28-279,21,0,0,0,0,0,0,1,0,19,3,1,1,0.0,0.0,0.0,0,0,9,14,64.3,0,9,0,0,0
+Patrick van Aanholt,3,nl NED,LB,28-354,90,0,0,0,0,0,0,0,0,95,2,2,1,0.0,0.0,0.0,2,0,72,86,83.7,11,45,1,3,1
+Scott Dann,6,eng ENG,CB,32-185,90,0,0,0,0,0,0,0,0,87,0,3,1,0.0,0.0,0.0,0,0,64,76,84.2,3,46,0,1,1
+Martin Kelly,34,eng ENG,CB,29-113,90,0,0,0,0,0,0,0,0,69,1,0,2,0.0,0.0,0.0,0,0,49,61,80.3,1,40,0,1,1
+Joel Ward,2,eng ENG,RB,29-293,90,0,0,0,0,0,0,0,0,97,6,4,2,0.0,0.0,0.0,1,0,55,74,74.3,10,45,1,2,1
+Vicente Guaita,31,es ESP,GK,32-220,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,27,37,73.0,0,21,0,0,0

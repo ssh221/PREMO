@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jean-Philippe Mateta,14,fr FRA,FW,26-236,90,0,1,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.3,2,0,10,16,62.5,1,15,1,4,1
+Odsonne Édouard,22,fr FRA,AM,26-034,71,0,0,0,0,2,1,0,0,38,2,0,0,0.2,0.2,0.0,1,1,13,22,59.1,4,20,2,4,1
+Naouirou Ahamada,29,fr FRA,AM,21-327,19,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0
+Jordan Ayew,9,gh GHA,AM,32-161,90,1,0,0,0,1,1,1,0,47,2,0,1,0.0,0.0,0.0,2,0,22,30,73.3,2,24,1,6,2
+Adam Wharton,20,eng ENG,CM,19-262,87,0,0,0,0,0,0,0,0,51,3,1,0,0.0,0.0,0.1,4,0,28,46,60.9,3,14,1,1,0
+David Ozoh,52,eng ENG,CM,18-264,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0
+Jefferson Lerma,8,co COL,CM,29-117,90,0,0,0,0,1,0,1,0,40,0,1,1,0.2,0.2,0.0,0,0,26,32,81.3,3,11,0,0,0
+Tyrick Mitchell,3,eng ENG,WB,24-171,90,0,0,0,0,1,1,0,0,70,4,1,4,0.1,0.1,0.0,1,0,27,47,57.4,2,13,0,1,1
+Daniel Muñoz,12,co COL,WB,27-269,90,0,0,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.2,2,0,30,43,69.8,1,22,0,0,0
+Chris Richards,26,us USA,CB,23-328,90,0,0,0,0,3,0,0,0,43,1,1,1,0.1,0.1,0.1,2,0,18,27,66.7,0,11,0,0,0
+Joachim Andersen,16,dk DEN,CB,27-264,90,0,0,0,0,0,0,0,0,51,2,0,1,0.0,0.0,0.0,1,0,25,37,67.6,2,18,0,0,0
+Joel Ward,2,eng ENG,CB,34-113,90,0,0,0,0,0,0,0,0,43,0,0,2,0.0,0.0,0.0,0,0,21,34,61.8,3,16,0,0,0
+Sam Johnstone,1,eng ENG,GK,30-331,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,1,1,9,36,25.0,0,17,0,0,0

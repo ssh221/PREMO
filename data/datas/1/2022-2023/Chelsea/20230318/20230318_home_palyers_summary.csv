@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+João Félix,11,pt POR,FW,23-128,85,1,0,0,0,4,2,0,0,32,1,0,0,0.3,0.3,0.0,3,1,15,21,71.4,2,24,4,4,1
+Carney Chukwuemeka,30,eng ENG,LW,19-149,5,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,0,0
+Christian Pulisic,10,us USA,LW,24-181,61,0,0,0,0,0,0,0,0,32,0,1,2,0.0,0.0,0.1,2,0,14,23,60.9,2,26,3,2,1
+Conor Gallagher,23,eng ENG,"RW,LW",23-040,29,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,6,9,66.7,0,10,1,4,2
+Kai Havertz,29,de GER,"RW,FW",23-280,90,1,0,1,1,5,3,0,0,46,0,1,0,1.2,0.4,0.1,2,0,29,34,85.3,2,31,2,3,1
+Ben Chilwell,21,eng ENG,LM,26-087,90,0,0,0,0,1,1,0,0,91,1,2,4,0.1,0.1,0.6,9,0,61,82,74.4,3,59,7,2,2
+Mateo Kovačić,8,hr CRO,CM,28-316,80,0,0,0,0,2,0,0,0,80,2,1,0,0.1,0.1,0.1,7,0,59,73,80.8,9,58,0,2,0
+Ruben Loftus-Cheek,12,eng ENG,CM,27-054,10,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,0,3,0,0,0
+Enzo Fernández,5,ar ARG,CM,22-060,90,0,0,0,0,3,0,0,0,84,5,0,0,0.2,0.2,0.1,7,1,65,73,89.0,13,64,1,1,0
+Reece James,24,eng ENG,RM,23-100,90,0,0,0,0,2,0,1,0,58,1,0,1,0.1,0.1,0.2,4,1,39,48,81.3,2,40,4,5,3
+Benoît Badiashile,4,fr FRA,CB,21-357,90,0,0,0,0,1,0,0,0,79,0,2,1,0.2,0.2,0.0,0,0,63,71,88.7,10,57,1,0,0
+Kalidou Koulibaly,26,sn SEN,CB,31-271,90,0,0,0,0,0,0,1,0,62,2,0,1,0.0,0.0,0.0,1,0,45,53,84.9,2,46,0,0,0
+Wesley Fofana,33,fr FRA,CB,22-091,86,0,0,0,0,1,0,0,0,65,2,1,0,0.2,0.2,0.0,1,1,47,57,82.5,3,42,4,2,1
+Trevoh Chalobah,14,eng ENG,CB,23-256,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,3,0,0,0
+Kepa Arrizabalaga,1,es ESP,GK,28-166,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,33,39,84.6,0,24,0,0,0

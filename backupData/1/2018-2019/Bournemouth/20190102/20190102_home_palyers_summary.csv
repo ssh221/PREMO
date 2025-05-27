@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,17,no NOR,FW,26-352,90,0,0,0,0,4,2,0,0,35,1,0,0,0.5,0.5,0.0,3,0,16,21,76.2,1,33,6,3,2
+Callum Wilson,13,eng ENG,FW,26-309,80,1,0,0,0,4,2,0,0,20,0,0,0,0.3,0.3,0.3,2,0,8,13,61.5,0,14,1,0,0
+Jordon Ibe,10,eng ENG,LM,23-025,10,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,1,0,0
+Ryan Fraser,24,sct SCO,LM,24-312,81,1,1,0,0,4,3,0,0,50,0,0,0,0.6,0.6,0.2,5,1,32,41,78.0,4,33,4,2,1
+Lys Mousset,9,fr FRA,FW,22-328,9,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,2,0,4,6,66.7,2,6,0,2,2
+Jefferson Lerma,8,co COL,CM,24-069,90,0,0,0,0,4,2,0,0,78,1,2,1,0.1,0.1,0.0,3,0,61,72,84.7,3,43,3,3,3
+Dan Gosling,4,eng ENG,CM,28-335,90,0,0,0,0,2,2,1,0,80,4,1,0,0.1,0.1,0.0,2,1,51,65,78.5,11,43,0,1,0
+David Brooks,20,wls WAL,RM,21-178,90,0,0,0,0,1,0,0,0,50,1,1,0,0.0,0.0,0.2,8,1,31,42,73.8,4,39,3,4,1
+Charlie Daniels,11,eng ENG,LB,32-117,90,0,0,0,0,1,0,0,0,66,2,1,0,0.0,0.0,0.1,5,0,37,59,62.7,4,35,2,0,0
+Nathan Aké,5,nl NED,CB,23-318,90,1,0,0,0,2,1,0,0,61,3,1,0,0.4,0.4,0.0,1,0,42,49,85.7,0,31,0,0,0
+Steve Cook,3,eng ENG,CB,27-258,90,0,0,0,0,2,0,0,0,68,2,2,1,0.1,0.1,0.1,2,1,40,53,75.5,5,39,0,0,0
+Junior Stanislas,19,eng ENG,RB,29-037,90,0,1,0,0,1,0,0,0,89,1,1,1,0.0,0.0,0.5,10,1,62,81,76.5,8,47,7,2,1
+Asmir Begović,27,ba BIH,GK,31-196,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,18,29,62.1,0,14,0,0,0

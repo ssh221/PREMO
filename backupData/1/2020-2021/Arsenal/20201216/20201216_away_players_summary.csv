@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Che Adams,10,sct SCO,FW,24-156,90,0,1,0,0,2,1,0,0,24,0,0,0,0.1,0.1,0.3,2,1,13,19,68.4,4,17,1,2,1
+Danny Ings,9,eng ENG,FW,28-146,90,0,0,0,0,1,0,1,0,31,2,0,2,0.0,0.0,0.0,2,0,15,19,78.9,0,16,1,2,1
+Theo Walcott,32,eng ENG,"LM,RM",31-275,62,1,0,0,0,2,2,0,0,32,2,2,0,0.4,0.4,0.0,0,0,13,18,72.2,1,20,1,4,1
+Moussa Djenepo,12,ml MLI,RM,22-184,28,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.1,2,0,14,17,82.4,1,18,1,1,1
+Oriol Romeu,6,es ESP,CM,29-083,90,0,0,0,0,0,0,0,0,77,2,0,3,0.0,0.0,0.5,3,0,63,71,88.7,5,48,1,0,0
+James Ward-Prowse,8,eng ENG,CM,26-045,90,0,0,0,0,2,0,0,0,114,1,2,1,0.1,0.1,0.0,2,0,85,105,81.0,6,80,1,1,1
+Stuart Armstrong,17,sct SCO,"RM,LM",28-261,62,0,0,0,0,2,0,0,0,35,0,0,0,0.0,0.0,0.0,2,0,19,31,61.3,3,21,2,0,0
+Nathan Redmond,11,eng ENG,LM,26-285,28,0,0,0,0,2,0,0,0,26,0,0,0,0.5,0.5,0.0,2,0,19,24,79.2,7,22,2,2,2
+Ryan Bertrand,3,eng ENG,LB,31-133,90,0,0,0,0,1,0,1,0,88,2,0,1,0.0,0.0,0.0,3,1,65,79,82.3,6,64,5,0,0
+Jannik Vestergaard,4,dk DEN,CB,28-135,90,0,0,0,0,1,0,0,0,108,0,2,0,0.0,0.0,0.1,1,0,90,102,88.2,4,93,1,0,0
+Jan Bednarek,35,pl POL,CB,24-248,90,0,0,0,0,0,0,1,0,97,0,2,1,0.0,0.0,0.0,0,0,81,89,91.0,4,67,0,0,0
+Kyle Walker-Peters,2,eng ENG,RB,23-247,90,0,0,0,0,0,0,0,0,81,1,1,0,0.0,0.0,0.0,2,0,68,77,88.3,4,56,2,1,1
+Alex McCarthy,1,eng ENG,GK,31-013,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,20,0,0,0

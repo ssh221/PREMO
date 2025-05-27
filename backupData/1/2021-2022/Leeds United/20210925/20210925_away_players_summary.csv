@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,31-181,89,1,0,0,0,7,2,1,0,44,2,0,0,0.8,0.8,0.5,7,1,20,27,74.1,4,32,4,3,2
+Andriy Yarmolenko,7,ua UKR,FW,31-337,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Saïd Benrahma,22,dz ALG,"LW,AM,RM",26-046,90,0,0,0,0,5,1,0,0,48,4,1,0,0.2,0.2,0.3,7,0,28,34,82.4,4,28,4,7,3
+Jarrod Bowen,20,eng ENG,RW,24-279,89,0,0,0,0,3,0,0,0,39,1,0,0,0.1,0.1,0.0,2,0,20,27,74.1,2,28,2,4,1
+Craig Dawson,15,eng ENG,CB,31-142,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Pablo Fornals,8,es ESP,AM,25-215,77,0,0,0,0,1,1,1,0,31,2,1,1,0.4,0.4,0.0,5,0,14,24,58.3,1,16,2,0,0
+Nikola Vlašić,11,hr CRO,"LW,LM",23-356,13,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,1,0
+Declan Rice,41,eng ENG,"DM,CM",22-254,90,0,1,0,0,1,0,0,0,44,2,3,0,0.1,0.1,0.2,3,1,28,33,84.8,4,22,6,1,0
+Tomáš Souček,28,cz CZE,"DM,CM",26-210,90,0,0,0,0,1,1,0,0,43,1,1,0,0.0,0.0,0.0,1,0,31,36,86.1,5,17,1,0,0
+Aaron Cresswell,3,eng ENG,LB,31-284,90,0,0,0,0,2,1,0,0,58,1,0,2,0.1,0.1,0.1,3,0,36,52,69.2,4,29,1,0,0
+Angelo Ogbonna,21,it ITA,CB,33-125,90,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.0,0,0,27,41,65.9,1,27,1,0,0
+Kurt Zouma,4,fr FRA,CB,26-333,90,0,0,0,0,0,0,0,0,50,0,1,2,0.0,0.0,0.0,1,0,35,41,85.4,5,25,5,1,0
+Vladimír Coufal,5,cz CZE,RB,29-034,90,0,0,0,0,0,0,0,0,56,1,0,2,0.0,0.0,0.1,6,0,38,49,77.6,4,24,1,1,1
+Łukasz Fabiański,1,pl POL,GK,36-160,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,20,29,69.0,0,20,0,0,0

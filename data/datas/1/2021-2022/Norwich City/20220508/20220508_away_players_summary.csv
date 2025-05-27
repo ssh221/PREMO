@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,32-041,45,1,0,0,0,2,1,0,0,12,0,0,1,0.8,0.8,0.1,1,0,5,7,71.4,0,4,0,0,0
+Andriy Yarmolenko,7,ua UKR,FW,32-197,45,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,5,0,0,0
+Saïd Benrahma,22,dz ALG,LW,26-271,75,2,0,0,0,2,2,0,0,37,1,0,2,0.2,0.2,0.1,2,0,20,27,74.1,1,30,2,2,1
+Nikola Vlašić,11,hr CRO,LW,24-216,15,0,0,0,0,1,1,0,0,15,0,0,1,0.0,0.0,0.0,0,0,10,13,76.9,0,10,0,1,1
+Jarrod Bowen,20,eng ENG,RW,25-139,90,0,2,0,0,2,0,1,0,53,2,0,0,0.4,0.4,0.3,4,1,35,47,74.5,5,41,3,5,4
+Pablo Fornals,8,es ESP,AM,26-075,90,0,0,0,0,2,0,0,0,62,2,0,0,0.7,0.7,0.1,5,1,44,57,77.2,12,42,2,2,1
+Declan Rice,41,eng ENG,"DM,CB",23-114,90,0,0,0,0,0,0,0,0,126,0,3,1,0.0,0.0,0.0,2,1,113,121,93.4,4,97,1,2,2
+Manuel Lanzini,10,ar ARG,DM,29-082,90,1,0,1,1,1,0,0,0,107,2,0,0,0.8,0.0,0.0,4,2,91,98,92.9,11,71,0,0,0
+Aaron Cresswell,3,eng ENG,LB,32-144,90,0,0,0,0,0,0,0,0,91,2,0,1,0.0,0.0,0.6,2,0,78,87,89.7,6,53,1,0,0
+Kurt Zouma,4,fr FRA,CB,27-193,90,0,0,0,0,0,0,0,0,86,0,2,1,0.0,0.0,0.0,0,0,72,77,93.5,0,54,0,0,0
+Craig Dawson,15,eng ENG,CB,32-002,66,0,0,0,0,2,0,0,0,51,2,0,2,0.1,0.1,0.0,1,1,39,41,95.1,0,29,0,0,0
+Mark Noble,16,eng ENG,DM,35-000,24,0,0,0,0,0,0,0,0,52,0,2,0,0.0,0.0,0.0,0,0,50,51,98.0,0,45,0,0,0
+Vladimír Coufal,5,cz CZE,RB,29-259,90,0,0,0,0,0,0,0,0,65,1,1,2,0.0,0.0,0.0,2,1,52,60,86.7,4,40,4,0,0
+Łukasz Fabiański,1,pl POL,GK,37-020,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,18,0,0,0

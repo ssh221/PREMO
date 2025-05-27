@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Javier Hernández,17,mx MEX,FW,30-281,90,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.0,0,0,16,23,69.6,1,16,1,2,1
+Felipe Anderson,8,br BRA,LM,25-328,45,0,0,0,0,0,0,0,0,49,3,0,0,0.0,0.0,0.0,0,0,34,44,77.3,2,33,0,3,1
+Marko Arnautović,7,at AUT,FW,29-324,45,0,0,0,0,1,1,0,0,22,0,0,0,0.0,0.0,0.1,2,0,15,20,75.0,1,14,0,0,0
+Manuel Lanzini,10,ar ARG,"CM,LM",26-022,57,0,0,0,0,0,0,0,0,55,1,0,0,0.0,0.0,0.0,0,0,44,48,91.7,4,31,2,1,1
+Michail Antonio,30,jm JAM,LM,28-346,33,0,0,0,0,3,1,0,0,31,0,0,0,0.1,0.1,0.0,2,0,12,23,52.2,1,20,2,1,0
+Mark Noble,16,eng ENG,CM,31-305,57,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,37,41,90.2,2,25,0,1,1
+Samir Nasri,18,fr FRA,CM,31-256,33,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,3,0,26,33,78.8,1,22,3,0,0
+Robert Snodgrass,11,sct SCO,RM,31-183,90,0,0,0,0,2,0,0,0,65,1,0,0,0.1,0.1,0.0,2,0,43,54,79.6,6,42,0,0,0
+Declan Rice,41,eng ENG,"CM,DM",20-054,90,0,0,0,0,1,0,0,0,79,5,0,3,0.0,0.0,0.0,1,0,56,68,82.4,7,34,0,0,0
+Aaron Cresswell,3,eng ENG,LB,29-084,90,0,0,0,0,1,0,0,0,94,1,4,3,0.0,0.0,0.0,2,0,62,79,78.5,2,39,5,2,2
+Angelo Ogbonna,21,it ITA,CB,30-290,90,0,0,0,0,0,0,0,0,69,3,0,0,0.0,0.0,0.0,0,0,45,53,84.9,4,33,1,1,1
+Issa Diop,23,fr FRA,CB,22-059,90,0,0,0,0,0,0,0,0,56,2,2,2,0.0,0.0,0.0,0,0,39,46,84.8,4,28,2,0,0
+Ryan Fredericks,24,eng ENG,RB,26-150,90,0,0,0,0,0,0,0,0,52,5,1,0,0.0,0.0,0.0,2,0,32,44,72.7,0,21,3,2,1
+Łukasz Fabiański,1,pl POL,GK,33-325,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,14,0,0,0

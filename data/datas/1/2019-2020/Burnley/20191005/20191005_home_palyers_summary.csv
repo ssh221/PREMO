@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ashley Barnes,10,eng ENG,FW,29-340,72,0,0,0,0,2,0,0,0,18,2,0,0,0.1,0.1,0.0,0,0,3,8,37.5,0,9,0,0,0
+Jay Rodriguez,19,eng ENG,FW,30-068,18,0,0,0,0,1,1,0,0,7,2,0,0,0.1,0.1,0.0,1,0,3,4,75.0,0,5,2,0,0
+Chris Wood,9,nz NZL,FW,27-302,90,0,0,0,0,1,0,0,0,23,2,0,0,0.1,0.1,0.0,0,0,9,17,52.9,1,14,0,0,0
+Dwight McNeil,11,eng ENG,LM,19-317,90,0,0,0,0,0,0,0,0,51,1,2,0,0.0,0.0,0.0,2,0,25,37,67.6,2,31,8,4,2
+Ashley Westwood,18,eng ENG,CM,29-187,90,0,1,0,0,0,0,1,0,72,1,2,1,0.0,0.0,0.2,4,1,49,64,76.6,7,30,1,0,0
+Jeff Hendrick,13,ie IRL,CM,27-247,90,1,0,0,0,1,1,1,0,41,1,1,0,0.1,0.1,0.1,1,0,27,37,73.0,3,22,1,0,0
+Jóhann Berg Guðmundsson,7,is ISL,RM,28-343,83,0,0,0,0,3,1,0,0,30,1,1,1,0.2,0.2,0.0,1,0,13,23,56.5,1,14,3,0,0
+Aaron Lennon,25,eng ENG,RM,32-172,7,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,0,4,0,0,0
+Erik Pieters,23,nl NED,LB,31-059,54,0,0,0,0,1,0,0,0,44,1,1,1,0.0,0.0,0.1,1,0,24,34,70.6,0,12,1,1,0
+Charlie Taylor,3,eng ENG,LB,26-017,36,0,0,0,0,0,0,0,0,27,2,2,0,0.0,0.0,0.1,1,0,16,20,80.0,1,11,2,3,1
+Ben Mee,6,eng ENG,CB,30-014,90,0,0,0,0,0,0,0,0,44,1,3,4,0.0,0.0,0.0,2,0,16,31,51.6,1,15,0,0,0
+James Tarkowski,5,eng ENG,CB,26-320,90,0,0,0,0,0,0,0,0,46,1,3,0,0.0,0.0,0.1,1,0,21,31,67.7,2,13,0,1,1
+Matthew Lowton,2,eng ENG,RB,30-118,90,0,0,0,0,0,0,0,0,49,0,2,1,0.0,0.0,0.0,0,0,24,40,60.0,3,21,0,1,1
+Nick Pope,1,eng ENG,GK,27-169,90,0,0,0,0,0,0,0,0,27,0,1,0,0.0,0.0,0.0,1,0,12,25,48.0,0,13,0,0,0

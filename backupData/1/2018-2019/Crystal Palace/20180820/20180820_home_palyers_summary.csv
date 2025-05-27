@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Zaha,11,ci CIV,"FW,LM,RM",25-283,90,0,0,0,0,2,1,0,0,40,1,0,1,0.1,0.1,0.1,5,0,16,29,55.2,3,28,5,8,5
+Christian Benteke,17,be BEL,FW,27-260,69,0,0,0,0,1,0,0,0,28,0,0,0,0.0,0.0,0.0,2,0,12,22,54.5,0,12,0,2,0
+Alexander Sørloth,9,no NOR,FW,22-258,21,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,2,3,0,0,0
+Jeffrey Schlupp,15,gh GHA,LM,25-240,82,0,0,0,0,1,0,0,0,38,0,1,4,0.0,0.0,0.0,1,0,22,29,75.9,5,23,0,0,0
+Max Meyer,7,de GER,RM,22-336,8,0,0,0,0,1,0,0,0,7,1,0,0,0.1,0.1,0.0,0,0,2,4,50.0,0,5,1,2,1
+James McArthur,18,sct SCO,CM,30-317,90,0,0,0,0,0,0,0,0,52,0,3,1,0.0,0.0,0.0,0,0,39,43,90.7,2,35,0,2,2
+Luka Milivojević,4,rs SRB,CM,27-135,90,0,0,0,0,1,1,0,0,66,4,4,2,0.1,0.1,0.0,1,0,40,54,74.1,5,23,0,0,0
+Andros Townsend,10,eng ENG,RM,27-035,78,0,0,0,0,1,0,0,0,38,2,2,2,0.0,0.0,0.0,4,0,18,24,75.0,1,23,1,3,2
+Joel Ward,2,eng ENG,RB,28-295,12,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,5,0,0,0
+Patrick van Aanholt,3,nl NED,LB,27-356,90,0,0,0,0,1,0,1,0,61,2,1,1,0.0,0.0,0.0,0,0,40,49,81.6,6,26,2,3,2
+Mamadou Sakho,12,fr FRA,CB,28-188,90,0,0,0,0,0,0,0,0,44,0,2,1,0.0,0.0,0.0,0,0,35,37,94.6,4,19,0,1,1
+James Tomkins,5,eng ENG,CB,29-144,90,0,0,0,0,0,0,0,0,47,2,1,1,0.0,0.0,0.0,0,0,34,35,97.1,3,19,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,20-267,74,0,0,0,0,0,0,0,1,37,2,0,1,0.0,0.0,0.0,1,0,22,29,75.9,2,20,4,6,4
+Wayne Hennessey,13,wls WAL,GK,31-208,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,15,31,48.4,0,15,0,0,0

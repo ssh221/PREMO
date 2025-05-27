@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,10,eng ENG,"FW,LW",25-159,80,0,1,0,0,7,2,0,0,39,0,1,1,0.9,0.9,0.1,4,2,18,21,85.7,2,29,1,9,3
+Wout Weghorst,27,nl NED,FW,30-244,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,2,0,4,4,100.0,0,3,0,0,0
+Jadon Sancho,25,eng ENG,"LW,RW",23-014,76,0,1,0,0,0,0,0,0,49,0,1,0,0.0,0.0,0.6,7,1,39,41,95.1,4,36,3,2,1
+Christian Eriksen,14,dk DEN,RW,31-053,14,0,0,0,0,2,0,0,0,26,0,0,0,0.2,0.2,0.0,0,0,20,22,90.9,3,22,0,1,0
+Antony,21,br BRA,RW,23-043,59,0,0,0,0,3,2,0,0,41,1,1,1,0.5,0.5,0.1,6,0,28,33,84.8,4,34,3,3,1
+Anthony Martial,9,fr FRA,"FW,LW",27-124,31,1,0,0,0,1,1,0,0,19,0,0,1,0.1,0.1,0.1,1,0,13,14,92.9,1,18,0,2,1
+Marcel Sabitzer,15,at AUT,AM,29-022,75,0,0,0,0,3,1,0,0,39,0,0,1,0.3,0.3,0.2,3,0,22,32,68.8,4,26,2,0,0
+Fred,17,br BRA,AM,30-034,15,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,1,0,12,14,85.7,0,15,0,1,0
+Bruno Fernandes,8,pt POR,DM,28-212,90,0,0,0,0,4,2,0,0,119,0,0,1,0.3,0.3,0.7,10,0,90,109,82.6,10,87,2,1,0
+Scott McTominay,39,sct SCO,DM,26-121,90,1,0,0,0,2,1,0,0,57,2,1,1,0.3,0.3,0.3,5,0,37,42,88.1,3,47,5,6,2
+Tyrell Malacia,12,nl NED,LB,23-234,90,0,0,0,0,2,1,0,0,85,3,2,2,0.1,0.1,0.1,5,0,60,68,88.2,1,56,2,3,2
+Lisandro Martínez,6,ar ARG,CB,25-080,90,0,0,0,0,2,0,0,0,91,1,1,1,0.1,0.1,0.0,1,0,72,78,92.3,3,67,0,0,0
+Harry Maguire,5,eng ENG,CB,30-034,90,0,0,0,0,0,0,0,0,70,1,0,1,0.0,0.0,0.0,2,1,55,65,84.6,4,49,2,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,25-133,90,0,0,0,0,3,1,0,0,87,2,0,2,0.8,0.8,0.1,4,0,65,74,87.8,6,52,3,4,3
+David de Gea,1,es ESP,GK,32-152,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,25,31,80.6,0,28,0,0,0

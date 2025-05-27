@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Son Heung-min,7,kr KOR,FW,29-045,71,0,0,0,0,2,1,0,0,24,0,0,0,0.2,0.2,0.0,1,0,10,17,58.8,0,12,1,2,2
+Harry Kane,10,eng ENG,FW,28-025,19,0,0,0,0,1,1,1,0,13,0,0,1,0.4,0.4,0.1,2,0,6,10,60.0,2,7,2,0,0
+Steven Bergwijn,23,nl NED,LW,23-318,89,0,0,0,0,2,2,0,0,38,0,0,0,0.1,0.1,0.5,4,0,20,25,80.0,1,23,3,4,2
+Harry Winks,8,eng ENG,LM,25-201,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Lucas Moura,27,br BRA,RW,29-009,66,0,0,0,0,0,0,0,0,26,3,2,1,0.0,0.0,0.0,0,0,12,15,80.0,3,12,0,0,0
+Giovani Lo Celso,18,ar ARG,"RW,FW",25-135,24,0,0,0,0,0,0,0,0,21,3,0,0,0.0,0.0,0.1,1,0,10,12,83.3,0,3,0,3,1
+Dele Alli,20,eng ENG,"LM,AM",25-133,90,1,0,1,1,0,0,0,0,55,2,0,6,0.8,0.0,0.0,1,1,26,32,81.3,3,29,1,7,1
+Oliver Skipp,29,eng ENG,CM,20-340,90,0,0,0,0,0,0,1,0,55,3,0,0,0.0,0.0,0.0,0,0,39,47,83.0,1,21,0,0,0
+Pierre Højbjerg,5,dk DEN,RM,26-017,90,0,0,0,0,1,0,1,0,57,2,1,4,0.1,0.1,0.0,1,0,43,46,93.5,2,26,0,3,2
+Sergio Reguilón,3,es ESP,LB,24-249,90,0,0,0,0,0,0,0,0,63,2,2,0,0.0,0.0,0.0,1,1,33,49,67.3,2,23,3,2,1
+Eric Dier,15,eng ENG,CB,27-219,90,0,0,0,0,1,1,0,0,52,0,1,0,0.1,0.1,0.0,0,0,33,41,80.5,0,25,0,1,0
+Davinson Sánchez,6,co COL,CB,25-071,90,0,0,0,0,0,0,0,0,46,2,0,4,0.0,0.0,0.0,0,0,30,33,90.9,1,21,1,0,0
+Japhet Tanganga,25,eng ENG,RB,22-144,90,0,0,0,0,0,0,1,0,46,0,2,3,0.0,0.0,0.0,0,0,21,35,60.0,0,14,2,0,0
+Hugo Lloris,1,fr FRA,GK,34-239,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,20,29,69.0,0,15,0,0,0

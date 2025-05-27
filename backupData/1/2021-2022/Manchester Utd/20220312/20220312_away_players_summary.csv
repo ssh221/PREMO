@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,28-227,90,1,0,1,1,1,0,0,0,40,0,0,1,0.8,0.0,0.0,3,0,17,28,60.7,4,26,2,2,1
+Son Heung-min,7,kr KOR,"AM,LW",29-247,90,0,0,0,0,2,0,0,0,49,0,1,1,0.3,0.3,0.0,3,0,32,41,78.0,4,32,3,4,3
+Dejan Kulusevski,21,se SWE,AM,21-321,77,0,0,0,0,0,0,0,0,35,1,1,0,0.0,0.0,0.3,2,0,26,31,83.9,2,22,3,2,1
+Lucas Moura,27,br BRA,"AM,RW",29-211,13,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,1,3,2
+Pierre Højbjerg,5,dk DEN,"CM,DM",26-219,90,0,0,0,0,2,1,0,0,97,4,0,1,0.1,0.1,0.0,1,0,82,92,89.1,10,75,1,4,4
+Rodrigo Bentancur,30,uy URU,CM,24-260,87,0,0,0,0,1,0,0,0,75,4,0,2,0.1,0.1,0.3,3,0,61,66,92.4,7,54,1,0,0
+Harry Winks,8,eng ENG,DM,26-038,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,3,5,0,0,0
+Sergio Reguilón,3,es ESP,"WB,LB",25-086,90,0,0,0,0,0,0,0,0,71,1,1,3,0.0,0.0,0.1,1,0,42,59,71.2,2,43,6,2,2
+Matt Doherty,2,ie IRL,"WB,RB",30-055,90,0,0,0,0,1,0,0,0,51,1,1,0,0.1,0.1,0.0,0,0,36,44,81.8,0,32,3,1,0
+Ben Davies,33,wls WAL,CB,28-322,86,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,0,0,69,74,93.2,7,65,3,1,1
+Steven Bergwijn,23,nl NED,AM,24-155,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,1,0,0,0
+Eric Dier,15,eng ENG,CB,28-056,90,0,0,0,0,2,0,1,0,85,0,0,1,0.2,0.2,0.0,2,1,75,81,92.6,2,69,1,0,0
+Cristian Romero,4,ar ARG,CB,23-319,90,0,0,0,0,0,0,0,0,92,5,0,1,0.0,0.0,0.0,2,0,77,83,92.8,6,68,3,0,0
+Hugo Lloris,1,fr FRA,GK,35-076,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,20,24,83.3,0,15,0,0,0

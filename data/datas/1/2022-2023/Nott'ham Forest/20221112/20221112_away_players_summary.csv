@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Zaha,11,ci CIV,"FW,LW,LM",30-002,90,0,0,0,1,2,0,0,0,32,0,0,1,0.9,0.1,0.1,4,0,19,21,90.5,2,18,0,1,0
+Eberechi Eze,10,eng ENG,"LW,AM",24-136,77,0,0,0,0,1,0,0,0,38,2,0,0,0.0,0.0,0.0,0,0,26,32,81.3,1,21,1,0,0
+Malcolm Ebiowei,23,eng ENG,"RM,RW",19-069,13,0,0,0,0,0,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,2,4,50.0,1,6,1,2,1
+Jordan Ayew,9,gh GHA,RW,31-062,58,0,0,0,0,1,0,0,0,29,3,0,1,0.0,0.0,0.0,1,0,18,22,81.8,1,14,2,2,1
+Jean-Philippe Mateta,14,fr FRA,FW,25-137,32,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0
+Jeffrey Schlupp,15,gh GHA,"LM,DM,LB",29-324,90,0,0,0,0,2,0,1,0,80,1,2,1,0.2,0.2,0.0,1,0,55,72,76.4,7,44,2,4,0
+Cheick Doucouré,28,ml MLI,"CM,DM",22-308,84,0,0,0,0,0,0,0,0,58,3,1,1,0.0,0.0,0.0,2,0,50,54,92.6,5,26,0,0,0
+Odsonne Édouard,22,fr FRA,CM,24-300,6,0,0,0,0,1,0,0,0,4,0,0,0,0.1,0.1,0.0,0,0,1,1,100.0,0,1,0,0,0
+Michael Olise,7,fr FRA,"RM,RW,CM,AM",20-335,90,0,0,0,0,0,0,0,0,58,1,0,0,0.0,0.0,0.1,1,0,38,53,71.7,5,38,4,3,2
+Tyrick Mitchell,3,eng ENG,LB,23-072,59,0,0,0,0,0,0,1,0,38,0,0,1,0.0,0.0,0.1,1,0,21,31,67.7,3,15,0,0,0
+Joel Ward,2,eng ENG,RB,33-014,31,0,0,0,0,0,0,1,0,30,0,0,0,0.0,0.0,0.0,0,0,30,30,100.0,5,16,1,0,0
+Marc Guéhi,6,eng ENG,CB,22-122,90,0,0,0,0,0,0,1,0,135,1,4,0,0.0,0.0,0.0,1,0,116,126,92.1,11,90,2,0,0
+Joachim Andersen,16,dk DEN,CB,26-165,90,0,0,0,0,0,0,0,0,140,0,2,0,0.0,0.0,0.0,1,0,113,134,84.3,6,101,4,0,0
+Nathaniel Clyne,17,eng ENG,"RB,LB",31-221,77,0,0,0,0,0,0,0,0,57,0,1,0,0.0,0.0,0.0,0,0,50,54,92.6,1,30,1,0,0
+Will Hughes,19,eng ENG,DM,27-209,13,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,15,15,100.0,4,8,0,0,0
+Vicente Guaita,13,es ESP,GK,35-306,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,24,26,92.3,0,11,0,0,0

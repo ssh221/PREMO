@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,7,no NOR,FW,30-000,90,0,0,0,0,4,1,0,0,34,1,0,0,0.4,0.4,0.2,4,0,19,24,79.2,3,25,5,1,0
+João Pedro,10,br BRA,LW,20-111,90,1,0,0,0,6,3,0,0,41,0,0,1,0.3,0.3,0.1,4,0,20,27,74.1,5,28,0,4,2
+Emmanuel Dennis,25,ng NGA,RW,24-061,83,0,0,0,0,2,0,0,0,35,1,0,0,0.1,0.1,0.4,5,0,15,23,65.2,3,21,3,10,6
+Cucho,29,co COL,RW,22-270,7,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,2,1,6,7,85.7,1,4,0,1,0
+Juraj Kucka,33,sk SVK,LM,34-323,76,0,0,0,0,1,0,0,0,43,0,2,0,0.0,0.0,0.0,6,0,25,29,86.2,5,13,0,1,0
+Tom Cleverley,8,eng ENG,LM,32-156,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,1,2,0,0,0
+Edo Kayembe,39,cd COD,CM,23-226,90,0,0,0,0,2,0,0,0,73,1,1,0,0.0,0.0,0.3,3,0,46,58,79.3,9,29,2,2,1
+Moussa Sissoko,19,fr FRA,RM,32-152,90,0,0,0,0,1,0,1,0,36,1,2,1,0.4,0.4,0.0,0,0,17,24,70.8,1,10,1,1,1
+Hassane Kamara,14,ci CIV,LB,27-316,90,0,0,0,0,0,0,0,0,71,3,5,1,0.0,0.0,0.0,2,0,41,60,68.3,3,26,4,2,2
+Samir Santos,22,br BRA,CB,27-041,90,0,0,0,0,1,1,1,0,54,3,5,1,0.1,0.1,0.0,0,0,30,36,83.3,0,20,0,0,0
+Craig Cathcart,15,nir NIR,CB,32-343,90,0,0,0,0,0,0,0,0,58,3,0,1,0.0,0.0,0.0,1,0,41,44,93.2,4,16,0,0,0
+Jeremy Ngakia,2,,RB,21-130,65,0,0,0,0,0,0,0,0,36,4,2,1,0.0,0.0,0.1,1,0,18,25,72.0,2,10,1,0,0
+Kiko Femenía,21,es ESP,RB,30-347,25,0,1,0,0,1,0,0,0,29,2,0,0,0.0,0.0,0.1,2,1,23,27,85.2,3,12,1,0,0
+Ben Foster,1,eng ENG,GK,38-287,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,18,30,60.0,0,8,0,0,0

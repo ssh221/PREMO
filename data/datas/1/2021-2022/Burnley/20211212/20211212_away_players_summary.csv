@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,31-259,90,0,0,0,0,2,0,0,0,31,0,0,1,0.1,0.1,0.0,2,0,11,21,52.4,0,22,3,3,1
+Saïd Benrahma,22,dz ALG,LW,26-124,69,0,0,0,0,4,1,0,0,35,0,0,0,0.2,0.2,0.0,5,0,21,25,84.0,4,27,4,4,1
+Nikola Vlašić,11,hr CRO,LW,24-069,21,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.2,3,0,8,11,72.7,1,8,3,0,0
+Jarrod Bowen,20,eng ENG,RW,24-357,90,0,0,0,0,2,1,0,0,55,1,0,0,0.1,0.1,0.2,6,0,31,45,68.9,3,31,3,3,0
+Manuel Lanzini,10,ar ARG,AM,28-300,79,0,0,0,0,2,0,0,0,61,1,0,0,0.1,0.1,0.0,4,0,46,56,82.1,6,42,2,1,0
+Pablo Fornals,8,es ESP,AM,25-293,11,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,1,0,7,13,53.8,2,8,0,0,0
+Declan Rice,41,eng ENG,DM,22-332,90,0,0,0,0,1,0,0,0,69,1,1,2,0.0,0.0,0.1,4,0,46,58,79.3,5,39,8,4,3
+Tomáš Souček,28,cz CZE,DM,26-288,90,0,0,0,0,3,0,0,0,64,0,2,1,0.3,0.3,0.0,2,0,38,53,71.7,6,31,2,0,0
+Arthur Masuaku,26,cd COD,LB,28-035,90,0,0,0,0,1,0,0,0,71,2,0,0,0.0,0.0,0.0,1,0,50,64,78.1,7,46,3,5,5
+Issa Diop,23,fr FRA,CB,24-337,90,0,0,0,0,1,1,0,0,41,0,0,0,0.0,0.0,0.0,0,0,25,34,73.5,0,18,0,0,0
+Craig Dawson,15,eng ENG,CB,31-220,90,0,0,0,0,0,0,1,0,41,0,1,2,0.0,0.0,0.0,0,0,23,34,67.6,0,18,0,0,0
+Vladimír Coufal,5,cz CZE,RB,29-112,90,0,0,0,0,0,0,0,0,95,3,0,3,0.0,0.0,0.0,1,0,55,85,64.7,8,38,1,0,0
+Łukasz Fabiański,1,pl POL,GK,36-238,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,15,30,50.0,0,13,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+André Ayew,34,gh GHA,FW,33-090,78,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,1,0,15,18,83.3,2,10,0,0,0
+Sam Surridge,16,eng ENG,FW,24-232,12,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0
+Emmanuel Dennis,25,ng NGA,LW,25-122,78,1,0,0,0,1,1,1,0,31,0,0,1,0.1,0.1,0.0,0,0,11,18,61.1,2,20,1,3,1
+Neco Williams,7,wls WAL,LW,21-338,12,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,0
+Brennan Johnson,20,wls WAL,RW,21-298,90,0,0,0,0,2,2,0,0,27,0,0,1,0.2,0.2,0.0,1,0,12,15,80.0,0,13,1,6,2
+Morgan Gibbs-White,10,eng ENG,AM,23-049,90,0,0,0,0,0,0,1,0,36,0,0,0,0.0,0.0,0.0,1,0,20,29,69.0,5,17,2,1,0
+Jonjo Shelvey,6,eng ENG,DM,31-018,89,0,0,0,0,2,0,1,0,47,0,1,0,0.1,0.1,0.0,2,0,28,40,70.0,5,23,0,0,0
+Gustavo Scarpa,31,br BRA,DM,29-071,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,1,3,0,0,0
+Ryan Yates,22,eng ENG,DM,25-116,57,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,7,9,77.8,0,3,0,2,1
+Remo Freuler,23,ch SUI,DM,30-336,33,0,0,0,0,0,0,0,0,9,0,0,2,0.0,0.0,0.0,0,0,3,5,60.0,1,3,0,0,0
+Renan Lodi,32,br BRA,LB,24-343,90,0,0,0,0,0,0,1,0,47,1,4,0,0.0,0.0,0.0,0,0,19,34,55.9,1,18,0,2,0
+Moussa Niakhate,19,sn SEN,CB,27-009,90,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,1,0,22,24,91.7,0,14,0,0,0
+Felipe,38,br BRA,CB,33-305,90,0,0,0,0,0,0,0,0,52,6,1,3,0.0,0.0,0.0,0,0,19,35,54.3,2,22,0,0,0
+Serge Aurier,24,ci CIV,RB,30-083,90,0,0,0,0,0,0,0,0,58,3,2,3,0.0,0.0,0.0,0,0,37,44,84.1,3,20,1,0,0
+Keylor Navas,12,cr CRC,GK,36-092,90,0,0,0,0,0,0,1,0,50,0,0,0,0.0,0.0,0.0,0,0,21,47,44.7,0,25,0,1,1

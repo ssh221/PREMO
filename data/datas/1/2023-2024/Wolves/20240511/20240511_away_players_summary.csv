@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jean-Philippe Mateta,14,fr FRA,FW,26-318,69,1,0,0,0,1,1,0,0,15,2,0,0,0.8,0.8,0.3,2,0,6,8,75.0,1,7,1,0,0
+Odsonne Édouard,22,fr FRA,FW,26-116,21,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,5,0,1,1
+Eberechi Eze,10,eng ENG,AM,25-317,87,1,0,0,0,3,1,0,0,39,2,0,0,0.8,0.8,0.4,4,1,21,24,87.5,2,25,2,5,1
+Joel Ward,2,eng ENG,CB,34-195,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Michael Olise,7,fr FRA,AM,22-151,87,1,1,0,0,2,1,0,0,56,2,1,0,0.3,0.3,0.8,2,1,27,33,81.8,5,27,3,7,1
+Jeffrey Schlupp,15,gh GHA,CM,31-140,3,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Will Hughes,19,eng ENG,CM,29-024,14,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,1,4,0,0,0
+Naouirou Ahamada,29,fr FRA,CM,22-043,70,0,0,0,0,1,0,2,1,43,3,1,0,0.1,0.1,0.0,0,0,25,33,75.8,7,21,2,1,0
+Adam Wharton,20,eng ENG,CM,19-344,90,0,1,0,0,1,0,0,0,42,2,1,1,0.0,0.0,0.0,2,1,20,28,71.4,4,18,1,2,1
+Tyrick Mitchell,3,eng ENG,WB,24-253,69,0,0,0,0,1,0,0,0,42,4,0,1,0.2,0.2,0.0,2,0,20,35,57.1,2,18,2,1,1
+Marc Guéhi,6,eng ENG,CB,23-303,21,0,0,0,0,0,0,0,0,12,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,2,5,0,0,0
+Daniel Muñoz,12,co COL,"WB,RB",27-351,90,0,0,0,0,2,0,1,0,53,3,1,0,0.4,0.4,0.1,6,1,27,38,71.1,4,17,1,2,2
+Chris Richards,26,us USA,"CB,CM",24-044,90,0,0,0,0,1,0,0,0,66,3,0,3,0.1,0.1,0.0,0,0,38,55,69.1,1,33,0,0,0
+Joachim Andersen,16,dk DEN,CB,27-346,90,0,0,0,0,0,0,0,0,71,2,1,2,0.0,0.0,0.2,2,0,44,57,77.2,4,29,0,0,0
+Nathaniel Clyne,17,eng ENG,"CB,WB,LB",33-036,90,0,0,0,0,1,0,0,0,36,0,1,2,0.1,0.1,0.0,1,1,17,26,65.4,1,19,0,3,1
+Dean Henderson,30,eng ENG,GK,27-060,90,0,0,0,0,0,0,1,0,27,0,0,0,0.0,0.0,0.0,0,0,14,23,60.9,0,15,0,0,0

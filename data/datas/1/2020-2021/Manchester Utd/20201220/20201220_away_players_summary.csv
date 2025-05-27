@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patrick Bamford,9,eng ENG,FW,27-106,90,0,0,0,0,3,1,0,0,22,1,0,1,0.6,0.6,0.0,0,0,10,12,83.3,0,5,0,0,0
+Jack Harrison,22,eng ENG,"RM,LM",24-030,90,0,0,0,0,2,0,0,0,59,3,0,1,0.4,0.4,0.2,5,1,28,47,59.6,2,35,3,3,1
+Mateusz Klich,43,pl POL,CM,30-190,45,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.2,2,0,17,21,81.0,3,11,0,0,0
+Jamie Shackleton,46,eng ENG,RB,21-073,45,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.0,0,0,20,20,100.0,0,5,1,0,0
+Rodrigo,20,es ESP,CM,29-289,90,0,0,0,0,1,0,0,0,62,0,2,0,0.1,0.1,0.7,7,0,42,55,76.4,12,33,2,1,0
+Raphinha,18,br BRA,"LM,RM",24-006,90,0,2,0,0,3,1,0,0,78,0,0,2,0.3,0.3,0.2,7,2,34,56,60.7,7,35,7,4,0
+Kalvin Phillips,23,eng ENG,DM,25-018,45,0,0,0,0,0,0,0,0,31,2,2,2,0.0,0.0,0.0,1,0,17,24,70.8,3,14,0,0,0
+Pascal Struijk,21,nl NED,DM,21-131,45,0,0,0,0,1,0,0,0,33,0,2,0,0.1,0.1,0.0,0,0,26,28,92.9,4,13,0,0,0
+Ezgjan Alioski,10,mk MKD,LB,28-312,90,0,0,0,0,2,0,0,0,85,0,1,2,0.1,0.1,0.0,1,0,62,76,81.6,6,35,2,0,0
+Liam Cooper,6,sct SCO,CB,29-112,71,1,0,0,0,1,1,0,0,60,3,2,3,0.1,0.1,0.0,1,0,41,48,85.4,0,22,0,0,0
+Leif Davis,24,eng ENG,CB,20-343,19,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,12,14,85.7,1,10,1,0,0
+Luke Ayling,2,eng ENG,CB,29-117,90,0,0,0,0,2,0,0,0,66,4,1,1,0.1,0.1,0.0,1,0,48,56,85.7,2,39,5,3,3
+Stuart Dallas,15,nir NIR,"CM,RB",29-245,90,1,0,0,0,2,1,0,0,70,2,1,2,0.1,0.1,0.0,3,0,47,58,81.0,7,30,3,0,0
+Illan Meslier,1,fr FRA,GK,20-293,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,28,32,87.5,0,25,0,0,0

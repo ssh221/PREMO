@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Islam Slimani,19,dz ALG,FW,29-197,90,1,0,0,0,2,2,0,0,63,0,0,1,0.5,0.5,0.0,3,2,35,49,71.4,3,43,4,5,3
+Shinji Okazaki,20,jp JPN,FW,31-260,90,0,0,0,0,1,0,0,0,43,0,0,1,0.1,0.1,0.0,2,1,28,31,90.3,0,28,1,7,4
+Marc Albrighton,11,eng ENG,LM,28-044,90,1,1,0,0,1,1,0,0,56,1,2,1,0.5,0.5,0.2,5,1,24,41,58.5,4,36,4,9,2
+Matty James,22,eng ENG,CM,26-163,85,0,0,0,0,0,0,0,0,59,1,0,2,0.0,0.0,0.0,0,0,48,55,87.3,3,32,0,1,1
+Adrien Silva,14,pt POR,CM,28-292,5,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,1,5,0,0,0
+Wilfred Ndidi,25,ng NGA,CM,21-016,90,0,0,0,0,2,0,0,0,72,4,0,1,0.1,0.1,0.0,1,0,52,59,88.1,10,40,3,1,0
+Riyad Mahrez,26,dz ALG,RM,26-314,76,1,1,0,0,1,1,0,0,54,2,1,1,0.1,0.1,0.5,2,1,36,48,75.0,8,34,3,6,4
+Demarai Gray,7,jm JAM,RM,21-187,14,0,0,0,0,1,1,0,0,14,0,0,0,0.0,0.0,0.1,1,0,7,12,58.3,0,8,0,1,0
+Christian Fuchs,28,at AUT,LB,31-269,90,0,0,0,0,2,0,0,0,80,2,3,2,0.0,0.0,0.2,4,1,54,70,77.1,1,31,1,0,0
+Harry Maguire,15,eng ENG,CB,24-302,90,0,0,0,0,1,0,0,0,56,3,0,1,0.0,0.0,0.0,0,0,32,42,76.2,2,23,0,2,2
+Wes Morgan,5,jm JAM,CB,33-345,27,0,0,0,0,0,0,1,0,12,0,0,0,0.0,0.0,0.0,0,0,8,10,80.0,1,4,0,0,0
+Aleksandar Dragović,16,at AUT,CB,26-301,63,0,0,0,0,0,0,0,0,27,0,2,1,0.0,0.0,0.0,0,0,17,20,85.0,0,14,0,0,0
+Daniel Amartey,18,gh GHA,RB,23-011,90,0,0,0,0,0,0,0,0,69,0,0,1,0.0,0.0,0.0,0,0,49,60,81.7,2,29,0,0,0
+Kasper Schmeichel,1,dk DEN,GK,31-057,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,24,37,64.9,0,18,0,0,0

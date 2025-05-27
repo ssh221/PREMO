@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,11,nz NZL,"FW,RW",25-311,90,1,0,0,0,2,2,1,0,27,0,0,1,0.4,0.4,0.1,4,0,16,20,80.0,2,18,0,1,0
+Jeff Hendrick,13,ie IRL,FW,25-256,45,0,0,0,0,1,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,21,26,80.8,0,25,0,2,1
+Sam Vokes,9,wls WAL,FW,27-358,45,0,0,0,0,1,0,0,0,17,0,0,0,0.1,0.1,0.0,2,0,3,10,30.0,0,5,0,0,0
+Scott Arfield,37,ca CAN,LM,28-347,45,0,0,0,0,2,1,0,0,18,0,1,0,0.1,0.1,0.0,2,0,8,13,61.5,1,14,0,1,1
+Jóhann Berg Guðmundsson,17,is ISL,RM,26-352,45,0,1,0,0,3,0,0,0,23,0,0,0,0.1,0.1,0.3,3,1,16,20,80.0,3,13,1,0,0
+Steven Defour,16,be BEL,"CM,LM",29-182,90,0,0,0,0,4,1,1,0,84,0,1,0,0.2,0.2,0.2,8,1,62,74,83.8,16,63,7,3,2
+Jack Cork,4,eng ENG,CM,28-111,90,0,0,0,0,2,0,0,0,75,2,0,0,0.1,0.1,0.0,3,0,58,69,84.1,8,44,4,2,2
+Robbie Brady,12,ie IRL,"RM,LM,LB",25-273,90,0,0,0,0,3,0,0,0,66,4,0,2,0.1,0.1,0.1,8,0,39,54,72.2,10,39,4,3,3
+Stephen Ward,23,ie IRL,LB,32-055,80,0,0,0,0,0,0,0,0,72,2,1,1,0.0,0.0,0.0,0,0,50,62,80.6,2,37,3,0,0
+Ashley Barnes,10,eng ENG,LW,27-349,10,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,1,0,0
+Ben Mee,6,eng ENG,CB,28-023,90,0,0,0,0,1,0,0,0,57,3,1,0,0.1,0.1,0.0,1,0,38,47,80.9,4,29,0,0,0
+James Tarkowski,5,eng ENG,CB,24-329,90,0,0,0,0,0,0,0,0,53,1,2,1,0.0,0.0,0.1,4,0,36,45,80.0,5,27,1,0,0
+Matthew Lowton,2,eng ENG,RB,28-127,90,0,0,0,0,1,1,0,0,39,0,0,0,0.0,0.0,0.0,1,0,25,35,71.4,4,18,2,0,0
+Nick Pope,29,eng ENG,GK,25-178,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,19,0,0,0

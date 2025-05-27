@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jarrod Bowen,20,eng ENG,FW,27-081,90,0,0,0,0,2,0,0,0,37,1,1,1,0.2,0.2,0.3,4,0,15,26,57.7,2,22,6,4,2
+Lucas Paquetá,10,br BRA,LW,26-196,90,1,0,0,0,4,2,1,0,64,3,0,0,0.7,0.7,0.1,3,1,29,47,61.7,4,32,1,5,2
+Mohammed Kudus,14,gh GHA,RW,23-221,90,0,0,0,0,3,0,0,0,48,1,0,1,0.3,0.3,0.1,6,1,28,35,80.0,3,32,3,11,6
+James Ward-Prowse,7,eng ENG,AM,29-130,45,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,15,21,71.4,2,11,0,0,0
+Michail Antonio,9,jm JAM,AM,33-348,45,0,0,0,0,4,0,0,0,19,0,0,0,0.3,0.3,0.1,2,0,3,10,30.0,0,11,2,2,1
+Kalvin Phillips,11,eng ENG,DM,28-099,45,0,0,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.0,0,0,23,28,82.1,2,17,0,0,0
+Edson Álvarez,19,mx MEX,DM,26-138,45,0,0,0,0,2,0,0,0,40,2,0,2,0.1,0.1,0.0,1,0,23,29,79.3,1,18,0,1,0
+Tomáš Souček,28,cz CZE,DM,29-012,90,0,0,0,0,2,1,1,0,49,1,3,1,0.2,0.2,0.0,3,0,22,33,66.7,2,15,0,0,0
+Aaron Cresswell,3,eng ENG,LB,34-086,90,0,0,0,0,0,0,0,0,68,0,1,1,0.0,0.0,0.2,7,1,52,65,80.0,7,31,2,0,0
+Nayef Aguerd,27,ma MAR,CB,27-346,81,0,0,0,0,0,0,0,0,65,1,1,3,0.0,0.0,0.0,1,0,47,59,79.7,3,43,1,0,0
+Danny Ings,18,eng ENG,CB,31-231,9,1,0,0,0,2,1,0,0,8,0,1,0,0.2,0.2,0.0,1,0,1,3,33.3,0,2,1,0,0
+Konstantinos Mavropanos,15,gr GRE,CB,26-090,90,0,0,0,0,3,0,0,0,67,3,1,3,0.2,0.2,0.1,3,0,31,53,58.5,1,25,2,0,0
+Vladimír Coufal,5,cz CZE,RB,31-201,90,0,0,0,0,0,0,0,0,67,3,2,0,0.0,0.0,0.1,5,0,39,59,66.1,3,27,5,2,0
+Alphonse Areola,23,fr FRA,GK,31-012,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,26,31,83.9,0,23,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,11,nz NZL,FW,26-002,90,0,0,0,0,2,2,0,0,38,0,0,1,0.1,0.1,0.0,3,0,15,30,50.0,1,22,4,1,1
+Scott Arfield,37,ca CAN,LW,29-038,90,1,0,0,0,2,1,0,0,51,0,1,0,0.2,0.2,0.0,3,1,26,43,60.5,6,20,2,2,2
+Jóhann Berg Guðmundsson,17,is ISL,RW,27-043,90,0,1,0,0,3,2,0,0,53,1,1,1,0.1,0.1,0.1,2,1,20,41,48.8,3,23,5,1,1
+Jeff Hendrick,13,ie IRL,AM,25-312,59,0,0,0,0,0,0,0,0,23,1,0,0,0.0,0.0,0.0,3,0,9,17,52.9,0,10,0,0,0
+Ashley Barnes,10,eng ENG,AM,28-040,31,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,0,6,0.0,0,4,0,1,0
+Jack Cork,4,eng ENG,DM,28-167,90,0,0,0,0,0,0,0,0,54,0,2,1,0.0,0.0,0.0,0,0,37,43,86.0,5,27,0,1,0
+Steven Defour,16,be BEL,DM,29-238,89,0,0,0,0,1,0,0,0,61,0,1,0,0.1,0.1,0.1,2,0,42,54,77.8,6,32,2,1,0
+Ashley Westwood,18,eng ENG,DM,27-252,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Stephen Ward,23,ie IRL,LB,32-111,90,0,0,0,0,0,0,0,0,63,2,0,1,0.0,0.0,0.0,1,0,29,52,55.8,4,17,1,0,0
+James Tarkowski,5,eng ENG,CB,25-020,90,0,0,0,0,0,0,0,0,50,2,3,0,0.0,0.0,0.0,0,0,24,38,63.2,3,11,0,1,1
+Kevin Long,28,ie IRL,CB,27-113,90,0,0,0,0,0,0,0,0,43,1,2,1,0.0,0.0,0.0,0,0,23,28,82.1,1,14,0,0,0
+Phil Bardsley,26,sct SCO,RB,32-164,90,0,0,0,0,0,0,1,0,58,0,3,6,0.0,0.0,0.0,1,0,30,40,75.0,1,11,1,1,0
+Nick Pope,29,eng ENG,GK,25-234,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,20,34,58.8,0,16,0,0,0

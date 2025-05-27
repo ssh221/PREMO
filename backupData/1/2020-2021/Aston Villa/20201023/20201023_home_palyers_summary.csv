@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,24-298,90,0,0,0,0,2,0,0,0,43,0,1,0,0.3,0.3,0.2,3,0,23,38,60.5,2,26,5,1,1
+Jack Grealish,10,eng ENG,LW,25-043,90,0,0,0,0,2,1,1,0,41,0,0,0,0.7,0.7,0.1,5,0,20,30,66.7,6,28,9,6,4
+Trézéguet,17,eg EGY,RW,26-022,65,0,0,0,0,1,0,0,0,23,3,1,0,0.1,0.1,0.3,1,0,7,9,77.8,0,9,1,1,1
+Bertrand Traoré,15,bf BFA,RW,25-047,25,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,8,9,88.9,1,7,0,0,0
+Ross Barkley,20,eng ENG,AM,26-323,90,0,0,0,0,3,1,0,0,50,1,0,4,0.1,0.1,0.4,6,0,28,39,71.8,7,24,1,2,2
+Douglas Luiz,6,br BRA,DM,22-167,90,0,0,0,0,0,0,0,0,36,4,3,1,0.0,0.0,0.0,2,0,23,29,79.3,0,24,1,1,1
+John McGinn,7,sct SCO,DM,26-005,90,0,0,0,0,2,0,0,0,36,0,0,1,0.1,0.1,0.0,1,0,16,24,66.7,3,19,2,2,2
+Matt Targett,18,eng ENG,LB,25-035,90,0,0,0,0,1,0,0,0,43,1,2,1,0.1,0.1,0.0,1,0,20,34,58.8,3,23,0,1,0
+Tyrone Mings,5,eng ENG,CB,27-224,90,0,0,0,0,0,0,1,0,40,0,1,0,0.0,0.0,0.0,2,0,28,35,80.0,1,21,0,1,1
+Ezri Konsa,4,eng ENG,CB,23-000,90,0,0,0,0,1,1,0,0,31,0,0,3,0.1,0.1,0.0,0,0,12,16,75.0,0,10,0,0,0
+Matty Cash,2,pl POL,RB,23-077,90,0,0,0,0,0,0,0,0,45,5,4,1,0.0,0.0,0.0,0,0,27,33,81.8,1,13,0,0,0
+Emiliano Martínez,26,ar ARG,GK,28-051,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,24,46,52.2,0,27,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wout Weghorst,27,nl NED,FW,30-185,58,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,2,0,10,11,90.9,1,12,0,0,0
+Jadon Sancho,25,eng ENG,LW,22-320,32,1,0,0,0,1,1,0,0,33,1,0,0,0.1,0.1,0.2,8,1,22,25,88.0,6,18,2,4,1
+Alejandro Garnacho,49,ar ARG,LW,18-222,58,0,0,0,0,3,0,0,0,40,0,0,2,0.4,0.4,0.0,2,0,13,21,61.9,0,29,1,10,5
+Facundo Pellistri,28,uy URU,RW,21-050,32,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,1,8,8,100.0,0,8,0,0,0
+Marcus Rashford,10,eng ENG,"RW,FW",25-100,90,1,0,0,0,4,1,0,0,43,1,0,1,0.3,0.3,0.1,3,0,21,25,84.0,1,25,1,7,3
+Bruno Fernandes,8,pt POR,AM,28-153,90,0,0,0,0,4,0,0,0,70,4,0,0,0.4,0.4,0.2,10,0,36,57,63.2,5,30,1,2,2
+Marcel Sabitzer,15,at AUT,DM,28-328,81,0,0,0,0,3,1,1,0,62,0,2,2,0.2,0.2,0.3,4,0,43,52,82.7,8,26,0,0,0
+Victor Lindelöf,2,se SWE,DM,28-206,9,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,4,0,0,0
+Fred,17,br BRA,DM,29-340,90,0,0,0,0,4,1,0,0,82,2,1,4,0.3,0.3,0.0,2,0,38,62,61.3,3,36,1,2,1
+Luke Shaw,23,eng ENG,LB,27-211,90,0,0,0,0,0,0,0,0,95,2,0,3,0.0,0.0,0.1,4,1,61,87,70.1,3,34,1,1,0
+Lisandro Martínez,6,ar ARG,CB,25-021,90,0,0,0,0,0,0,0,0,100,2,2,2,0.0,0.0,0.1,2,0,78,87,89.7,9,63,3,2,2
+Raphaël Varane,19,fr FRA,CB,29-289,90,0,0,0,0,3,2,0,0,129,1,1,1,0.3,0.3,0.0,2,0,104,121,86.0,11,97,3,1,0
+Diogo Dalot,20,pt POR,RB,23-327,81,0,1,0,0,2,0,0,0,87,4,2,2,0.1,0.1,0.2,3,1,60,72,83.3,3,41,1,3,3
+Tyrell Malacia,12,nl NED,RB,23-175,9,0,0,0,0,0,0,0,0,14,2,0,0,0.0,0.0,0.0,0,0,8,10,80.0,0,9,1,0,0
+David de Gea,1,es ESP,GK,32-093,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,36,37,97.3,0,30,0,0,0

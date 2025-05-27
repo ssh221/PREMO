@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Phil Foden,47,eng ENG,"FW,RW",20-255,90,1,1,0,0,2,2,0,0,43,2,3,0,0.4,0.4,0.8,2,2,20,30,66.7,3,22,2,3,2
+Raheem Sterling,7,eng ENG,LW,26-061,90,1,0,0,0,1,1,0,0,46,2,2,0,0.9,0.9,0.4,4,0,29,35,82.9,1,38,8,10,5
+Riyad Mahrez,26,dz ALG,RW,29-352,71,0,0,0,0,0,0,0,0,27,2,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,19,3,2,2
+Gabriel Jesus,9,br BRA,FW,23-310,19,0,1,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,1,1,8,9,88.9,3,6,3,2,1
+İlkay Gündoğan,8,de GER,LM,30-106,90,2,0,0,1,2,2,0,0,69,1,2,0,2.4,1.6,0.0,2,0,50,59,84.7,7,42,3,1,1
+Rodri,16,es ESP,CM,24-230,90,0,0,0,0,0,0,0,0,82,3,1,1,0.0,0.0,0.0,2,1,60,73,82.2,3,53,0,0,0
+Bernardo Silva,20,pt POR,RM,26-181,90,0,1,0,0,1,0,0,0,60,4,0,0,0.0,0.0,0.9,1,1,45,49,91.8,6,45,4,3,3
+Oleksandr Zinchenko,11,ua UKR,LB,24-054,90,0,0,0,0,1,0,0,0,68,0,3,0,0.0,0.0,0.0,1,0,50,56,89.3,7,37,3,1,1
+Rúben Dias,3,pt POR,CB,23-269,90,0,0,0,0,0,0,1,0,73,1,1,2,0.0,0.0,0.0,0,0,53,62,85.5,3,45,1,1,1
+John Stones,5,eng ENG,CB,26-255,90,0,0,0,0,0,0,0,0,69,1,1,1,0.0,0.0,0.0,0,0,55,60,91.7,2,48,0,0,0
+João Cancelo,27,pt POR,RB,26-256,90,0,0,0,0,0,0,0,0,74,4,2,3,0.0,0.0,0.0,0,0,51,60,85.0,6,38,0,3,1
+Ederson,31,br BRA,GK,27-174,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,0,23,0,0,0

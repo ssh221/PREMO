@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joselu,21,es ESP,FW,27-173,77,0,0,0,0,5,1,0,0,31,1,0,1,0.9,0.9,0.0,2,0,12,19,63.2,1,12,2,1,0
+Dwight Gayle,9,eng ENG,FW,26-334,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,3,0,0,0
+Christian Atsu,30,gh GHA,LW,25-249,90,1,0,0,0,1,1,0,0,33,2,0,5,0.6,0.6,0.3,5,0,16,20,80.0,1,19,3,3,1
+Matt Ritchie,11,sct SCO,RW,28-006,90,0,2,0,0,1,0,0,0,45,0,1,1,0.0,0.0,1.0,7,3,24,36,66.7,3,14,2,1,0
+Ayoze Pérez,17,es ESP,AM,24-049,85,0,0,0,0,1,0,0,0,32,7,2,1,0.0,0.0,0.0,2,0,10,18,55.6,3,20,3,3,2
+Mohamed Diamé,10,sn SEN,AM,30-094,5,0,0,0,0,0,0,0,0,2,2,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Mikel Merino,23,es ESP,DM,21-086,90,0,0,0,0,1,0,1,0,57,4,2,2,0.0,0.0,0.0,3,0,33,43,76.7,6,25,1,1,1
+Isaac Hayden,14,eng ENG,DM,22-178,68,0,0,0,0,0,0,1,0,41,2,0,0,0.0,0.0,0.1,2,1,27,34,79.4,4,11,0,0,0
+Jonjo Shelvey,8,eng ENG,DM,25-201,22,0,0,0,0,2,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,4,7,57.1,1,2,1,0,0
+Chancel Mbemba,18,cd COD,LB,23-039,90,0,0,0,0,0,0,0,0,47,2,2,1,0.0,0.0,0.3,2,0,20,35,57.1,2,13,1,2,2
+Ciaran Clark,2,ie IRL,CB,27-355,90,0,0,0,0,0,0,1,0,45,1,0,2,0.0,0.0,0.0,0,0,18,31,58.1,0,13,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,23-309,90,1,0,0,0,2,1,0,0,38,1,1,0,0.4,0.4,0.0,0,0,20,28,71.4,2,17,1,0,0
+DeAndre Yedlin,22,us USA,RB,24-069,90,0,0,0,0,1,0,0,0,45,3,2,1,0.0,0.0,0.0,1,0,21,31,67.7,1,17,0,0,0
+Rob Elliot,1,ie IRL,GK,31-139,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,21,30,70.0,0,8,0,0,0

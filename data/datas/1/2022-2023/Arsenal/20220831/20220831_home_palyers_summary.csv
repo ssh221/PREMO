@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,9,br BRA,FW,25-150,87,1,0,0,0,4,3,0,0,37,0,0,0,0.9,0.9,0.1,4,0,14,20,70.0,2,24,1,7,1
+Eddie Nketiah,14,eng ENG,FW,23-093,3,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,1,2,1
+Gabriel Martinelli,11,br BRA,"LW,AM",21-074,90,1,0,0,0,5,2,0,0,56,1,1,0,0.2,0.2,0.4,5,1,31,40,77.5,5,36,5,5,3
+Bukayo Saka,7,eng ENG,RW,20-360,87,0,1,0,0,3,0,0,0,46,0,0,0,0.5,0.5,0.3,5,1,28,34,82.4,2,31,3,5,5
+Rob Holding,16,eng ENG,"CB,RW",26-345,3,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,0,0,0,0
+Granit Xhaka,34,ch SUI,"LM,CM,DM",29-338,90,0,0,0,0,0,0,0,0,70,1,0,1,0.0,0.0,0.1,4,0,50,63,79.4,5,45,2,1,0
+Albert Sambi Lokonga,23,be BEL,"CM,DM",22-313,90,0,0,0,0,0,0,0,0,62,0,3,0,0.0,0.0,0.0,3,0,50,54,92.6,6,40,0,2,1
+Martin Ødegaard,8,no NOR,RM,23-257,80,0,0,0,0,3,1,1,0,64,1,0,1,0.4,0.4,0.3,5,0,41,52,78.8,7,35,3,1,1
+Emile Smith Rowe,10,eng ENG,AM,22-034,10,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,6,0,0,0
+Kieran Tierney,3,sct SCO,"LB,WB",25-087,90,0,0,0,0,2,1,0,0,65,2,1,1,0.2,0.2,0.0,4,1,40,57,70.2,7,37,4,0,0
+Gabriel Magalhães,6,br BRA,CB,24-255,90,0,0,0,0,4,1,0,0,56,1,1,0,0.3,0.3,0.0,1,0,43,45,95.6,3,33,1,0,0
+William Saliba,12,fr FRA,CB,21-160,90,0,0,0,0,0,0,1,0,72,1,0,1,0.0,0.0,0.1,1,0,55,62,88.7,2,47,0,0,0
+Ben White,4,eng ENG,RB,24-327,64,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.4,2,0,58,63,92.1,8,51,3,0,0
+Takehiro Tomiyasu,18,jp JPN,"RB,WB",23-299,26,0,0,0,0,0,0,0,0,24,2,2,0,0.0,0.0,0.0,2,1,13,19,68.4,3,11,0,0,0
+Aaron Ramsdale,1,eng ENG,GK,24-109,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,17,27,63.0,0,20,0,0,0

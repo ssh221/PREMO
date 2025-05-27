@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,25-125,90,1,0,0,0,2,1,0,0,34,0,1,0,0.9,0.9,0.0,1,0,17,25,68.0,1,20,1,2,1
+Alexis Sánchez,7,cl CHI,LW,29-270,83,0,0,0,0,1,1,0,0,41,1,0,1,0.1,0.1,0.0,4,0,26,34,76.5,4,21,2,3,1
+Scott McTominay,39,sct SCO,RM,21-281,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,3,0,0,0
+Jesse Lingard,14,eng ENG,RW,25-274,70,0,0,0,0,0,0,0,0,48,0,1,2,0.0,0.0,0.4,1,0,35,42,83.3,1,27,3,2,0
+Anthony Martial,11,fr FRA,"RW,LM",22-284,20,0,0,0,0,0,0,0,0,18,0,0,1,0.0,0.0,0.0,0,0,10,12,83.3,0,9,2,2,0
+Nemanja Matić,31,rs SRB,"LM,CM",30-045,89,0,0,0,0,0,0,2,1,73,2,2,0,0.0,0.0,0.0,0,0,55,64,85.9,4,39,3,1,1
+Marouane Fellaini,27,be BEL,CM,30-297,90,0,1,0,0,0,0,0,0,79,3,1,2,0.0,0.0,0.4,1,1,53,65,81.5,7,30,0,0,0
+Paul Pogba,6,fr FRA,"RM,FW",25-184,90,0,0,0,0,5,3,0,0,82,1,0,0,0.5,0.5,0.0,1,0,57,70,81.4,12,61,3,1,0
+Ashley Young,18,eng ENG,LB,33-068,90,0,0,0,0,0,0,0,0,81,0,2,0,0.0,0.0,0.1,6,2,52,74,70.3,7,38,2,2,1
+Victor Lindelöf,2,se SWE,CB,24-060,90,0,0,0,0,0,0,0,0,55,1,4,3,0.0,0.0,0.0,0,0,37,43,86.0,2,26,0,0,0
+Chris Smalling,12,eng ENG,CB,28-297,90,1,0,0,0,1,1,0,0,61,0,0,4,0.4,0.4,0.0,1,1,36,46,78.3,1,17,0,0,0
+Antonio Valencia,25,ec ECU,RB,33-042,89,0,0,0,0,0,0,1,0,68,3,0,1,0.0,0.0,0.0,2,0,51,62,82.3,3,35,2,0,0
+Eric Bailly,3,ci CIV,RB,24-156,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+David de Gea,1,es ESP,GK,27-312,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,10,21,47.6,0,6,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Nicolas Jackson,15,sn SEN,FW,22-074,90,0,0,0,0,4,0,1,0,45,0,0,0,1.0,1.0,0.0,7,0,22,26,84.6,5,36,4,6,5
+Enzo Fernández,8,ar ARG,"AM,DM",22-228,90,0,0,0,0,4,1,0,0,111,3,0,2,0.2,0.2,0.4,7,0,82,98,83.7,16,70,1,1,1
+Raheem Sterling,7,eng ENG,"AM,RW,LW",28-268,90,0,0,0,0,3,0,0,0,50,0,0,0,0.4,0.4,0.3,3,0,29,40,72.5,2,42,5,4,0
+Moisés Caicedo,25,ec ECU,"CM,DM",21-304,76,0,0,0,0,1,0,0,0,69,3,0,0,0.1,0.1,0.0,5,0,53,59,89.8,9,48,1,2,1
+Ian Maatsen,29,nl NED,LM,21-176,14,0,0,0,0,1,0,0,0,20,0,0,0,0.1,0.1,0.0,1,0,15,18,83.3,2,14,2,1,0
+Conor Gallagher,23,eng ENG,CM,23-208,61,0,0,0,0,1,0,1,0,65,4,0,0,0.1,0.1,0.1,4,0,49,57,86.0,6,48,1,0,0
+Cole Palmer,20,eng ENG,AM,21-119,29,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.1,3,0,29,36,80.6,6,31,2,4,3
+Ben Chilwell,21,eng ENG,WB,26-255,61,0,0,0,0,2,0,1,0,36,1,0,1,0.3,0.3,0.4,2,0,11,25,44.0,1,15,3,2,2
+Noni Madueke,11,eng ENG,"RM,RW",21-176,29,0,0,0,0,1,0,0,0,38,0,0,0,0.0,0.0,0.0,1,0,28,32,87.5,2,27,4,3,0
+Malo Gusto,27,fr FRA,"WB,RB",20-106,76,0,0,0,0,0,0,0,0,92,3,1,2,0.0,0.0,0.0,1,0,69,85,81.2,3,65,5,2,1
+Mykhailo Mudryk,10,ua UKR,LW,22-240,14,0,0,0,0,1,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,7,12,58.3,1,11,0,1,0
+Levi Colwill,26,eng ENG,"CB,LB",20-188,90,0,0,0,0,0,0,0,0,67,1,3,0,0.0,0.0,0.0,1,0,48,58,82.8,1,37,1,0,0
+Thiago Silva,6,br BRA,CB,38-345,90,0,0,0,0,1,1,0,0,108,1,1,0,0.1,0.1,0.0,2,0,95,100,95.0,4,88,0,0,0
+Axel Disasi,2,fr FRA,CB,25-175,90,0,0,0,0,2,0,0,0,115,0,1,0,0.1,0.1,0.1,1,0,101,108,93.5,11,87,2,0,0
+Robert Sánchez,1,es ESP,GK,25-288,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,30,33,90.9,1,25,0,0,0

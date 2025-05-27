@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Beto,14,gw GNB,FW,25-214,90,0,0,0,0,4,0,0,0,40,3,0,0,0.3,0.3,0.2,9,1,10,19,52.6,2,22,3,9,6
+Abdoulaye Doucouré,16,ml MLI,FW,30-244,90,1,0,0,0,4,3,1,0,57,1,0,2,1.1,1.1,0.2,3,1,37,47,78.7,3,31,3,1,1
+Arnaut Danjuma,10,nl NED,LM,26-214,90,1,0,0,0,5,2,0,0,34,1,0,0,1.1,1.1,0.1,2,0,19,27,70.4,1,28,4,1,1
+Amadou Onana,8,be BEL,CM,22-017,90,0,0,0,0,1,0,0,0,55,2,0,1,0.0,0.0,0.8,3,0,37,47,78.7,6,34,3,0,0
+Idrissa Gana Gueye,27,sn SEN,CM,33-341,90,0,0,0,0,0,0,0,0,65,3,1,1,0.0,0.0,0.0,1,0,50,57,87.7,7,39,2,2,1
+James Garner,37,eng ENG,RM,22-173,74,0,0,0,0,0,0,0,0,23,2,0,2,0.0,0.0,0.0,1,0,9,17,52.9,3,15,0,3,0
+Dwight McNeil,7,eng ENG,RM,23-284,16,0,0,0,0,1,0,0,0,10,0,1,1,0.0,0.0,0.0,1,0,7,8,87.5,0,10,0,0,0
+Ashley Young,18,eng ENG,LB,38-055,90,0,0,0,0,1,1,0,0,98,4,1,2,0.1,0.1,0.1,2,0,50,82,61.0,6,50,3,1,0
+Jarrad Branthwaite,32,eng ENG,CB,21-067,90,0,0,0,0,0,0,1,0,57,3,2,0,0.0,0.0,0.0,1,0,41,47,87.2,5,29,0,0,0
+James Tarkowski,6,eng ENG,CB,30-287,89,0,0,0,0,0,0,0,0,64,3,1,2,0.0,0.0,0.0,0,0,44,54,81.5,3,45,0,0,0
+Ben Godfrey,22,eng ENG,CB,25-230,1,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0
+Nathan Patterson,2,sct SCO,RB,21-321,90,0,1,0,0,0,0,0,0,86,1,1,4,0.0,0.0,0.7,2,1,57,74,77.0,5,52,4,3,1
+Jordan Pickford,1,eng ENG,GK,29-179,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,20,36,55.6,0,30,0,0,0

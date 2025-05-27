@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Wilfried Zaha,11,ci CIV,"FW,LW",29-108,90,0,0,0,0,3,1,0,0,40,0,0,0,0.1,0.1,0.2,6,0,27,32,84.4,6,30,5,3,3
+Jeffrey Schlupp,15,gh GHA,"LW,LM",29-065,83,1,0,0,0,1,1,0,0,35,0,0,0,0.5,0.5,0.0,2,0,16,24,66.7,5,18,2,1,0
+Cheikhou Kouyaté,8,sn SEN,LM,32-067,7,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,9,13,69.2,1,5,0,0,0
+Michael Olise,7,fr FRA,RW,20-076,90,0,1,0,0,4,1,0,0,76,2,1,1,0.2,0.2,0.6,4,1,43,62,69.4,6,43,6,3,3
+James McArthur,18,sct SCO,"LM,CM",34-142,90,0,0,0,0,0,0,0,0,73,2,2,1,0.0,0.0,0.1,2,0,58,66,87.9,4,35,2,2,2
+Luka Milivojević,4,rs SRB,CM,30-325,59,0,0,0,0,1,0,0,0,50,2,2,1,0.1,0.1,0.0,1,0,35,40,87.5,2,18,0,0,0
+Jean-Philippe Mateta,14,fr FRA,FW,24-243,31,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,2,0,0,0
+Conor Gallagher,23,eng ENG,RM,22-020,90,0,0,0,0,0,0,0,0,47,3,0,1,0.0,0.0,0.0,1,0,21,33,63.6,4,18,1,1,0
+Tyrick Mitchell,3,eng ENG,LB,22-178,90,0,0,0,0,1,0,0,0,64,2,1,2,0.1,0.1,0.0,2,0,34,52,65.4,4,19,1,0,0
+Marc Guéhi,6,eng ENG,CB,21-228,90,0,0,0,0,0,0,0,0,73,0,0,1,0.0,0.0,0.0,0,0,54,65,83.1,1,38,0,0,0
+Joachim Andersen,16,dk DEN,CB,25-271,90,0,0,0,0,0,0,0,0,86,0,0,1,0.0,0.0,0.0,0,0,54,80,67.5,1,41,0,1,1
+Nathaniel Clyne,17,eng ENG,RB,30-327,90,0,0,0,0,1,1,0,0,85,1,1,0,0.0,0.0,0.0,2,1,57,78,73.1,4,24,3,1,1
+Jack Butland,1,eng ENG,GK,28-353,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,20,0,0,0

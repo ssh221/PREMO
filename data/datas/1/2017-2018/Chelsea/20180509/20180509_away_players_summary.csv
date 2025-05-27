@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Laurent Depoitre,20,be BEL,FW,29-153,90,1,0,0,0,2,2,0,0,39,1,2,1,0.7,0.7,0.0,1,1,9,19,47.4,2,14,0,0,0
+Rajiv van La Parra,17,nl NED,FW,26-339,52,0,0,0,0,0,0,0,0,23,0,1,0,0.0,0.0,0.0,0,0,8,12,66.7,0,19,0,3,1
+Alex Pritchard,21,eng ENG,"FW,LW",25-006,38,0,0,0,0,0,0,0,0,14,1,0,1,0.0,0.0,0.0,0,0,4,7,57.1,1,5,0,0,0
+Philip Billing,8,dk DEN,CM,21-332,90,0,0,0,0,1,0,0,0,42,3,4,4,0.0,0.0,0.0,0,0,16,27,59.3,1,14,1,0,0
+Jonathan Hogg,6,eng ENG,CM,29-154,90,0,0,0,0,0,0,0,0,48,4,4,5,0.0,0.0,0.0,0,0,21,24,87.5,3,19,1,1,1
+Aaron Mooy,10,au AUS,CM,27-236,90,0,0,0,0,0,0,0,0,51,7,1,2,0.0,0.0,0.4,1,0,19,34,55.9,2,17,0,1,0
+Chris Löwe,15,de GER,LB,29-023,61,0,0,0,0,0,0,0,0,31,2,1,0,0.0,0.0,0.0,0,0,7,21,33.3,0,7,0,0,0
+Florent Hadergjonaj,33,xk KVX,"RW,LB",23-282,29,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,5,0,0,0
+Terence Kongolo,5,nl NED,"CB,LB",24-084,90,0,0,0,0,0,0,0,0,27,1,1,0,0.0,0.0,0.0,0,0,4,7,57.1,0,5,0,0,0
+Christopher Schindler,26,de GER,CB,28-010,90,0,0,0,0,0,0,0,0,25,1,2,3,0.0,0.0,0.0,1,0,9,11,81.8,0,8,0,0,0
+Mathias Jørgensen,25,dk DEN,"CB,RB",28-016,90,0,0,0,0,0,0,0,0,40,1,1,4,0.0,0.0,0.0,0,0,15,22,68.2,1,10,0,0,0
+Tommy Smith,2,eng ENG,RB,26-025,84,0,0,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.0,0,0,15,33,45.5,2,11,0,0,0
+Scott Malone,3,eng ENG,LB,27-045,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,1,1,1
+Jonas Lössl,1,dk DEN,GK,29-097,90,0,0,0,0,0,0,1,0,39,0,0,0,0.0,0.0,0.0,0,0,15,35,42.9,0,13,0,0,0

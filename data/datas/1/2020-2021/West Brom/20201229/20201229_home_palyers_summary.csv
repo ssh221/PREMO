@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Karlan Grant,29,eng ENG,FW,23-102,60,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,4,1,0,0
+Matheus Pereira,12,br BRA,AM,24-238,30,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0
+Grady Diangana,11,cd COD,"LM,RM,AM,FW",22-254,72,0,0,0,0,1,1,0,0,33,1,2,0,0.4,0.4,0.0,1,0,19,25,76.0,0,12,0,2,1
+Filip Krovinović,17,hr CRO,FW,25-122,18,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0
+Conor Gallagher,18,eng ENG,CM,20-327,90,0,0,0,0,0,0,0,0,44,3,1,3,0.0,0.0,0.0,0,0,22,31,71.0,4,16,3,1,0
+Matt Phillips,10,sct SCO,CM,29-291,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,0,0,7,14,50.0,0,5,0,0,0
+Branislav Ivanović,20,rs SRB,CB,36-311,45,0,0,0,0,0,0,0,0,14,1,1,3,0.0,0.0,0.0,0,0,6,7,85.7,0,5,0,0,0
+Callum Robinson,7,ie IRL,"FW,RM,LM",25-331,90,0,0,0,0,2,0,0,0,33,0,0,0,0.1,0.1,0.0,1,0,11,25,44.0,1,18,3,2,2
+Romaine Sawyers,19,kn SKN,"CM,DM",29-057,90,0,0,0,0,0,0,0,0,39,1,0,2,0.0,0.0,0.0,0,0,21,31,67.7,2,18,1,0,0
+Lee Peltier,22,eng ENG,"WB,LB",34-018,90,0,0,0,0,0,0,0,0,30,3,1,0,0.0,0.0,0.0,2,0,14,22,63.6,3,12,0,0,0
+Dara O'Shea,27,ie IRL,CB,21-300,90,0,0,0,0,0,0,0,0,32,0,2,0,0.0,0.0,0.0,0,0,15,21,71.4,2,6,1,0,0
+Semi Ajayi,6,ng NGA,CB,27-050,90,0,0,0,0,0,0,0,0,31,1,0,2,0.0,0.0,0.0,0,0,13,23,56.5,1,10,1,0,0
+Darnell Furlong,2,eng ENG,"WB,RB",25-059,90,0,0,0,0,1,0,0,0,41,0,4,1,0.1,0.1,0.0,0,0,18,31,58.1,2,8,0,0,0
+Sam Johnstone,1,eng ENG,GK,27-279,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,13,29,44.8,0,15,0,0,0

@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Taiwo Awoniyi,9,ng NGA,FW,25-052,61,0,0,0,0,3,1,0,0,13,0,0,0,0.5,0.5,0.0,0,0,6,8,75.0,1,4,0,0,0
+Emmanuel Dennis,25,ng NGA,FW,24-322,29,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.2,3,0,6,7,85.7,0,6,0,0,0
+Jesse Lingard,11,eng ENG,LW,29-292,68,0,0,0,0,1,0,1,0,21,1,0,1,0.1,0.1,0.0,1,0,14,16,87.5,3,9,1,1,0
+Orel Mangala,5,be BEL,CM,24-199,22,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,9,12,75.0,0,13,2,3,0
+Brennan Johnson,20,wls WAL,"RW,LM",21-133,90,0,0,0,0,1,1,0,0,34,0,0,3,0.2,0.2,0.1,1,0,16,25,64.0,1,14,3,5,3
+Morgan Gibbs-White,10,eng ENG,"AM,RM",22-249,90,0,0,0,0,1,1,0,0,54,0,1,0,0.2,0.2,0.5,2,0,31,48,64.6,6,24,0,1,0
+Lewis O'Brien,14,eng ENG,DM,23-354,45,0,0,0,0,1,0,0,0,25,2,0,0,0.0,0.0,0.0,1,0,11,15,73.3,0,9,0,3,2
+Ryan Yates,22,eng ENG,"CM,DM",24-316,45,0,0,0,0,1,0,0,0,17,0,0,1,0.1,0.1,0.0,0,0,14,16,87.5,2,7,0,0,0
+Cheikhou Kouyaté,21,sn SEN,DM,32-286,45,0,0,0,0,0,0,1,0,19,1,1,1,0.0,0.0,0.0,1,0,10,15,66.7,2,9,0,1,1
+Remo Freuler,23,ch SUI,DM,30-171,45,0,0,0,0,0,0,0,0,40,0,1,0,0.0,0.0,0.1,1,0,32,36,88.9,2,21,0,0,0
+Renan Lodi,32,br BRA,LB,24-178,90,0,0,0,0,0,0,0,0,68,3,3,1,0.0,0.0,0.0,1,0,44,59,74.6,1,42,2,5,3
+Scott McKenna,26,sct SCO,CB,25-325,90,0,0,0,0,0,0,0,0,66,0,0,0,0.0,0.0,0.0,1,0,57,63,90.5,0,51,0,0,0
+Steve Cook,3,eng ENG,CB,31-167,90,0,0,0,0,1,0,1,0,87,1,2,1,0.0,0.0,0.0,0,0,63,75,84.0,4,47,0,0,0
+Neco Williams,7,wls WAL,RB,21-173,45,0,0,0,0,0,0,1,0,31,2,4,1,0.0,0.0,0.0,0,0,12,24,50.0,1,9,0,1,1
+Serge Aurier,24,ci CIV,RB,29-283,45,0,0,0,0,0,0,0,0,40,2,1,0,0.0,0.0,0.1,1,0,27,34,79.4,2,22,2,1,1
+Dean Henderson,1,eng ENG,GK,25-205,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,34,50,68.0,0,34,0,0,0

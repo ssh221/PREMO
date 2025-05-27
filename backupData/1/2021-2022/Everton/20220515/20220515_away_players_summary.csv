@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ivan Toney,17,eng ENG,FW,26-060,90,0,0,0,0,3,1,0,0,29,2,0,0,0.5,0.5,0.0,2,0,12,17,70.6,3,12,0,0,0
+Yoane Wissa,11,cd COD,"LW,FW",25-254,74,1,0,0,0,4,1,0,0,25,0,0,0,0.1,0.1,0.0,0,0,14,19,73.7,0,10,0,1,1
+Mads Roerslev,30,dk DEN,"FW,CB",22-325,16,0,0,0,0,0,0,0,0,9,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0
+Bryan Mbeumo,19,cm CMR,"RW,WB,FW",22-281,90,0,0,0,0,2,1,0,0,49,1,0,0,0.1,0.1,0.0,5,1,28,38,73.7,2,27,7,0,0
+Christian Eriksen,21,dk DEN,"CM,LM",30-090,90,0,1,0,0,3,0,0,0,90,0,0,0,0.2,0.2,0.7,7,1,68,84,81.0,19,62,4,0,0
+Christian Nørgaard,6,dk DEN,"CM,CB",28-066,90,0,1,0,0,0,0,1,0,84,3,2,0,0.0,0.0,0.1,2,1,69,75,92.0,6,45,0,0,0
+Mathias Jensen,8,dk DEN,"CM,RM",26-134,90,0,0,0,0,3,0,0,0,65,4,1,2,0.4,0.4,0.1,8,1,49,53,92.5,11,36,2,0,0
+Rico Henry,3,eng ENG,"WB,LB",24-311,90,1,0,0,0,3,3,0,0,84,0,1,1,0.2,0.2,0.0,1,0,57,76,75.0,6,45,6,3,3
+Mads Bech Sørensen,29,dk DEN,CB,23-128,45,0,0,0,0,0,0,1,0,33,0,0,0,0.0,0.0,0.0,0,0,27,31,87.1,5,21,0,0,0
+Vitaly Janelt,27,de GER,CB,24-005,45,0,0,0,0,0,0,0,0,65,0,0,0,0.0,0.0,0.0,3,0,59,65,90.8,7,41,3,1,1
+Pontus Jansson,18,se SWE,CB,31-091,90,0,0,0,0,0,0,0,0,67,2,2,0,0.0,0.0,0.0,0,0,53,59,89.8,3,33,0,0,0
+Kristoffer Ajer,20,no NOR,"RB,CB",24-028,58,0,0,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.0,1,0,38,47,80.9,3,31,3,0,0
+Josh Dasilva,10,eng ENG,"CM,WB",23-204,32,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,2,0,15,17,88.2,2,12,5,3,3
+David Raya,1,es ESP,GK,26-242,90,0,0,0,0,0,0,0,0,52,0,0,0,0.0,0.0,0.0,0,0,43,49,87.8,1,32,0,0,0

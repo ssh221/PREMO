@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Edinson Cavani,7,uy URU,FW,33-319,90,0,0,0,0,2,0,0,0,24,0,0,0,1.1,1.1,0.0,0,0,15,19,78.9,0,16,0,1,1
+Marcus Rashford,10,eng ENG,"LW,RW",23-059,90,1,0,0,0,3,1,1,0,73,0,0,2,0.1,0.1,0.0,2,0,48,58,82.8,5,58,6,8,3
+Mason Greenwood,11,eng ENG,RW,19-089,63,0,0,0,0,0,0,0,0,34,1,1,1,0.0,0.0,0.5,2,0,25,30,83.3,1,23,3,1,0
+Anthony Martial,9,fr FRA,LW,25-024,27,0,0,0,0,1,0,0,0,18,0,0,0,0.1,0.1,0.0,0,0,11,12,91.7,1,16,2,4,3
+Bruno Fernandes,18,pt POR,AM,26-112,89,0,1,0,0,3,1,0,0,85,2,1,4,0.5,0.5,0.1,5,1,54,74,73.0,13,66,2,1,0
+Scott McTominay,39,sct SCO,AM,24-021,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Nemanja Matić,31,rs SRB,DM,32-150,90,0,0,0,0,0,0,0,0,93,3,3,3,0.0,0.0,0.3,3,0,80,83,96.4,8,68,4,1,1
+Paul Pogba,6,fr FRA,DM,27-289,90,0,0,0,0,1,1,0,0,83,2,1,0,0.0,0.0,0.1,3,0,59,72,81.9,9,65,3,2,1
+Alex Telles,27,br BRA,LB,28-014,45,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,1,0,47,57,82.5,5,48,6,0,0
+Luke Shaw,23,eng ENG,LB,25-170,45,0,0,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.1,2,0,38,48,79.2,8,34,6,0,0
+Harry Maguire,5,eng ENG,CB,27-299,90,0,0,0,0,0,0,0,0,85,2,3,2,0.0,0.0,0.0,2,1,69,76,90.8,10,59,0,1,1
+Eric Bailly,3,ci CIV,CB,26-261,90,0,0,0,0,1,0,0,0,58,1,4,0,0.0,0.0,0.0,0,0,44,48,91.7,6,37,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,23-033,90,0,0,0,0,0,0,0,0,69,3,1,0,0.0,0.0,0.0,1,0,54,63,85.7,4,47,6,1,1
+David de Gea,1,es ESP,GK,30-052,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,17,17,100.0,0,13,0,0,0

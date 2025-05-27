@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cameron Archer,10,eng ENG,FW,22-204,80,1,0,0,0,2,1,0,0,23,0,0,1,0.8,0.8,0.0,1,1,8,10,80.0,0,9,1,2,1
+Rhian Brewster,7,eng ENG,FW,23-315,10,0,0,0,0,1,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,0,4,0.0,0,3,0,0,0
+Ben Osborn,23,eng ENG,LM,29-189,90,0,1,0,0,0,0,0,0,25,3,0,1,0.0,0.0,0.1,1,1,17,20,85.0,6,12,1,0,0
+Gustavo Hamer,8,nl NED,CM,26-231,59,0,0,0,0,0,0,1,0,13,1,0,0,0.0,0.0,0.1,2,0,5,9,55.6,1,8,0,0,0
+Tom Davies,22,eng ENG,CM,25-225,31,0,0,0,0,0,0,0,0,17,3,1,0,0.0,0.0,0.0,1,1,4,8,50.0,0,6,0,2,0
+Vinicius Souza,21,br BRA,CM,24-238,90,1,0,0,0,2,1,0,0,42,6,0,3,0.2,0.2,0.0,1,1,18,25,72.0,0,16,1,1,1
+James Mcatee,28,eng ENG,RM,21-115,80,1,0,1,1,1,0,0,0,21,1,0,0,0.8,0.0,0.0,0,0,7,11,63.6,0,13,1,4,1
+Oliver Norwood,16,nir NIR,RM,32-304,10,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0
+Rhys Norrington-Davies,33,wls WAL,LB,24-294,4,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Max Lowe,3,eng ENG,LB,26-275,86,0,0,0,0,0,0,0,0,29,3,0,1,0.0,0.0,0.7,1,1,12,22,54.5,0,14,0,0,0
+Jack Robinson,19,eng ENG,CB,30-162,90,0,0,0,0,0,0,0,0,32,3,0,1,0.0,0.0,0.0,0,0,11,25,44.0,1,9,0,0,0
+Anel Ahmedhodžić,15,ba BIH,CB,24-321,90,0,0,0,0,0,0,0,0,25,2,0,1,0.0,0.0,0.0,0,0,10,11,90.9,0,8,0,0,0
+Mason Holgate,30,eng ENG,CB,27-111,90,0,0,0,0,0,0,1,0,36,1,2,4,0.0,0.0,0.0,0,0,6,23,26.1,0,8,0,1,1
+Jayden Bogle,20,eng ENG,RB,23-198,90,0,0,0,0,0,0,0,0,43,2,2,4,0.0,0.0,0.0,2,0,11,24,45.8,2,11,0,0,0
+Wes Foderingham,18,eng ENG,GK,33-027,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,6,31,19.4,0,14,0,0,0

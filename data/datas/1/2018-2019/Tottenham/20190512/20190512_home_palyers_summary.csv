@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Fernando Llorente,18,es ESP,FW,34-075,76,0,0,0,0,2,1,0,0,38,3,0,0,0.1,0.1,0.0,0,0,16,24,66.7,2,24,0,2,2
+Vincent Janssen,9,nl NED,FW,24-331,14,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0
+Dele Alli,20,eng ENG,LW,23-031,45,0,0,0,0,2,0,0,0,40,1,0,1,0.1,0.1,0.0,1,0,27,33,81.8,4,33,2,1,0
+Victor Wanyama,12,ke KEN,DM,27-321,45,0,0,0,0,0,0,0,0,24,2,2,0,0.0,0.0,0.0,0,0,16,18,88.9,2,18,2,0,0
+Érik Lamela,11,ar ARG,RW,27-069,76,0,0,0,0,0,0,0,0,41,1,0,0,0.0,0.0,0.1,5,2,26,34,76.5,3,28,0,1,0
+Oliver Skipp,52,eng ENG,DM,18-238,14,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,7,0,0,0
+Lucas Moura,27,br BRA,"LW,AM",26-272,90,0,0,0,0,1,0,0,0,35,3,0,0,0.0,0.0,0.0,2,0,23,26,88.5,5,26,4,2,1
+Christian Eriksen,23,dk DEN,"AM,DM",27-087,90,1,0,0,0,3,1,0,0,81,3,0,0,0.1,0.1,0.1,6,0,53,72,73.6,4,38,2,3,1
+Moussa Sissoko,17,fr FRA,"DM,RW",29-269,90,0,0,0,0,0,0,0,0,72,1,1,2,0.0,0.0,0.1,1,0,56,61,91.8,5,46,1,1,1
+Ben Davies,33,wls WAL,LB,26-018,90,0,0,0,0,0,0,0,0,57,1,2,2,0.0,0.0,0.0,1,1,45,50,90.0,2,38,1,0,0
+Eric Dier,15,eng ENG,CB,25-117,90,1,0,0,0,2,1,0,0,97,0,0,2,0.2,0.2,0.0,1,1,73,85,85.9,1,69,1,0,0
+Toby Alderweireld,4,be BEL,CB,30-071,90,0,0,0,0,0,0,0,0,86,3,2,1,0.0,0.0,0.0,0,0,58,76,76.3,3,53,0,0,0
+Kyle Walker-Peters,16,eng ENG,RB,22-029,90,0,0,0,0,1,0,0,0,68,2,2,2,0.0,0.0,0.0,1,0,39,51,76.5,2,41,7,3,2
+Hugo Lloris,1,fr FRA,GK,32-137,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,30,41,73.2,0,31,0,0,0

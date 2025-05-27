@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Beto,14,gw GNB,FW,25-235,62,0,0,0,0,4,1,0,0,32,1,0,2,0.4,0.4,0.0,3,0,10,18,55.6,3,16,1,0,0
+Dominic Calvert-Lewin,9,eng ENG,FW,26-191,28,1,0,0,0,1,1,0,0,13,0,0,1,0.6,0.6,0.0,0,0,2,6,33.3,0,7,1,2,0
+Abdoulaye Doucouré,16,ml MLI,"FW,CM",30-265,90,1,0,0,0,2,1,0,0,55,0,1,0,0.1,0.1,0.0,3,0,37,47,78.7,2,34,1,0,0
+Dwight McNeil,7,eng ENG,LM,23-305,90,0,1,0,0,3,1,0,0,60,0,2,3,0.1,0.1,0.2,4,1,38,47,80.9,2,42,5,1,0
+Idrissa Gana Gueye,27,sn SEN,CM,33-362,90,0,0,0,0,1,0,0,0,47,0,0,0,0.0,0.0,0.4,4,1,40,43,93.0,7,34,5,1,1
+Amadou Onana,8,be BEL,CM,22-038,76,0,0,0,0,2,0,0,0,69,6,1,1,0.1,0.1,0.0,4,0,48,56,85.7,5,33,0,0,0
+Arnaut Danjuma,10,nl NED,FW,26-235,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,2,2,100.0,0,4,0,3,1
+James Garner,37,eng ENG,RM,22-194,90,0,1,0,0,2,0,0,0,41,3,0,2,0.0,0.0,0.7,6,3,26,33,78.8,5,22,3,0,0
+Vitaliy Mykolenko,19,ua UKR,LB,24-117,90,0,0,0,0,1,1,0,0,65,2,1,2,0.1,0.1,0.0,0,0,37,49,75.5,2,27,1,2,2
+Jarrad Branthwaite,32,eng ENG,CB,21-088,90,0,0,0,0,0,0,1,0,68,2,2,1,0.0,0.0,0.0,1,0,46,58,79.3,4,31,0,0,0
+James Tarkowski,6,eng ENG,CB,30-308,90,1,1,0,0,2,1,0,0,52,0,0,1,0.3,0.3,0.3,4,1,33,43,76.7,6,23,0,0,0
+Ashley Young,18,eng ENG,RB,38-076,90,0,0,0,0,0,0,1,0,44,2,0,1,0.0,0.0,0.0,0,0,26,36,72.2,0,16,3,1,0
+Jordan Pickford,1,eng ENG,GK,29-200,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,21,0,0,0

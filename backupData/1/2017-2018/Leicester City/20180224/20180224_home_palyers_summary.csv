@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,31-044,90,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,2,0,10,12,83.3,2,9,2,1,0
+Marc Albrighton,11,eng ENG,"LW,RB",28-098,90,0,0,0,0,3,1,1,0,89,4,2,1,0.1,0.1,0.0,4,0,40,77,51.9,9,51,4,2,2
+Riyad Mahrez,26,dz ALG,RW,27-003,90,0,0,0,0,6,3,0,0,84,2,0,3,0.5,0.5,0.1,5,0,37,66,56.1,4,58,5,5,3
+Demarai Gray,7,jm JAM,AM,21-241,60,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.1,2,0,16,23,69.6,2,21,2,1,1
+Fousseni Diabaté,33,ml MLI,LW,22-129,30,0,0,0,0,0,0,0,0,22,2,0,0,0.0,0.0,0.0,3,0,10,12,83.3,1,9,1,2,0
+Matty James,22,eng ENG,DM,26-217,90,0,0,0,0,3,1,0,0,56,3,0,1,0.6,0.6,0.0,2,0,39,45,86.7,5,16,0,0,0
+Wilfred Ndidi,25,ng NGA,DM,21-070,90,0,0,0,0,2,0,0,0,79,3,1,3,0.1,0.1,0.0,4,0,46,64,71.9,7,39,0,1,1
+Ben Chilwell,3,eng ENG,LB,21-065,90,0,0,0,0,1,1,0,0,83,1,1,1,0.0,0.0,0.1,4,0,51,70,72.9,2,39,9,2,1
+Harry Maguire,15,eng ENG,CB,24-356,90,0,0,0,0,1,1,0,0,67,3,0,0,0.1,0.1,0.0,3,0,49,61,80.3,5,24,0,3,3
+Wes Morgan,5,jm JAM,CB,34-034,90,0,0,0,0,1,1,0,0,37,0,2,0,0.0,0.0,0.0,2,0,25,29,86.2,3,15,1,0,0
+Danny Simpson,2,eng ENG,RB,31-051,61,0,0,0,0,0,0,0,0,53,0,2,1,0.0,0.0,0.0,2,0,37,46,80.4,2,20,0,1,0
+Kelechi Iheanacho,8,ng NGA,AM,21-144,29,0,0,0,0,1,1,0,0,8,0,0,1,0.0,0.0,0.0,0,0,0,3,0.0,0,8,0,1,0
+Kasper Schmeichel,1,dk DEN,GK,31-111,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,24,42,57.1,0,21,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,11,nz NZL,FW,26-338,90,0,0,0,0,3,1,0,0,33,0,0,1,0.2,0.2,0.0,1,0,17,23,73.9,0,11,1,1,0
+Sam Vokes,9,wls WAL,FW,29-020,72,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,12,25,48.0,0,12,0,0,0
+Ashley Barnes,10,eng ENG,FW,29-011,18,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,1,0,0,2,0.0,0,1,1,0,0
+Jóhann Berg Guðmundsson,7,is ISL,LM,28-014,64,0,0,0,0,1,0,0,0,24,0,2,0,0.1,0.1,0.1,2,0,11,16,68.8,1,17,2,2,0
+Robbie Brady,12,ie IRL,LM,26-300,26,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,2,0,5,11,45.5,0,6,0,0,0
+Jack Cork,4,eng ENG,CM,29-138,90,0,0,0,0,0,0,0,0,50,1,0,3,0.0,0.0,0.0,1,0,25,36,69.4,2,20,0,0,0
+Steven Defour,16,be BEL,CM,30-209,54,0,0,0,0,0,0,0,0,36,1,1,1,0.0,0.0,0.0,0,0,23,31,74.2,1,13,0,1,0
+Jeff Hendrick,13,ie IRL,CM,26-283,36,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,9,10,90.0,0,5,0,0,0
+Aaron Lennon,25,eng ENG,RM,31-208,90,0,0,0,0,0,0,0,0,26,1,0,1,0.0,0.0,0.0,2,0,12,16,75.0,1,10,3,1,1
+Charlie Taylor,3,eng ENG,LB,25-053,90,0,0,0,0,0,0,0,0,45,2,1,4,0.0,0.0,0.0,0,0,27,30,90.0,3,13,2,2,2
+Ben Mee,6,eng ENG,CB,29-050,90,0,0,0,0,1,0,0,0,44,0,1,2,0.1,0.1,0.0,0,0,18,28,64.3,0,13,0,0,0
+Kevin Long,28,ie IRL,CB,28-084,90,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,10,19,52.6,0,7,0,0,0
+Matthew Lowton,2,eng ENG,RB,29-154,90,0,0,0,0,0,0,0,0,75,1,1,5,0.0,0.0,0.1,1,0,37,59,62.7,3,18,1,1,1
+Joe Hart,20,eng ENG,GK,31-205,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,14,33,42.4,0,7,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Carlton Morris,9,eng ENG,FW,27-281,90,1,0,1,1,2,1,0,0,31,0,0,1,1.0,0.3,0.0,5,0,15,23,65.2,5,22,0,3,2
+Chiedozie Ogbene,7,ie IRL,"LW,RM",26-145,90,0,0,0,0,1,0,0,0,40,0,0,0,0.0,0.0,0.3,9,0,23,33,69.7,2,29,13,4,2
+Jacob Brown,19,sct SCO,RW,25-166,71,0,0,0,0,4,1,0,0,29,1,0,0,0.4,0.4,0.0,1,0,8,15,53.3,2,20,2,2,0
+Cauley Woodrow,10,eng ENG,RW,28-295,19,0,0,0,0,2,0,0,0,11,0,0,0,0.3,0.3,0.1,1,0,3,5,60.0,0,8,1,0,0
+Alfie Doughty,45,eng ENG,LM,23-276,71,0,0,0,0,3,0,0,0,70,0,2,2,0.1,0.1,0.5,9,0,43,60,71.7,6,38,4,1,0
+Ryan Giles,26,eng ENG,LM,23-240,19,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,3,9,33.3,1,4,0,0,0
+Marvelous Nakamba,13,zw ZIM,CM,29-247,90,0,0,0,0,1,0,0,0,60,6,1,0,0.1,0.1,0.0,0,0,41,51,80.4,4,31,0,1,1
+Albert Sambi Lokonga,28,be BEL,CM,23-336,56,0,0,0,0,2,1,0,0,43,1,0,0,0.1,0.1,0.0,1,0,30,37,81.1,3,29,0,0,0
+Pelly Ruddock Mpanzu,17,cd COD,CM,30-068,34,0,0,0,0,2,0,0,0,32,0,0,0,0.1,0.1,0.2,3,0,24,28,85.7,6,19,1,0,0
+Issa Kaboré,12,bf BFA,RM,22-134,84,0,0,0,0,1,0,0,0,55,5,1,0,0.0,0.0,0.0,1,1,30,42,71.4,3,24,4,1,0
+Elijah Adebayo,11,eng ENG,LW,25-259,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Amari'i Bell,29,jm JAM,CB,29-141,90,0,0,0,0,0,0,0,0,65,4,2,0,0.0,0.0,0.0,2,0,41,55,74.5,9,44,6,4,3
+Tom Lockyer,4,wls WAL,CB,28-294,90,0,0,0,0,0,0,0,0,67,2,1,0,0.0,0.0,0.0,3,0,47,59,79.7,13,42,3,0,0
+Reece Burke,16,eng ENG,CB,27-021,90,0,0,0,0,1,0,0,0,62,1,1,0,0.1,0.1,0.0,1,0,38,52,73.1,4,40,0,0,0
+Thomas Kaminski,24,be BEL,GK,30-335,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,22,0,0,0

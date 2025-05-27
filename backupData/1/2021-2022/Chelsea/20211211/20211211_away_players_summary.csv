@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Daniel James,20,wls WAL,FW,24-031,87,0,0,0,0,0,0,0,0,25,2,0,0,0.0,0.0,0.0,6,2,12,18,66.7,2,17,3,5,3
+Charlie Cresswell,35,eng ENG,CB,19-116,3,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0
+Raphinha,10,br BRA,FW,24-362,80,1,0,1,1,4,1,0,0,37,3,0,0,1.0,0.2,0.1,4,0,21,29,72.4,1,18,0,3,2
+Joe Gelhardt,30,eng ENG,FW,19-221,10,1,0,0,0,1,1,0,0,3,0,0,0,0.2,0.2,0.0,1,0,1,1,100.0,1,2,1,0,0
+Tyler Roberts,11,wls WAL,"AM,RM",22-333,90,0,1,0,0,1,1,0,0,28,3,0,0,0.1,0.1,0.2,3,1,12,19,63.2,0,16,0,3,1
+Jack Harrison,22,eng ENG,LM,25-021,90,0,0,0,0,2,1,0,0,44,2,2,2,0.0,0.0,0.0,2,0,16,27,59.3,3,24,3,3,1
+Adam Forshaw,4,eng ENG,CM,30-064,90,0,0,0,0,0,0,0,0,43,3,2,3,0.0,0.0,0.0,1,0,25,33,75.8,3,19,1,0,0
+Jamie Shackleton,46,eng ENG,RM,22-064,58,0,0,0,0,0,0,1,0,20,2,0,1,0.0,0.0,0.0,0,0,9,13,69.2,0,9,0,0,0
+Mateusz Klich,43,pl POL,"RM,CM",31-181,32,0,0,0,0,2,0,1,0,19,1,0,1,0.1,0.1,0.0,3,1,12,14,85.7,3,13,1,0,0
+Junior Firpo,3,do DOM,LB,25-111,90,0,0,0,0,1,0,1,0,46,2,0,1,0.1,0.1,0.0,1,0,28,38,73.7,4,17,3,2,1
+Diego Llorente,14,es ESP,CB,28-117,90,0,0,0,0,0,0,1,0,41,0,2,0,0.0,0.0,0.0,0,0,26,37,70.3,4,20,0,1,1
+Luke Ayling,2,eng ENG,CB,30-108,90,0,0,0,0,0,0,0,0,53,2,1,3,0.0,0.0,0.0,0,0,32,43,74.4,2,25,0,0,0
+Stuart Dallas,15,nir NIR,RB,30-236,90,0,0,0,0,0,0,0,0,55,3,2,2,0.0,0.0,0.0,1,0,28,40,70.0,2,22,2,1,1
+Illan Meslier,1,fr FRA,GK,21-284,90,0,0,0,0,0,0,1,0,43,0,0,0,0.0,0.0,0.0,0,0,30,38,78.9,0,23,0,0,0

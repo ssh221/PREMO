@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,9,gh GHA,FW,31-237,83,0,0,0,0,0,0,1,0,24,0,0,0,0.0,0.0,0.0,1,0,12,17,70.6,1,6,0,4,2
+Odsonne Édouard,22,fr FRA,FW,25-110,7,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Wilfried Zaha,11,ci CIV,LW,30-177,90,0,0,0,0,2,0,1,0,45,1,1,0,0.1,0.1,0.1,5,0,21,30,70.0,3,33,6,9,7
+Michael Olise,7,fr FRA,RW,21-145,90,0,0,0,0,1,1,0,0,38,0,2,2,0.0,0.0,0.2,2,0,19,30,63.3,3,19,3,2,1
+Jeffrey Schlupp,15,gh GHA,LM,30-134,73,0,0,0,0,0,0,1,0,26,3,0,0,0.0,0.0,0.0,0,0,18,20,90.0,0,11,0,0,0
+Will Hughes,19,eng ENG,LM,28-019,17,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0
+Cheick Doucouré,28,ml MLI,CM,23-118,90,0,0,0,0,1,1,0,0,41,1,2,1,0.0,0.0,0.0,1,0,25,34,73.5,3,14,1,1,1
+Eberechi Eze,10,eng ENG,RM,24-311,90,0,0,0,0,2,0,0,0,39,1,1,1,0.1,0.1,0.0,1,0,21,29,72.4,3,21,3,2,2
+Tyrick Mitchell,3,eng ENG,LB,23-247,90,0,0,0,0,0,0,0,0,77,1,2,6,0.0,0.0,0.0,1,0,52,69,75.4,5,27,1,1,1
+Marc Guéhi,6,eng ENG,CB,22-297,90,0,0,0,0,0,0,0,0,58,0,2,0,0.0,0.0,0.0,0,0,46,55,83.6,2,42,0,1,1
+Joachim Andersen,16,dk DEN,CB,26-340,90,0,0,0,0,1,0,1,0,70,2,0,0,0.1,0.1,0.0,1,0,46,64,71.9,4,43,1,1,0
+Joel Ward,2,eng ENG,RB,33-189,90,0,0,0,0,0,0,1,0,54,6,2,0,0.0,0.0,0.0,1,0,33,43,76.7,3,15,2,1,1
+Sam Johnstone,21,eng ENG,GK,30-042,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,27,59.3,0,17,0,0,0

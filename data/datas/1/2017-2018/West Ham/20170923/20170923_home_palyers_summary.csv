@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Javier Hernández,17,mx MEX,"FW,RW",29-114,90,1,0,0,0,4,3,1,0,29,0,0,0,0.4,0.4,0.0,2,0,10,19,52.6,2,21,0,1,1
+Marko Arnautović,7,at AUT,LW,28-157,65,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,0,0,7,18,38.9,0,17,5,2,1
+André Ayew,20,gh GHA,"RM,LW",27-280,25,0,0,0,0,0,0,1,0,4,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,4,1,0,0
+Michail Antonio,30,jm JAM,RW,27-179,27,0,0,0,0,0,0,0,0,12,0,3,0,0.0,0.0,0.0,1,0,5,7,71.4,0,7,0,1,1
+Andy Carroll,9,eng ENG,FW,28-260,63,0,0,0,0,3,0,1,0,34,0,0,1,0.1,0.1,0.0,1,0,16,28,57.1,1,14,0,0,0
+Aaron Cresswell,3,eng ENG,"LM,LB",27-282,90,0,0,0,0,0,0,0,0,79,4,0,1,0.0,0.0,0.0,4,2,45,67,67.2,7,38,1,2,0
+Cheikhou Kouyaté,8,sn SEN,CM,27-276,90,1,0,0,0,1,1,0,0,31,4,3,4,0.1,0.1,0.0,0,0,11,14,78.6,1,7,1,1,0
+Mark Noble,16,eng ENG,CM,30-138,90,0,0,0,0,1,0,0,0,75,3,1,0,0.0,0.0,0.0,3,0,52,63,82.5,5,40,0,2,1
+Pablo Zabaleta,5,ar ARG,"RM,RB",32-250,90,0,0,0,0,0,0,0,0,60,3,4,2,0.0,0.0,0.0,1,0,25,43,58.1,3,21,1,0,0
+Angelo Ogbonna,21,it ITA,CB,29-123,90,0,0,0,0,0,0,0,0,61,2,3,0,0.0,0.0,0.0,1,0,38,47,80.9,2,31,0,0,0
+Winston Reid,2,nz NZL,CB,29-082,90,0,0,0,0,1,0,1,0,53,1,2,4,0.0,0.0,0.0,0,0,31,39,79.5,1,19,0,0,0
+José Fonte,4,pt POR,CB,33-275,73,0,1,0,0,0,0,0,0,37,1,2,1,0.0,0.0,0.2,1,1,20,29,69.0,2,20,0,0,0
+Arthur Masuaku,26,cd COD,LM,23-320,17,0,1,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,2,1,11,13,84.6,1,15,2,4,2
+Joe Hart,25,eng ENG,GK,30-157,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,1,0,17,38,44.7,0,15,0,0,0

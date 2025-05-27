@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,7,fr FRA,FW,23-101,90,0,0,0,0,2,0,0,0,24,0,0,0,0.1,0.1,0.0,2,0,17,17,100.0,3,12,1,0,0
+Leandro Trossard,11,be BEL,"AM,LM,LW",24-354,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,3,0,26,38,68.4,1,35,3,6,3
+Aaron Mooy,18,au AUS,"AM,RM,RW",29-069,90,0,0,0,0,0,0,0,0,57,2,0,2,0.0,0.0,0.3,3,0,36,46,78.3,11,29,2,2,1
+Dale Stephens,6,eng ENG,CM,30-164,76,0,0,0,0,0,0,1,0,54,2,0,1,0.0,0.0,0.0,0,0,43,46,93.5,3,21,0,0,0
+Yves Bissouma,8,ml MLI,CM,23-085,14,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,12,12,100.0,1,9,0,1,0
+Davy Pröpper,24,nl NED,"CM,RM",28-082,90,0,0,0,0,2,0,0,0,57,0,1,1,0.1,0.1,0.0,1,0,42,49,85.7,5,34,0,2,2
+Solly March,20,eng ENG,"WB,LM",25-126,82,0,0,0,0,0,0,0,0,65,0,0,2,0.0,0.0,0.0,1,0,41,57,71.9,2,34,6,2,1
+Glenn Murray,17,eng ENG,FW,36-059,8,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,1,0,0
+Martín Montoya,22,es ESP,WB,28-223,76,0,0,0,0,1,0,0,0,64,2,1,1,0.0,0.0,0.0,0,0,37,53,69.8,7,29,4,1,0
+Ezequiel Schelotto,21,it ITA,RB,30-184,14,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,2,0,10,10,100.0,3,7,1,0,0
+Dan Burn,33,eng ENG,"CB,LB",27-198,90,0,0,0,0,0,0,0,0,82,5,2,1,0.0,0.0,0.1,1,0,48,67,71.6,3,34,2,2,0
+Adam Webster,15,eng ENG,CB,24-323,90,0,0,0,0,0,0,1,0,68,0,2,0,0.0,0.0,0.1,1,0,50,58,86.2,9,44,0,0,0
+Shane Duffy,4,ie IRL,CB,27-326,90,0,0,0,0,2,0,0,0,41,0,1,0,0.3,0.3,0.0,0,0,32,36,88.9,3,23,0,0,0
+Mathew Ryan,1,au AUS,GK,27-229,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,29,32,90.6,0,19,0,0,0

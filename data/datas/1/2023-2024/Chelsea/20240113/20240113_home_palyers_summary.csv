@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Armando Broja,19,al ALB,FW,22-125,65,0,0,0,0,2,0,0,0,30,1,0,1,0.3,0.3,0.0,2,0,14,16,87.5,2,20,1,7,4
+Noni Madueke,11,eng ENG,"RW,FW",21-309,25,0,0,0,0,1,1,0,0,18,0,0,1,0.1,0.1,0.0,0,0,8,12,66.7,0,9,5,2,1
+Raheem Sterling,7,eng ENG,LW,29-036,76,0,0,0,0,3,0,0,0,39,1,2,2,0.4,0.4,0.0,3,1,19,25,76.0,4,29,6,4,1
+Ben Chilwell,21,eng ENG,LW,27-023,14,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,1,0,11,13,84.6,0,7,0,3,0
+Cole Palmer,20,eng ENG,"RW,FW",21-252,89,1,0,1,1,2,1,1,0,62,1,0,2,0.9,0.1,0.1,4,1,38,51,74.5,7,39,3,1,1
+Carney Chukwuemeka,17,eng ENG,FW,20-085,1,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,1,0
+Conor Gallagher,23,eng ENG,AM,23-341,90,0,0,0,0,3,0,0,0,63,2,0,1,0.2,0.2,0.2,5,0,44,51,86.3,5,36,1,0,0
+Enzo Fernández,8,ar ARG,DM,22-361,90,0,0,0,0,2,0,1,0,87,3,1,1,0.2,0.2,0.4,5,0,54,66,81.8,8,50,5,6,4
+Moisés Caicedo,25,ec ECU,DM,22-072,90,0,0,0,0,0,0,0,0,60,4,0,2,0.0,0.0,0.0,1,0,47,51,92.2,5,27,0,1,0
+Levi Colwill,26,eng ENG,LB,20-321,90,0,0,0,0,1,0,0,0,92,6,3,1,0.1,0.1,0.0,1,0,54,72,75.0,10,42,5,4,2
+Thiago Silva,6,br BRA,CB,39-113,90,0,0,0,0,0,0,1,0,82,1,1,1,0.0,0.0,0.0,2,0,59,66,89.4,5,39,0,0,0
+Axel Disasi,2,fr FRA,CB,25-308,90,0,0,0,0,1,0,1,0,71,0,0,1,0.1,0.1,0.0,0,0,54,64,84.4,3,44,0,0,0
+Malo Gusto,27,fr FRA,RB,20-239,89,0,0,0,0,1,0,1,0,67,0,0,1,0.0,0.0,0.3,4,0,45,59,76.3,5,37,1,0,0
+Alfie Gilchrist,42,eng ENG,RB,20-046,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Đorđe Petrović,28,rs SRB,GK,24-097,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,19,24,79.2,0,15,0,0,0

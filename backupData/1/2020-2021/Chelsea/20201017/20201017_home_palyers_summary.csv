@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Timo Werner,11,de GER,FW,24-225,89,2,1,0,0,3,2,0,0,32,0,0,1,0.8,0.8,0.4,4,3,22,25,88.0,0,26,4,3,2
+Tammy Abraham,9,eng ENG,FW,23-015,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Mason Mount,19,eng ENG,LW,21-281,71,0,0,0,0,1,0,0,0,34,1,0,0,0.2,0.2,0.1,2,0,14,20,70.0,3,18,0,1,0
+Hakim Ziyech,22,ma MAR,"RW,RM",27-212,19,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.1,1,0,12,17,70.6,0,13,0,0,0
+Christian Pulisic,10,us USA,"RW,LW",22-029,86,0,0,0,0,2,0,0,0,53,3,1,2,0.1,0.1,0.1,3,1,19,28,67.9,2,24,2,6,2
+Reece James,24,eng ENG,"CM,LW",20-314,4,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0
+Kai Havertz,29,de GER,"AM,LM",21-128,90,1,0,0,0,2,1,0,0,73,0,0,2,0.5,0.5,0.0,1,0,43,52,82.7,7,56,3,2,1
+N'Golo Kanté,7,fr FRA,"DM,CM",29-202,90,0,0,0,0,0,0,0,0,63,1,4,2,0.0,0.0,0.0,0,0,40,53,75.5,5,31,1,0,0
+Jorginho,5,it ITA,DM,28-302,90,0,0,0,0,0,0,0,0,73,4,1,0,0.0,0.0,0.0,2,0,58,68,85.3,5,46,0,1,1
+Ben Chilwell,21,eng ENG,LB,23-301,90,0,1,0,0,1,1,1,0,101,1,0,0,0.1,0.1,0.2,6,1,75,93,80.6,8,66,5,1,1
+Kurt Zouma,15,fr FRA,CB,25-356,90,0,0,0,0,1,1,0,0,87,0,1,1,0.0,0.0,0.0,0,0,62,73,84.9,1,51,0,0,0
+Andreas Christensen,4,dk DEN,CB,24-190,90,0,0,0,0,1,0,0,0,78,1,0,1,0.1,0.1,0.0,0,0,59,67,88.1,1,52,0,0,0
+César Azpilicueta,28,es ESP,RB,31-050,90,0,0,0,0,0,0,0,0,98,4,0,5,0.0,0.0,0.0,2,0,68,88,77.3,5,57,2,0,0
+Kepa Arrizabalaga,1,es ESP,GK,26-014,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,24,29,82.8,0,17,0,0,0

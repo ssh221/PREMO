@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,28-212,90,0,0,0,0,4,0,1,0,34,0,0,1,0.3,0.3,0.1,8,0,20,22,90.9,6,15,3,2,1
+Pierre-Emerick Aubameyang,14,ga GAB,LW,30-191,90,1,0,0,0,5,1,1,0,41,1,0,1,0.7,0.7,0.0,1,0,21,31,67.7,1,21,3,0,0
+Reiss Nelson,24,eng ENG,RW,20-016,81,0,0,0,0,3,0,0,0,55,1,1,3,0.2,0.2,0.1,5,1,30,39,76.9,5,36,7,5,2
+Nicolas Pépé,19,ci CIV,RW,24-211,9,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,9,2,3,2
+Mesut Özil,10,de GER,AM,31-072,74,0,0,0,0,1,0,0,0,52,0,1,0,0.1,0.1,0.2,9,0,37,45,82.2,9,31,3,1,0
+Joe Willock,28,eng ENG,AM,20-128,16,0,0,0,0,1,1,0,0,9,0,0,0,0.1,0.1,0.0,0,0,4,6,66.7,0,6,0,0,0
+Granit Xhaka,34,ch SUI,DM,27-090,90,0,0,0,0,0,0,0,0,106,1,2,1,0.0,0.0,0.1,2,0,92,98,93.9,22,78,1,1,1
+Lucas Torreira,11,uy URU,DM,23-318,90,0,0,0,0,1,0,1,0,91,2,2,5,0.0,0.0,0.0,3,0,69,78,88.5,9,58,2,3,2
+Bukayo Saka,77,eng ENG,LB,18-112,90,0,0,0,0,0,0,0,0,62,2,2,0,0.0,0.0,0.0,0,0,40,55,72.7,2,29,5,0,0
+David Luiz,23,br BRA,CB,32-248,90,0,0,0,0,2,0,0,0,100,0,1,0,0.1,0.1,0.2,1,0,76,88,86.4,7,75,3,1,0
+Sokratis Papastathopoulos,5,gr GRE,CB,31-200,76,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,0,0,62,65,95.4,2,52,0,0,0
+Shkodran Mustafi,20,de GER,CB,27-253,14,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,8,8,100.0,1,7,0,0,0
+Ainsley Maitland-Niles,15,eng ENG,RB,22-119,90,0,0,0,0,0,0,1,0,93,2,1,0,0.0,0.0,0.0,0,0,70,83,84.3,4,37,1,0,0
+Bernd Leno,1,de GER,GK,27-297,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,19,28,67.9,0,14,0,0,0

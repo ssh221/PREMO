@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Firmino,9,br BRA,FW,29-233,89,0,1,0,0,2,1,0,0,52,1,0,1,0.1,0.1,0.5,4,1,39,45,86.7,8,28,3,1,0
+Diogo Jota,20,pt POR,FW,24-170,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,3,1,0,0
+Sadio Mané,10,sn SEN,LW,29-043,90,2,0,0,0,3,2,0,0,66,2,1,2,0.6,0.6,0.2,6,0,38,47,80.9,7,49,4,6,2
+Mohamed Salah,11,eg EGY,RW,28-342,90,0,1,0,0,6,2,0,0,51,0,0,2,0.5,0.5,0.1,4,1,23,31,74.2,5,36,4,3,0
+Georginio Wijnaldum,5,nl NED,LM,30-193,77,0,0,0,0,1,0,0,0,40,0,1,1,0.0,0.0,0.1,4,1,28,34,82.4,3,21,0,5,3
+James Milner,7,eng ENG,"LM,LB",35-139,13,0,0,0,0,0,0,1,0,13,2,1,0,0.0,0.0,0.0,0,0,9,10,90.0,1,6,0,0,0
+Fabinho,3,br BRA,CM,27-212,90,0,0,0,0,0,0,0,0,75,0,1,1,0.0,0.0,0.0,0,0,63,69,91.3,8,44,0,0,0
+Thiago Alcántara,6,es ESP,RM,30-042,90,0,0,0,0,0,0,0,0,89,5,3,1,0.0,0.0,0.2,3,0,73,82,89.0,15,61,2,2,2
+Andrew Robertson,26,sct SCO,LB,27-073,89,0,0,0,0,1,0,0,0,79,3,1,0,0.0,0.0,0.3,4,0,58,72,80.6,6,47,8,0,0
+Alex Oxlade-Chamberlain,15,eng ENG,"LM,LB",27-281,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Rhys Williams,46,eng ENG,CB,20-109,90,0,0,0,0,4,0,0,0,80,0,0,0,0.2,0.2,0.0,3,1,64,74,86.5,3,45,0,0,0
+Nathaniel Phillips,47,eng ENG,CB,24-063,90,0,0,0,0,1,0,0,0,77,1,1,0,0.1,0.1,0.0,0,0,55,70,78.6,1,45,0,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,22-228,90,0,0,0,0,1,0,1,0,92,1,1,2,0.0,0.0,0.1,6,0,61,83,73.5,3,49,4,2,1
+Alisson,1,br BRA,GK,28-233,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,24,25,96.0,0,15,0,0,0

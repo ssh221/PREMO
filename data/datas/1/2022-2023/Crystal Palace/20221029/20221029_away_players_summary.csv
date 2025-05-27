@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Che Adams,10,sct SCO,FW,26-108,90,0,0,0,0,5,2,0,0,33,2,0,0,0.7,0.7,0.1,6,0,16,21,76.2,0,26,1,2,1
+Joe Aribo,7,ng NGA,FW,26-100,90,0,0,0,0,1,1,0,0,54,4,0,1,0.0,0.0,0.4,4,0,34,41,82.9,10,37,3,3,0
+Stuart Armstrong,17,sct SCO,CM,30-213,85,0,0,0,0,2,1,0,0,51,0,0,1,0.2,0.2,0.0,5,0,35,46,76.1,6,36,5,0,0
+Sekou Mara,18,fr FRA,CM,20-091,5,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,5,0,1,0
+Ibrahima Diallo,27,fr FRA,CM,23-235,45,0,0,0,0,0,0,0,0,38,3,0,0,0.0,0.0,0.0,0,0,23,30,76.7,1,24,1,2,1
+Ainsley Maitland-Niles,3,eng ENG,CM,25-061,45,0,0,0,0,0,0,0,0,35,1,0,1,0.0,0.0,0.0,1,0,29,30,96.7,6,22,0,0,0
+James Ward-Prowse,8,eng ENG,CM,27-362,90,0,0,0,0,1,0,0,0,66,1,0,0,0.0,0.0,0.4,6,0,46,62,74.2,8,44,3,2,0
+Romain Perraud,15,fr FRA,WB,25-037,73,0,0,0,0,2,0,0,0,51,3,0,0,0.0,0.0,0.2,2,0,26,38,68.4,3,35,2,2,0
+Moussa Djenepo,19,ml MLI,WB,24-136,17,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,12,1,1,0
+Mohamed Elyounoussi,24,no NOR,WB,28-086,73,0,0,0,0,1,0,1,0,28,3,1,1,0.1,0.1,0.0,2,0,14,17,82.4,1,12,1,1,1
+Samuel Edozie,23,eng ENG,CM,19-274,17,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,12,0,1,0
+Mohammed Salisu,22,gh GHA,CB,23-195,90,0,0,0,0,1,0,1,0,116,1,1,2,0.1,0.1,0.1,2,0,80,101,79.2,10,65,3,1,1
+Duje Ćaleta-Car,6,hr CRO,CB,26-042,90,0,0,0,0,0,0,0,0,57,0,1,2,0.0,0.0,0.0,0,0,41,49,83.7,1,35,0,0,0
+Lyanco,4,br BRA,CB,25-270,90,0,0,0,0,0,0,1,0,60,1,2,2,0.0,0.0,0.0,0,0,34,49,69.4,3,32,1,2,1
+Gavin Bazunu,31,ie IRL,GK,20-251,90,0,0,0,0,0,0,0,0,50,0,1,0,0.0,0.0,0.0,0,0,35,46,76.1,0,32,0,0,0

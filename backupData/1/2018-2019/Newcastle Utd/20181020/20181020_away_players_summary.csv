@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Glenn Murray,17,eng ENG,FW,35-025,15,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,1,2,0,0,0
+Jürgen Locadia,9,cw CUW,FW,24-347,75,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.5,2,0,10,15,66.7,1,20,0,1,1
+Solly March,20,eng ENG,"FW,LM",24-092,90,0,0,0,0,1,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,14,24,58.3,3,18,3,2,1
+José Izquierdo,19,co COL,LM,26-105,79,0,1,0,0,2,0,0,0,27,1,0,1,0.1,0.1,0.0,1,1,14,18,77.8,2,19,1,5,2
+Yves Bissouma,8,ml MLI,FW,22-051,11,0,0,0,0,1,0,0,0,8,0,1,0,0.4,0.4,0.0,1,0,5,6,83.3,1,7,1,2,2
+Beram Kayal,7,il ISR,CM,30-171,90,1,0,0,0,1,1,1,0,32,1,0,3,0.2,0.2,0.0,0,0,12,20,60.0,1,9,1,2,1
+Dale Stephens,6,eng ENG,CM,29-130,90,0,0,0,0,0,0,0,0,44,3,0,2,0.0,0.0,0.0,0,0,22,35,62.9,6,14,0,0,0
+Alireza Jahanbakhsh,16,ir IRN,RM,25-070,90,0,0,0,0,1,0,1,0,37,5,1,2,0.1,0.1,0.0,3,0,14,21,66.7,2,15,1,1,1
+Gaëtan Bong,3,cm CMR,LB,30-178,90,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.0,0,0,24,39,61.5,1,17,1,1,0
+Lewis Dunk,5,eng ENG,CB,26-333,90,0,0,0,0,0,0,0,0,42,2,2,3,0.0,0.0,0.0,0,0,12,18,66.7,1,7,0,0,0
+Shane Duffy,4,ie IRL,CB,26-292,90,0,0,0,0,0,0,0,0,52,1,1,2,0.0,0.0,0.0,1,0,15,26,57.7,0,9,0,0,0
+Bruno,2,es ESP,RB,38-019,67,0,0,0,0,0,0,0,0,27,2,2,0,0.0,0.0,0.0,0,0,12,20,60.0,3,11,0,0,0
+Bernardo,30,br BRA,RB,23-159,23,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,3,0,0,0
+Mathew Ryan,1,au AUS,GK,26-195,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,12,35,34.3,0,15,0,0,0

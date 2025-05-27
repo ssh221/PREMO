@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,29-297,90,1,0,0,0,4,2,1,0,50,0,0,2,0.7,0.7,0.2,3,0,31,39,79.5,3,32,0,3,2
+Bukayo Saka,7,eng ENG,"RW,LW",19-197,73,0,0,0,0,2,1,0,0,38,0,1,0,0.2,0.2,0.0,1,0,27,32,84.4,4,34,3,2,1
+Nicolas Pépé,19,ci CIV,RW,25-296,17,0,1,0,0,2,2,0,0,14,0,0,0,0.2,0.2,0.5,2,1,8,10,80.0,2,7,0,0,0
+Pierre-Emerick Aubameyang,14,ga GAB,"LW,RW",31-276,80,0,0,0,0,0,0,0,0,34,1,1,0,0.0,0.0,0.0,1,0,17,27,63.0,2,25,1,2,1
+Gabriel Martinelli,35,br BRA,LW,19-276,10,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,1,0,0
+Martin Ødegaard,11,no NOR,AM,22-094,90,0,0,0,0,3,1,0,0,88,0,0,0,0.2,0.2,0.2,10,1,73,85,85.9,15,65,5,4,4
+Granit Xhaka,34,ch SUI,DM,28-175,73,0,0,0,0,0,0,0,0,86,1,0,0,0.0,0.0,0.0,1,0,74,80,92.5,9,66,3,1,0
+Emile Smith Rowe,32,eng ENG,DM,20-236,17,0,0,0,0,0,0,0,0,14,0,1,1,0.0,0.0,0.0,1,0,11,11,100.0,0,11,2,0,0
+Thomas Partey,18,gh GHA,DM,27-281,90,0,0,0,0,2,0,0,0,100,2,2,0,0.0,0.0,0.0,2,0,81,89,91.0,18,82,1,1,1
+Kieran Tierney,3,sct SCO,LB,23-289,90,0,0,0,0,1,0,0,0,75,2,0,4,0.0,0.0,0.0,3,0,48,63,76.2,1,33,5,1,0
+Pablo Marí,22,es ESP,CB,27-202,90,0,0,0,0,0,0,0,0,83,2,3,0,0.0,0.0,0.0,0,0,62,75,82.7,4,59,2,0,0
+David Luiz,23,br BRA,CB,33-333,90,0,0,0,0,1,0,0,0,66,1,1,1,0.0,0.0,0.0,0,0,47,56,83.9,2,47,1,0,0
+Calum Chambers,21,eng ENG,RB,26-060,90,0,0,0,0,1,0,0,0,71,1,0,2,0.0,0.0,0.2,4,0,45,58,77.6,3,39,1,1,0
+Bernd Leno,1,de GER,GK,29-017,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,22,25,88.0,0,18,0,0,0

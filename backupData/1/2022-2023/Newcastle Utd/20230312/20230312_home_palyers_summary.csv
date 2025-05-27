@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,FW,23-172,67,1,0,0,0,4,2,1,0,30,2,0,3,0.4,0.4,0.0,1,0,9,13,69.2,2,16,2,5,3
+Callum Wilson,9,eng ENG,FW,31-013,23,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,5,0,1,0
+Allan Saint-Maximin,10,fr FRA,LW,26-000,67,0,0,0,0,2,0,0,0,44,0,0,0,0.1,0.1,0.3,7,0,28,37,75.7,9,30,3,3,2
+Miguel Almirón,24,py PAR,RW,29-030,23,1,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.1,2,1,8,9,88.9,2,8,1,0,0
+Jacob Murphy,23,eng ENG,"RW,LW",28-016,84,0,0,0,0,2,1,0,0,31,1,0,0,0.1,0.1,0.0,4,0,14,22,63.6,5,24,2,3,1
+Matt Ritchie,11,sct SCO,LW,33-183,6,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Joe Willock,28,eng ENG,LM,23-204,90,0,1,0,0,3,2,0,0,46,2,1,3,0.3,0.3,0.1,5,1,22,26,84.6,6,28,4,6,4
+Bruno Guimarães,39,br BRA,CM,25-116,90,0,0,0,0,1,0,0,0,36,3,0,1,0.3,0.3,0.0,5,0,21,24,87.5,4,27,1,4,2
+Sean Longstaff,36,eng ENG,RM,25-133,90,0,0,0,0,0,0,0,0,33,1,0,0,0.0,0.0,0.0,0,0,25,28,89.3,3,21,0,0,0
+Dan Burn,33,eng ENG,LB,30-307,90,0,0,0,0,0,0,0,0,50,1,2,1,0.0,0.0,0.5,3,0,29,41,70.7,2,26,1,1,1
+Sven Botman,4,nl NED,CB,23-059,90,0,0,0,0,2,0,0,0,44,1,2,0,0.2,0.2,0.0,1,0,33,35,94.3,6,31,0,0,0
+Fabian Schär,5,ch SUI,CB,31-082,90,0,0,0,0,1,1,0,0,43,1,0,0,0.2,0.2,0.0,1,1,25,31,80.6,4,22,1,0,0
+Kieran Trippier,2,eng ENG,RB,32-174,90,0,1,0,0,3,1,0,0,75,1,0,0,0.2,0.2,0.1,3,1,44,65,67.7,7,34,1,1,0
+Nick Pope,22,eng ENG,GK,30-327,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,12,23,52.2,0,16,0,0,0

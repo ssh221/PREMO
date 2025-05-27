@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sébastien Haller,22,ci CIV,FW,25-187,74,0,0,0,0,1,0,0,0,32,1,0,1,0.1,0.1,0.0,0,0,15,22,68.2,2,12,0,2,0
+Felipe Anderson,8,br BRA,FW,26-255,16,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,12,18,66.7,2,11,2,5,4
+Michail Antonio,30,jm JAM,FW,29-273,90,0,1,0,0,4,1,0,0,50,1,1,1,0.2,0.2,0.4,2,2,23,37,62.2,1,21,2,6,4
+Pablo Fornals,18,es ESP,LM,23-307,57,0,0,0,0,0,0,0,0,30,1,2,0,0.0,0.0,0.0,1,0,18,25,72.0,1,21,0,3,1
+Manuel Lanzini,10,ar ARG,LM,26-314,33,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.2,6,0,21,24,87.5,3,10,0,1,1
+Declan Rice,41,eng ENG,CM,20-346,90,0,0,0,0,2,0,0,0,56,6,3,0,0.1,0.1,0.0,0,0,30,37,81.1,7,20,0,2,1
+Mark Noble,16,eng ENG,CM,32-232,90,0,0,0,0,0,0,0,0,69,3,2,0,0.0,0.0,0.1,1,0,50,61,82.0,10,35,0,2,2
+Robert Snodgrass,11,sct SCO,RM,32-110,89,1,0,0,0,3,1,0,0,52,2,0,1,0.5,0.5,0.0,3,0,21,35,60.0,4,29,4,3,1
+Albian Ajeti,27,ch SUI,RM,22-303,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Aaron Cresswell,3,eng ENG,LB,30-011,90,0,0,0,0,0,0,1,0,69,2,2,3,0.0,0.0,0.1,3,0,41,58,70.7,5,32,2,3,2
+Angelo Ogbonna,21,it ITA,CB,31-217,90,0,0,0,0,0,0,0,0,48,3,2,0,0.0,0.0,0.0,2,0,29,38,76.3,3,22,1,0,0
+Fabián Balbuena,4,py PAR,CB,28-125,90,0,0,0,0,0,0,0,0,40,3,3,1,0.0,0.0,0.0,0,0,18,26,69.2,2,17,1,0,0
+Pablo Zabaleta,5,ar ARG,RB,34-344,90,0,0,0,0,0,0,1,0,50,7,5,1,0.0,0.0,0.0,0,0,21,31,67.7,6,14,1,0,0
+Roberto,13,es ESP,GK,33-319,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,8,0,0,0

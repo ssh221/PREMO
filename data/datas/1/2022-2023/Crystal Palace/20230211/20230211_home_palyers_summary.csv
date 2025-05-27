@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jean-Philippe Mateta,14,fr FRA,FW,25-228,70,0,0,0,0,2,0,0,0,22,1,0,0,0.1,0.1,0.0,1,1,6,11,54.5,1,12,1,0,0
+Odsonne Édouard,22,fr FRA,FW,25-026,20,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,6,66.7,1,7,0,1,1
+Jordan Ayew,9,gh GHA,"AM,FW",31-153,90,0,0,0,0,0,0,0,0,36,3,2,0,0.0,0.0,0.1,4,0,16,20,80.0,2,26,1,2,0
+Jeffrey Schlupp,15,gh GHA,"LW,LM",30-050,70,0,0,0,0,0,0,0,0,10,1,1,0,0.0,0.0,0.0,1,1,6,7,85.7,4,7,0,3,2
+Eberechi Eze,10,eng ENG,LW,24-227,20,0,0,0,0,1,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,0,2,0.0,0,0,0,0,0
+Will Hughes,19,eng ENG,"DM,CM",27-300,55,0,0,0,0,0,0,1,0,18,3,4,1,0.0,0.0,0.0,0,0,10,12,83.3,0,5,1,0,0
+Albert Sambi Lokonga,8,be BEL,DM,23-112,35,0,0,0,0,0,0,1,0,17,1,1,2,0.0,0.0,0.0,0,0,8,11,72.7,0,7,0,0,0
+Cheick Doucouré,28,ml MLI,"DM,CM",23-034,90,0,0,0,0,1,0,1,0,38,2,2,0,0.1,0.1,0.0,0,0,20,28,71.4,4,16,0,0,0
+Michael Olise,7,fr FRA,"RW,RM",21-061,83,0,0,0,0,0,0,0,0,48,3,2,0,0.0,0.0,0.1,2,0,20,31,64.5,4,18,4,5,2
+Naouirou Ahamada,29,fr FRA,RW,20-319,7,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,1,1
+Tyrick Mitchell,3,eng ENG,LB,23-163,90,0,0,0,0,0,0,1,0,34,1,1,2,0.0,0.0,0.1,1,0,17,26,65.4,1,11,0,1,1
+Marc Guéhi,6,eng ENG,CB,22-213,90,0,0,0,0,0,0,0,0,36,2,2,2,0.0,0.0,0.0,0,0,17,24,70.8,1,13,0,0,0
+James Tomkins,5,eng ENG,CB,33-319,90,1,0,0,0,1,1,0,0,32,2,0,1,0.8,0.8,0.0,0,0,21,25,84.0,0,15,0,0,0
+Nathaniel Clyne,17,eng ENG,RB,31-312,90,0,0,0,0,0,0,0,0,38,0,0,1,0.0,0.0,0.0,0,0,21,29,72.4,4,15,0,2,1
+Vicente Guaita,13,es ESP,GK,36-032,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,15,35,42.9,0,18,0,0,0

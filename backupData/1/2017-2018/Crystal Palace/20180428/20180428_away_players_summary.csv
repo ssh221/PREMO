@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,31-107,90,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,1,4,0,0,0
+Kelechi Iheanacho,8,ng NGA,FW,21-207,45,0,0,0,0,3,0,0,0,20,1,0,1,0.5,0.5,0.1,1,0,11,14,78.6,4,13,2,2,1
+Fousseni Diabaté,33,ml MLI,"LM,FW",22-192,45,0,0,0,0,0,0,0,0,26,0,0,2,0.0,0.0,0.0,0,0,12,17,70.6,0,15,2,5,2
+Demarai Gray,7,jm JAM,"LM,RM",21-304,90,0,0,0,0,0,0,0,0,32,0,0,2,0.0,0.0,0.0,2,0,23,28,82.1,0,19,4,0,0
+Wilfred Ndidi,25,ng NGA,CM,21-133,50,0,0,0,0,0,0,0,0,36,3,1,0,0.0,0.0,0.0,0,0,23,31,74.2,3,22,0,0,0
+Aleksandar Dragović,16,at AUT,"RB,CM",27-053,40,0,0,0,0,0,0,0,0,30,0,1,0,0.0,0.0,0.0,1,0,24,26,92.3,1,22,0,0,0
+Hamza Choudhury,38,bd BAN,CM,20-209,45,0,0,0,0,0,0,0,0,23,1,1,1,0.0,0.0,0.0,0,0,16,17,94.1,0,13,1,0,0
+Adrien Silva,14,pt POR,CM,29-044,45,0,0,0,0,0,0,1,0,26,2,2,0,0.0,0.0,0.0,0,0,16,22,72.7,2,14,0,1,1
+Riyad Mahrez,26,dz ALG,"RM,CM",27-066,90,0,0,0,0,0,0,0,0,56,0,0,1,0.0,0.0,0.1,2,0,39,50,78.0,6,36,2,6,4
+Ben Chilwell,3,eng ENG,LB,21-128,90,0,0,0,0,0,0,0,0,77,4,1,1,0.0,0.0,0.3,2,0,54,70,77.1,5,41,8,3,2
+Harry Maguire,15,eng ENG,CB,25-054,90,0,0,0,0,0,0,0,0,71,4,4,1,0.0,0.0,0.0,1,0,51,61,83.6,8,46,2,2,1
+Wes Morgan,5,jm JAM,CB,34-097,90,0,0,0,0,1,0,0,0,47,1,2,2,0.0,0.0,0.0,0,0,27,30,90.0,3,22,0,0,0
+Marc Albrighton,11,eng ENG,RB,28-161,55,0,0,0,0,1,0,0,1,55,5,0,1,0.0,0.0,0.0,1,0,30,47,63.8,4,29,3,4,3
+Ben Hamer,12,eng ENG,GK,30-159,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,16,25,64.0,0,11,0,0,0

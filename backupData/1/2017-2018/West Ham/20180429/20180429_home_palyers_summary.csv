@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marko Arnautović,7,at AUT,"FW,AM",29-010,90,0,0,0,0,1,0,0,0,27,0,1,1,0.0,0.0,0.0,0,0,13,19,68.4,3,16,0,0,0
+Manuel Lanzini,10,ar ARG,"FW,AM",25-073,65,0,0,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.0,3,0,26,31,83.9,4,22,3,7,3
+Javier Hernández,17,mx MEX,FW,29-332,25,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,2,6,33.3,0,7,0,1,1
+Edimilson Fernandes,31,ch SUI,"DM,AM",22-014,64,0,0,0,0,0,0,0,0,17,1,2,1,0.0,0.0,0.1,2,1,5,11,45.5,0,7,1,1,0
+João Mário,18,pt POR,AM,25-100,26,0,0,0,0,0,0,0,0,13,1,1,0,0.0,0.0,0.0,0,0,6,9,66.7,0,11,2,0,0
+Mark Noble,16,eng ENG,"CM,DM",30-356,90,0,0,0,0,0,0,0,0,51,1,1,0,0.0,0.0,0.0,1,0,41,46,89.1,1,23,0,0,0
+Cheikhou Kouyaté,8,sn SEN,"CM,DM",28-129,90,0,0,0,0,1,0,0,0,29,2,1,1,0.1,0.1,0.0,0,0,15,20,75.0,2,13,0,1,0
+Aaron Cresswell,3,eng ENG,"WB,CB",28-135,90,1,0,0,0,1,1,0,0,43,2,0,2,0.1,0.1,0.0,0,0,22,34,64.7,1,16,0,0,0
+Pablo Zabaleta,5,ar ARG,WB,33-103,90,0,0,0,0,0,0,0,0,44,5,0,0,0.0,0.0,0.0,1,0,23,31,74.2,5,12,0,0,0
+Patrice Evra,27,fr FRA,CB,36-349,65,0,0,0,0,0,0,0,0,28,2,4,0,0.0,0.0,0.0,0,0,15,23,65.2,0,14,1,1,1
+Arthur Masuaku,26,cd COD,WB,24-173,25,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,1,2,0
+Angelo Ogbonna,21,it ITA,CB,29-341,90,0,0,0,0,0,0,0,0,39,2,1,2,0.0,0.0,0.0,0,0,22,28,78.6,3,13,0,0,0
+Declan Rice,41,eng ENG,CB,19-105,90,0,0,0,0,1,0,0,0,37,3,3,1,0.1,0.1,0.0,0,0,17,26,65.4,0,19,0,0,0
+Adrián,13,es ESP,GK,31-116,90,0,0,0,0,0,0,0,0,33,2,0,1,0.0,0.0,0.0,0,0,11,27,40.7,0,14,0,0,0

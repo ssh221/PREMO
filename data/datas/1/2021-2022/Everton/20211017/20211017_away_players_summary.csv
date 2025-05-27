@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,31-203,90,0,0,0,0,4,1,1,0,39,1,0,1,0.4,0.4,0.1,5,1,17,25,68.0,3,28,1,4,1
+Pablo Fornals,8,es ESP,LW,25-237,90,0,0,0,0,3,0,1,0,63,2,0,5,0.2,0.2,0.0,5,0,36,48,75.0,4,30,2,1,0
+Jarrod Bowen,20,eng ENG,RW,24-301,89,0,1,0,0,3,2,0,0,57,1,0,1,0.2,0.2,0.3,3,1,30,42,71.4,3,33,1,4,1
+Andriy Yarmolenko,7,ua UKR,RM,31-359,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Saïd Benrahma,22,dz ALG,AM,26-068,86,0,0,0,0,3,0,0,0,41,0,0,1,0.2,0.2,0.1,4,0,26,35,74.3,5,32,4,3,2
+Manuel Lanzini,10,ar ARG,"AM,CM",28-244,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,1,0,0,0
+Declan Rice,41,eng ENG,DM,22-276,90,0,0,0,0,1,0,0,0,92,0,2,3,0.0,0.0,0.1,5,0,72,79,91.1,6,58,5,7,3
+Tomáš Souček,28,cz CZE,DM,26-232,78,0,0,0,0,0,0,0,0,58,3,2,2,0.0,0.0,0.1,3,0,46,48,95.8,8,37,1,2,1
+Craig Dawson,15,eng ENG,"DM,CB",31-164,12,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,4,0,0,0
+Aaron Cresswell,3,eng ENG,LB,31-306,90,0,0,0,0,0,0,0,0,118,1,1,0,0.0,0.0,0.0,0,0,78,111,70.3,12,62,2,0,0
+Angelo Ogbonna,21,it ITA,CB,33-147,90,1,0,0,0,2,1,0,0,64,2,1,1,0.3,0.3,0.0,1,0,49,52,94.2,1,34,0,0,0
+Kurt Zouma,4,fr FRA,CB,26-355,90,0,0,0,0,0,0,0,0,58,1,3,1,0.0,0.0,0.0,1,0,46,48,95.8,1,39,0,0,0
+Ben Johnson,31,eng ENG,RB,21-266,90,0,0,0,0,0,0,0,0,80,1,1,0,0.0,0.0,0.1,1,0,52,74,70.3,8,42,1,0,0
+Łukasz Fabiański,1,pl POL,GK,36-182,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,28,71.4,0,15,0,0,0

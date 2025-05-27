@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Shane Long,7,ie IRL,FW,30-251,90,0,1,0,0,5,2,0,0,33,0,1,1,0.4,0.4,0.2,4,1,14,21,66.7,1,15,2,0,0
+Nathan Redmond,22,eng ENG,"LW,RW",23-208,66,0,0,0,0,2,0,0,0,43,0,0,1,0.1,0.1,0.1,2,0,32,38,84.2,3,33,1,3,2
+Manolo Gabbiadini,20,it ITA,FW,25-308,24,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,5,5,100.0,1,3,0,0,0
+Dušan Tadić,11,rs SRB,"RW,AM",28-314,90,0,0,0,0,2,0,1,0,63,2,2,1,0.1,0.1,0.2,8,1,39,54,72.2,6,49,5,7,7
+Steven Davis,8,nir NIR,AM,32-272,60,0,0,0,0,0,0,0,0,35,0,1,0,0.0,0.0,0.0,1,0,26,30,86.7,4,19,1,0,0
+Sofiane Boufal,19,ma MAR,"AM,LW",24-013,30,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.2,4,0,19,24,79.2,3,22,0,2,1
+Mario Lemina,18,ga GAB,DM,24-029,85,0,0,0,0,2,0,0,0,79,2,2,1,0.1,0.1,0.0,3,0,66,69,95.7,4,63,3,3,3
+Charlie Austin,10,eng ENG,DM,28-087,5,0,0,0,0,1,0,0,0,5,0,0,0,0.1,0.1,0.1,2,0,3,3,100.0,1,4,0,0,0
+Oriol Romeu,14,es ESP,DM,26-006,90,0,0,0,0,0,0,1,0,122,3,1,1,0.0,0.0,0.1,4,0,96,111,86.5,12,80,4,1,1
+Ryan Bertrand,21,eng ENG,LB,28-056,90,0,0,0,0,0,0,0,0,85,1,1,4,0.0,0.0,0.0,3,0,62,74,83.8,8,54,2,1,0
+Virgil van Dijk,17,nl NED,CB,26-084,90,0,0,0,0,3,0,0,0,95,2,3,5,0.1,0.1,0.0,2,0,63,75,84.0,3,55,2,1,1
+Maya Yoshida,3,jp JPN,CB,29-037,90,1,0,0,0,2,1,0,0,84,0,2,1,0.3,0.3,0.0,1,0,64,75,85.3,4,63,1,0,0
+Cédric Soares,2,pt POR,RB,26-030,90,0,0,0,0,3,0,0,0,93,4,1,1,0.1,0.1,0.4,5,0,64,78,82.1,5,58,4,0,0
+Fraser Forster,44,eng ENG,GK,29-197,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,11,18,61.1,0,10,0,0,0

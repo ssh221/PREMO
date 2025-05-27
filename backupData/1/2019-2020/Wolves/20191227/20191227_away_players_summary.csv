@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sergio Agüero,10,ar ARG,FW,31-208,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,0,0,0,0
+Claudio Bravo,1,cl CHI,GK,36-258,77,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,19,0,0,0
+Raheem Sterling,7,eng ENG,"FW,LW",25-019,90,2,0,0,1,4,2,0,0,35,1,1,0,1.4,0.5,0.0,2,1,14,22,63.6,0,14,3,5,1
+Riyad Mahrez,26,dz ALG,"RM,RW",28-309,45,0,0,0,0,0,0,0,0,18,2,2,0,0.0,0.0,0.0,1,0,8,11,72.7,0,11,3,3,2
+Eric García,50,es ESP,CB,18-352,45,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,0,0,15,18,83.3,1,9,0,0,0
+Kevin De Bruyne,17,be BEL,"CM,DM,AM",28-182,66,0,1,0,0,1,0,0,0,34,3,0,1,0.0,0.0,0.3,2,1,15,22,68.2,3,16,3,5,3
+İlkay Gündoğan,8,de GER,DM,29-064,24,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,12,14,85.7,1,5,0,0,0
+Bernardo Silva,20,pt POR,"DM,LM",25-139,90,0,0,0,0,1,0,0,0,67,0,2,0,0.0,0.0,0.0,1,0,51,54,94.4,2,44,1,1,1
+Rodri,16,es ESP,"DM,CM",23-188,90,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.0,3,1,62,65,95.4,4,37,0,0,0
+Benjamin Mendy,22,fr FRA,"WB,LB",25-163,90,0,0,0,0,0,0,0,0,36,1,4,0,0.0,0.0,0.0,1,0,18,22,81.8,3,19,0,2,1
+Fernandinho,25,br BRA,CB,34-237,90,0,0,0,0,0,0,0,0,48,2,1,1,0.0,0.0,0.0,1,0,29,37,78.4,2,33,0,0,0
+Nicolás Otamendi,30,ar ARG,CB,31-318,90,0,0,0,0,0,0,1,0,47,3,1,2,0.0,0.0,0.0,0,0,23,31,74.2,2,23,0,0,0
+Kyle Walker,2,eng ENG,"WB,RB",29-213,90,0,0,0,0,0,0,0,0,64,2,2,2,0.0,0.0,0.0,1,0,31,48,64.6,0,21,1,1,1
+Ederson,31,br BRA,GK,26-132,11,0,0,0,0,0,0,0,1,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0

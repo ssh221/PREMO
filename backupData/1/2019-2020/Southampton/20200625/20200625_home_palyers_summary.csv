@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michael Obafemi,20,ie IRL,FW,19-355,45,0,0,0,0,0,0,0,0,10,0,2,0,0.0,0.0,0.0,0,0,4,8,50.0,1,7,0,2,2
+Shane Long,7,ie IRL,FW,33-155,45,0,0,0,0,1,1,0,0,8,0,0,2,0.1,0.1,0.2,1,0,2,3,66.7,0,5,1,0,0
+Danny Ings,9,eng ENG,FW,27-338,89,0,0,0,0,3,0,0,0,32,0,0,2,0.3,0.3,0.0,3,0,16,21,76.2,1,21,1,4,2
+Oriol Romeu,14,es ESP,CM,28-275,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Nathan Redmond,22,eng ENG,LM,26-111,90,0,0,0,0,1,0,0,0,47,2,1,0,0.1,0.1,0.0,1,0,29,38,76.3,5,40,2,3,1
+Pierre Højbjerg,23,dk DEN,CM,24-325,89,0,0,0,0,0,0,0,0,76,6,1,0,0.0,0.0,0.1,2,0,55,67,82.1,3,58,0,1,0
+Jannik Vestergaard,4,dk DEN,CB,27-327,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+James Ward-Prowse,16,eng ENG,CM,25-237,90,0,0,0,0,2,1,0,0,60,1,3,2,0.1,0.1,0.3,4,0,38,49,77.6,3,38,0,0,0
+Stuart Armstrong,17,sct SCO,RM,28-087,90,0,0,0,0,4,1,0,0,34,2,0,0,0.2,0.2,0.0,2,0,23,27,85.2,1,23,1,3,3
+Ryan Bertrand,21,eng ENG,LB,30-325,90,0,0,0,0,0,0,0,0,87,3,0,1,0.0,0.0,0.1,3,0,60,80,75.0,6,48,0,0,0
+Jan Bednarek,35,pl POL,CB,24-074,90,0,0,0,0,1,0,0,0,73,2,2,1,0.2,0.2,0.0,2,0,54,62,87.1,3,52,0,0,0
+Jack Stephens,5,eng ENG,CB,26-150,84,0,0,0,0,0,0,0,1,48,0,1,0,0.0,0.0,0.1,1,0,36,47,76.6,3,36,2,0,0
+Yan Valery,43,tn TUN,RB,21-124,45,0,0,0,0,0,0,0,0,25,1,2,0,0.0,0.0,0.0,0,0,11,17,64.7,0,14,2,1,0
+Kyle Walker-Peters,24,eng ENG,RB,23-073,45,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,2,0,29,34,85.3,2,24,2,1,1
+Alex McCarthy,1,eng ENG,GK,30-205,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,25,0,0,0

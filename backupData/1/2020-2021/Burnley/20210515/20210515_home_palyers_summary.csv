@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,9,nz NZL,FW,29-159,64,0,0,0,0,1,0,0,0,26,1,0,1,0.0,0.0,0.0,0,0,15,18,83.3,0,13,0,0,0
+Ashley Barnes,10,eng ENG,FW,31-197,26,0,0,0,0,2,0,0,0,16,0,1,0,0.1,0.1,0.0,1,0,9,12,75.0,0,9,0,0,0
+Matěj Vydra,27,cz CZE,FW,29-014,64,0,0,0,0,2,1,0,0,23,0,0,0,0.4,0.4,0.1,3,0,10,17,58.8,1,15,1,1,1
+Jay Rodriguez,19,eng ENG,FW,31-290,26,0,0,0,0,2,1,0,0,10,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,6,1,1,0
+Dwight McNeil,11,eng ENG,LM,21-174,69,0,0,0,0,1,0,0,0,42,1,0,1,0.0,0.0,0.0,3,0,23,35,65.7,5,28,3,2,1
+Jóhann Berg Guðmundsson,7,is ISL,RM,30-200,21,0,0,0,0,1,1,0,0,18,0,0,0,0.2,0.2,0.0,3,0,11,16,68.8,3,13,1,0,0
+Jack Cork,4,eng ENG,CM,31-324,90,0,0,0,0,0,0,0,0,39,0,1,0,0.0,0.0,0.0,3,0,31,33,93.9,4,30,1,0,0
+Ashley Westwood,18,eng ENG,CM,31-044,90,0,0,0,0,3,1,1,0,73,1,0,0,0.1,0.1,0.3,4,0,58,68,85.3,10,55,0,2,1
+Josh Brownhill,8,eng ENG,"RM,LM",25-147,90,0,0,0,0,1,0,0,0,57,1,1,2,0.1,0.1,0.1,2,0,35,49,71.4,4,36,1,0,0
+Charlie Taylor,3,eng ENG,LB,27-239,90,0,0,0,0,0,0,0,0,49,3,0,1,0.0,0.0,0.0,1,0,24,37,64.9,2,21,6,3,2
+Ben Mee,6,eng ENG,CB,31-236,90,0,0,0,0,1,0,0,0,56,2,1,1,0.0,0.0,0.2,3,0,35,48,72.9,5,34,0,0,0
+James Tarkowski,5,eng ENG,CB,28-177,90,0,0,0,0,1,0,0,0,59,1,4,1,0.1,0.1,0.0,1,0,31,44,70.5,2,30,1,1,0
+Matthew Lowton,2,eng ENG,RB,31-340,90,0,0,0,0,1,0,0,0,59,2,5,0,0.0,0.0,0.0,3,0,33,46,71.7,3,25,0,0,0
+Bailey Peacock-Farrell,15,nir NIR,GK,24-198,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,0,17,30,56.7,0,16,0,0,0

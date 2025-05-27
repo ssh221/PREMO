@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joe Gelhardt,30,eng ENG,FW,19-228,90,0,0,0,0,0,0,1,0,22,0,0,0,0.0,0.0,0.0,1,1,11,17,64.7,0,14,0,1,1
+Jack Harrison,22,eng ENG,LW,25-028,30,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0
+Crysencio Summerville,38,nl NED,LW,20-049,50,0,0,0,0,1,0,0,0,28,1,1,0,0.2,0.2,0.0,1,0,17,23,73.9,3,18,0,1,1
+Liam McCarron,45,sct SCO,LW,20-286,10,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Raphinha,10,br BRA,RW,25-004,90,1,0,1,1,3,0,0,0,50,1,1,0,1.3,0.5,0.0,2,0,21,36,58.3,8,38,3,4,2
+Tyler Roberts,11,wls WAL,AM,22-340,90,0,0,0,0,4,1,0,0,41,0,0,0,0.2,0.2,0.0,2,0,21,28,75.0,4,25,0,0,0
+Adam Forshaw,4,eng ENG,DM,30-071,90,0,0,0,0,0,0,0,0,57,4,1,1,0.0,0.0,0.4,2,0,37,43,86.0,2,32,0,2,2
+Mateusz Klich,43,pl POL,DM,31-188,77,0,0,0,0,0,0,0,0,51,1,0,1,0.0,0.0,0.3,4,1,34,41,82.9,1,27,3,4,2
+Sam Greenwood,42,eng ENG,DM,19-326,13,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,7,71.4,0,7,1,0,0
+Stuart Dallas,15,nir NIR,LB,30-243,90,0,0,0,0,0,0,1,0,53,1,3,2,0.0,0.0,0.0,2,0,36,44,81.8,2,21,2,0,0
+Luke Ayling,2,eng ENG,CB,30-115,90,0,0,0,0,0,0,0,0,69,1,1,6,0.0,0.0,0.0,1,0,49,61,80.3,2,29,1,1,1
+Robin Koch,5,de GER,CB,25-154,90,0,0,0,0,0,0,1,0,51,1,1,0,0.0,0.0,0.0,0,0,35,45,77.8,3,22,0,0,0
+Cody Drameh,37,eng ENG,RB,20-010,90,0,0,0,0,0,0,0,0,77,4,1,0,0.0,0.0,0.0,1,0,45,61,73.8,4,29,2,2,2
+Illan Meslier,1,fr FRA,GK,21-291,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,30,37,81.1,0,27,0,0,0

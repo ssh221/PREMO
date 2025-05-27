@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,FW,30-174,90,1,1,0,0,3,1,0,0,27,0,0,2,0.5,0.5,0.4,4,2,13,19,68.4,3,16,3,2,1
+Gabriel Martinelli,35,br BRA,LW,18-174,90,1,0,0,0,2,1,0,0,31,3,0,3,0.3,0.3,0.1,1,0,11,16,68.8,0,19,2,3,0
+Nicolas Pépé,19,ci CIV,RW,24-194,87,1,1,0,0,1,1,0,0,58,0,1,0,0.0,0.0,0.4,1,0,32,42,76.2,2,44,7,8,3
+Reiss Nelson,24,eng ENG,RW,19-364,3,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,5,5,100.0,0,3,0,0,0
+Mesut Özil,10,de GER,AM,31-055,90,0,0,0,0,1,0,0,0,77,0,0,0,0.4,0.4,0.1,5,2,62,71,87.3,8,51,11,2,1
+Lucas Torreira,11,uy URU,DM,23-301,90,0,0,0,0,2,0,0,0,90,1,1,1,0.1,0.1,0.0,2,1,75,83,90.4,11,52,0,1,1
+Granit Xhaka,34,ch SUI,DM,27-073,85,0,0,0,0,1,0,0,0,93,1,0,0,0.0,0.0,0.0,0,0,75,87,86.2,7,58,0,3,3
+Mattéo Guendouzi,29,fr FRA,DM,20-239,5,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,21,22,95.5,2,15,1,0,0
+Kieran Tierney,3,sct SCO,LB,22-187,28,0,0,0,0,0,0,0,0,27,1,0,0,0.0,0.0,0.0,0,0,19,22,86.4,2,10,0,1,0
+Sead Kolašinac,31,ba BIH,LB,26-172,62,0,1,0,0,0,0,0,0,47,1,2,0,0.0,0.0,0.2,2,1,36,40,90.0,2,16,1,2,1
+Sokratis Papastathopoulos,5,gr GRE,CB,31-183,90,0,0,0,0,0,0,0,0,84,0,1,1,0.0,0.0,0.0,0,0,67,77,87.0,2,62,0,0,0
+Calum Chambers,21,eng ENG,CB,24-323,90,0,0,0,0,0,0,0,0,114,2,3,1,0.0,0.0,0.0,0,0,94,106,88.7,0,76,1,0,0
+Ainsley Maitland-Niles,15,eng ENG,RB,22-102,90,0,0,0,0,0,0,0,0,95,3,1,0,0.0,0.0,0.0,0,0,68,81,84.0,3,45,3,4,2
+Bernd Leno,1,de GER,GK,27-280,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,39,46,84.8,0,27,0,0,0

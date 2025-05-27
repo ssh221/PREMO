@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Richarlison,30,br BRA,FW,21-248,86,0,0,0,0,4,0,1,0,34,1,0,2,0.4,0.4,0.0,2,0,13,20,65.0,1,15,3,0,0
+Dominic Calvert-Lewin,29,eng ENG,FW,21-303,4,1,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,3,4,75.0,0,3,0,0,0
+Bernard,20,br BRA,LW,26-127,77,0,0,0,0,2,0,1,0,52,5,1,2,0.1,0.1,0.2,5,0,26,34,76.5,1,23,4,1,1
+Theo Walcott,11,eng ENG,"RW,RM,LW",29-303,13,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Ademola Lookman,31,ng NGA,"RW,LW,LM",21-085,90,0,1,0,0,2,0,0,0,38,2,2,2,0.1,0.1,0.1,6,2,21,29,72.4,5,33,4,4,4
+Gylfi Sigurðsson,10,is ISL,AM,29-127,89,0,0,0,0,1,0,0,0,50,2,0,1,0.0,0.0,0.2,5,0,26,39,66.7,9,24,0,1,0
+Yerry Mina,13,co COL,CB,24-112,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+André Gomes,8,pt POR,"DM,CM",25-167,90,0,0,0,0,1,0,1,0,61,1,2,3,0.1,0.1,0.0,1,0,33,46,71.7,6,36,2,4,2
+Idrissa Gana Gueye,17,sn SEN,"DM,CM",29-109,90,0,0,0,0,0,0,0,0,51,2,5,3,0.0,0.0,0.0,3,1,33,41,80.5,5,22,0,0,0
+Lucas Digne,12,fr FRA,LB,25-177,90,0,1,0,0,2,0,0,0,69,3,1,2,0.1,0.1,0.2,5,1,38,57,66.7,7,24,2,0,0
+Kurt Zouma,5,fr FRA,CB,24-078,90,1,0,0,0,1,1,1,0,55,0,0,0,0.1,0.1,0.0,0,0,35,44,79.5,3,26,0,0,0
+Michael Keane,4,eng ENG,CB,26-002,90,0,0,0,0,1,0,1,0,65,2,2,2,0.1,0.1,0.0,0,0,31,44,70.5,1,25,0,0,0
+Séamus Coleman,23,ie IRL,RB,30-094,90,0,0,0,0,0,0,0,0,64,1,1,1,0.0,0.0,0.0,0,0,40,51,78.4,4,29,1,0,0
+Jordan Pickford,1,eng ENG,GK,24-312,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,16,0,0,0

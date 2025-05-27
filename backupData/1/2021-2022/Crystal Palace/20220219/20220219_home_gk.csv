@@ -1,0 +1,3 @@
+﻿player,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions
+Vicente Guaita,es ESP,35-040,45,2,,2,,0.5,1,2,50.0,9,1,11.1,19.6,4,25.0,29.5,6,,,,
+Jack Butland,eng ENG,28-346,45,1,1,0,0.0,0.0,2,3,66.7,17,1,11.8,21.9,3,33.3,33.3,6,0,0.0,0,

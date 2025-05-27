@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mohamed Salah,11,eg EGY,FW,26-218,89,2,0,0,0,2,2,0,0,49,1,0,0,1.5,1.5,0.2,1,0,23,30,76.7,2,35,2,5,3
+Rafael Camacho,64,pt POR,RB,18-242,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Naby Keïta,8,gn GUI,LW,23-343,70,0,1,0,0,0,0,0,0,57,1,0,3,0.0,0.0,0.0,1,1,38,45,84.4,3,42,3,1,0
+Xherdan Shaqiri,23,ch SUI,"RW,RM",27-101,20,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,1,5,0,0,0
+Sadio Mané,10,sn SEN,"RW,LW,LM",26-284,90,1,0,0,0,5,4,0,0,68,1,0,0,0.4,0.4,0.0,6,1,37,54,68.5,4,56,8,5,1
+Roberto Firmino,9,br BRA,"AM,RB",27-109,90,1,0,0,0,2,1,0,0,57,0,0,1,0.1,0.1,0.1,5,0,41,50,82.0,5,40,3,1,0
+Fabinho,3,br BRA,DM,25-088,86,0,0,0,0,2,0,0,0,89,2,0,2,0.1,0.1,0.2,3,1,73,79,92.4,13,70,2,1,0
+Adam Lallana,20,eng ENG,"CM,DM",30-254,4,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0
+Jordan Henderson,14,eng ENG,"DM,CM",28-216,90,0,0,0,0,0,0,0,0,120,3,1,0,0.0,0.0,0.0,4,0,106,114,93.0,28,106,4,0,0
+Andrew Robertson,26,sct SCO,LB,24-314,90,0,1,0,0,2,1,0,0,103,5,0,1,0.1,0.1,0.1,5,3,70,89,78.7,11,67,6,4,1
+Virgil van Dijk,4,nl NED,CB,27-195,90,0,0,0,0,3,0,0,0,123,0,0,0,0.2,0.2,0.0,1,1,109,114,95.6,11,93,2,0,0
+Joël Matip,32,cm CMR,CB,27-164,90,0,0,0,0,2,1,0,0,106,3,2,2,0.2,0.2,0.0,1,0,78,91,85.7,5,69,6,0,0
+James Milner,7,eng ENG,RB,33-015,88,0,0,0,0,1,0,2,1,91,2,0,0,0.1,0.1,0.4,7,0,66,86,76.7,9,57,4,4,3
+Alisson,13,br BRA,GK,26-109,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,16,0,0,0

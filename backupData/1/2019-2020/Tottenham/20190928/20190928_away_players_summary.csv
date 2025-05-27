@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,9,eng ENG,FW,27-067,82,1,0,0,0,2,1,0,0,21,4,1,0,0.9,0.9,0.0,2,1,8,11,72.7,1,7,0,0,0
+Michael Obafemi,20,ie IRL,FW,19-084,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Nathan Redmond,22,eng ENG,"FW,LW,AM",25-206,90,0,0,0,0,4,0,0,0,63,1,0,0,0.2,0.2,0.1,3,0,40,51,78.4,4,45,6,1,0
+Sofiane Boufal,19,ma MAR,"AM,WB,RW",26-011,87,0,0,0,0,1,1,0,0,60,0,0,2,0.0,0.0,0.1,4,0,25,38,65.8,5,48,5,8,3
+Shane Long,7,ie IRL,FW,32-249,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Pierre Højbjerg,23,dk DEN,"CM,DM",24-054,90,0,0,0,0,3,1,0,0,90,1,0,2,0.1,0.1,0.0,3,0,74,81,91.4,21,50,1,2,1
+Oriol Romeu,14,es ESP,"CM,DM",28-004,90,0,0,0,0,0,0,0,0,83,2,2,0,0.0,0.0,0.0,1,0,70,78,89.7,11,47,2,2,2
+Ryan Bertrand,21,eng ENG,"WB,LB",30-054,90,0,0,0,0,0,0,0,0,88,2,3,0,0.0,0.0,0.2,4,0,59,76,77.6,4,46,7,1,0
+James Ward-Prowse,16,eng ENG,"WB,CM,RB",24-331,90,0,0,0,0,1,1,0,0,63,3,0,1,0.1,0.1,0.1,4,0,45,55,81.8,5,27,0,0,0
+Jannik Vestergaard,4,dk DEN,CB,27-056,78,0,0,0,0,0,0,0,0,59,2,0,0,0.0,0.0,0.1,2,0,49,56,87.5,10,33,0,0,0
+Stuart Armstrong,17,sct SCO,AM,27-182,12,0,0,0,0,1,1,0,0,11,0,0,1,0.0,0.0,0.0,0,0,7,7,100.0,0,7,1,0,0
+Maya Yoshida,3,jp JPN,CB,31-035,90,0,0,0,0,2,1,1,0,71,3,1,0,0.3,0.3,0.0,1,0,51,57,89.5,3,36,1,0,0
+Jan Bednarek,35,pl POL,CB,23-169,90,0,0,0,0,0,0,1,0,55,6,4,1,0.0,0.0,0.0,0,0,33,43,76.7,2,17,0,0,0
+Angus Gunn,28,sct SCO,GK,23-249,90,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,15,80.0,0,8,0,0,0

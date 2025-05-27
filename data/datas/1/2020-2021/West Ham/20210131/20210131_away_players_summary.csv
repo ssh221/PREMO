@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Divock Origi,27,be BEL,FW,25-288,79,0,0,0,0,3,0,0,0,41,1,0,1,0.7,0.7,0.1,1,0,26,32,81.3,2,33,2,1,0
+Alex Oxlade-Chamberlain,15,eng ENG,LW,27-169,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,2,4,0,0,0
+Mohamed Salah,11,eg EGY,"FW,RW",28-230,90,2,0,0,0,7,4,0,0,57,0,0,0,0.8,0.8,0.1,2,0,40,46,87.0,3,39,1,2,1
+Xherdan Shaqiri,23,ch SUI,AM,29-113,68,0,1,0,0,1,0,0,0,50,1,0,0,0.1,0.1,0.6,5,1,44,48,91.7,8,42,1,1,1
+Roberto Firmino,9,br BRA,"FW,AM",29-121,22,0,1,0,0,0,0,0,0,29,1,0,0,0.0,0.0,0.3,1,1,25,28,89.3,2,19,0,0,0
+James Milner,7,eng ENG,LM,35-027,56,0,0,0,0,0,0,0,0,64,0,0,4,0.0,0.0,0.0,0,0,45,56,80.4,6,45,1,1,0
+Curtis Jones,17,eng ENG,LM,20-001,34,0,1,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.1,1,1,33,34,97.1,2,27,2,3,2
+Georginio Wijnaldum,5,nl NED,CM,30-081,90,1,0,0,0,2,1,0,0,87,1,1,0,0.4,0.4,0.0,1,0,73,79,92.4,2,57,1,1,1
+Thiago Alcántara,6,es ESP,RM,29-295,90,0,0,0,0,1,0,0,0,116,5,2,0,0.0,0.0,0.6,5,0,93,105,88.6,8,80,3,1,0
+Andrew Robertson,26,sct SCO,LB,26-326,90,0,0,0,0,0,0,0,0,103,0,0,2,0.0,0.0,0.0,3,0,85,94,90.4,5,74,1,1,0
+Jordan Henderson,14,eng ENG,CB,30-228,90,0,0,0,0,0,0,0,0,97,1,1,0,0.0,0.0,0.0,2,0,83,92,90.2,7,76,1,0,0
+Nathaniel Phillips,47,eng ENG,CB,23-316,90,0,0,0,0,0,0,0,0,83,1,0,1,0.0,0.0,0.0,1,0,65,76,85.5,7,60,1,1,1
+Trent Alexander-Arnold,66,eng ENG,RB,22-116,90,0,0,0,0,0,0,0,0,86,1,0,0,0.0,0.0,0.0,2,2,67,82,81.7,4,62,2,3,2
+Alisson,1,br BRA,GK,28-121,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,36,39,92.3,0,26,0,0,0

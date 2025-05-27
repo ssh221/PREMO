@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+David Datro Fofana,23,ci CIV,FW,21-113,61,0,0,0,0,2,0,0,0,24,2,0,0,0.7,0.7,0.0,0,0,14,16,87.5,5,13,2,1,0
+Jay Rodriguez,9,eng ENG,FW,34-259,29,0,0,0,0,1,1,0,0,10,2,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,2,0,1,0
+Wilson Odobert,47,fr FRA,FW,19-137,90,0,0,0,0,2,0,0,0,44,0,0,0,0.1,0.1,1.2,4,0,23,29,79.3,5,29,6,5,2
+Jacob Bruun Larsen,34,dk DEN,LM,25-207,85,0,0,0,0,1,0,0,0,27,0,0,1,0.4,0.4,0.1,1,0,13,21,61.9,1,15,6,3,1
+Mike Trésor,31,be BEL,LM,24-321,5,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,2,4,50.0,0,5,1,2,1
+Sander Berge,16,no NOR,"CM,CB",26-059,90,0,0,0,0,1,0,0,0,53,1,0,1,0.0,0.0,0.0,4,0,45,45,100.0,4,32,3,1,0
+Josh Cullen,24,ie IRL,CM,28-006,90,0,0,0,0,1,0,1,0,64,1,1,1,0.1,0.1,0.1,5,0,50,58,86.2,9,32,3,0,0
+Lyle Foster,17,za RSA,RM,23-223,90,0,0,0,0,0,0,0,0,34,0,0,1,0.0,0.0,0.0,1,0,18,24,75.0,3,16,1,0,0
+Vitinho,22,br BRA,LB,24-265,45,0,0,0,0,0,0,0,0,24,3,0,1,0.0,0.0,0.0,0,0,14,19,73.7,1,9,0,1,0
+Charlie Taylor,3,eng ENG,LB,30-208,45,0,0,0,0,0,0,0,0,20,0,0,0,0.0,0.0,0.0,0,0,11,19,57.9,0,9,1,1,1
+Maxime Estève,33,fr FRA,CB,21-323,90,0,0,0,0,0,0,0,0,90,3,1,1,0.0,0.0,0.0,1,0,61,77,79.2,4,51,1,1,0
+Hjalmar Ekdal,18,se SWE,CB,25-175,66,0,0,0,0,0,0,0,0,44,2,2,6,0.0,0.0,0.0,0,0,27,30,90.0,1,24,1,2,1
+Josh Brownhill,8,eng ENG,CM,28-116,24,1,0,0,0,2,2,0,0,22,4,0,1,0.2,0.2,0.0,0,0,14,16,87.5,2,8,0,1,1
+Lorenz Assignon,20,tg TOG,RB,23-296,90,0,0,0,0,1,0,0,0,56,4,1,2,0.0,0.0,0.0,1,0,32,39,82.1,2,20,3,1,0
+Arijanet Muric,49,xk KVX,GK,25-158,90,0,0,0,0,0,0,0,0,89,0,0,0,0.0,0.0,0.0,0,0,57,81,70.4,0,60,0,0,0

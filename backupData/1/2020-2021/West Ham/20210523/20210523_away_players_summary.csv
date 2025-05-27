@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Takumi Minamino,19,jp JPN,FW,26-127,61,0,0,0,0,2,1,0,0,34,1,0,3,0.4,0.4,0.1,3,0,17,20,85.0,2,26,1,0,0
+Nathan Tella,23,ng NGA,FW,21-322,29,0,0,0,0,1,1,0,0,15,0,0,0,0.1,0.1,0.0,1,0,8,13,61.5,2,14,2,1,1
+Danny Ings,9,eng ENG,FW,28-304,83,0,0,0,0,1,0,0,0,22,0,0,1,0.1,0.1,0.0,2,0,10,14,71.4,1,16,0,0,0
+Michael Obafemi,14,ie IRL,FW,20-321,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Nathan Redmond,11,eng ENG,LM,27-078,90,0,0,0,0,1,0,0,0,48,1,1,0,0.1,0.1,0.4,11,0,32,38,84.2,2,32,13,7,5
+Ibrahima Diallo,27,fr FRA,CM,22-076,90,0,0,0,0,2,0,1,0,67,2,0,1,0.1,0.1,0.4,2,0,54,61,88.5,8,45,1,0,0
+James Ward-Prowse,8,eng ENG,"CM,RB",26-203,90,0,0,0,0,1,0,0,0,91,4,0,0,0.0,0.0,0.2,4,0,66,83,79.5,5,46,0,0,0
+Stuart Armstrong,17,sct SCO,RM,29-054,90,0,0,0,0,3,0,0,0,60,0,0,1,0.1,0.1,0.4,5,0,45,52,86.5,6,43,4,2,2
+Mohammed Salisu,22,gh GHA,LB,22-036,90,0,0,0,0,1,0,1,0,70,7,2,2,0.0,0.0,0.0,0,0,44,56,78.6,3,43,0,1,0
+Jannik Vestergaard,4,dk DEN,CB,28-293,90,0,0,0,0,1,0,0,0,72,4,1,0,0.1,0.1,0.0,0,0,48,62,77.4,2,44,1,0,0
+Jan Bednarek,35,pl POL,CB,25-041,90,0,0,0,0,1,1,1,0,87,3,3,1,0.0,0.0,0.0,0,0,57,72,79.2,0,55,4,0,0
+Kyle Walker-Peters,2,eng ENG,RB,24-040,59,0,0,0,0,3,2,0,0,53,0,0,3,0.4,0.4,0.0,2,0,30,41,73.2,0,30,2,1,1
+Oriol Romeu,6,es ESP,"CM,RB",29-241,31,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,1,0,26,29,89.7,6,19,1,0,0
+Alex McCarthy,1,eng ENG,GK,31-171,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,30,66.7,0,17,0,0,0

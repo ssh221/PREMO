@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Raúl Jiménez,9,mx MEX,FW,28-272,89,0,0,0,0,1,1,0,0,35,1,1,2,0.1,0.1,0.0,2,0,18,24,75.0,3,21,3,5,4
+Leander Dendoncker,32,be BEL,CM,24-292,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Diogo Jota,18,pt POR,LW,23-059,69,0,0,0,0,3,2,0,0,39,0,0,1,0.2,0.2,0.1,8,0,19,27,70.4,4,26,4,9,6
+Pedro Neto,7,pt POR,LW,19-329,21,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.1,2,0,7,7,100.0,1,8,2,1,0
+Adama Traoré,37,es ESP,RW,24-007,75,0,0,0,0,2,0,0,0,28,0,1,0,0.1,0.1,0.1,4,0,11,19,57.9,2,22,7,6,3
+Daniel Podence,10,pt POR,RW,24-103,15,0,0,0,0,1,0,0,0,11,1,0,0,0.1,0.1,0.3,2,0,8,9,88.9,1,8,1,0,0
+Jonny Castro,19,es ESP,LM,25-335,90,0,0,0,0,0,0,0,0,59,9,2,0,0.0,0.0,0.0,1,0,27,39,69.2,2,26,3,3,0
+João Moutinho,28,pt POR,CM,33-146,90,0,0,0,0,1,0,1,0,60,5,3,2,0.0,0.0,0.4,5,0,39,47,83.0,5,16,0,0,0
+Rúben Neves,8,pt POR,CM,22-325,90,0,0,0,0,1,0,1,0,61,3,3,1,0.1,0.1,0.0,1,0,42,51,82.4,7,23,0,3,3
+Matt Doherty,2,ie IRL,RM,28-016,90,0,0,0,0,2,1,0,0,58,2,0,0,0.3,0.3,0.0,1,0,30,39,76.9,3,25,1,0,0
+Romain Saïss,27,ma MAR,CB,29-312,90,0,0,0,0,4,0,0,0,53,3,3,2,0.4,0.4,0.0,1,0,33,37,89.2,0,19,0,0,0
+Conor Coady,16,eng ENG,CB,26-341,90,0,0,0,0,0,0,0,0,40,1,2,0,0.0,0.0,0.0,1,0,29,33,87.9,0,24,0,0,0
+Willy Boly,15,ci CIV,CB,28-363,90,0,0,0,0,0,0,0,0,47,2,4,1,0.0,0.0,0.0,0,0,27,36,75.0,0,22,0,0,0
+Rui Patrício,11,pt POR,GK,31-351,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,21,57.1,0,8,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ashley Barnes,10,eng ENG,FW,32-197,77,0,0,0,0,2,0,0,0,25,0,0,1,0.1,0.1,0.0,0,0,9,16,56.3,1,12,0,1,1
+Wout Weghorst,9,nl NED,FW,29-281,13,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.1,1,0,3,6,50.0,0,5,0,0,0
+Maxwel Cornet,20,ci CIV,FW,25-230,90,0,0,0,0,2,1,0,0,25,0,1,0,0.3,0.3,0.0,1,0,13,18,72.2,1,19,1,2,0
+Dwight McNeil,11,eng ENG,"CM,LM",22-174,90,0,0,0,0,1,0,0,0,42,0,1,1,0.0,0.0,0.2,4,0,30,33,90.9,4,24,1,2,1
+Jack Cork,4,eng ENG,CM,32-324,90,0,0,0,0,0,0,0,0,45,2,2,0,0.0,0.0,0.0,0,0,29,35,82.9,3,26,0,0,0
+Josh Brownhill,8,eng ENG,CM,26-147,90,0,0,0,0,0,0,0,0,39,4,3,0,0.0,0.0,0.0,2,0,18,27,66.7,1,13,0,0,0
+Charlie Taylor,3,eng ENG,LB,28-239,90,0,0,0,0,0,0,0,0,58,5,1,1,0.0,0.0,0.0,1,0,29,45,64.4,2,34,2,1,1
+Matthew Lowton,2,eng ENG,CB,32-340,77,0,0,0,0,0,0,0,0,33,2,0,3,0.0,0.0,0.0,0,0,16,22,72.7,2,16,1,0,0
+Aaron Lennon,17,eng ENG,"RM,CB",35-029,13,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,6,50.0,0,4,0,0,0
+Nathan Collins,22,ie IRL,CB,21-015,90,0,0,0,0,1,0,0,0,39,0,0,4,0.2,0.2,0.3,3,0,22,28,78.6,4,20,0,0,0
+Kevin Long,28,ie IRL,CB,31-270,90,0,0,0,0,2,0,0,0,35,3,0,1,0.1,0.1,0.0,1,0,18,24,75.0,1,15,0,0,0
+Connor Roberts,14,wls WAL,RB,26-234,90,0,0,0,0,0,0,1,0,53,1,0,0,0.0,0.0,0.0,3,0,35,47,74.5,3,33,1,1,0
+Nick Pope,1,eng ENG,GK,30-026,90,0,0,0,0,0,0,1,0,34,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,14,0,0,0

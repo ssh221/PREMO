@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,22-285,90,1,0,0,0,6,2,0,0,31,0,0,2,0.4,0.4,0.0,4,0,11,15,73.3,2,21,0,1,0
+Richarlison,7,br BRA,FW,22-230,85,0,0,0,0,3,1,0,0,37,0,0,0,0.1,0.1,0.0,4,0,20,29,69.0,6,34,6,5,2
+Tom Davies,26,eng ENG,"AM,FW",21-179,5,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,1,0,0
+Bernard,20,br BRA,AM,27-109,76,0,0,0,0,1,0,0,0,44,1,1,1,0.0,0.0,0.1,4,0,31,39,79.5,6,37,3,3,3
+Moise Kean,27,it ITA,"AM,FW",19-301,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,1,0,1,2,50.0,0,5,0,2,0
+Fabian Delph,8,eng ENG,CM,30-035,90,0,0,0,0,1,0,0,0,70,0,0,0,0.0,0.0,0.1,5,0,56,64,87.5,6,49,2,1,1
+Gylfi Sigurðsson,10,is ISL,CM,30-109,90,0,0,0,0,2,0,0,0,73,1,3,1,0.1,0.1,0.3,7,1,48,65,73.8,5,41,1,0,0
+Lucas Digne,12,fr FRA,WB,26-159,90,0,0,0,0,2,0,0,0,68,0,1,1,0.1,0.1,0.1,4,0,43,59,72.9,0,28,1,2,1
+Djibril Sidibé,19,fr FRA,WB,27-150,89,0,1,0,0,2,1,0,0,59,3,1,0,0.1,0.1,0.1,6,1,37,48,77.1,1,37,2,3,1
+Theo Walcott,11,eng ENG,WB,30-285,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Mason Holgate,2,eng ENG,CB,23-065,90,0,0,0,0,1,1,0,0,80,0,0,1,0.4,0.4,0.0,2,0,66,75,88.0,3,56,7,1,1
+Yerry Mina,13,co COL,CB,25-094,90,0,0,0,0,2,0,0,0,83,0,1,0,0.3,0.3,0.4,1,0,65,75,86.7,5,56,0,0,0
+Séamus Coleman,23,ie IRL,CB,31-076,90,0,0,0,0,1,0,0,0,78,0,0,1,0.0,0.0,0.0,0,0,58,73,79.5,6,48,3,4,3
+Jordan Pickford,1,eng ENG,GK,25-294,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,27,43,62.8,0,31,0,0,0

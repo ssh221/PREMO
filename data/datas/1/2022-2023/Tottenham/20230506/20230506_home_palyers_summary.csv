@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,29-282,90,1,0,0,0,1,1,0,0,35,0,0,1,0.1,0.1,0.1,2,1,16,28,57.1,7,26,0,3,0
+Richarlison,9,br BRA,LW,25-361,78,0,0,0,0,0,0,0,0,20,1,0,1,0.0,0.0,0.0,1,0,9,14,64.3,2,9,0,1,1
+Dejan Kulusevski,21,se SWE,RW,23-011,12,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Son Heung-min,7,kr KOR,RW,30-302,88,0,0,0,0,1,1,0,0,33,0,2,1,0.3,0.3,0.0,1,0,22,26,84.6,2,19,2,1,0
+Arnaut Danjuma,16,nl NED,LW,26-095,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Ben Davies,33,wls WAL,LM,30-012,90,0,0,0,0,0,0,1,0,66,2,2,0,0.0,0.0,0.0,1,0,41,58,70.7,4,35,5,2,1
+Pierre Højbjerg,5,dk DEN,CM,27-274,90,0,0,0,0,1,0,0,0,63,1,0,0,0.1,0.1,0.0,2,0,48,59,81.4,4,29,1,5,3
+Oliver Skipp,4,eng ENG,CM,22-232,90,0,0,0,0,0,0,0,0,56,2,1,1,0.0,0.0,0.0,2,0,47,50,94.0,5,29,1,0,0
+Pedro Porro,23,es ESP,RM,23-235,90,0,1,0,0,2,1,0,0,72,2,1,5,0.1,0.1,0.4,4,1,37,55,67.3,3,37,4,1,1
+Clément Lenglet,34,fr FRA,CB,27-323,87,0,0,0,0,1,0,1,0,97,0,1,0,0.0,0.0,0.0,1,0,82,91,90.1,7,76,2,1,1
+Eric Dier,15,eng ENG,CB,29-111,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Cristian Romero,17,ar ARG,CB,25-009,90,0,0,0,0,2,0,0,0,104,3,5,2,0.2,0.2,0.3,1,0,75,84,89.3,0,57,0,0,0
+Emerson,12,br BRA,CB,24-112,90,0,0,0,0,0,0,0,0,73,2,2,2,0.0,0.0,0.0,0,0,52,58,89.7,1,48,0,3,2
+Fraser Forster,20,eng ENG,GK,35-050,90,0,0,0,0,0,0,1,0,27,0,0,0,0.0,0.0,0.0,0,0,21,27,77.8,0,14,0,0,0

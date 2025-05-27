@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Erling Haaland,9,no NOR,FW,23-092,90,1,0,0,0,2,2,0,0,21,1,0,1,0.3,0.3,0.0,0,0,11,12,91.7,1,14,2,0,0
+Jeremy Doku,11,be BEL,LW,21-147,74,0,1,0,0,3,1,0,0,50,1,0,0,0.1,0.1,0.2,3,2,31,39,79.5,2,42,14,7,5
+Jack Grealish,10,eng ENG,LW,28-041,16,0,0,0,0,0,0,1,0,14,3,2,0,0.0,0.0,0.0,0,0,7,8,87.5,0,5,0,0,0
+Phil Foden,47,eng ENG,RW,23-146,90,0,0,0,0,1,0,0,0,51,0,1,2,0.0,0.0,0.3,6,0,31,42,73.8,9,28,3,2,1
+Bernardo Silva,20,pt POR,"CM,DM",29-072,90,0,0,0,0,0,0,0,0,62,1,0,3,0.0,0.0,0.1,4,0,46,55,83.6,3,34,3,0,0
+Julián Álvarez,19,ar ARG,"CM,AM",23-263,89,1,0,0,0,3,1,0,0,54,1,0,0,0.3,0.3,0.0,1,0,43,48,89.6,2,31,0,3,2
+Nathan Aké,6,nl NED,CB,28-245,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Rodri,16,es ESP,DM,27-121,90,0,0,0,0,0,0,1,0,96,2,1,0,0.0,0.0,0.0,0,0,83,89,93.3,6,53,0,3,1
+John Stones,5,eng ENG,DM,29-146,74,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.0,1,0,44,45,97.8,0,24,0,1,0
+Rúben Dias,3,pt POR,CB,26-160,16,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,11,11,100.0,0,8,0,0,0
+Joško Gvardiol,24,hr CRO,LB,21-271,90,0,0,0,0,1,1,0,0,91,2,4,1,0.0,0.0,0.0,1,0,70,79,88.6,12,51,2,1,1
+Manuel Akanji,25,ch SUI,CB,28-094,89,0,0,0,0,0,0,2,1,87,1,0,2,0.0,0.0,0.0,1,0,81,81,100.0,1,53,1,0,0
+Kyle Walker,2,eng ENG,RB,33-146,90,0,0,0,0,0,0,0,0,76,1,2,1,0.0,0.0,0.0,0,0,62,69,89.9,2,30,0,0,0
+Stefan Ortega,18,de GER,GK,30-349,90,0,0,0,0,0,0,0,0,59,0,0,0,0.0,0.0,0.0,0,0,41,58,70.7,0,46,0,0,0

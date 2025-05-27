@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Erling Haaland,9,no NOR,FW,22-209,90,1,0,0,0,3,2,0,0,31,1,0,0,0.3,0.3,0.0,2,1,9,18,50.0,1,16,0,3,0
+Jack Grealish,10,eng ENG,"LM,LW",27-158,76,1,0,0,0,1,1,1,0,26,0,0,0,0.1,0.1,0.1,2,0,16,20,80.0,1,19,4,5,4
+Phil Foden,47,eng ENG,LW,22-263,14,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,1,3,0,0,0
+İlkay Gündoğan,8,de GER,"CM,LM,DM",32-114,90,0,1,0,0,0,0,0,0,28,2,0,1,0.0,0.0,0.1,2,2,12,21,57.1,3,19,1,2,1
+Kevin De Bruyne,17,be BEL,"CM,RM,AM",31-232,86,1,1,0,0,1,1,0,0,33,0,1,1,0.2,0.2,0.3,2,1,15,26,57.7,3,14,1,0,0
+Kalvin Phillips,4,eng ENG,CM,27-075,4,0,0,0,0,0,0,0,0,4,1,1,0,0.0,0.0,0.0,0,0,1,1,100.0,1,0,0,0,0
+Riyad Mahrez,26,dz ALG,RM,31-359,60,0,0,0,0,0,0,0,0,27,1,0,2,0.0,0.0,0.0,0,0,17,20,85.0,3,19,1,4,1
+Manuel Akanji,25,ch SUI,CB,27-211,30,0,0,0,0,1,0,0,0,8,0,0,0,0.4,0.4,0.0,0,0,2,4,50.0,0,1,0,0,0
+Rodri,16,es ESP,"DM,CM,RM",26-238,90,0,0,0,0,2,1,0,0,51,1,4,3,0.2,0.2,0.7,2,0,32,38,84.2,4,27,2,1,1
+Bernardo Silva,20,pt POR,"LB,RW",28-189,90,0,0,0,0,0,0,1,0,43,4,2,1,0.0,0.0,0.1,1,0,22,34,64.7,2,25,2,3,1
+Nathan Aké,6,nl NED,"CB,LB",27-362,90,0,0,0,0,1,0,0,0,43,0,1,0,0.7,0.7,0.0,0,0,25,32,78.1,1,19,0,0,0
+Rúben Dias,3,pt POR,CB,25-277,90,0,0,0,0,0,0,0,0,43,2,0,4,0.0,0.0,0.0,0,0,29,35,82.9,0,25,0,1,0
+Kyle Walker,2,eng ENG,RB,32-263,90,0,0,0,0,0,0,1,0,55,5,2,0,0.0,0.0,0.0,2,0,33,45,73.3,2,24,2,2,1
+Ederson,31,br BRA,GK,29-182,90,0,0,0,0,0,0,1,0,39,0,0,0,0.0,0.0,0.0,0,0,20,38,52.6,0,23,0,0,0

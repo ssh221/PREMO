@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,7,no NOR,FW,29-288,90,0,0,0,0,2,0,0,0,26,1,0,0,0.1,0.1,0.8,5,0,9,14,64.3,4,19,0,2,1
+João Pedro,10,br BRA,"AM,FW",20-034,45,0,0,0,0,0,0,1,0,23,0,1,1,0.0,0.0,0.1,1,0,11,16,68.8,3,10,1,0,0
+Tom Cleverley,8,eng ENG,AM,32-079,45,0,0,0,0,0,0,0,0,23,1,1,1,0.0,0.0,0.0,1,0,12,20,60.0,1,6,0,0,0
+Cucho,29,co COL,"LW,LM",22-193,45,0,0,0,0,1,1,0,0,20,1,0,0,0.1,0.1,0.0,0,0,7,14,50.0,2,9,0,1,0
+Ken Sema,12,se SWE,"LW,LM",28-030,45,0,0,0,0,0,0,0,0,16,1,0,1,0.0,0.0,0.0,0,0,4,10,40.0,0,7,1,1,0
+Juraj Kucka,33,sk SVK,"DM,CM,RB",34-246,90,0,0,0,0,3,1,1,0,49,1,0,1,0.1,0.1,0.0,2,0,22,41,53.7,5,22,1,2,2
+Moussa Sissoko,19,fr FRA,"DM,CM",32-075,90,0,0,0,0,0,0,0,0,45,3,4,1,0.0,0.0,0.0,3,0,30,36,83.3,5,21,2,4,4
+Ismaila Sarr,23,sn SEN,"RW,RM",23-247,90,0,0,0,0,2,0,0,0,44,2,2,0,0.2,0.2,0.0,1,0,11,23,47.8,0,28,4,2,0
+Adam Masina,11,ma MAR,LB,27-301,90,0,0,0,0,1,0,0,0,56,2,2,1,0.0,0.0,0.0,1,0,22,41,53.7,4,20,0,2,2
+Craig Cathcart,15,nir NIR,CB,32-266,90,0,0,0,0,0,0,0,0,45,0,2,4,0.0,0.0,0.0,0,0,24,30,80.0,2,15,0,0,0
+William Troost-Ekong,5,ng NGA,CB,28-059,90,0,0,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.0,1,0,18,29,62.1,2,16,0,0,0
+Jeremy Ngakia,2,,RB,21-053,81,0,0,0,0,0,0,0,0,43,2,0,2,0.0,0.0,0.0,0,0,29,36,80.6,5,15,1,2,1
+Ashley Fletcher,17,eng ENG,FW,26-028,9,0,0,0,0,1,1,0,0,2,0,0,0,0.6,0.6,0.0,1,0,0,1,0.0,0,1,0,0,0
+Ben Foster,1,eng ENG,GK,38-210,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,2,0,21,40,52.5,0,24,0,0,0

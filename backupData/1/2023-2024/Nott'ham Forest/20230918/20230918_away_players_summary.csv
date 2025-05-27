@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lyle Foster,17,za RSA,FW,23-015,89,0,1,0,0,2,1,0,1,31,0,0,0,0.1,0.1,0.1,0,0,13,19,68.4,1,19,4,2,1
+Luca Koleosho,30,it ITA,LW,19-003,75,0,0,0,0,0,0,0,0,42,1,0,2,0.0,0.0,0.1,3,1,16,29,55.2,2,33,3,7,4
+Mike Trésor,31,be BEL,LW,24-113,15,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.1,1,0,6,9,66.7,1,8,0,0,0
+Jóhann Berg Guðmundsson,7,is ISL,RW,32-326,62,0,0,0,0,0,0,0,0,30,1,1,1,0.0,0.0,0.0,0,0,18,25,72.0,2,21,0,0,0
+Anass Zaroury,19,ma MAR,RW,22-315,28,0,0,0,0,1,0,0,0,16,0,0,0,0.1,0.1,0.0,0,0,5,13,38.5,0,11,1,0,0
+Zeki Amdouni,25,ch SUI,AM,22-288,62,1,0,0,0,3,2,0,0,28,0,0,0,0.2,0.2,0.0,1,0,18,21,85.7,1,22,3,3,1
+Sander Berge,16,no NOR,AM,25-216,28,0,0,0,0,0,0,0,0,23,1,0,2,0.0,0.0,0.0,0,0,11,17,64.7,3,12,2,1,1
+Josh Brownhill,8,eng ENG,DM,27-273,90,0,0,0,0,1,0,0,0,46,2,2,0,0.1,0.1,0.0,3,1,25,40,62.5,4,31,2,0,0
+Josh Cullen,24,ie IRL,DM,27-164,90,0,0,0,0,0,0,1,0,70,3,1,3,0.0,0.0,0.0,1,0,50,58,86.2,4,35,1,0,0
+Charlie Taylor,3,eng ENG,LB,30-000,90,0,0,0,0,1,0,0,0,66,2,1,1,0.0,0.0,0.0,1,0,42,53,79.2,6,38,0,1,0
+Jordan Beyer,5,de GER,CB,23-122,86,0,0,0,0,0,0,0,0,88,0,0,1,0.0,0.0,0.0,0,0,72,76,94.7,1,56,0,0,0
+Hannes Delcroix,44,be BEL,CB,24-202,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Ameen Al-Dakhil,28,be BEL,CB,21-196,90,0,0,0,0,1,0,0,0,75,0,0,1,0.0,0.0,0.0,1,0,60,66,90.9,4,56,1,0,0
+Connor Roberts,14,wls WAL,RB,27-360,90,0,0,0,0,0,0,1,0,55,0,2,1,0.0,0.0,0.0,2,0,39,48,81.3,2,35,1,0,0
+James Trafford,1,eng ENG,GK,20-343,90,0,0,0,0,0,0,1,0,55,0,0,0,0.0,0.0,0.0,0,0,47,53,88.7,0,41,0,0,0

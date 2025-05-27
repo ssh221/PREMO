@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Diogo Jota,18,pt POR,FW,23-206,59,0,0,0,0,1,0,0,0,37,0,0,0,0.2,0.2,0.0,2,0,21,28,75.0,0,24,2,1,0
+Adama Traoré,37,es ESP,FW,24-154,31,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,1,0,15,18,83.3,1,17,3,5,5
+Raúl Jiménez,9,mx MEX,FW,29-053,84,0,0,0,0,3,1,0,0,40,1,0,0,0.1,0.1,0.0,1,1,20,30,66.7,2,25,2,2,1
+Pedro Neto,7,pt POR,FW,20-110,6,0,0,0,0,0,0,0,0,6,0,1,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0
+João Moutinho,28,pt POR,CM,33-293,90,0,0,0,0,0,0,0,0,55,2,0,0,0.0,0.0,0.3,3,0,47,53,88.7,4,36,2,1,1
+Rúben Neves,8,pt POR,CM,23-106,90,0,0,0,0,0,0,1,0,68,0,2,0,0.0,0.0,0.0,4,0,52,65,80.0,5,41,0,0,0
+Leander Dendoncker,32,be BEL,CM,25-073,90,1,0,0,0,4,1,0,0,33,3,0,0,0.4,0.4,0.0,1,0,17,24,70.8,2,13,1,0,0
+Jonny Castro,19,es ESP,WB,26-116,90,0,1,0,0,0,0,0,0,68,1,1,2,0.0,0.0,0.1,1,1,48,60,80.0,2,43,3,1,1
+Matt Doherty,2,ie IRL,WB,28-163,90,0,0,0,0,1,0,0,0,76,2,1,2,0.0,0.0,0.0,1,0,54,65,83.1,7,40,2,1,0
+Romain Saïss,27,ma MAR,CB,30-093,90,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.0,0,0,38,51,74.5,2,26,0,0,0
+Conor Coady,16,eng ENG,CB,27-123,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,34,40,85.0,1,27,0,0,0
+Willy Boly,15,ci CIV,CB,29-145,90,0,0,0,0,0,0,0,0,41,1,0,1,0.0,0.0,0.0,1,0,26,33,78.8,1,20,0,0,0
+Rui Patrício,11,pt POR,GK,32-133,90,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,21,31,67.7,0,10,0,0,0

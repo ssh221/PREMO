@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Firmino,9,br BRA,FW,29-057,90,0,0,0,0,2,0,0,0,43,2,2,0,0.1,0.1,0.0,1,0,25,31,80.6,3,26,0,1,0
+Diogo Jota,20,pt POR,"LW,RW",23-360,90,1,0,0,0,2,1,0,0,46,0,0,0,0.1,0.1,0.0,1,1,27,34,79.4,0,37,3,4,1
+Mohamed Salah,11,eg EGY,RW,28-166,63,0,1,0,0,1,0,0,0,25,0,0,0,0.1,0.1,0.1,2,1,17,21,81.0,0,20,1,1,0
+Sadio Mané,10,sn SEN,LW,28-232,27,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,2,6,33.3,0,4,1,1,0
+James Milner,7,eng ENG,"LM,RB",34-329,73,0,0,0,0,0,0,0,0,82,1,0,1,0.0,0.0,0.0,0,0,59,70,84.3,7,50,2,3,2
+Curtis Jones,17,eng ENG,RB,19-303,17,0,0,0,0,0,0,0,0,7,2,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0
+Georginio Wijnaldum,5,nl NED,"LM,CM",30-017,90,0,0,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.0,0,0,29,35,82.9,1,23,1,1,0
+Takumi Minamino,18,jp JPN,RM,25-317,90,0,0,0,0,1,1,0,0,53,0,0,0,0.0,0.0,0.0,2,0,41,51,80.4,1,42,0,1,1
+Andrew Robertson,26,sct SCO,LB,26-262,90,0,0,0,0,0,0,0,0,115,1,2,1,0.0,0.0,0.0,1,0,83,106,78.3,8,72,2,3,1
+Fabinho,3,br BRA,CB,27-036,90,0,0,0,0,0,0,0,0,66,2,0,0,0.0,0.0,0.1,1,0,54,61,88.5,1,46,0,0,0
+Nathaniel Phillips,47,eng ENG,CB,23-252,90,0,0,0,0,0,0,0,0,67,4,2,1,0.0,0.0,0.0,0,0,44,55,80.0,6,39,0,0,0
+Neco Williams,76,wls WAL,RB,19-229,45,0,0,0,0,0,0,0,0,32,0,1,0,0.0,0.0,0.0,0,0,25,30,83.3,0,25,1,1,1
+Jordan Henderson,14,eng ENG,CM,30-164,45,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,0,0,26,35,74.3,2,32,1,0,0
+Alisson,1,br BRA,GK,28-057,90,0,0,0,0,0,0,1,0,41,0,0,0,0.0,0.0,0.0,0,0,27,36,75.0,0,18,0,1,1

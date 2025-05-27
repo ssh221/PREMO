@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Raúl Jiménez,9,mx MEX,FW,30-210,90,0,0,0,0,3,0,0,0,45,0,0,3,0.1,0.1,0.0,3,0,18,29,62.1,3,24,3,6,2
+Hwang Hee-chan,26,kr KOR,LW,25-309,83,0,0,0,0,2,1,1,0,52,0,0,1,0.2,0.2,0.0,3,0,31,39,79.5,8,36,6,7,5
+Francisco Trincão,11,pt POR,LW,21-337,7,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,1,0,4,5,80.0,0,5,0,1,0
+Adama Traoré,37,es ESP,RW,25-310,90,0,0,0,0,4,0,0,0,55,0,0,0,0.2,0.2,0.1,7,0,33,44,75.0,6,34,9,9,8
+Rayan Aït-Nouri,3,dz ALG,LM,20-178,90,0,0,0,0,2,0,0,0,83,3,0,1,0.1,0.1,0.0,2,0,48,72,66.7,2,48,7,4,2
+João Moutinho,28,pt POR,CM,35-084,90,0,0,0,0,1,0,0,0,94,0,1,2,0.0,0.0,0.1,3,0,79,90,87.8,13,55,1,0,0
+Leander Dendoncker,32,be BEL,CM,26-230,90,0,0,0,0,1,1,0,0,89,2,0,3,0.1,0.1,0.1,3,0,62,79,78.5,6,49,0,0,0
+Nélson Semedo,22,pt POR,RM,28-015,90,0,0,0,0,1,0,0,0,95,4,0,0,0.0,0.0,0.1,5,0,65,84,77.4,7,50,4,1,0
+Romain Saïss,27,ma MAR,CB,31-250,90,0,0,0,0,1,0,0,0,80,2,2,0,0.0,0.0,0.0,0,0,52,68,76.5,13,37,1,0,0
+Conor Coady,16,eng ENG,CB,28-279,90,0,0,0,0,0,0,0,0,55,0,1,0,0.0,0.0,0.0,0,0,40,49,81.6,1,27,0,0,0
+Max Kilman,23,eng ENG,CB,24-192,90,0,0,0,0,0,0,1,0,68,2,6,2,0.0,0.0,0.1,0,0,50,55,90.9,1,35,1,1,1
+José Sá,1,pt POR,GK,28-318,90,0,0,0,0,0,0,0,0,32,1,0,0,0.0,0.0,0.0,0,0,16,29,55.2,0,15,0,0,0

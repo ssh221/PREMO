@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,"AM,FW",23-150,63,0,0,0,0,1,0,0,0,21,0,0,2,0.3,0.3,0.0,0,0,11,15,73.3,2,14,3,1,1
+Callum Wilson,9,eng ENG,AM,30-356,27,0,0,0,0,1,1,0,0,10,0,0,0,0.4,0.4,0.0,0,0,3,3,100.0,1,11,0,1,0
+Allan Saint-Maximin,10,fr FRA,"AM,LW",25-343,90,0,0,0,0,3,1,0,0,40,0,0,0,0.2,0.2,0.5,6,0,27,32,84.4,4,32,8,10,7
+Miguel Almirón,24,py PAR,"RM,RW",29-008,63,0,0,0,0,2,1,1,0,28,1,0,0,0.3,0.3,0.0,1,0,21,24,87.5,4,16,2,2,1
+Anthony Gordon,8,eng ENG,RM,21-359,27,0,0,0,0,0,0,0,0,22,0,1,0,0.0,0.0,0.4,2,0,15,17,88.2,2,10,1,4,2
+Elliot Anderson,32,eng ENG,LM,20-104,23,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,3,1,2,0
+Martin Dúbravka,1,sk SVK,GK,34-034,67,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,19,22,86.4,0,16,0,0,0
+Joelinton,7,br BRA,"LM,CM",26-188,70,0,0,0,0,2,1,0,0,45,1,1,1,0.1,0.1,0.0,2,0,31,36,86.1,2,27,0,1,1
+Matt Ritchie,11,sct SCO,LM,33-161,20,0,0,0,0,0,0,0,0,17,1,1,0,0.0,0.0,0.0,0,0,10,15,66.7,0,12,0,1,1
+Sean Longstaff,36,eng ENG,"CM,RM",25-111,90,0,0,0,0,0,0,0,0,48,3,1,1,0.0,0.0,0.0,1,0,29,34,85.3,2,28,1,1,1
+Dan Burn,33,eng ENG,LB,30-285,90,0,0,0,0,1,0,0,0,61,1,0,2,0.2,0.2,0.1,2,0,33,46,71.7,3,23,1,3,2
+Sven Botman,4,nl NED,CB,23-037,90,0,0,0,0,1,0,0,0,59,1,1,1,0.1,0.1,0.0,1,0,42,47,89.4,3,24,0,0,0
+Fabian Schär,5,ch SUI,CB,31-060,90,0,0,0,0,3,0,0,0,48,0,0,0,0.5,0.5,0.0,1,0,30,41,73.2,2,33,0,0,0
+Kieran Trippier,2,eng ENG,RB,32-152,63,0,0,0,0,0,0,0,0,47,1,2,2,0.0,0.0,0.7,9,0,27,40,67.5,6,21,0,4,3
+Jacob Murphy,23,eng ENG,RB,27-359,27,0,0,0,0,0,0,0,0,18,1,0,0,0.0,0.0,0.0,0,0,14,16,87.5,2,12,0,3,2
+Nick Pope,22,eng ENG,GK,30-305,21,0,0,0,0,0,0,0,1,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0

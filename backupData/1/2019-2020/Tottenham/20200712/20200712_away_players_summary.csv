@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexandre Lacazette,9,fr FRA,FW,29-045,90,1,0,0,0,1,1,1,0,33,2,0,1,0.0,0.0,0.1,2,0,23,28,82.1,4,17,0,1,1
+Pierre-Emerick Aubameyang,14,ga GAB,LW,31-024,90,0,0,0,0,3,1,0,0,29,0,0,0,0.2,0.2,0.0,1,0,19,23,82.6,1,22,3,0,0
+Nicolas Pépé,19,ci CIV,RW,25-044,69,0,0,0,0,3,1,1,0,35,0,0,0,0.1,0.1,0.0,3,0,17,23,73.9,1,26,6,2,2
+Bukayo Saka,77,eng ENG,"RW,LB",18-311,21,0,0,0,0,1,0,1,0,15,1,0,1,0.0,0.0,0.0,0,0,8,11,72.7,0,6,1,0,0
+Kieran Tierney,3,sct SCO,LM,23-037,83,0,0,0,0,1,0,0,0,53,0,1,0,0.0,0.0,0.0,0,0,38,47,80.9,1,27,0,2,1
+Joe Willock,28,eng ENG,"AM,LM",20-327,7,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,3,4,75.0,0,4,0,1,1
+Granit Xhaka,34,ch SUI,"CM,DM",27-289,90,0,1,0,0,0,0,0,0,95,0,0,1,0.0,0.0,0.0,2,0,83,91,91.2,17,74,3,1,1
+Dani Ceballos,8,es ESP,"CM,DM",23-340,90,0,0,0,0,0,0,0,0,108,4,1,0,0.0,0.0,0.1,6,0,91,103,88.3,14,83,5,2,2
+Héctor Bellerín,2,es ESP,RM,25-115,83,0,0,0,0,1,0,0,0,73,1,0,3,0.0,0.0,0.0,7,0,55,63,87.3,4,43,4,6,4
+Cédric Soares,17,pt POR,RB,28-316,7,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,10,15,66.7,1,7,0,2,2
+Sead Kolašinac,31,ba BIH,CB,27-022,83,0,0,0,0,1,0,0,0,57,0,0,1,0.1,0.1,0.0,0,0,49,54,90.7,2,40,0,0,0
+Reiss Nelson,24,eng ENG,RW,20-215,7,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0
+David Luiz,23,br BRA,CB,33-081,90,0,0,0,0,0,0,0,0,80,0,2,1,0.0,0.0,0.0,0,0,67,75,89.3,2,64,2,0,0
+Shkodran Mustafi,20,de GER,CB,28-086,90,0,0,0,0,2,1,0,0,110,3,2,2,0.1,0.1,0.0,0,0,81,94,86.2,8,76,0,1,1
+Emiliano Martínez,26,ar ARG,GK,27-314,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,35,37,94.6,0,21,0,0,0

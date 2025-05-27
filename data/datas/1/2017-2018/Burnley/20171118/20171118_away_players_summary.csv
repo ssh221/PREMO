@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Tammy Abraham,10,eng ENG,FW,20-047,81,0,0,0,0,2,0,0,0,28,1,0,0,0.1,0.1,0.1,4,0,17,19,89.5,1,16,3,3,2
+Luciano Narsingh,11,nl NED,FW,27-066,9,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,7,9,77.8,2,4,0,0,0
+Jordan Ayew,18,gh GHA,LW,26-068,45,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.0,1,0,17,20,85.0,0,10,1,1,1
+Wilfried Bony,2,ci CIV,LW,28-343,45,0,0,0,0,4,1,0,0,23,0,0,1,0.2,0.2,0.1,4,0,13,17,76.5,2,12,1,3,3
+Nathan Dyer,12,eng ENG,RW,29-354,90,0,0,0,0,0,0,1,0,56,0,0,1,0.0,0.0,0.0,5,0,33,50,66.0,2,35,2,5,3
+Renato Sanches,35,pt POR,LM,20-092,90,0,0,0,0,4,0,0,0,53,0,0,0,0.1,0.1,0.1,1,0,29,43,67.4,6,29,5,7,3
+Sam Clucas,17,eng ENG,CM,27-054,90,0,0,0,0,0,0,0,0,67,3,2,1,0.0,0.0,0.0,2,0,51,60,85.0,3,32,1,1,1
+Leroy Fer,8,nl NED,RM,27-317,69,0,0,0,0,0,0,0,0,48,0,1,1,0.0,0.0,0.0,1,0,36,43,83.7,5,15,0,0,0
+Ki Sung-yueng,4,kr KOR,RM,28-298,21,0,0,0,0,0,0,0,0,15,0,1,0,0.0,0.0,0.0,1,0,12,13,92.3,1,10,0,0,0
+Martin Olsson,16,se SWE,LB,29-185,90,0,0,0,0,1,0,0,0,56,0,0,0,0.1,0.1,0.1,1,0,38,48,79.2,2,23,5,0,0
+Alfie Mawson,6,eng ENG,CB,23-303,90,0,0,0,0,1,0,0,0,57,0,0,3,0.1,0.1,0.0,0,0,31,42,73.8,2,14,0,1,1
+Federico Fernández,33,ar ARG,CB,28-270,90,0,0,0,0,0,0,0,0,64,1,2,0,0.0,0.0,0.0,0,0,43,50,86.0,2,22,0,0,0
+Kyle Naughton,26,eng ENG,RB,29-001,90,0,0,0,0,2,0,0,0,98,3,2,1,0.0,0.0,0.1,5,0,63,82,76.8,7,36,7,1,1
+Łukasz Fabiański,1,pl POL,GK,32-214,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,26,35,74.3,0,16,0,0,0

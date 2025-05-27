@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Carlton Morris,9,eng ENG,FW,27-252,90,0,0,0,0,3,0,0,0,27,0,0,0,0.2,0.2,0.0,3,0,12,17,70.6,5,14,1,2,1
+Elijah Adebayo,11,eng ENG,FW,25-230,69,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.1,1,0,13,15,86.7,1,12,0,2,1
+Jacob Brown,19,sct SCO,"RW,FW",25-137,21,0,0,0,0,2,0,1,0,7,0,0,0,0.1,0.1,0.0,1,0,2,4,50.0,0,5,1,1,0
+Ross Barkley,6,eng ENG,CM,29-263,76,0,0,0,0,2,0,0,0,35,0,1,0,0.1,0.1,0.0,1,0,25,29,86.2,3,21,0,0,0
+Pelly Ruddock Mpanzu,17,cd COD,CM,30-039,14,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,2,0,2,2,100.0,1,3,0,1,1
+Marvelous Nakamba,13,zw ZIM,CM,29-218,90,0,0,0,0,0,0,1,0,42,3,1,0,0.0,0.0,0.0,3,0,33,37,89.2,3,26,0,0,0
+Tahith Chong,14,nl NED,CM,23-264,76,0,0,0,0,1,0,0,0,27,4,1,0,0.0,0.0,0.0,2,0,18,20,90.0,1,19,2,2,1
+Chiedozie Ogbene,7,ie IRL,LW,26-116,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,2,0.0,0,4,1,0,0
+Ryan Giles,26,eng ENG,"LB,LM",23-211,90,0,0,0,0,1,1,0,0,44,1,0,0,0.1,0.1,0.0,2,0,30,40,75.0,3,24,0,0,0
+Amari'i Bell,29,jm JAM,CB,29-112,90,0,0,0,0,0,0,0,0,63,7,0,1,0.0,0.0,0.0,0,0,37,49,75.5,4,43,0,0,0
+Tom Lockyer,4,wls WAL,CB,28-265,90,0,0,0,0,0,0,1,0,39,1,0,3,0.0,0.0,0.0,1,0,18,27,66.7,3,21,0,0,0
+Reece Burke,16,eng ENG,CB,26-357,76,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.0,1,0,20,25,80.0,3,18,0,0,0
+Mads Juel Andersen,5,dk DEN,CB,25-241,14,0,0,0,0,0,0,0,0,9,0,1,1,0.0,0.0,0.0,0,0,5,7,71.4,1,4,0,0,0
+Issa Kaboré,12,bf BFA,RB,22-105,69,0,0,0,0,1,0,0,0,29,0,0,0,0.0,0.0,0.0,2,0,16,20,80.0,2,19,3,4,3
+Alfie Doughty,45,eng ENG,"RM,RB",23-247,21,0,0,0,0,0,0,0,0,11,1,1,0,0.0,0.0,0.0,1,0,7,10,70.0,0,6,0,0,0
+Thomas Kaminski,24,be BEL,GK,30-306,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,18,34,52.9,0,20,0,0,0

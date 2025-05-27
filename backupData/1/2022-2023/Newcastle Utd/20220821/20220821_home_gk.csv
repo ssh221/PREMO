@@ -1,0 +1,2 @@
+﻿player,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions
+Nick Pope,eng ENG,30-124,90,10,3,7,70.0,4.0,8,19,42.1,24,5,62.5,42.3,4,100.0,62.0,16,2,12.5,2,15.1

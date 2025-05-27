@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lyle Foster,17,za RSA,FW,22-358,80,1,0,0,0,1,1,0,0,19,1,0,0,0.1,0.1,0.0,0,0,10,14,71.4,0,12,3,0,0
+Jay Rodriguez,9,eng ENG,FW,34-029,10,0,0,0,0,2,0,0,0,4,0,0,0,0.5,0.5,0.0,0,0,1,2,50.0,0,2,0,0,0
+Zeki Amdouni,25,ch SUI,"FW,AM",22-266,80,0,0,0,0,2,0,0,0,25,1,0,1,0.1,0.1,0.0,1,0,15,16,93.8,3,13,1,3,1
+Jacob Bruun Larsen,34,dk DEN,WB,24-342,10,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,0,6,0,0,0
+Luca Koleosho,30,it ITA,LM,18-346,67,0,0,0,0,2,0,0,0,40,1,0,0,0.0,0.0,0.0,3,0,24,34,70.6,4,31,6,6,3
+Nathan Redmond,15,eng ENG,"AM,WB",29-174,23,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,8,12,66.7,0,8,2,0,0
+Sander Berge,16,no NOR,CM,25-194,67,0,0,0,0,0,0,1,0,34,1,0,0,0.0,0.0,0.0,1,0,25,27,92.6,0,22,0,1,0
+Aaron Ramsey,21,eng ENG,FW,20-218,23,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,5,0,0,0
+Josh Cullen,24,ie IRL,CM,27-142,90,0,0,0,0,0,0,1,0,84,2,1,1,0.0,0.0,0.3,2,0,63,78,80.8,4,62,0,1,0
+Benson Manuel,10,ao ANG,RM,26-152,45,0,0,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.0,0,0,9,13,69.2,0,13,0,2,2
+Jóhann Berg Guðmundsson,7,is ISL,"WB,RM",32-304,45,0,1,0,0,0,0,0,0,37,0,1,0,0.0,0.0,0.2,4,1,28,34,82.4,5,25,0,1,1
+Hannes Delcroix,44,be BEL,"CB,LB",24-180,90,0,0,0,0,2,1,0,0,101,0,3,0,0.1,0.1,0.1,3,0,86,92,93.5,6,77,0,0,0
+Dara O'Shea,2,ie IRL,CB,24-176,90,0,0,0,0,0,0,0,0,121,1,4,2,0.0,0.0,0.0,1,0,102,109,93.6,6,93,1,0,0
+Ameen Al-Dakhil,28,be BEL,"CB,RB",21-174,90,0,0,0,0,0,0,0,0,86,0,1,0,0.0,0.0,0.0,0,0,72,83,86.7,8,71,2,1,1
+Connor Roberts,14,wls WAL,"RB,CM,LB",27-338,90,0,0,0,0,0,0,0,0,87,1,1,2,0.0,0.0,0.0,1,1,74,82,90.2,9,71,0,0,0
+James Trafford,1,eng ENG,GK,20-321,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,25,27,92.6,1,17,0,0,0

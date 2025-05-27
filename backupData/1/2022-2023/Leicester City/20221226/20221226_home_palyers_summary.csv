@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patson Daka,20,zm ZAM,FW,24-078,45,0,0,0,0,1,0,0,0,21,0,0,1,0.1,0.1,0.0,0,0,8,11,72.7,1,12,1,2,1
+Jamie Vardy,9,eng ENG,FW,35-349,45,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,3,1,0,0
+Harvey Barnes,7,eng ENG,LW,25-017,70,0,0,0,0,0,0,0,0,30,1,0,1,0.0,0.0,0.0,0,0,9,15,60.0,1,15,2,2,1
+Kelechi Iheanacho,14,ng NGA,LW,26-084,20,0,0,0,0,2,0,0,0,15,0,0,0,0.1,0.1,0.0,1,0,10,12,83.3,0,11,0,2,1
+Dennis Praet,26,be BEL,RW,28-226,16,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0
+Ayoze Pérez,17,es ESP,RW,29-150,74,0,0,0,0,1,0,0,0,53,4,2,1,0.1,0.1,0.0,0,0,25,33,75.8,6,31,3,5,1
+Kiernan Dewsbury-Hall,22,eng ENG,AM,24-111,90,0,0,0,0,1,1,0,0,52,2,0,2,0.1,0.1,0.1,1,0,30,38,78.9,2,32,5,3,1
+Boubakary Soumaré,42,fr FRA,DM,23-302,71,0,0,0,0,0,0,0,0,63,2,1,1,0.0,0.0,0.0,0,0,42,54,77.8,2,35,1,0,0
+Wilfred Ndidi,25,ng NGA,DM,26-010,19,0,0,0,0,1,1,0,0,31,1,1,0,0.0,0.0,0.0,2,0,27,28,96.4,5,21,0,0,0
+Youri Tielemans,8,be BEL,DM,25-233,90,0,0,0,0,0,0,0,0,90,4,0,1,0.0,0.0,0.1,1,0,60,81,74.1,6,48,0,1,1
+Luke Thomas,33,eng ENG,LB,21-199,90,0,0,0,0,0,0,0,0,77,3,2,2,0.0,0.0,0.1,2,0,54,66,81.8,5,40,2,0,0
+Wout Faes,3,be BEL,CB,24-267,90,0,0,0,0,1,0,0,0,106,0,2,0,0.0,0.0,0.1,1,0,83,97,85.6,4,71,1,1,0
+Daniel Amartey,18,gh GHA,CB,28-005,90,0,0,0,0,0,0,0,0,91,2,1,1,0.0,0.0,0.0,3,0,74,81,91.4,7,60,1,0,0
+Timothy Castagne,27,be BEL,RB,27-021,90,0,0,0,0,1,0,0,0,78,4,2,2,0.1,0.1,0.0,2,0,55,67,82.1,5,44,2,1,0
+Danny Ward,1,wls WAL,GK,29-187,90,0,0,0,0,0,0,0,0,37,1,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,22,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Paterson,13,sct SCO,FW,24-014,90,1,0,0,0,1,1,0,0,25,1,0,0,0.8,0.8,0.0,0,0,12,19,63.2,2,4,0,0,0
+Bobby De Cordova-Reid,14,jm JAM,FW,25-267,82,0,0,0,0,0,0,0,0,21,0,0,1,0.0,0.0,0.0,1,1,12,16,75.0,1,11,0,2,1
+Kenneth Zohore,10,dk DEN,FW,24-269,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Josh Murphy,11,eng ENG,LM,23-245,73,0,0,0,0,0,0,0,0,25,1,2,0,0.0,0.0,0.0,0,0,5,15,33.3,1,16,4,4,1
+Kadeem Harris,23,eng ENG,LM,25-141,17,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,7,42.9,0,5,1,2,2
+Aron Gunnarsson,17,is ISL,CM,29-188,72,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.0,0,0,19,27,70.4,1,8,0,2,2
+Loïc Damour,20,fr FRA,CM,27-292,18,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,1,0,4,7,57.1,0,4,0,0,0
+Víctor Camarasa,21,es ESP,CM,24-152,90,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.0,1,0,18,28,64.3,3,19,3,1,0
+Junior Hoilett,33,ca CAN,RM,28-144,90,0,0,0,0,1,0,0,0,27,2,3,2,0.0,0.0,0.0,1,1,6,14,42.9,1,12,0,1,0
+Joe Bennett,3,eng ENG,LB,28-213,90,0,0,0,0,0,0,0,0,46,3,4,1,0.0,0.0,0.0,0,0,24,29,82.8,1,10,1,1,1
+Sol Bamba,22,ci CIV,CB,33-287,90,0,0,0,0,0,0,0,0,33,4,3,4,0.0,0.0,0.0,0,0,8,14,57.1,1,8,0,0,0
+Sean Morrison,4,eng ENG,CB,27-292,90,0,0,0,0,0,0,0,0,31,0,0,4,0.0,0.0,0.0,0,0,6,16,37.5,1,4,0,0,0
+Bruno Ecuele Manga,5,ga GAB,RB,30-103,90,0,0,0,0,0,0,0,0,35,0,6,1,0.0,0.0,0.0,0,0,9,22,40.9,1,11,2,1,1
+Neil Etheridge,1,ph PHI,GK,28-262,90,0,0,0,0,0,0,0,0,31,0,1,0,0.0,0.0,0.0,0,0,10,29,34.5,0,16,0,0,0

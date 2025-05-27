@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Richarlison,7,br BRA,FW,22-211,70,1,0,0,0,2,2,1,0,23,2,0,1,0.6,0.6,0.0,3,1,12,15,80.0,1,12,0,1,1
+Tom Davies,26,eng ENG,AM,21-160,20,0,0,0,0,1,0,0,0,16,1,0,0,0.1,0.1,0.0,0,0,5,11,45.5,0,8,0,1,0
+Dominic Calvert-Lewin,9,eng ENG,FW,22-266,90,2,0,0,0,6,4,1,0,48,0,1,2,1.0,1.0,0.0,6,1,16,27,59.3,4,18,0,1,1
+Alex Iwobi,17,ng NGA,"LM,LW",23-218,90,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.1,2,0,13,23,56.5,2,27,1,4,1
+Gylfi Sigurðsson,10,is ISL,"CM,DM",30-090,90,0,0,0,0,0,0,0,0,36,4,1,1,0.0,0.0,0.0,1,0,20,26,76.9,2,9,0,0,0
+Morgan Schneiderlin,18,fr FRA,"CM,DM",30-029,90,0,0,0,0,1,0,0,0,40,6,1,0,0.0,0.0,0.0,0,0,17,27,63.0,1,9,0,0,0
+Theo Walcott,11,eng ENG,"RM,RW",30-266,85,0,0,0,0,3,1,0,0,26,0,0,0,0.1,0.1,0.1,4,2,5,13,38.5,2,17,3,2,1
+Bernard,20,br BRA,RW,27-090,5,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,1,5,0,0,0
+Lucas Digne,12,fr FRA,LB,26-140,81,0,0,0,0,0,0,1,0,42,7,1,1,0.0,0.0,0.1,1,0,20,28,71.4,0,15,1,1,1
+Leighton Baines,3,eng ENG,LB,34-361,9,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0
+Mason Holgate,2,eng ENG,CB,23-046,90,0,0,0,0,0,0,0,0,21,5,0,3,0.0,0.0,0.0,0,0,5,11,45.5,0,4,0,0,0
+Michael Keane,5,eng ENG,CB,26-330,90,0,0,0,0,0,0,0,0,32,1,1,0,0.0,0.0,0.0,0,0,10,17,58.8,0,5,0,0,0
+Djibril Sidibé,19,fr FRA,RB,27-131,90,0,1,0,0,0,0,0,0,67,7,4,3,0.0,0.0,0.7,5,2,30,46,65.2,4,24,1,0,0
+Jordan Pickford,1,eng ENG,GK,25-275,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,13,35,37.1,0,13,0,0,0

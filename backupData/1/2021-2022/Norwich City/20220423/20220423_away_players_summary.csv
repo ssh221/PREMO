@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joelinton,7,br BRA,FW,25-252,66,2,0,0,0,3,3,0,0,43,1,0,1,0.6,0.6,0.0,1,0,28,32,87.5,3,20,0,0,0
+Miguel Almirón,24,py PAR,"LW,RW",28-072,24,0,0,0,0,1,0,0,0,18,0,1,0,0.1,0.1,0.0,3,0,17,17,100.0,1,12,0,0,0
+Allan Saint-Maximin,10,fr FRA,"LW,FW",25-042,90,0,1,0,0,1,1,1,0,56,1,0,0,0.0,0.0,0.1,5,0,35,44,79.5,8,37,5,9,7
+Jacob Murphy,23,eng ENG,"RW,LW",27-058,73,0,1,0,0,2,0,0,0,43,1,2,2,0.3,0.3,0.8,4,2,24,32,75.0,1,14,2,0,0
+Matt Ritchie,11,sct SCO,RW,32-225,17,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,19,23,82.6,0,14,0,0,0
+Joe Willock,28,eng ENG,"LM,RM",22-246,90,0,0,0,0,3,2,0,0,45,2,0,0,0.3,0.3,0.1,1,0,31,35,88.6,3,26,3,3,1
+Bruno Guimarães,39,br BRA,CM,24-158,86,1,0,0,0,1,1,1,0,71,2,3,1,0.5,0.5,0.3,3,0,53,57,93.0,7,36,1,1,0
+Dwight Gayle,34,eng ENG,CM,31-188,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,3,0,0,0
+Sean Longstaff,36,eng ENG,"RM,LM",24-175,90,0,0,0,0,1,0,0,0,57,1,1,1,0.1,0.1,0.0,1,0,43,48,89.6,5,29,0,1,1
+Matt Targett,13,eng ENG,LB,26-217,90,0,0,0,0,0,0,0,0,54,2,3,0,0.0,0.0,0.0,1,0,33,44,75.0,4,23,0,3,1
+Dan Burn,33,eng ENG,CB,29-349,90,0,0,0,0,1,0,0,0,54,1,4,0,0.0,0.0,0.0,0,0,33,40,82.5,1,18,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,28-163,90,0,0,0,0,0,0,0,0,62,2,0,0,0.0,0.0,0.0,0,0,40,53,75.5,0,29,0,0,0
+Emil Krafth,17,se SWE,RB,27-264,90,0,0,0,0,0,0,0,0,92,2,0,0,0.0,0.0,0.0,2,1,61,83,73.5,6,31,1,0,0
+Martin Dúbravka,1,sk SVK,GK,33-098,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,33,41,80.5,0,20,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,10,eng ENG,FW,21-340,90,0,0,0,0,0,0,0,0,22,0,0,1,0.0,0.0,0.1,3,0,12,17,70.6,1,12,2,1,0
+Daniel James,21,wls WAL,LW,21-330,90,0,0,0,0,1,1,0,0,31,1,0,0,0.0,0.0,0.0,1,0,14,24,58.3,1,20,5,3,1
+Andreas Pereira,15,br BRA,RW,23-278,90,0,0,0,0,2,1,0,0,40,1,2,0,0.1,0.1,0.0,3,0,23,31,74.2,4,25,2,1,1
+Juan Mata,8,es ESP,AM,31-161,65,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.0,2,0,33,37,89.2,2,25,0,1,0
+Mason Greenwood,26,eng ENG,AM,18-005,25,0,0,0,0,1,1,0,0,6,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,1,4,0,0,0
+Fred,17,br BRA,DM,26-215,90,0,0,0,0,1,0,1,0,104,1,2,1,0.0,0.0,0.0,0,0,85,96,88.5,6,68,2,0,0
+Scott McTominay,39,sct SCO,DM,22-302,90,0,0,0,0,3,0,1,0,77,2,0,3,0.1,0.1,0.1,3,0,49,64,76.6,4,45,2,1,1
+Ashley Young,18,eng ENG,LB,34-089,85,0,0,0,0,0,0,0,0,106,0,0,3,0.0,0.0,0.6,8,0,82,99,82.8,14,54,3,1,0
+Tahith Chong,44,nl NED,LB,19-306,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Harry Maguire,5,eng ENG,CB,26-215,90,0,0,0,0,3,0,0,0,104,0,0,1,0.3,0.3,0.1,3,0,90,98,91.8,7,71,6,0,0
+Axel Tuanzebe,38,cd COD,"CB,RB",21-326,90,0,0,0,0,0,0,0,0,89,1,2,0,0.0,0.0,0.0,1,0,73,81,90.1,6,48,0,0,0
+Diogo Dalot,20,pt POR,RB,20-202,59,0,0,0,0,0,0,0,0,62,2,2,0,0.0,0.0,0.0,0,0,42,55,76.4,2,25,2,2,0
+Marcos Rojo,16,ar ARG,CB,29-200,31,0,0,0,0,1,0,1,0,25,2,0,0,0.2,0.2,0.0,0,0,18,21,85.7,4,15,0,0,0
+David de Gea,1,es ESP,GK,28-333,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,23,24,95.8,0,7,0,0,0

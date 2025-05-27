@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-126,90,0,0,0,0,2,0,1,0,46,0,0,1,0.1,0.1,0.3,2,0,17,26,65.4,2,21,0,4,1
+Ryan Babel,12,nl NED,LW,32-032,54,0,0,0,0,3,1,0,0,21,1,1,0,0.5,0.5,0.1,3,0,9,11,81.8,3,15,3,1,0
+Ryan Sessegnon,3,eng ENG,LW,18-247,36,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,3,4,75.0,0,7,1,2,0
+André Schürrle,14,de GER,RW,28-075,71,0,0,0,0,1,1,0,0,27,1,1,0,0.1,0.1,0.0,1,0,6,15,40.0,1,9,0,2,2
+Neeskens Kebano,7,cd COD,RW,26-316,19,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Joe Bryan,23,eng ENG,LM,25-125,90,0,0,0,0,2,1,0,0,55,2,1,1,0.1,0.1,0.0,4,0,26,39,66.7,4,15,1,1,1
+Jean Seri,24,ci CIV,CM,27-185,80,0,0,0,0,0,0,1,0,40,0,3,2,0.0,0.0,0.0,1,0,19,33,57.6,0,8,0,0,0
+Ibrahima Cissé,44,gn GUI,CM,24-326,10,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Calum Chambers,5,eng ENG,CM,24-000,90,0,0,0,0,2,1,0,0,43,5,3,1,0.1,0.1,0.1,2,0,16,25,64.0,5,11,1,3,2
+Cyrus Christie,22,ie IRL,RM,26-112,90,0,0,0,0,0,0,0,0,48,3,1,1,0.0,0.0,0.1,1,0,20,32,62.5,1,19,3,3,2
+Tim Ream,13,us USA,CB,31-107,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.1,3,0,18,23,78.3,4,9,0,0,0
+Maxime Le Marchand,20,fr FRA,CB,29-101,90,0,0,0,0,0,0,0,0,32,1,2,1,0.0,0.0,0.0,1,0,16,23,69.6,0,10,0,0,0
+Denis Odoi,4,gh GHA,CB,30-238,90,0,0,0,0,2,0,0,0,40,0,2,1,0.1,0.1,0.1,2,0,19,24,79.2,1,14,1,0,0
+Sergio Rico,25,es ESP,GK,25-141,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,17,31,54.8,0,15,0,0,0

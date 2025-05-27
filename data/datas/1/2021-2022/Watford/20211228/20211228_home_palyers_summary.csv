@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Emmanuel Dennis,25,ng NGA,"FW,RW,RM",24-043,90,1,0,0,0,2,2,0,0,37,2,0,2,0.6,0.6,0.0,3,0,13,22,59.1,1,26,3,3,1
+Joshua King,7,no NOR,"FW,LM",29-347,90,0,1,0,0,2,1,0,0,42,3,1,0,0.5,0.5,0.1,3,1,17,26,65.4,5,20,5,5,3
+Ozan Tufan,18,tr TUR,CM,26-280,61,0,0,0,0,0,0,0,0,20,0,0,1,0.0,0.0,0.0,0,0,11,16,68.8,1,9,0,1,1
+Ken Sema,12,se SWE,LW,28-089,29,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,1,1,0
+Juraj Kucka,33,sk SVK,"RB,CM",34-305,90,0,0,0,0,2,0,0,0,73,4,2,1,0.1,0.1,0.1,2,0,42,57,73.7,6,19,0,1,1
+Cucho,29,co COL,RM,22-252,45,0,0,0,0,1,0,0,0,27,1,0,1,0.1,0.1,0.0,2,1,11,20,55.0,4,12,1,0,0
+João Pedro,10,br BRA,"AM,LM",20-093,45,0,0,0,0,3,0,0,0,20,0,0,2,0.1,0.1,1.0,6,0,9,12,75.0,3,14,4,4,4
+Moussa Sissoko,19,fr FRA,"DM,CM",32-134,90,0,0,0,0,1,1,0,0,45,1,2,3,0.1,0.1,0.0,2,0,19,27,70.4,2,19,3,2,1
+Adam Masina,11,ma MAR,LB,27-360,90,0,0,0,0,2,0,0,0,42,1,1,3,0.1,0.1,0.0,0,0,17,33,51.5,2,13,1,0,0
+Craig Cathcart,15,nir NIR,CB,32-325,90,0,0,0,0,0,0,0,0,36,1,1,3,0.0,0.0,0.0,0,0,23,27,85.2,1,13,1,0,0
+Francisco Sierralta,31,cl CHI,CB,24-236,90,0,0,0,0,1,1,0,0,53,2,3,1,0.1,0.1,0.0,0,0,14,32,43.8,0,15,0,0,0
+Kiko Femenía,21,es ESP,RB,30-329,39,0,0,0,0,0,0,0,0,28,0,1,0,0.0,0.0,0.0,1,0,13,22,59.1,3,8,0,0,0
+Imran Louza,6,ma MAR,DM,22-241,51,0,0,0,0,0,0,0,0,43,1,2,0,0.0,0.0,0.1,4,0,29,39,74.4,6,17,1,1,0
+Daniel Bachmann,26,at AUT,GK,27-172,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,14,24,58.3,0,13,0,0,0

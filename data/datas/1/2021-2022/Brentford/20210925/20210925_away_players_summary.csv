@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Diogo Jota,20,pt POR,"FW,RM",24-295,90,1,0,0,0,2,2,0,0,34,0,0,0,0.7,0.7,0.6,3,0,19,22,86.4,2,25,1,5,1
+Sadio Mané,10,sn SEN,"LW,LM",29-168,90,0,0,0,0,1,0,0,0,47,1,0,0,0.4,0.4,0.6,3,0,29,40,72.5,4,32,5,1,0
+Mohamed Salah,11,eg EGY,"RW,FW",29-102,90,1,0,0,0,3,1,0,0,51,0,1,0,1.6,1.6,0.0,5,1,27,41,65.9,4,33,4,4,2
+Curtis Jones,17,eng ENG,LM,20-238,67,1,0,0,0,4,1,0,0,52,3,0,0,0.2,0.2,0.0,4,1,37,42,88.1,1,37,2,3,2
+Roberto Firmino,9,br BRA,FW,29-358,23,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,8,1,0,0
+Fabinho,3,br BRA,CM,27-337,90,0,1,0,0,0,0,0,0,65,0,2,2,0.0,0.0,0.5,1,1,55,61,90.2,7,38,0,0,0
+Jordan Henderson,14,eng ENG,"RM,CM",31-100,90,0,1,0,0,0,0,0,0,62,1,0,3,0.0,0.0,0.3,3,1,48,58,82.8,4,38,3,0,0
+Andrew Robertson,26,sct SCO,LB,27-198,90,0,1,0,0,1,0,1,0,102,0,0,0,0.0,0.0,0.0,3,1,80,96,83.3,6,63,4,1,0
+Virgil van Dijk,4,nl NED,CB,30-079,90,0,0,0,0,1,1,0,0,60,2,1,0,0.0,0.0,0.0,0,0,45,51,88.2,4,26,0,0,0
+Joël Matip,32,cm CMR,CB,30-048,90,0,0,0,0,1,0,0,0,68,0,2,3,0.0,0.0,0.0,0,0,46,58,79.3,1,41,1,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,22-353,90,0,0,0,0,3,0,0,0,118,4,3,1,0.1,0.1,0.0,5,1,76,104,73.1,11,58,2,1,0
+Alisson,1,br BRA,GK,28-358,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,26,30,86.7,0,16,0,0,0

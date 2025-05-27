@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jay Rodriguez,19,eng ENG,FW,28-098,90,0,0,0,0,4,1,0,0,37,0,0,0,0.2,0.2,0.0,1,0,12,25,48.0,0,20,2,0,0
+Hal Robson-Kanu,4,wls WAL,FW,28-167,58,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.1,2,0,10,12,83.3,3,19,0,2,1
+Salomón Rondón,9,ve VEN,FW,28-049,32,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,4,0,1,1
+Gareth Barry,18,eng ENG,CM,36-254,90,0,0,0,0,0,0,1,0,54,2,0,0,0.0,0.0,0.0,1,0,39,49,79.6,6,28,0,0,0
+Grzegorz Krychowiak,20,pl POL,CM,27-279,58,0,0,0,0,0,0,0,0,28,1,2,1,0.0,0.0,0.0,1,0,20,21,95.2,1,5,0,1,1
+James McClean,14,ie IRL,LM,28-196,32,0,0,0,0,1,1,1,0,21,1,0,0,0.0,0.0,0.0,2,0,10,16,62.5,0,11,1,1,1
+Jake Livermore,8,eng ENG,CM,27-355,90,0,0,0,0,1,0,0,0,68,0,2,0,0.0,0.0,0.0,1,0,46,59,78.0,9,44,2,0,0
+Kieran Gibbs,3,eng ENG,"WB,LB",28-039,90,0,0,0,0,1,0,0,0,65,2,1,1,0.0,0.0,0.0,4,0,46,56,82.1,5,33,4,2,1
+Allan Nyom,2,cm CMR,"WB,RB",29-178,90,0,0,0,0,0,0,1,0,70,2,1,0,0.0,0.0,0.0,0,0,47,63,74.6,1,35,2,2,1
+Jonny Evans,6,nir NIR,CB,29-305,90,0,0,0,0,0,0,0,0,61,3,2,0,0.0,0.0,0.1,2,0,42,51,82.4,5,32,1,0,0
+Ahmed Hegazi,26,eg EGY,CB,26-283,90,0,0,0,0,0,0,1,0,61,2,3,1,0.0,0.0,0.1,1,0,45,51,88.2,4,39,0,3,2
+Gareth McAuley,23,nir NIR,CB,37-334,58,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,16,0,0,0
+Matt Phillips,10,sct SCO,RM,26-236,32,0,0,0,0,1,1,0,0,19,0,0,0,0.1,0.1,0.0,1,0,13,14,92.9,0,14,2,3,1
+Ben Foster,1,eng ENG,GK,34-215,90,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,12,22,54.5,0,9,0,0,0

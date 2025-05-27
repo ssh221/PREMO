@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joe Aribo,7,ng NGA,FW,26-268,61,0,0,0,0,1,0,0,0,21,1,0,0,0.1,0.1,0.0,0,0,10,15,66.7,4,12,2,1,1
+Paul Onuachu,12,ng NGA,FW,28-322,29,0,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,3,5,60.0,0,4,0,1,1
+Carlos Alcaraz,26,ar ARG,"FW,AM",20-136,79,0,0,0,0,4,2,0,0,33,0,0,0,0.2,0.2,0.0,0,0,15,23,65.2,0,10,0,0,0
+Samuel Edozie,23,eng ENG,RW,20-077,11,0,0,0,0,0,0,0,0,8,1,0,1,0.0,0.0,0.0,0,0,4,5,80.0,1,4,1,0,0
+Kamaldeen Sulemana,20,gh GHA,"LM,RW",21-059,79,0,0,0,0,2,0,0,0,40,0,0,1,0.2,0.2,0.1,4,0,23,28,82.1,7,27,3,7,4
+Stuart Armstrong,17,sct SCO,AM,31-016,11,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,7,7,100.0,0,8,1,0,0
+Roméo Lavia,45,be BEL,"CM,DM",19-099,90,0,0,0,0,1,0,1,0,64,2,2,2,0.0,0.0,0.0,1,0,46,53,86.8,8,42,1,0,0
+James Ward-Prowse,8,eng ENG,"CM,DM",28-165,90,0,0,0,0,0,0,0,0,81,3,2,0,0.0,0.0,0.0,2,0,61,75,81.3,4,38,0,0,0
+Theo Walcott,32,eng ENG,RM,34-030,61,0,0,0,0,1,0,0,0,18,0,0,1,0.1,0.1,0.3,5,0,11,12,91.7,3,10,1,1,1
+Moussa Djenepo,19,ml MLI,LW,24-304,29,0,0,0,0,0,0,0,0,10,0,0,2,0.0,0.0,0.1,1,0,5,7,71.4,0,6,1,2,1
+Kyle Walker-Peters,2,eng ENG,LB,26-002,90,0,0,0,0,0,0,0,0,62,1,2,0,0.0,0.0,0.0,2,0,48,55,87.3,7,43,3,5,2
+Armel Bella Kotchap,37,de GER,CB,21-125,90,0,0,0,0,1,1,1,0,86,3,1,1,0.0,0.0,0.0,1,0,62,76,81.6,2,54,1,1,1
+Jan Bednarek,35,pl POL,CB,27-003,90,0,0,0,0,0,0,1,0,83,0,3,2,0.0,0.0,0.0,1,0,62,76,81.6,8,52,1,2,1
+Ainsley Maitland-Niles,3,eng ENG,RB,25-229,90,0,0,0,0,0,0,0,0,80,4,5,2,0.0,0.0,0.0,2,0,52,69,75.4,2,39,0,1,0
+Gavin Bazunu,31,ie IRL,GK,21-054,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,31,34,91.2,0,22,0,0,0

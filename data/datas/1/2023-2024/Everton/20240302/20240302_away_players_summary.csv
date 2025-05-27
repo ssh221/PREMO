@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jarrod Bowen,20,eng ENG,"FW,RW",27-073,90,0,1,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.6,2,1,13,18,72.2,3,12,4,2,0
+Lucas Paquetá,10,br BRA,"LW,FW",26-188,79,0,0,0,0,2,0,0,0,58,2,0,1,0.2,0.2,0.3,3,0,27,46,58.7,1,19,0,0,0
+Michail Antonio,9,jm JAM,FW,33-340,11,0,0,0,0,0,0,1,0,7,0,0,0,0.0,0.0,0.0,0,0,1,6,16.7,1,4,2,1,1
+Mohammed Kudus,14,gh GHA,"RW,LW",23-213,89,0,1,0,0,4,1,0,0,50,2,0,1,0.5,0.5,0.1,3,2,27,35,77.1,2,37,6,6,3
+Ben Johnson,2,eng ENG,"LB,LW",24-038,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+James Ward-Prowse,7,eng ENG,AM,29-122,65,0,1,0,0,0,0,0,0,39,2,1,0,0.0,0.0,0.4,2,1,32,34,94.1,2,16,1,3,2
+Kalvin Phillips,11,eng ENG,"DM,CM",28-091,25,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,1,4,0,0,0
+Edson Álvarez,19,mx MEX,DM,26-130,90,1,0,0,0,2,2,0,0,68,5,5,4,0.6,0.6,0.0,3,0,44,53,83.0,4,32,3,4,4
+Tomáš Souček,28,cz CZE,"DM,AM",29-004,90,1,0,0,0,1,1,1,0,48,2,3,3,0.0,0.0,0.0,1,0,20,31,64.5,3,14,0,0,0
+Emerson Palmieri,33,it ITA,LB,29-212,89,0,0,0,0,0,0,0,0,72,3,0,1,0.0,0.0,0.1,3,1,47,58,81.0,7,24,2,1,1
+Angelo Ogbonna,21,it ITA,"CB,LB",35-284,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Kurt Zouma,4,fr FRA,CB,29-127,90,1,0,0,0,2,1,0,0,53,1,0,2,0.3,0.3,0.0,0,0,36,39,92.3,3,22,0,0,0
+Konstantinos Mavropanos,15,gr GRE,CB,26-082,90,0,0,0,0,1,0,0,0,52,4,0,1,0.1,0.1,0.0,2,0,26,37,70.3,2,22,2,0,0
+Vladimír Coufal,5,cz CZE,RB,31-193,90,0,0,0,0,0,0,0,0,69,2,3,2,0.0,0.0,0.0,1,0,35,53,66.0,2,17,1,1,1
+Alphonse Areola,23,fr FRA,GK,31-004,90,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,21,35,60.0,0,18,0,0,0

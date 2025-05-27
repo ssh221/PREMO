@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sergio Agüero,10,ar ARG,FW,30-091,90,0,1,0,0,4,0,0,0,49,0,1,1,0.2,0.2,0.6,7,1,33,36,91.7,3,40,7,5,3
+Gabriel Jesus,33,br BRA,FW,21-151,57,0,0,0,0,3,2,0,0,21,0,0,1,0.3,0.3,0.0,1,0,9,13,69.2,0,19,2,0,0
+Bernardo Silva,20,pt POR,"FW,RW",24-022,33,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,1,0,19,26,73.1,2,21,2,0,0
+Raheem Sterling,7,eng ENG,"LM,LW",23-267,90,1,0,0,0,3,1,0,0,77,4,0,1,0.2,0.2,0.1,5,1,54,66,81.8,6,69,6,1,0
+David Silva,21,es ESP,"CM,RM",32-236,88,0,0,0,0,5,2,0,0,82,0,0,0,0.6,0.6,0.4,9,0,65,76,85.5,10,67,6,0,0
+Vincent Kompany,4,be BEL,"CB,RM",32-144,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Riyad Mahrez,26,dz ALG,RM,27-192,75,0,0,0,0,3,0,0,0,59,0,1,1,0.1,0.1,0.3,5,0,38,46,82.6,0,49,4,4,3
+İlkay Gündoğan,8,de GER,LM,27-312,15,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,12,14,85.7,1,9,1,0,0
+Fernandinho,25,br BRA,"DM,CM",33-120,90,0,0,0,0,2,1,0,0,111,0,0,1,0.5,0.5,0.1,6,0,79,98,80.6,5,83,3,2,1
+Benjamin Mendy,22,fr FRA,LB,24-046,90,0,1,0,0,0,0,0,0,109,0,0,1,0.0,0.0,0.0,3,1,100,108,92.6,5,69,1,0,0
+Aymeric Laporte,14,es ESP,CB,24-097,90,0,0,0,0,1,0,0,0,127,1,0,0,0.0,0.0,0.0,3,0,116,120,96.7,16,106,3,0,0
+John Stones,5,eng ENG,"CB,RM",24-096,90,0,0,0,0,0,0,0,0,117,1,3,0,0.0,0.0,0.0,3,0,105,110,95.5,12,83,3,1,1
+Kyle Walker,2,eng ENG,RB,28-096,90,1,0,0,0,2,2,0,0,95,2,1,0,0.1,0.1,0.0,0,0,78,90,86.7,4,56,1,0,0
+Ederson,31,br BRA,GK,25-015,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,21,23,91.3,0,15,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,24-289,90,2,0,0,0,3,2,0,0,20,0,0,0,0.2,0.2,0.0,2,2,13,14,92.9,3,12,2,1,1
+Lucas Moura,27,br BRA,LW,25-273,73,0,1,0,0,2,0,0,0,41,0,0,1,0.1,0.1,0.1,4,1,25,32,78.1,2,31,4,3,1
+Dele Alli,20,eng ENG,"CM,FW,LW",22-032,17,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,9,10,90.0,1,11,1,3,1
+Érik Lamela,11,ar ARG,RW,26-070,77,2,0,0,0,2,2,0,0,36,2,1,1,1.2,1.2,0.0,2,0,20,27,74.1,2,25,1,0,0
+Davinson Sánchez,6,co COL,CB,21-335,13,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,4,0,0,0
+Christian Eriksen,23,dk DEN,"AM,CM",26-088,90,0,0,0,0,2,0,0,0,74,2,1,0,0.1,0.1,0.2,5,0,48,67,71.6,9,40,2,2,2
+Victor Wanyama,12,ke KEN,"DM,CM",26-322,90,0,0,0,0,1,0,1,0,63,8,1,1,0.0,0.0,0.0,2,0,42,47,89.4,1,33,0,2,0
+Moussa Sissoko,17,fr FRA,"DM,CM",28-270,83,0,0,0,0,1,0,0,0,44,2,0,0,0.1,0.1,0.0,0,0,33,39,84.6,4,20,3,0,0
+Son Heung-min,7,kr KOR,"FW,CM",25-309,7,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0
+Danny Rose,3,eng ENG,"LB,WB",27-315,90,0,1,0,0,0,0,0,0,54,1,0,0,0.0,0.0,0.1,4,1,40,50,80.0,7,32,4,2,1
+Eric Dier,15,eng ENG,CB,24-118,90,0,0,0,0,1,1,0,0,65,3,2,0,0.1,0.1,0.0,1,0,52,59,88.1,3,39,0,0,0
+Toby Alderweireld,4,be BEL,CB,29-072,90,0,0,0,0,2,1,0,0,77,0,1,1,0.1,0.1,0.0,2,0,54,68,79.4,7,44,0,0,0
+Kyle Walker-Peters,37,eng ENG,"RB,WB",21-030,90,0,2,0,0,0,0,0,0,71,2,3,1,0.0,0.0,1.2,3,2,38,58,65.5,2,36,3,5,3
+Hugo Lloris,1,fr FRA,GK,31-138,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,29,40,72.5,0,23,0,1,1

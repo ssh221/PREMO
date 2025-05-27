@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Eddie Nketiah,14,eng ENG,FW,23-264,90,0,0,0,0,5,0,0,0,25,1,0,1,1.1,1.1,0.3,4,0,11,14,78.6,0,10,2,1,1
+Leandro Trossard,19,be BEL,LW,28-076,67,0,0,0,0,0,0,0,0,37,1,0,2,0.0,0.0,0.0,2,0,24,31,77.4,6,24,7,1,1
+Gabriel Martinelli,11,br BRA,"LW,LM",21-245,23,1,0,0,0,1,1,0,0,12,0,0,0,1.0,1.0,0.1,2,0,6,9,66.7,0,10,3,2,1
+Bukayo Saka,7,eng ENG,"RW,RM",21-166,90,1,0,0,0,6,2,1,0,74,4,0,1,0.3,0.3,0.0,2,1,29,51,56.9,4,39,5,11,4
+Granit Xhaka,34,ch SUI,LM,30-144,78,0,0,0,0,1,0,0,0,48,0,0,1,0.1,0.1,0.0,2,0,35,43,81.4,4,24,1,2,0
+Fabio Vieira,21,pt POR,"LM,CM",22-264,12,0,1,0,0,0,0,0,0,7,0,0,0,0.0,0.0,1.0,1,1,6,7,85.7,2,6,0,0,0
+Jorginho,20,it ITA,CM,31-060,90,0,0,0,0,1,0,0,0,86,3,0,0,0.1,0.1,0.1,5,1,71,81,87.7,15,54,2,1,0
+Martin Ødegaard,8,no NOR,RM,24-063,89,0,1,0,0,1,0,0,0,69,1,0,0,0.3,0.3,0.9,11,1,56,65,86.2,12,42,5,3,3
+Rob Holding,16,eng ENG,CB,27-151,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Oleksandr Zinchenko,35,ua UKR,LB,26-065,89,1,0,0,0,3,2,0,0,98,2,0,1,0.1,0.1,0.0,2,0,75,89,84.3,8,43,6,2,0
+Kieran Tierney,3,sct SCO,LB,25-258,1,0,0,0,0,0,0,0,0,1,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Gabriel Magalhães,6,br BRA,CB,25-061,90,0,0,0,0,2,0,0,0,66,1,0,0,0.3,0.3,0.0,1,1,58,62,93.5,7,41,1,0,0
+William Saliba,12,fr FRA,CB,21-331,90,0,0,0,0,0,0,0,0,81,2,0,0,0.0,0.0,0.0,0,0,70,75,93.3,3,49,0,0,0
+Ben White,4,eng ENG,RB,25-133,78,0,0,0,0,0,0,0,0,85,2,0,0,0.0,0.0,0.2,2,0,59,77,76.6,5,43,3,4,0
+Takehiro Tomiyasu,18,jp JPN,RB,24-105,12,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,12,16,75.0,2,12,1,0,0
+Aaron Ramsdale,1,eng ENG,GK,24-280,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,17,0,0,0

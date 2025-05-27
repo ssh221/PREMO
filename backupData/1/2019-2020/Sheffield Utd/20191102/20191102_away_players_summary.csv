@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jay Rodriguez,19,eng ENG,FW,30-096,77,0,0,0,0,1,0,0,0,24,0,0,1,0.1,0.1,0.0,0,0,11,15,73.3,2,13,1,2,1
+Matěj Vydra,27,cz CZE,FW,27-185,13,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,2,0,0,0
+Ashley Barnes,10,eng ENG,FW,30-003,90,0,0,0,0,3,0,1,0,24,0,0,0,0.5,0.5,0.0,1,0,7,15,46.7,2,16,0,0,0
+Dwight McNeil,11,eng ENG,LM,19-345,58,0,0,0,0,0,0,0,0,27,0,0,1,0.0,0.0,0.0,0,0,16,22,72.7,0,19,1,2,0
+Robbie Brady,12,ie IRL,LM,27-292,32,0,0,0,0,1,0,0,0,16,1,1,0,0.1,0.1,0.0,0,0,8,12,66.7,1,6,0,0,0
+Jack Cork,4,eng ENG,CM,30-130,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,32,44,72.7,1,25,1,0,0
+Ashley Westwood,18,eng ENG,CM,29-215,90,0,0,0,0,0,0,0,0,85,0,0,0,0.0,0.0,0.0,3,0,68,81,84.0,8,50,3,0,0
+Jeff Hendrick,13,ie IRL,RM,27-275,90,0,0,0,0,1,0,0,0,39,1,0,0,0.0,0.0,0.0,1,0,26,32,81.3,1,20,1,1,0
+Erik Pieters,23,nl NED,LB,31-087,45,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,1,0,23,32,71.9,3,15,0,0,0
+Charlie Taylor,3,eng ENG,LB,26-045,45,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.1,1,0,19,24,79.2,0,17,2,1,1
+Ben Mee,6,eng ENG,CB,30-042,90,0,0,0,0,0,0,0,0,79,1,2,1,0.0,0.0,0.0,0,0,47,67,70.1,2,42,0,0,0
+James Tarkowski,5,eng ENG,CB,26-348,90,0,0,0,0,0,0,1,0,65,0,1,2,0.0,0.0,0.0,0,0,45,56,80.4,5,31,0,0,0
+Matthew Lowton,2,eng ENG,RB,30-146,90,0,0,0,0,0,0,0,0,84,2,0,1,0.0,0.0,0.0,0,0,54,76,71.1,6,41,3,1,0
+Nick Pope,1,eng ENG,GK,27-197,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,1,0,21,42,50.0,0,23,0,0,0

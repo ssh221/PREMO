@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,9,nz NZL,FW,29-118,90,1,1,1,1,4,3,0,0,35,0,0,0,1.4,0.6,0.0,1,1,20,28,71.4,3,22,2,1,0
+Matěj Vydra,27,cz CZE,FW,28-338,77,1,0,0,0,1,1,0,0,27,1,1,0,0.0,0.0,0.0,1,0,12,17,70.6,1,19,1,1,1
+Jay Rodriguez,19,eng ENG,FW,31-249,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Dwight McNeil,11,eng ENG,LM,21-133,90,0,0,0,0,0,0,0,0,53,4,1,0,0.0,0.0,0.5,3,1,23,45,51.1,2,36,3,4,2
+Josh Brownhill,8,eng ENG,CM,25-106,90,0,0,0,0,0,0,0,0,55,1,1,3,0.0,0.0,0.0,1,0,31,40,77.5,5,23,0,1,1
+Ashley Westwood,18,eng ENG,CM,31-003,90,0,0,0,0,0,0,0,0,71,1,3,1,0.0,0.0,0.0,0,0,39,63,61.9,7,33,0,1,0
+Jóhann Berg Guðmundsson,7,is ISL,RM,30-159,89,0,0,0,0,0,0,0,0,37,5,1,2,0.0,0.0,0.0,2,0,20,30,66.7,3,23,1,1,1
+Lewis Richardson,38,eng ENG,RM,18-056,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Erik Pieters,23,nl NED,LB,32-240,32,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,1,1,8,10,80.0,1,5,1,2,1
+Charlie Taylor,3,eng ENG,LB,27-198,58,0,0,0,0,0,0,0,0,46,1,2,4,0.0,0.0,0.1,1,0,24,36,66.7,2,17,0,0,0
+Ben Mee,6,eng ENG,CB,31-195,90,0,0,0,0,1,0,0,0,44,1,0,3,0.0,0.0,0.0,1,1,21,29,72.4,0,21,0,0,0
+James Tarkowski,5,eng ENG,CB,28-136,90,0,0,0,0,0,0,0,0,50,2,1,3,0.0,0.0,0.0,0,0,24,39,61.5,3,19,0,0,0
+Matthew Lowton,2,eng ENG,RB,31-299,90,0,0,0,0,0,0,0,0,56,2,0,0,0.0,0.0,0.0,2,0,28,44,63.6,3,24,1,2,0
+Nick Pope,1,eng ENG,GK,28-350,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,15,26,57.7,0,15,0,0,0

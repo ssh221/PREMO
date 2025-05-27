@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,29-031,90,2,0,0,1,5,3,1,0,50,0,0,2,1.4,0.6,0.2,6,0,23,33,69.7,5,34,3,5,1
+Son Heung-min,7,kr KOR,AM,30-051,73,0,0,0,0,2,1,0,0,22,0,0,0,0.2,0.2,0.2,4,0,11,17,64.7,2,15,3,1,0
+Richarlison,9,br BRA,"LM,AM",25-110,17,0,1,0,0,2,1,0,0,17,0,1,0,0.4,0.4,0.4,2,1,10,12,83.3,0,9,1,0,0
+Dejan Kulusevski,21,se SWE,AM,22-125,82,0,1,0,0,4,0,0,0,41,0,1,0,0.2,0.2,0.3,6,1,26,32,81.3,3,30,9,4,1
+Yves Bissouma,38,ml MLI,CM,25-363,8,0,0,0,0,0,0,0,0,13,1,1,1,0.0,0.0,0.0,0,0,6,9,66.7,2,6,0,0,0
+Rodrigo Bentancur,30,uy URU,"CM,RM",25-064,89,0,0,0,0,0,0,0,0,59,1,2,1,0.0,0.0,0.0,2,0,44,51,86.3,1,27,0,2,1
+Djed Spence,24,eng ENG,RM,22-019,1,0,0,0,0,1,0,0,0,1,0,0,0,0.1,0.1,0.0,0,0,0,0,,0,0,0,0,0
+Pierre Højbjerg,5,dk DEN,CM,27-023,90,0,0,0,0,1,0,0,0,73,1,5,1,0.1,0.1,0.3,6,1,55,67,82.1,6,36,2,2,2
+Ivan Perišić,14,hr CRO,WB,33-207,73,0,0,0,0,1,0,0,0,36,3,1,0,0.0,0.0,0.0,0,0,18,27,66.7,0,15,3,3,1
+Ryan Sessegnon,19,eng ENG,"LB,WB",22-102,17,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,6,8,75.0,0,4,1,0,0
+Emerson,12,br BRA,"WB,RB",23-226,90,0,0,0,0,0,0,0,0,67,2,0,0,0.0,0.0,0.0,0,0,44,56,78.6,2,34,2,0,0
+Ben Davies,33,wls WAL,CB,29-126,90,0,0,0,0,1,0,0,0,43,1,3,1,0.1,0.1,0.0,3,0,29,33,87.9,2,16,2,1,0
+Eric Dier,15,eng ENG,CB,28-225,90,0,0,0,0,0,0,0,0,63,0,1,2,0.0,0.0,0.0,0,0,51,59,86.4,1,32,0,0,0
+Davinson Sánchez,6,co COL,CB,26-077,90,0,0,0,0,0,0,0,0,74,3,2,0,0.0,0.0,0.0,0,0,49,58,84.5,0,35,0,0,0
+Hugo Lloris,1,fr FRA,GK,35-245,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,28,40,70.0,0,22,0,0,0

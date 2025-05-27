@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,28-106,90,0,0,0,1,1,0,0,0,38,1,0,1,0.8,0.0,0.0,1,0,18,26,69.2,3,22,0,2,1
+Willian,20,br BRA,LW,34-144,90,0,0,0,0,1,0,0,0,55,1,2,2,0.1,0.1,0.1,5,0,33,44,75.0,6,27,2,1,0
+Bobby De Cordova-Reid,14,jm JAM,RW,29-332,61,0,0,0,0,0,0,0,0,29,0,1,0,0.0,0.0,0.2,1,0,14,24,58.3,1,18,0,0,0
+Daniel James,21,wls WAL,RW,25-051,29,0,0,0,0,0,0,0,0,16,2,0,1,0.0,0.0,0.0,1,0,4,12,33.3,2,10,0,0,0
+Andreas Pereira,18,br BRA,AM,26-364,89,0,0,0,0,2,0,0,0,39,0,0,0,0.3,0.3,0.0,1,1,27,33,81.8,6,21,0,1,0
+Tosin Adarabioyo,4,eng ENG,CB,25-098,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+João Palhinha,26,pt POR,DM,27-175,90,1,0,0,0,2,1,0,0,67,6,4,1,0.3,0.3,0.0,1,0,34,44,77.3,1,27,0,0,0
+Harrison Reed,6,eng ENG,DM,27-338,61,0,0,0,0,0,0,0,0,48,1,0,2,0.0,0.0,0.0,0,0,28,33,84.8,6,23,1,1,0
+Tom Cairney,10,sct SCO,"DM,CM",31-345,29,0,0,0,0,0,0,0,0,33,1,1,0,0.0,0.0,0.0,2,0,20,28,71.4,3,20,2,0,0
+Antonee Robinson,33,us USA,LB,25-145,90,0,0,0,0,0,0,0,0,81,1,0,1,0.0,0.0,0.0,0,0,50,71,70.4,3,43,2,2,0
+Tim Ream,13,us USA,CB,35-087,90,0,0,0,0,0,0,0,0,92,0,1,0,0.0,0.0,0.0,1,0,80,87,92.0,5,66,1,0,0
+Issa Diop,31,fr FRA,CB,25-356,90,0,0,0,0,0,0,0,0,117,2,1,1,0.0,0.0,0.0,0,0,85,104,81.7,3,73,0,0,0
+Kenny Tete,2,nl NED,RB,27-083,90,0,1,0,0,1,0,0,0,100,4,2,2,0.1,0.1,0.3,1,1,65,83,78.3,3,44,0,1,0
+Bernd Leno,17,de GER,GK,30-302,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,38,39,97.4,0,26,0,0,0

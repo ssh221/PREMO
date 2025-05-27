@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Allan Saint-Maximin,10,fr FRA,FW,23-331,66,0,2,0,0,0,0,0,0,20,1,1,0,0.0,0.0,0.4,4,3,7,12,58.3,1,17,1,9,7
+Paul Dummett,3,wls WAL,CB,29-133,24,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Callum Wilson,13,eng ENG,FW,28-345,35,0,0,0,0,1,1,0,0,14,1,0,0,0.1,0.1,0.0,0,0,4,9,44.4,0,9,3,1,0
+Joelinton,9,br BRA,"FW,CM,RM",24-176,55,0,0,0,0,0,0,0,0,32,0,0,3,0.0,0.0,0.0,2,0,6,14,42.9,1,12,1,4,2
+Miguel Almirón,24,py PAR,"AM,LM",26-362,90,2,0,0,0,2,2,0,0,29,3,1,0,0.1,0.1,0.0,2,1,14,21,66.7,2,22,0,2,1
+Jonjo Shelvey,8,eng ENG,"LM,CM",28-345,90,0,0,0,0,1,0,0,0,30,1,0,1,0.1,0.1,0.0,0,0,15,24,62.5,2,15,0,0,0
+Jeff Hendrick,16,ie IRL,CM,29-006,49,0,0,0,0,0,0,2,1,20,0,1,1,0.0,0.0,0.0,1,1,6,16,37.5,2,9,0,0,0
+Joe Willock,28,eng ENG,"RM,CB,CM",21-170,90,1,0,0,0,1,1,0,0,30,5,2,2,0.3,0.3,0.2,2,0,7,12,58.3,2,11,3,3,2
+Jamal Lewis,15,nir NIR,LB,23-012,90,0,0,0,0,0,0,0,0,50,2,1,1,0.0,0.0,0.0,0,0,24,39,61.5,1,23,0,1,0
+Fabian Schär,5,ch SUI,CB,29-048,78,0,0,0,0,1,0,0,0,29,0,2,3,0.1,0.1,0.0,0,0,13,21,61.9,3,9,0,0,0
+Isaac Hayden,14,eng ENG,CB,25-321,90,0,0,0,0,0,0,0,0,30,0,1,1,0.0,0.0,0.0,0,0,18,23,78.3,0,13,0,0,0
+Javier Manquillo,19,es ESP,RB,26-277,23,0,0,0,0,0,0,0,0,17,1,2,1,0.0,0.0,0.0,0,0,7,11,63.6,0,7,0,0,0
+Emil Krafth,17,se SWE,RB,26-188,67,0,0,0,0,0,0,1,0,30,2,1,2,0.0,0.0,0.0,0,0,8,16,50.0,0,10,0,0,0
+Karl Darlow,26,wls WAL,GK,30-121,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,11,30,36.7,0,9,0,0,0

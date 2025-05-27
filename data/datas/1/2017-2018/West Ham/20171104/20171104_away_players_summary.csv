@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mohamed Salah,11,eg EGY,FW,25-142,90,2,0,0,0,3,3,0,0,45,0,0,1,0.6,0.6,0.5,6,1,20,32,62.5,2,24,1,1,0
+Roberto Firmino,9,br BRA,FW,26-033,86,0,0,0,0,3,1,0,0,48,6,0,3,0.6,0.6,0.2,6,0,23,37,62.2,5,21,5,2,2
+Dominic Solanke,29,eng ENG,FW,20-051,4,0,0,0,0,1,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Sadio Mané,19,sn SEN,AM,25-208,76,0,2,0,0,3,0,0,0,40,0,0,2,0.1,0.1,0.5,3,3,23,28,82.1,2,28,3,3,2
+James Milner,7,eng ENG,"AM,CM",31-304,14,0,0,0,0,1,0,0,0,12,2,0,0,0.0,0.0,0.0,1,0,5,11,45.5,0,8,4,0,0
+Alex Oxlade-Chamberlain,21,eng ENG,AM,24-081,86,1,0,0,0,3,2,0,0,43,2,1,1,0.7,0.7,0.1,5,1,21,30,70.0,3,20,3,0,0
+Dejan Lovren,6,hr CRO,"AM,CB",28-122,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0
+Emre Can,23,de GER,DM,23-296,90,0,0,0,0,0,0,0,0,72,0,1,2,0.0,0.0,0.2,3,0,51,64,79.7,6,38,4,3,2
+Georginio Wijnaldum,5,nl NED,DM,26-358,90,0,0,0,0,0,0,0,0,55,0,4,2,0.0,0.0,0.0,0,0,41,48,85.4,2,25,1,1,1
+Alberto Moreno,18,es ESP,LB,25-122,90,0,0,0,0,0,0,0,0,68,3,1,0,0.0,0.0,0.0,0,0,42,57,73.7,2,21,0,2,1
+Ragnar Klavan,17,ee EST,CB,32-005,90,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.0,2,1,58,63,92.1,0,29,0,0,0
+Joël Matip,32,cm CMR,CB,26-088,90,1,0,0,0,1,1,0,0,73,2,0,0,0.5,0.5,0.0,1,1,52,61,85.2,3,29,0,0,0
+Joe Gomez,12,eng ENG,RB,20-165,90,0,0,0,0,0,0,0,0,67,4,0,0,0.0,0.0,0.0,1,0,47,59,79.7,4,22,1,2,2
+Simon Mignolet,22,be BEL,GK,29-243,90,0,0,0,0,0,0,0,0,31,1,0,0,0.0,0.0,0.0,0,0,17,30,56.7,0,12,0,0,0

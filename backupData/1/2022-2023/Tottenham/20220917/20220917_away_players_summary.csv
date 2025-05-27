@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patson Daka,20,zm ZAM,FW,23-343,73,0,0,0,0,3,2,1,0,30,1,0,0,0.2,0.2,0.2,2,0,16,23,69.6,2,10,1,0,0
+Jamie Vardy,9,eng ENG,FW,35-249,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,0,0,0,0
+Harvey Barnes,7,eng ENG,LM,24-282,90,0,0,0,0,3,0,0,0,44,1,1,2,0.2,0.2,0.0,1,0,28,33,84.8,4,29,5,2,1
+Kiernan Dewsbury-Hall,22,eng ENG,CM,24-011,73,0,0,0,0,1,0,0,0,66,0,0,2,0.1,0.1,0.2,5,1,48,56,85.7,5,42,2,2,0
+Kelechi Iheanacho,14,ng NGA,CM,25-349,17,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.1,2,0,12,15,80.0,0,9,0,0,0
+Youri Tielemans,8,be BEL,CM,25-133,90,1,0,1,1,2,1,0,0,96,3,1,1,0.8,0.0,0.0,3,0,75,83,90.4,9,51,1,1,1
+James Maddison,10,eng ENG,RM,25-298,90,1,0,0,0,7,3,0,0,70,4,1,0,0.4,0.4,0.2,7,0,44,56,78.6,10,52,4,0,0
+Wilfred Ndidi,25,ng NGA,DM,25-275,84,0,0,0,0,2,0,1,0,56,0,1,2,0.1,0.1,0.0,1,0,42,49,85.7,7,29,0,0,0
+Boubakary Soumaré,42,fr FRA,DM,23-202,6,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,8,8,100.0,0,6,0,0,0
+James Justin,2,eng ENG,LB,24-206,90,0,0,0,0,0,0,0,0,99,1,0,2,0.0,0.0,0.1,6,2,75,82,91.5,5,54,3,5,2
+Wout Faes,3,be BEL,CB,24-167,90,0,0,0,0,0,0,0,0,95,1,1,1,0.0,0.0,0.1,1,0,77,86,89.5,4,65,0,0,0
+Jonny Evans,6,nir NIR,CB,34-257,90,0,0,0,0,0,0,0,0,95,2,1,1,0.0,0.0,0.0,1,0,79,85,92.9,4,64,1,0,0
+Timothy Castagne,27,be BEL,RB,26-286,90,0,1,0,0,0,0,0,0,57,2,2,1,0.0,0.0,0.0,3,1,41,50,82.0,1,25,2,0,0
+Danny Ward,1,wls WAL,GK,29-087,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,21,28,75.0,0,17,0,0,0

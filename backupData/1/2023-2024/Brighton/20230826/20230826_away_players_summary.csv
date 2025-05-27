@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,33-151,78,1,0,0,0,3,2,0,0,22,1,0,1,0.7,0.7,0.3,3,2,7,10,70.0,0,11,3,4,3
+Thilo Kehrer,24,de GER,CB,26-339,12,0,0,0,0,0,0,1,0,3,0,0,2,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Lucas Paquetá,10,br BRA,"CM,LM,RM",25-364,84,0,0,0,0,2,1,0,0,39,2,3,1,0.3,0.3,0.6,2,0,11,21,52.4,3,11,0,1,0
+Danny Ings,18,eng ENG,FW,31-034,6,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0
+James Ward-Prowse,7,eng ENG,CM,28-298,90,1,0,0,0,3,2,1,0,43,0,4,2,0.8,0.8,0.0,4,1,21,31,67.7,3,5,0,0,0
+Tomáš Souček,28,cz CZE,CM,28-180,38,0,0,0,0,0,0,0,0,8,1,2,0,0.0,0.0,0.0,1,0,2,2,100.0,1,2,0,0,0
+Saïd Benrahma,22,dz ALG,LM,28-016,52,0,1,0,0,0,0,0,0,40,1,0,1,0.0,0.0,0.7,7,1,25,29,86.2,7,21,5,7,3
+Jarrod Bowen,20,eng ENG,"RM,FW",26-249,90,1,1,0,0,3,2,0,0,29,2,2,0,1.2,1.2,0.1,1,1,11,16,68.8,4,16,4,4,1
+Edson Álvarez,19,mx MEX,"DM,CM",25-306,83,0,0,0,0,0,0,1,0,27,1,2,2,0.0,0.0,0.0,0,0,8,15,53.3,1,7,0,1,1
+Pablo Fornals,8,es ESP,CM,27-185,7,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,1,6,0,1,0
+Emerson Palmieri,33,it ITA,LB,29-023,90,0,0,0,0,1,0,0,0,35,2,2,0,0.0,0.0,0.5,1,0,14,21,66.7,0,17,1,2,1
+Angelo Ogbonna,21,it ITA,CB,35-095,90,0,0,0,0,0,0,0,0,29,1,1,5,0.0,0.0,0.0,0,0,14,17,82.4,1,10,0,0,0
+Kurt Zouma,4,fr FRA,CB,28-303,90,0,0,0,0,0,0,0,0,30,2,2,3,0.0,0.0,0.0,1,0,5,11,45.5,1,4,0,0,0
+Vladimír Coufal,5,cz CZE,RB,31-004,90,0,0,0,0,0,0,0,0,30,2,0,1,0.0,0.0,0.0,1,0,12,18,66.7,3,7,0,0,0
+Alphonse Areola,23,fr FRA,GK,30-180,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,14,33,42.4,0,14,0,0,0

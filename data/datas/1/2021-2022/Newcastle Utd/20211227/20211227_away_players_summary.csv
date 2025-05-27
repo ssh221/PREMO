@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cristiano Ronaldo,7,pt POR,FW,36-325,90,0,0,0,0,2,0,1,0,36,0,0,0,0.2,0.2,0.0,0,0,24,31,77.4,2,27,1,1,1
+Mason Greenwood,11,eng ENG,FW,20-087,45,0,0,0,0,2,1,0,0,20,0,0,0,0.2,0.2,0.0,0,0,10,16,62.5,0,11,0,1,1
+Edinson Cavani,21,uy URU,FW,34-316,45,1,0,0,0,5,1,0,0,20,0,0,0,1.1,1.1,0.0,1,1,8,10,80.0,0,16,0,0,0
+Bruno Fernandes,18,pt POR,"DM,AM",27-110,90,0,0,0,0,0,0,1,0,85,0,0,3,0.0,0.0,0.3,4,0,55,78,70.5,11,66,0,4,1
+Marcus Rashford,10,eng ENG,AM,24-057,90,0,0,0,0,2,1,0,0,56,2,0,0,0.1,0.1,0.0,6,0,34,46,73.9,7,44,6,8,4
+Fred,17,br BRA,DM,28-297,45,0,0,0,0,0,0,0,0,49,2,0,1,0.0,0.0,0.0,2,0,34,43,79.1,4,39,0,0,0
+Jadon Sancho,25,eng ENG,AM,21-277,45,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.3,2,0,22,30,73.3,0,24,2,5,4
+Scott McTominay,39,sct SCO,DM,25-019,77,0,0,0,0,1,0,0,0,71,4,2,1,0.0,0.0,0.0,2,0,51,62,82.3,8,40,2,2,0
+Nemanja Matić,31,rs SRB,DM,33-148,13,0,0,0,0,0,0,0,0,18,1,3,0,0.0,0.0,0.0,0,0,9,12,75.0,1,12,0,0,0
+Alex Telles,27,br BRA,LB,29-012,90,0,0,0,0,0,0,0,0,73,1,2,2,0.0,0.0,0.5,4,0,54,62,87.1,1,41,0,3,0
+Harry Maguire,5,eng ENG,CB,28-297,90,0,0,0,0,0,0,1,0,85,0,0,0,0.0,0.0,0.0,2,0,72,82,87.8,22,68,1,0,0
+Raphaël Varane,19,fr FRA,CB,28-246,90,0,0,0,0,1,0,0,0,75,4,1,1,0.0,0.0,0.0,1,0,54,64,84.4,7,52,1,0,0
+Diogo Dalot,20,pt POR,RB,22-284,90,0,0,0,0,0,0,0,0,81,3,2,0,0.0,0.0,0.2,1,0,55,71,77.5,2,44,3,1,0
+David de Gea,1,es ESP,GK,31-050,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,13,20,65.0,0,9,0,0,0

@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joshua King,7,no NOR,FW,28-186,68,0,0,0,0,0,0,0,0,29,0,0,1,0.0,0.0,0.1,1,0,11,18,61.1,4,14,0,4,1
+Lewis Cook,16,eng ENG,"CM,FW",23-167,22,0,0,0,0,0,0,1,0,12,1,0,0,0.0,0.0,0.0,0,0,8,10,80.0,2,5,0,1,1
+Callum Wilson,13,eng ENG,"FW,LW",28-143,90,0,0,0,0,2,0,0,0,26,1,0,1,0.1,0.1,0.0,0,0,9,18,50.0,3,20,0,1,0
+Junior Stanislas,19,eng ENG,LM,30-236,69,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.1,3,0,10,19,52.6,1,11,4,0,0
+Dominic Solanke,9,eng ENG,"FW,LM",22-309,21,0,0,0,0,1,0,0,0,7,0,0,1,0.1,0.1,0.0,1,0,2,3,66.7,0,3,0,0,0
+Philip Billing,29,dk DEN,CM,24-038,86,0,0,0,0,0,0,1,0,41,3,1,5,0.0,0.0,0.1,3,0,13,27,48.1,5,14,1,0,0
+Dan Gosling,4,eng ENG,CM,30-169,4,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0
+Jefferson Lerma,8,co COL,CM,25-268,81,0,0,0,0,1,0,0,0,44,3,1,1,0.1,0.1,0.0,1,0,21,33,63.6,4,15,0,0,0
+Sam Surridge,44,eng ENG,RW,21-357,9,0,0,0,0,0,0,0,0,8,0,1,1,0.0,0.0,0.1,0,0,0,4,0.0,0,4,0,0,0
+David Brooks,20,wls WAL,RM,23-011,45,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,4,9,44.4,2,9,1,0,0
+Harry Wilson,22,wls WAL,"RM,LM",23-119,45,0,0,0,0,4,2,0,0,30,1,3,2,0.2,0.2,0.0,1,0,9,18,50.0,3,12,0,1,1
+Diego Rico,21,es ESP,"LB,CB",27-147,90,0,0,0,0,1,0,0,0,73,5,1,1,0.0,0.0,0.2,3,0,37,63,58.7,10,16,1,0,0
+Lloyd Kelly,26,eng ENG,CB,21-287,90,0,0,0,0,1,0,0,0,40,0,0,3,0.0,0.0,0.0,1,0,18,30,60.0,0,17,0,0,0
+Steve Cook,3,eng ENG,CB,29-091,90,0,0,0,0,1,1,0,0,37,0,1,2,0.1,0.1,0.0,0,0,18,29,62.1,3,11,1,0,0
+Jack Stacey,17,eng ENG,"RB,RM",24-104,90,0,0,0,0,0,0,0,0,45,1,1,2,0.0,0.0,0.0,0,0,22,39,56.4,3,15,0,1,0
+Aaron Ramsdale,12,eng ENG,GK,22-066,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,16,32,50.0,0,24,0,0,0

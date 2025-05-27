@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,7,fr FRA,FW,27-114,90,0,0,0,0,1,0,0,0,27,0,0,1,0.3,0.3,0.0,3,0,15,22,68.2,2,18,0,1,1
+Bryan Mbeumo,19,cm CMR,FW,24-121,39,1,0,1,1,0,0,0,0,13,1,0,0,0.8,0.0,0.0,0,0,3,6,50.0,0,8,0,0,0
+Yoane Wissa,11,cd COD,FW,27-094,51,0,0,0,0,1,0,1,0,8,1,1,0,0.1,0.1,0.0,0,0,3,3,100.0,0,4,1,0,0
+Shandon Baptiste,26,gd GRN,LM,25-242,68,0,0,0,0,0,0,0,0,26,1,2,2,0.0,0.0,0.0,0,0,13,17,76.5,0,8,0,3,1
+Mikkel Damsgaard,24,dk DEN,LM,23-156,22,0,0,0,0,0,0,0,0,26,3,0,0,0.0,0.0,0.0,0,0,14,19,73.7,2,18,0,4,2
+Vitaly Janelt,27,de GER,CM,25-210,90,0,0,0,0,0,0,0,0,50,4,0,2,0.0,0.0,0.1,2,1,33,39,84.6,2,18,0,0,0
+Yehor Yarmoliuk,33,ua UKR,CM,19-280,45,0,0,0,0,0,0,0,0,21,1,1,2,0.0,0.0,0.0,0,0,13,14,92.9,1,13,0,2,1
+Keane Lewis-Potter,23,eng ENG,CM,22-287,45,0,0,0,0,2,0,0,0,13,0,1,0,0.0,0.0,0.0,1,0,5,9,55.6,0,5,0,0,0
+Frank Onyeka,15,ng NGA,RM,25-339,90,0,0,0,0,1,0,0,0,33,5,0,0,0.0,0.0,0.3,3,0,18,23,78.3,0,21,1,1,1
+Saman Ghoddos,14,ir IRN,LB,30-091,90,0,0,0,0,0,0,0,0,53,4,1,0,0.0,0.0,0.1,3,0,24,41,58.5,2,26,0,3,0
+Ben Mee,16,eng ENG,CB,34-076,90,0,0,0,0,1,0,0,0,64,1,0,2,0.1,0.1,0.0,1,0,44,53,83.0,1,36,1,1,0
+Ethan Pinnock,5,jm JAM,CB,30-191,90,0,0,0,0,1,0,0,0,74,5,2,1,0.1,0.1,0.0,0,0,51,59,86.4,1,40,0,0,0
+Mads Roerslev,30,dk DEN,RB,24-165,83,0,0,0,0,0,0,0,0,52,2,3,0,0.0,0.0,0.0,0,0,23,43,53.5,0,26,0,2,1
+Myles Peart-Harris,25,eng ENG,RB,21-079,7,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0
+Mark Flekken,1,nl NED,GK,30-176,90,0,0,0,0,0,0,0,0,54,0,0,0,0.0,0.0,0.0,0,0,33,52,63.5,0,29,0,0,0

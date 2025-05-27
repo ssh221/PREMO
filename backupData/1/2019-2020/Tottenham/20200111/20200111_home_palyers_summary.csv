@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dele Alli,20,eng ENG,"FW,CM",23-275,90,0,0,0,0,1,0,0,0,53,2,1,0,0.1,0.1,0.0,3,0,31,40,77.5,2,34,1,6,2
+Lucas Moura,27,br BRA,FW,27-151,90,0,0,0,0,4,0,0,0,31,1,0,0,0.2,0.2,0.1,5,0,14,17,82.4,2,25,4,5,4
+Son Heung-min,7,kr KOR,LM,27-187,90,0,0,0,0,4,1,0,0,27,0,1,0,0.2,0.2,0.0,3,0,16,18,88.9,1,17,2,4,2
+Harry Winks,8,eng ENG,"CM,DM",23-343,90,0,0,0,0,0,0,0,0,62,3,2,1,0.0,0.0,0.0,0,0,48,55,87.3,4,43,1,0,0
+Christian Eriksen,23,dk DEN,CM,27-331,68,0,0,0,0,1,1,0,0,39,1,0,1,0.0,0.0,0.3,4,0,23,30,76.7,4,14,0,0,0
+Giovani Lo Celso,18,ar ARG,CM,23-277,22,0,0,0,0,1,0,0,0,16,0,0,2,0.6,0.6,0.0,0,0,8,12,66.7,1,9,2,1,1
+Serge Aurier,24,ci CIV,"RM,RB",27-018,90,0,0,0,0,1,1,0,0,58,1,2,4,0.1,0.1,0.6,4,0,34,43,79.1,2,36,4,1,1
+Danny Rose,3,eng ENG,LB,29-193,68,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,19,0,1,1
+Érik Lamela,11,ar ARG,RM,27-313,22,0,0,0,0,1,1,0,0,18,1,0,0,0.0,0.0,0.0,1,0,9,12,75.0,2,14,1,5,3
+Davinson Sánchez,6,co COL,CB,23-213,90,0,0,0,0,0,0,0,0,54,1,3,2,0.0,0.0,0.0,0,0,35,38,92.1,3,35,0,1,1
+Toby Alderweireld,4,be BEL,CB,30-315,90,0,0,0,0,1,0,0,0,72,1,2,1,0.1,0.1,0.0,2,0,41,58,70.7,4,42,0,0,0
+Japhet Tanganga,39,eng ENG,"RB,LB",20-286,90,0,0,0,0,0,0,0,0,49,2,2,1,0.0,0.0,0.0,2,0,27,34,79.4,0,28,0,0,0
+Paulo Gazzaniga,22,ar ARG,GK,28-009,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,22,34,64.7,0,26,0,0,0

@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Niclas Füllkrug,11,de GER,FW,32-084,79,0,0,0,0,1,0,0,0,33,0,0,0,0.1,0.1,0.0,1,0,18,26,69.2,2,14,0,1,0
+Evan Ferguson,34,ie IRL,FW,20-197,11,0,0,0,0,0,0,0,0,4,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,0,0,0,0
+Mohammed Kudus,14,gh GHA,AM,24-275,90,0,0,0,0,1,0,1,0,35,2,0,1,0.0,0.0,0.1,6,1,19,23,82.6,2,22,5,6,3
+Jarrod Bowen,20,eng ENG,AM,28-135,90,1,0,0,0,3,2,0,0,25,1,0,0,0.5,0.5,0.0,2,0,7,14,50.0,1,16,1,1,0
+Lucas Paquetá,10,br BRA,CM,27-250,79,0,0,0,0,0,0,1,0,66,3,0,1,0.0,0.0,0.0,1,0,41,54,75.9,5,29,2,1,1
+James Ward-Prowse,8,eng ENG,CM,30-184,11,0,0,0,0,2,0,0,0,12,2,0,0,0.1,0.1,0.2,3,0,7,8,87.5,2,3,0,0,0
+Tomáš Souček,28,cz CZE,CM,30-066,79,0,0,0,0,2,0,0,0,53,2,0,1,0.0,0.0,0.0,0,0,33,46,71.7,2,16,0,0,0
+Carlos Soler,4,es ESP,CM,28-122,11,0,0,0,0,0,0,0,0,10,2,0,0,0.0,0.0,0.0,1,0,6,7,85.7,0,3,0,0,0
+Emerson Palmieri,33,it ITA,WB,30-274,90,0,0,0,0,0,0,0,0,46,3,1,0,0.0,0.0,0.0,0,0,32,40,80.0,2,20,3,0,0
+Aaron Wan-Bissaka,29,eng ENG,WB,27-159,90,0,1,0,0,1,0,0,0,79,3,1,1,0.0,0.0,0.3,2,1,44,66,66.7,7,28,3,7,3
+Aaron Cresswell,3,eng ENG,CB,35-140,87,0,0,0,0,0,0,0,0,81,1,2,2,0.0,0.0,0.0,0,0,60,69,87.0,4,28,0,1,0
+Konstantinos Mavropanos,15,gr GRE,CB,27-144,3,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,2,0,0,0
+Max Kilman,26,eng ENG,CB,27-346,90,0,0,0,0,1,0,0,0,63,3,1,0,0.0,0.0,0.0,1,0,37,50,74.0,1,32,0,0,0
+Jean-Clair Todibo,25,fr FRA,CB,25-125,79,0,0,0,0,0,0,0,0,46,4,1,1,0.0,0.0,0.0,0,0,27,36,75.0,3,19,0,0,0
+Vladimír Coufal,5,cz CZE,CB,32-255,11,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,1,0,0,0
+Alphonse Areola,23,fr FRA,GK,32-066,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,18,40,45.0,0,23,0,0,0

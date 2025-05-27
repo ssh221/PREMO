@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pierre-Emerick Aubameyang,14,ga GAB,"FW,LW",29-055,90,0,0,0,0,1,0,0,0,26,0,0,0,0.0,0.0,0.0,1,0,14,22,63.6,1,14,1,0,0
+Henrikh Mkhitaryan,7,am ARM,"LW,RW",29-203,90,0,0,0,0,2,0,0,0,41,5,0,0,0.1,0.1,0.1,4,0,24,32,75.0,9,25,6,1,0
+Mesut Özil,10,de GER,"RW,AM",29-301,90,0,0,0,0,0,0,0,0,52,1,0,1,0.0,0.0,0.1,2,0,29,42,69.0,2,29,3,2,1
+Aaron Ramsey,8,wls WAL,AM,27-229,53,0,0,0,0,1,1,0,0,18,2,0,1,0.0,0.0,0.1,1,0,9,13,69.2,1,5,1,1,1
+Alexandre Lacazette,9,fr FRA,FW,27-076,37,0,0,0,0,2,0,0,0,15,1,0,1,0.1,0.1,0.0,0,0,6,10,60.0,1,8,1,0,0
+Granit Xhaka,34,ch SUI,DM,25-319,69,0,0,0,0,0,0,1,0,54,1,0,2,0.0,0.0,0.0,0,0,35,46,76.1,7,27,1,0,0
+Lucas Torreira,11,uy URU,DM,22-182,21,0,0,0,0,0,0,0,0,17,0,2,0,0.0,0.0,0.0,1,0,14,16,87.5,3,11,0,0,0
+Mattéo Guendouzi,29,fr FRA,DM,19-120,90,0,0,0,0,1,0,0,0,63,4,4,2,0.0,0.0,0.0,1,0,38,47,80.9,4,34,2,0,0
+Ainsley Maitland-Niles,15,eng ENG,LB,20-348,34,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.1,1,0,13,16,81.3,0,10,1,2,2
+Stephan Lichtsteiner,12,ch SUI,LB,34-208,56,0,0,0,0,0,0,0,0,42,0,0,2,0.0,0.0,0.0,0,0,30,40,75.0,1,20,2,0,0
+Sokratis Papastathopoulos,5,gr GRE,CB,30-064,90,0,0,0,0,0,0,1,0,53,1,0,1,0.0,0.0,0.0,1,0,30,37,81.1,2,27,0,0,0
+Shkodran Mustafi,20,de GER,CB,26-117,90,0,0,0,0,1,1,0,0,54,4,1,2,0.0,0.0,0.0,1,0,36,40,90.0,2,24,0,0,0
+Héctor Bellerín,2,es ESP,RB,23-146,90,0,0,0,0,1,1,0,0,47,2,5,1,0.1,0.1,0.0,3,0,26,33,78.8,3,17,2,1,1
+Petr Čech,1,cz CZE,GK,36-084,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,37,48,77.1,0,25,0,0,0

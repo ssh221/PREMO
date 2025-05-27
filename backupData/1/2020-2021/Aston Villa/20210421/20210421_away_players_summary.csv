@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,9,br BRA,FW,24-018,45,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.0,1,0,16,17,94.1,1,12,1,1,0
+Aymeric Laporte,14,es ESP,CB,26-329,45,0,0,0,0,0,0,0,0,38,0,1,0,0.0,0.0,0.0,0,0,34,35,97.1,0,26,0,0,0
+Phil Foden,47,eng ENG,"LM,LW",20-328,90,1,0,0,0,3,1,0,0,82,1,0,0,0.6,0.6,0.1,6,0,61,71,85.9,9,53,7,3,3
+Riyad Mahrez,26,dz ALG,"FW,RW",30-059,89,0,0,0,0,3,1,0,0,84,0,1,1,0.2,0.2,0.0,5,2,62,75,82.7,8,61,6,3,1
+Fernandinho,25,br BRA,"CM,FW",35-352,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+İlkay Gündoğan,8,de GER,"CM,LM,FW",30-179,90,0,0,0,0,2,0,1,0,119,0,0,0,0.1,0.1,0.2,3,0,109,117,93.2,13,64,7,2,2
+Rodri,16,es ESP,CM,24-303,90,1,0,0,0,1,1,0,0,123,0,1,0,0.2,0.2,0.0,1,0,109,116,94.0,4,85,1,1,1
+Bernardo Silva,20,pt POR,RM,26-254,90,0,2,0,0,1,0,0,0,80,1,0,1,0.0,0.0,0.6,3,2,65,69,94.2,7,56,7,5,4
+Oleksandr Zinchenko,11,ua UKR,LB,24-127,90,0,0,0,0,1,0,0,0,112,2,0,2,0.0,0.0,0.0,2,0,100,106,94.3,11,56,0,1,1
+Rúben Dias,3,pt POR,CB,23-342,90,0,0,0,0,1,0,0,0,83,0,1,1,0.1,0.1,0.0,0,0,68,75,90.7,5,58,2,0,0
+John Stones,5,eng ENG,CB,26-328,43,0,0,0,0,0,0,0,1,34,0,0,0,0.0,0.0,0.0,0,0,30,32,93.8,3,26,1,0,0
+Kyle Walker,2,eng ENG,RB,30-328,90,0,0,0,0,1,0,0,0,101,1,0,1,0.0,0.0,0.0,4,0,76,95,80.0,10,63,2,1,0
+Ederson,31,br BRA,GK,27-247,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,32,38,84.2,1,24,0,0,0

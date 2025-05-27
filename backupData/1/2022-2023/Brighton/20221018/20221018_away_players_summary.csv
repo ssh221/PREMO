@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Brennan Johnson,20,wls WAL,FW,21-148,85,0,0,0,0,1,0,0,0,9,1,0,3,0.0,0.0,0.0,0,0,1,2,50.0,0,4,2,2,1
+Taiwo Awoniyi,9,ng NGA,FW,25-067,5,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0
+Jesse Lingard,11,eng ENG,LW,29-307,85,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,11,14,78.6,2,12,0,0,0
+Joe Worrall,4,eng ENG,CB,25-281,5,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Morgan Gibbs-White,10,eng ENG,"RW,LM",22-264,90,0,0,0,0,0,0,0,0,33,0,0,1,0.0,0.0,0.0,3,0,10,21,47.6,0,19,0,2,1
+Orel Mangala,5,be BEL,LM,24-214,60,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.0,0,0,12,16,75.0,1,11,1,2,0
+Cheikhou Kouyaté,21,sn SEN,"LM,CM",32-301,30,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.1,1,0,5,7,71.4,1,4,0,0,0
+Remo Freuler,23,ch SUI,CM,30-186,90,0,0,0,0,0,0,1,0,50,2,0,0,0.0,0.0,0.0,1,0,30,39,76.9,2,25,0,2,1
+Ryan Yates,22,eng ENG,RM,24-331,90,0,0,0,0,1,0,0,0,29,1,1,4,0.1,0.1,0.0,0,0,12,17,70.6,1,10,0,0,0
+Neco Williams,7,wls WAL,"LB,RB",21-188,90,0,0,0,0,0,0,0,0,44,2,5,1,0.0,0.0,0.0,0,0,23,30,76.7,1,24,1,2,1
+Scott McKenna,26,sct SCO,CB,25-340,90,0,0,0,0,1,0,0,0,26,0,1,2,0.0,0.0,0.0,0,0,8,15,53.3,0,10,0,0,0
+Steve Cook,3,eng ENG,CB,31-182,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,32,43,74.4,1,32,0,0,0
+Serge Aurier,24,ci CIV,RB,29-298,68,0,0,0,0,0,0,0,0,43,2,0,1,0.0,0.0,0.0,1,0,23,37,62.2,1,18,1,0,0
+Harry Toffolo,15,eng ENG,LB,27-060,17,0,0,0,0,0,0,0,0,5,1,1,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0
+Giulian Biancone,2,fr FRA,RB,22-201,5,0,0,0,0,0,0,0,0,8,1,1,0,0.0,0.0,0.0,0,0,0,5,0.0,0,3,2,0,0
+Dean Henderson,1,eng ENG,GK,25-220,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,35,46,76.1,0,28,0,0,0

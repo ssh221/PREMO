@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-006,90,1,0,0,0,8,2,0,0,41,1,0,0,1.2,1.2,0.0,3,0,16,26,61.5,2,14,1,0,0
+André Schürrle,14,de GER,"RW,LW",27-320,90,0,0,0,0,2,0,0,0,32,1,0,0,0.1,0.1,0.6,4,1,17,25,68.0,4,22,2,1,0
+Luciano Vietto,19,ar ARG,"AM,RW",24-291,90,0,1,0,0,3,1,0,0,52,0,2,0,0.4,0.4,0.6,9,1,31,43,72.1,7,38,7,1,1
+Jean Seri,24,ci CIV,"DM,LM",27-065,90,0,0,0,0,0,0,0,0,101,3,0,1,0.0,0.0,0.2,6,0,77,95,81.1,10,47,0,0,0
+Kevin McDonald,6,sct SCO,CM,29-322,45,0,0,0,0,0,0,0,0,40,1,1,1,0.0,0.0,0.0,0,0,32,36,88.9,1,13,0,0,0
+Floyd Ayité,11,tg TOG,LW,29-281,45,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,1,0,14,17,82.4,3,19,1,1,0
+Stefan Johansen,8,no NOR,"RM,DM",27-257,63,0,0,0,0,0,0,0,0,43,2,0,0,0.0,0.0,0.0,0,0,24,38,63.2,2,18,0,1,1
+Andre-Frank Zambo Anguissa,29,cm CMR,DM,22-310,27,0,0,0,0,1,0,0,0,38,1,2,0,0.0,0.0,0.0,3,0,21,30,70.0,4,14,0,2,1
+Ryan Sessegnon,3,eng ENG,LB,18-127,90,0,0,0,0,0,0,0,0,80,3,1,2,0.0,0.0,0.0,0,0,46,70,65.7,5,35,3,0,0
+Calum Chambers,5,eng ENG,CB,23-245,90,0,0,0,0,1,0,0,0,64,1,5,1,0.0,0.0,0.0,0,0,33,44,75.0,2,23,1,0,0
+Alfie Mawson,26,eng ENG,CB,24-246,45,0,0,0,0,0,0,1,0,39,0,2,0,0.0,0.0,0.0,0,0,20,29,69.0,4,13,0,0,0
+Denis Odoi,4,gh GHA,CB,30-118,45,0,0,0,0,0,0,0,0,36,0,1,1,0.0,0.0,0.0,0,0,24,27,88.9,3,12,2,0,0
+Timothy Fosu-Mensah,21,nl NED,RB,20-263,90,0,0,0,0,0,0,1,0,70,0,0,0,0.0,0.0,0.2,2,0,47,63,74.6,8,33,5,1,1
+Marcus Bettinelli,1,eng ENG,GK,26-121,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,24,37,64.9,0,16,0,0,0

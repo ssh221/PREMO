@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,28-171,90,0,0,0,0,1,1,1,0,44,1,0,2,0.1,0.1,0.0,0,0,17,32,53.1,4,22,0,4,2
+Manor Solomon,11,il ISR,LW,23-225,74,1,0,0,0,1,1,0,0,39,4,2,1,0.6,0.6,0.0,2,0,25,29,86.2,5,23,2,3,2
+Harry Wilson,8,wls WAL,LW,25-349,16,0,0,0,0,0,0,0,0,11,1,0,2,0.0,0.0,0.0,0,0,5,5,100.0,0,8,0,2,1
+Willian,20,br BRA,RW,34-209,82,0,0,0,0,0,0,1,0,34,0,0,2,0.0,0.0,0.0,0,0,22,30,73.3,4,19,5,2,2
+Carlos Vinícius,30,br BRA,RW,27-346,8,1,0,0,0,1,1,0,0,8,0,0,0,0.1,0.1,0.0,0,0,4,5,80.0,0,6,1,1,0
+Andreas Pereira,18,br BRA,AM,27-064,90,0,0,0,0,4,1,0,0,47,0,0,1,0.8,0.8,0.0,4,2,28,37,75.7,5,24,3,1,0
+Saša Lukić,28,rs SRB,DM,26-205,74,0,0,0,0,1,0,1,0,47,0,0,0,0.0,0.0,0.0,0,0,41,44,93.2,2,32,0,0,0
+Bobby De Cordova-Reid,14,jm JAM,DM,30-032,16,0,0,0,0,0,0,0,0,8,2,1,0,0.0,0.0,0.0,0,0,4,5,80.0,0,3,0,1,0
+Harrison Reed,6,eng ENG,DM,28-038,90,0,0,0,0,1,1,0,0,68,0,1,2,0.0,0.0,0.0,3,0,44,57,77.2,5,38,3,1,1
+Antonee Robinson,33,us USA,LB,25-210,90,0,0,0,0,0,0,0,0,72,2,4,0,0.0,0.0,0.1,1,0,44,63,69.8,8,45,4,7,5
+Tim Ream,13,us USA,CB,35-152,90,0,0,0,0,0,0,0,0,75,0,1,1,0.0,0.0,0.0,0,0,57,65,87.7,2,52,1,0,0
+Issa Diop,31,fr FRA,CB,26-056,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.0,2,0,48,53,90.6,5,33,1,0,0
+Kenny Tete,2,nl NED,RB,27-148,82,0,0,0,0,0,0,0,0,79,0,3,1,0.0,0.0,0.2,2,0,50,67,74.6,4,34,3,2,2
+Cédric Soares,12,pt POR,RB,31-187,8,0,0,0,0,0,0,0,0,14,1,0,0,0.0,0.0,0.0,0,0,6,12,50.0,0,7,0,0,0
+Bernd Leno,17,de GER,GK,31-002,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,35,38,92.1,0,23,0,0,0

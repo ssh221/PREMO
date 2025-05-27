@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+João Pedro,9,br BRA,FW,22-098,90,0,0,0,0,2,1,0,0,66,0,1,0,0.3,0.3,0.2,6,0,47,55,85.5,8,38,4,1,0
+Danny Welbeck,18,eng ENG,FW,33-037,66,0,0,0,0,1,1,0,0,29,1,0,0,0.1,0.1,0.0,3,0,17,21,81.0,3,14,1,0,0
+Evan Ferguson,28,ie IRL,FW,19-075,24,0,0,0,0,3,0,0,0,10,1,0,0,0.4,0.4,0.0,1,0,4,6,66.7,0,6,1,1,1
+Facundo Buonanotte,40,ar ARG,AM,19-010,73,0,0,0,0,2,1,0,0,50,1,0,1,0.0,0.0,0.4,6,0,34,40,85.0,3,32,4,2,0
+Adam Lallana,14,eng ENG,AM,35-237,17,0,0,0,0,2,2,0,0,21,0,0,0,0.2,0.2,0.2,2,0,17,17,100.0,2,12,1,2,0
+James Milner,6,eng ENG,LM,37-363,90,0,0,0,0,1,0,0,0,96,2,1,1,0.1,0.1,0.8,4,0,68,85,80.0,8,44,2,3,0
+Billy Gilmour,11,sct SCO,CM,22-205,90,0,0,0,0,1,0,0,0,132,0,0,1,0.0,0.0,0.0,4,0,119,127,93.7,13,66,1,0,0
+Pascal Groß,13,de GER,RM,32-201,90,0,0,0,0,5,1,0,0,128,1,1,1,0.8,0.8,0.1,5,0,109,116,94.0,7,83,5,2,1
+Pervis Estupiñán,30,ec ECU,LB,25-346,90,0,0,0,0,0,0,0,0,128,3,1,0,0.0,0.0,0.1,4,0,110,117,94.0,11,80,1,1,1
+Jan Paul van Hecke,29,nl NED,CB,23-208,90,0,0,0,0,0,0,0,0,118,1,2,3,0.0,0.0,0.0,0,0,101,106,95.3,4,69,0,0,0
+Adam Webster,4,eng ENG,CB,28-363,73,0,0,0,0,1,0,0,0,97,1,1,0,0.0,0.0,0.0,0,0,84,88,95.5,8,58,0,0,0
+Jakub Moder,15,pl POL,RB,24-270,17,0,0,0,0,1,0,0,0,15,0,0,0,0.2,0.2,0.1,2,0,11,13,84.6,1,10,0,0,0
+Jack Hinshelwood,41,eng ENG,"RB,CB",18-266,90,0,0,0,0,3,2,0,0,76,1,1,0,0.4,0.4,0.0,4,0,62,69,89.9,2,50,2,0,0
+Jason Steele,23,eng ENG,GK,33-137,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,43,45,95.6,0,27,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,30,jm JAM,FW,30-204,76,0,0,0,0,2,0,1,0,26,1,0,3,0.6,0.6,0.1,5,0,10,15,66.7,1,18,2,8,5
+Andriy Yarmolenko,7,ua UKR,"FW,RM",30-361,14,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,1,0,0
+Pablo Fornals,18,es ESP,LM,24-239,76,0,0,0,0,2,1,0,0,36,0,0,0,0.8,0.8,0.0,1,0,25,33,75.8,4,16,0,2,1
+Manuel Lanzini,10,ar ARG,"LM,FW",27-246,14,1,0,0,0,1,1,1,0,13,1,0,1,0.0,0.0,0.0,1,1,6,8,75.0,2,8,1,0,0
+Declan Rice,41,eng ENG,CM,21-278,90,0,0,0,0,0,0,0,0,78,1,2,1,0.0,0.0,0.0,1,0,51,67,76.1,7,48,3,0,0
+Tomáš Souček,28,cz CZE,CM,25-234,90,0,0,0,0,2,1,1,0,50,1,0,2,0.1,0.1,0.1,2,0,30,40,75.0,6,20,1,0,0
+Jarrod Bowen,20,eng ENG,"RM,FW",23-303,90,0,0,0,0,1,0,0,0,39,0,0,1,0.1,0.1,0.1,4,0,23,32,71.9,3,22,3,1,0
+Arthur Masuaku,26,cd COD,LB,26-346,89,0,0,0,0,2,0,1,0,96,1,0,2,0.1,0.1,0.0,4,0,66,83,79.5,13,52,3,6,5
+Robert Snodgrass,11,sct SCO,LM,33-041,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,1,1,2,2,100.0,0,2,0,0,0
+Aaron Cresswell,3,eng ENG,"CB,LB",30-308,90,0,1,0,0,1,0,0,0,82,3,0,0,0.1,0.1,0.2,4,1,58,74,78.4,4,39,0,1,0
+Angelo Ogbonna,21,it ITA,CB,32-148,90,0,0,0,0,0,0,1,0,58,1,1,1,0.0,0.0,0.6,2,1,40,51,78.4,3,25,0,0,0
+Fabián Balbuena,4,py PAR,CB,29-056,90,1,0,0,0,1,1,0,0,56,1,1,2,0.1,0.1,0.0,0,0,39,50,78.0,2,25,0,0,0
+Vladimír Coufal,5,cz CZE,RB,28-057,90,0,0,0,0,1,0,0,0,56,4,1,1,0.1,0.1,0.0,0,0,32,46,69.6,6,22,3,0,0
+Łukasz Fabiański,1,pl POL,GK,35-183,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,23,23,100.0,0,14,0,0,0

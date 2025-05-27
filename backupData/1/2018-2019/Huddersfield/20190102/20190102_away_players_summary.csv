@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ashley Barnes,10,eng ENG,FW,29-064,89,1,0,0,0,4,3,0,0,38,1,0,0,1.1,1.1,0.0,1,0,20,29,69.0,1,22,2,2,1
+Jeff Hendrick,13,ie IRL,FW,26-336,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Chris Wood,11,nz NZL,FW,27-026,90,1,0,0,0,3,1,1,0,42,0,0,2,0.7,0.7,0.1,5,1,22,26,84.6,2,28,0,0,0
+Dwight McNeil,31,eng ENG,LM,19-041,62,0,1,0,0,1,0,0,0,39,3,2,0,0.0,0.0,0.5,5,1,16,28,57.1,1,27,5,6,5
+Robbie Brady,12,ie IRL,LM,26-353,27,0,0,0,0,2,1,0,1,21,0,0,0,0.1,0.1,0.1,2,0,11,17,64.7,0,13,4,1,1
+Jack Cork,4,eng ENG,CM,29-191,90,0,0,0,0,0,0,0,0,67,0,1,0,0.0,0.0,0.6,2,0,53,58,91.4,3,49,1,1,1
+Ashley Westwood,18,eng ENG,CM,28-276,90,0,1,0,0,0,0,0,0,71,0,1,1,0.0,0.0,0.6,5,1,56,67,83.6,7,44,3,0,0
+Jóhann Berg Guðmundsson,7,is ISL,RM,28-067,90,0,0,0,0,4,2,0,0,47,0,2,2,0.3,0.3,0.0,5,1,25,33,75.8,3,30,1,1,1
+Charlie Taylor,3,eng ENG,LB,25-106,90,0,0,0,0,1,0,0,0,76,2,5,1,0.0,0.0,0.0,1,0,46,63,73.0,4,40,2,0,0
+Ben Mee,6,eng ENG,CB,29-103,90,0,0,0,0,1,1,1,0,88,1,1,2,0.1,0.1,0.0,2,0,61,73,83.6,6,46,0,0,0
+James Tarkowski,5,eng ENG,CB,26-044,90,0,0,0,0,0,0,0,0,73,1,0,1,0.0,0.0,0.0,0,0,41,56,73.2,5,37,1,0,0
+Phil Bardsley,26,sct SCO,RB,33-188,58,0,0,0,0,0,0,1,0,29,0,2,2,0.0,0.0,0.0,0,0,21,24,87.5,2,14,1,0,0
+Matthew Lowton,2,eng ENG,RB,29-207,32,0,0,0,0,0,0,0,0,28,2,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,12,0,2,1
+Tom Heaton,1,eng ENG,GK,32-262,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,1,0,18,38,47.4,0,24,0,0,0

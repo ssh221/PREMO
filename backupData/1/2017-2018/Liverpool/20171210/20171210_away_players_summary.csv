@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Oumar Niasse,19,sn SEN,FW,27-236,45,0,0,0,0,0,0,0,0,9,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,2,8,0,2,0
+Morgan Schneiderlin,2,fr FRA,DM,28-032,45,0,0,0,0,0,0,1,0,16,2,2,0,0.0,0.0,0.0,1,0,6,12,50.0,1,2,0,0,0
+Dominic Calvert-Lewin,29,eng ENG,FW,20-269,90,0,0,0,0,1,0,0,0,28,0,1,1,0.1,0.1,0.0,2,1,6,20,30.0,0,15,2,0,0
+Gylfi Sigurðsson,18,is ISL,"LW,LM",28-093,90,0,0,0,0,1,1,1,0,32,3,2,1,0.0,0.0,0.0,0,0,7,15,46.7,1,7,0,1,0
+Idrissa Gana Gueye,17,sn SEN,"DM,CM",28-075,90,0,0,0,0,0,0,1,0,28,4,3,2,0.0,0.0,0.0,0,0,13,17,76.5,0,14,1,1,1
+Tom Davies,26,eng ENG,CM,19-163,45,0,0,0,0,0,0,0,0,17,0,2,3,0.0,0.0,0.0,0,0,8,11,72.7,0,8,0,0,0
+Aaron Lennon,12,eng ENG,RW,30-238,45,0,0,0,0,0,0,0,0,17,0,0,1,0.0,0.0,0.0,0,0,6,13,46.2,3,2,0,0,0
+Wayne Rooney,10,eng ENG,"RM,AM",32-047,82,1,0,1,1,0,0,0,0,28,0,0,1,0.8,0.0,0.1,2,1,13,22,59.1,2,14,1,1,0
+Phil Jagielka,6,eng ENG,AM,35-115,8,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Cuco Martina,15,cw CUW,LB,28-076,90,0,0,0,0,0,0,0,0,40,5,6,1,0.0,0.0,0.0,0,0,8,16,50.0,0,11,0,0,0
+Ashley Williams,5,wls WAL,CB,33-109,90,0,0,0,0,0,0,0,0,31,4,2,2,0.0,0.0,0.0,1,0,8,14,57.1,2,13,0,0,0
+Mason Holgate,30,eng ENG,CB,21-049,90,0,0,0,0,0,0,0,0,25,0,1,2,0.0,0.0,0.0,0,0,7,10,70.0,2,3,0,0,0
+Jonjoe Kenny,43,eng ENG,RB,20-270,90,0,0,0,0,0,0,0,0,37,3,0,3,0.0,0.0,0.0,0,0,6,20,30.0,0,10,0,1,0
+Jordan Pickford,1,eng ENG,GK,23-278,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,18,42,42.9,0,18,0,0,0

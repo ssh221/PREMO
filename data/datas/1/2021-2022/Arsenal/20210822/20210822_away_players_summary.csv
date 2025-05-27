@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,28-101,90,1,0,0,0,8,2,0,0,36,0,0,0,1.5,1.5,0.3,6,0,19,20,95.0,2,21,3,3,2
+Kai Havertz,29,de GER,AM,22-072,89,0,0,0,0,4,1,0,0,55,0,0,1,0.7,0.7,0.0,8,0,39,44,88.6,8,38,5,4,1
+Timo Werner,11,de GER,AM,25-169,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,1,0
+Mason Mount,19,eng ENG,AM,22-224,81,0,1,0,0,3,1,0,0,53,1,0,0,0.3,0.3,1.1,5,1,36,43,83.7,9,31,3,3,1
+Hakim Ziyech,22,ma MAR,AM,28-156,9,0,0,0,0,1,0,0,0,8,0,0,0,0.1,0.1,0.0,0,0,2,6,33.3,0,7,2,0,0
+Mateo Kovačić,8,hr CRO,CM,27-108,71,0,0,0,0,2,0,0,0,76,1,0,0,0.0,0.0,0.1,5,1,65,69,94.2,7,56,0,0,0
+N'Golo Kanté,7,fr FRA,CM,30-146,19,0,0,0,0,0,0,0,0,18,1,1,0,0.0,0.0,0.0,0,0,12,15,80.0,1,7,2,3,2
+Jorginho,5,it ITA,CM,29-245,90,0,0,0,0,0,0,0,0,75,2,1,1,0.0,0.0,0.1,1,0,60,69,87.0,3,46,0,0,0
+Marcos Alonso,3,es ESP,WB,30-237,90,0,0,0,0,0,0,0,0,68,0,4,0,0.0,0.0,0.3,7,1,47,60,78.3,4,38,2,1,0
+Reece James,24,eng ENG,WB,21-257,90,1,1,0,0,4,1,0,0,89,3,1,0,0.6,0.6,1.1,9,1,66,77,85.7,5,47,5,0,0
+Antonio Rüdiger,2,de GER,CB,28-172,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,0,0,60,71,84.5,4,44,0,0,0
+Andreas Christensen,4,dk DEN,CB,25-134,90,0,0,0,0,0,0,0,0,93,0,1,2,0.0,0.0,0.0,0,0,82,87,94.3,1,57,0,1,1
+César Azpilicueta,28,es ESP,CB,31-359,90,0,0,0,0,0,0,0,0,102,3,2,2,0.0,0.0,0.0,1,0,81,88,92.0,5,70,0,0,0
+Edouard Mendy,16,sn SEN,GK,29-174,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,38,43,88.4,0,30,0,0,0

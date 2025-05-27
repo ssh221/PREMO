@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Nicolas Jackson,15,sn SEN,FW,22-334,90,0,0,0,0,4,1,0,0,34,0,0,1,0.3,0.3,0.1,3,0,17,25,68.0,1,21,5,5,4
+Raheem Sterling,7,eng ENG,LW,29-163,63,1,0,0,0,2,1,0,0,38,1,0,1,0.2,0.2,0.2,5,1,21,25,84.0,4,22,4,7,3
+Christopher Nkunku,18,fr FRA,LW,26-187,27,0,0,0,0,2,1,0,0,25,0,0,0,0.1,0.1,0.0,1,0,17,19,89.5,5,15,1,1,0
+Noni Madueke,11,eng ENG,RW,22-070,63,0,0,0,0,1,0,0,0,28,1,0,0,0.1,0.1,0.0,3,0,19,21,90.5,4,20,3,4,2
+Malo Gusto,27,fr FRA,RW,21-000,27,0,0,0,0,1,1,1,0,22,2,0,0,0.0,0.0,0.0,1,0,15,18,83.3,1,11,1,0,0
+Cole Palmer,20,eng ENG,AM,22-013,88,0,1,0,0,3,0,0,0,49,1,1,0,0.2,0.2,0.4,6,1,28,37,75.7,6,30,5,5,2
+Cesare Casadei,31,it ITA,AM,21-130,2,0,0,0,0,0,0,0,0,9,3,0,0,0.0,0.0,0.0,1,0,4,5,80.0,1,2,0,0,0
+Conor Gallagher,23,eng ENG,DM,24-103,90,0,0,0,0,2,1,0,0,68,1,1,2,0.3,0.3,0.0,2,0,52,57,91.2,3,27,1,5,5
+Moisés Caicedo,25,ec ECU,DM,22-199,63,1,0,0,0,1,1,0,0,64,6,3,2,0.0,0.0,0.1,1,0,44,52,84.6,3,24,1,3,1
+Lesley Ugochukwu,16,fr FRA,DM,20-054,27,0,0,0,0,0,0,0,0,18,2,0,1,0.0,0.0,0.1,2,0,14,16,87.5,2,8,2,0,0
+Marc Cucurella,3,es ESP,LB,25-302,90,0,0,0,0,0,0,1,0,77,6,1,1,0.0,0.0,0.0,2,0,53,61,86.9,2,32,1,2,1
+Benoît Badiashile,5,fr FRA,CB,23-054,90,0,0,0,0,0,0,0,0,76,1,0,1,0.0,0.0,0.0,1,0,55,63,87.3,2,33,1,0,0
+Thiago Silva,6,br BRA,CB,39-240,90,0,0,0,0,0,0,0,0,66,0,1,0,0.0,0.0,0.0,0,0,52,58,89.7,4,29,0,0,0
+Trevoh Chalobah,14,eng ENG,RB,24-319,90,0,0,0,0,0,0,0,0,66,1,2,1,0.0,0.0,0.0,0,0,50,58,86.2,1,30,1,1,0
+Đorđe Petrović,28,rs SRB,GK,24-224,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,38,53,71.7,0,23,0,0,0

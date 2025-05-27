@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Erling Haaland,9,no NOR,FW,22-044,90,1,0,0,0,3,3,0,0,24,0,0,1,0.9,0.9,0.4,3,0,14,19,73.7,1,10,1,0,0
+Phil Foden,47,eng ENG,LW,22-098,90,0,0,0,0,1,1,0,0,73,2,0,2,0.2,0.2,0.0,1,0,53,62,85.5,5,44,0,0,0
+Bernardo Silva,20,pt POR,RW,28-024,72,0,0,0,0,0,0,0,0,56,1,0,0,0.0,0.0,0.0,2,1,42,50,84.0,3,37,5,2,1
+Riyad Mahrez,26,dz ALG,"RM,RW",31-194,18,0,0,0,0,0,0,0,0,16,0,0,0,0.0,0.0,0.0,0,0,13,16,81.3,1,7,1,0,0
+İlkay Gündoğan,8,de GER,"LM,CM",31-314,90,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.4,3,0,39,51,76.5,3,28,1,0,0
+Rodri,16,es ESP,CM,26-073,90,0,0,0,0,2,0,0,0,97,0,1,2,0.1,0.1,0.0,3,0,81,92,88.0,10,50,3,1,1
+Kevin De Bruyne,17,be BEL,"RM,RW",31-067,90,0,1,0,0,4,0,0,0,74,0,1,0,0.6,0.6,0.8,8,1,49,67,73.1,11,43,7,1,1
+João Cancelo,7,pt POR,"LB,LM",28-099,90,0,0,0,0,2,0,0,0,101,3,2,1,0.1,0.1,0.2,2,0,77,89,86.5,8,50,2,3,1
+Rúben Dias,3,pt POR,CB,25-112,90,0,0,0,0,0,0,0,0,114,3,0,1,0.0,0.0,0.0,1,0,98,106,92.5,7,59,0,0,0
+John Stones,5,eng ENG,CB,28-098,90,0,0,0,0,0,0,0,0,100,1,0,1,0.0,0.0,0.0,0,0,92,95,96.8,2,65,0,1,0
+Kyle Walker,2,eng ENG,RB,32-098,79,0,0,0,0,1,0,0,0,107,0,1,0,0.3,0.3,0.0,1,0,91,103,88.3,4,61,0,0,0
+Nathan Aké,6,nl NED,CB,27-197,11,0,0,0,0,0,0,0,0,17,0,0,0,0.0,0.0,0.0,0,0,16,16,100.0,0,6,0,0,0
+Ederson,31,br BRA,GK,29-017,90,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,0,0,30,34,88.2,0,19,0,0,0

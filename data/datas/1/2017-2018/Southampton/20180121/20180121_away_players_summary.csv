@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,24-177,90,1,0,0,0,3,1,0,0,33,0,1,0,0.4,0.4,0.0,4,0,14,18,77.8,3,28,1,4,1
+Son Heung-min,7,kr KOR,LW,25-197,69,0,0,0,0,0,0,0,0,28,1,0,1,0.0,0.0,0.0,0,0,22,24,91.7,3,12,0,0,0
+Érik Lamela,11,ar ARG,LW,25-323,21,0,0,0,0,2,0,0,0,15,0,0,0,0.3,0.3,0.0,1,0,10,11,90.9,1,10,1,0,0
+Moussa Sissoko,17,fr FRA,RW,28-158,90,0,0,0,0,2,0,1,0,58,3,1,2,0.1,0.1,0.2,6,0,37,44,84.1,6,24,5,1,0
+Dele Alli,20,eng ENG,AM,21-285,90,0,0,0,0,3,0,0,0,39,1,0,0,0.1,0.1,0.2,4,0,19,28,67.9,8,26,3,5,1
+Mousa Dembélé,19,be BEL,DM,30-189,84,0,0,0,0,1,0,1,0,57,1,0,0,0.0,0.0,0.0,1,0,43,50,86.0,8,36,2,5,4
+Victor Wanyama,12,ke KEN,DM,26-210,6,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,2,0,12,12,100.0,4,6,2,0,0
+Eric Dier,15,eng ENG,DM,24-006,90,0,0,0,0,3,1,0,0,82,2,1,1,0.1,0.1,0.0,2,1,56,69,81.2,8,41,3,0,0
+Ben Davies,33,wls WAL,LB,24-272,90,0,1,0,0,1,0,0,0,76,2,0,1,0.0,0.0,0.4,5,1,46,69,66.7,7,34,2,1,0
+Jan Vertonghen,5,be BEL,CB,30-272,90,0,0,0,0,1,0,0,0,67,2,0,0,0.0,0.0,0.0,1,0,49,59,83.1,4,28,0,0,0
+Davinson Sánchez,6,co COL,CB,21-223,90,0,0,0,0,0,0,0,0,77,1,5,1,0.0,0.0,0.0,1,0,54,68,79.4,1,36,0,0,0
+Serge Aurier,24,ci CIV,RB,25-028,71,0,0,0,0,0,0,0,0,61,2,3,4,0.0,0.0,0.1,3,0,30,46,65.2,2,25,2,1,1
+Kieran Trippier,2,eng ENG,RB,27-124,19,0,0,0,0,0,0,1,0,19,1,0,0,0.0,0.0,0.0,0,0,15,18,83.3,0,4,1,0,0
+Michel Vorm,13,nl NED,GK,34-093,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,23,26,88.5,0,12,0,0,0

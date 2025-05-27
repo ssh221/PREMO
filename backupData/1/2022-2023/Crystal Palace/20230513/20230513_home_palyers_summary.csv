@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,9,gh GHA,FW,31-244,90,0,1,0,0,1,0,0,0,37,1,0,1,0.1,0.1,0.5,4,2,28,30,93.3,2,23,2,5,3
+Wilfried Zaha,11,ci CIV,LW,30-184,50,0,0,0,0,2,0,0,0,45,0,0,1,0.2,0.2,0.0,5,1,30,37,81.1,5,32,2,4,1
+Odsonne Édouard,22,fr FRA,LW,25-117,40,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,8,2,3,1
+Michael Olise,7,fr FRA,RW,21-152,90,0,1,0,0,4,1,0,0,83,2,0,1,0.1,0.1,0.4,9,1,46,69,66.7,6,53,9,7,1
+Eberechi Eze,10,eng ENG,"AM,RM",24-318,90,2,0,0,0,3,3,0,0,60,0,2,0,0.7,0.7,0.0,2,0,44,54,81.5,9,34,1,1,0
+Will Hughes,19,eng ENG,"DM,LM",28-026,76,0,0,0,0,2,1,0,0,48,3,3,2,0.1,0.1,0.0,1,0,31,36,86.1,2,27,3,2,2
+Jaïro Riedewald,44,nl NED,LM,26-246,14,0,0,0,0,1,0,0,0,12,0,0,1,0.1,0.1,0.0,0,0,8,10,80.0,1,6,0,0,0
+Cheick Doucouré,28,ml MLI,"DM,CM",23-125,80,0,0,0,0,1,0,0,0,45,1,0,1,0.1,0.1,0.0,2,0,34,39,87.2,4,26,0,1,1
+James McArthur,18,sct SCO,CM,35-218,10,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,13,15,86.7,0,9,0,0,0
+Tyrick Mitchell,3,eng ENG,LB,23-254,90,0,0,0,0,0,0,0,0,67,4,0,2,0.0,0.0,0.0,0,0,48,57,84.2,4,26,0,1,1
+Marc Guéhi,6,eng ENG,CB,22-304,90,0,0,0,0,2,0,0,0,99,2,0,0,0.1,0.1,0.0,2,0,83,94,88.3,3,67,1,1,1
+Joachim Andersen,16,dk DEN,CB,26-347,90,0,0,0,0,0,0,0,0,106,6,2,0,0.0,0.0,0.0,2,0,83,97,85.6,3,75,0,0,0
+Joel Ward,2,eng ENG,RB,33-196,90,0,0,0,0,1,0,0,0,82,2,1,2,0.0,0.0,0.2,5,0,58,71,81.7,6,42,2,1,1
+Sam Johnstone,21,eng ENG,GK,30-049,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,23,27,85.2,0,23,0,0,0

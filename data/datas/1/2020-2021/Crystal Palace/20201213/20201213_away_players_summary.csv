@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,27-138,90,1,0,0,0,5,3,0,0,30,0,1,2,0.3,0.3,0.0,3,0,13,20,65.0,4,16,1,1,0
+Son Heung-min,7,kr KOR,LW,28-158,90,0,1,0,0,1,0,0,0,36,0,0,2,0.1,0.1,0.1,3,1,20,28,71.4,1,20,1,3,1
+Steven Bergwijn,23,nl NED,RW,23-066,84,0,0,0,0,0,0,0,0,35,2,0,0,0.0,0.0,0.0,3,0,24,29,82.8,0,26,0,1,0
+Dele Alli,20,eng ENG,AM,24-246,6,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,1,0,1,3,33.3,0,5,0,0,0
+Tanguy Ndombele,28,fr FRA,AM,23-351,66,0,0,0,0,2,2,0,0,47,2,1,1,0.4,0.4,0.0,2,1,27,33,81.8,2,26,0,0,0
+Giovani Lo Celso,18,ar ARG,"AM,RW",24-248,24,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,8,14,57.1,1,9,0,0,0
+Pierre Højbjerg,5,dk DEN,DM,25-130,90,0,0,0,0,1,0,0,0,94,3,1,0,0.0,0.0,0.0,1,0,71,81,87.7,6,61,0,1,1
+Moussa Sissoko,17,fr FRA,DM,31-119,90,0,0,0,0,0,0,1,0,53,4,1,0,0.0,0.0,0.0,3,0,43,46,93.5,9,37,0,2,2
+Sergio Reguilón,3,es ESP,LB,23-363,83,0,0,0,0,2,0,0,0,75,3,0,4,0.1,0.1,0.0,2,0,45,60,75.0,3,52,6,2,1
+Ben Davies,33,wls WAL,LB,27-233,7,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,9,12,75.0,1,8,0,0,0
+Eric Dier,15,eng ENG,CB,26-333,90,0,0,0,0,2,1,0,0,63,0,0,1,0.1,0.1,0.0,1,0,43,55,78.2,4,42,0,0,0
+Toby Alderweireld,4,be BEL,CB,31-286,90,0,0,0,0,0,0,0,0,54,5,0,1,0.0,0.0,0.1,1,0,36,47,76.6,5,32,0,0,0
+Serge Aurier,24,ci CIV,RB,27-355,90,0,0,0,0,1,0,0,0,63,1,0,1,0.0,0.0,0.1,3,0,33,56,58.9,1,41,1,0,0
+Hugo Lloris,1,fr FRA,GK,33-353,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,16,21,76.2,0,14,0,0,0

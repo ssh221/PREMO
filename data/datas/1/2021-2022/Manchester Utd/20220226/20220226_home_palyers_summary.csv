@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cristiano Ronaldo,7,pt POR,FW,37-021,90,0,0,0,0,4,1,0,0,32,1,0,0,0.5,0.5,0.2,5,0,18,19,94.7,2,20,1,2,1
+Paul Pogba,6,fr FRA,"LW,DM",28-348,90,0,0,0,0,2,0,0,0,70,0,0,0,0.1,0.1,0.9,4,0,45,58,77.6,7,43,3,3,2
+Anthony Elanga,36,se SWE,RW,19-305,90,0,0,0,0,3,0,0,0,61,2,1,1,0.6,0.6,0.7,1,0,32,47,68.1,4,35,6,3,1
+Bruno Fernandes,18,pt POR,"AM,DM",27-171,90,0,0,0,0,8,2,0,0,95,1,0,1,1.4,1.4,0.3,6,0,63,82,76.8,8,54,4,4,2
+Fred,17,br BRA,DM,28-358,61,0,0,0,0,1,0,0,0,87,2,2,3,0.0,0.0,0.0,4,0,68,74,91.9,10,52,0,1,0
+Jadon Sancho,25,eng ENG,LW,21-338,29,0,0,0,0,1,0,0,0,21,1,0,1,0.0,0.0,0.0,1,0,15,18,83.3,3,15,3,1,1
+Nemanja Matić,31,rs SRB,DM,33-209,73,0,0,0,0,0,0,0,0,92,1,0,1,0.0,0.0,0.0,4,0,77,87,88.5,13,59,3,2,2
+Marcus Rashford,10,eng ENG,AM,24-118,17,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,4,0,0,0
+Alex Telles,27,br BRA,LB,29-073,73,0,0,0,0,1,0,0,0,70,2,0,0,0.1,0.1,0.3,4,0,50,63,79.4,8,45,4,0,0
+Luke Shaw,23,eng ENG,LB,26-229,17,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,3,0,15,21,71.4,5,11,1,0,0
+Raphaël Varane,19,fr FRA,CB,28-307,90,0,0,0,0,0,0,0,0,75,2,1,1,0.0,0.0,0.0,1,0,55,67,82.1,6,42,0,0,0
+Victor Lindelöf,2,se SWE,CB,27-224,90,0,0,0,0,1,0,0,0,93,1,1,0,0.1,0.1,0.0,2,0,77,89,86.5,9,60,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,24-092,90,0,0,0,0,1,0,0,0,107,7,1,1,0.0,0.0,0.2,6,0,80,92,87.0,5,50,5,3,1
+David de Gea,1,es ESP,GK,31-111,90,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,8,0,0,0

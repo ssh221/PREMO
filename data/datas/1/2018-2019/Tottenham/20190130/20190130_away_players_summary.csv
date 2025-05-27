@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Troy Deeney,9,eng ENG,FW,30-215,90,0,0,0,0,2,0,0,0,31,0,0,1,0.1,0.1,0.1,2,0,12,16,75.0,0,14,2,1,1
+Gerard Deulofeu,7,es ESP,FW,24-323,60,0,0,0,0,2,0,0,0,28,0,0,2,0.1,0.1,0.0,2,0,14,20,70.0,2,18,2,3,1
+Isaac Success,10,ng NGA,FW,23-023,30,0,0,0,0,1,0,1,0,8,0,0,0,0.1,0.1,0.1,1,0,4,6,66.7,0,8,1,1,1
+Roberto Pereyra,37,ar ARG,AM,28-023,90,0,0,0,0,0,0,0,0,34,3,1,0,0.0,0.0,0.1,1,0,18,20,90.0,1,20,0,0,0
+Will Hughes,19,eng ENG,AM,23-288,90,0,0,0,0,0,0,0,0,36,2,0,2,0.0,0.0,0.0,0,0,8,19,42.1,1,16,0,1,0
+Étienne Capoue,29,fr FRA,DM,30-203,90,0,0,0,0,0,0,1,0,37,2,2,3,0.0,0.0,0.0,2,0,19,25,76.0,3,15,1,1,1
+Tom Cleverley,8,eng ENG,DM,29-171,65,0,0,0,0,0,0,0,0,45,4,1,2,0.0,0.0,0.0,0,0,25,34,73.5,3,17,0,0,0
+Ben Wilmot,24,eng ENG,DM,19-087,25,0,0,0,0,0,0,0,0,13,0,0,2,0.0,0.0,0.0,1,0,6,9,66.7,2,5,0,0,0
+José Holebas,25,gr GRE,LB,34-217,90,0,0,0,0,1,0,1,0,57,3,1,2,0.0,0.0,0.0,1,0,23,43,53.5,1,22,2,1,0
+Craig Cathcart,15,nir NIR,CB,29-358,90,1,0,0,0,1,1,0,0,32,2,0,2,0.1,0.1,0.0,0,0,11,20,55.0,1,12,0,0,0
+Adrian Mariappa,6,jm JAM,CB,32-119,90,0,0,0,0,1,0,1,0,34,0,2,2,0.1,0.1,0.0,2,1,13,20,65.0,1,14,0,0,0
+Daryl Janmaat,2,nl NED,RB,29-192,90,0,0,0,0,1,0,0,0,56,2,1,0,0.0,0.0,0.0,1,0,26,43,60.5,3,25,2,2,0
+Ben Foster,26,eng ENG,GK,35-302,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,1,0,13,32,40.6,0,25,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Richarlison,30,br BRA,"FW,LM",21-233,90,0,0,0,0,3,2,0,0,31,0,1,1,0.2,0.2,0.0,2,0,12,20,60.0,3,15,2,2,1
+Bernard,20,br BRA,"AM,LW,LM",26-112,79,0,0,0,0,1,0,1,0,42,3,0,0,0.1,0.1,0.1,5,0,19,26,73.1,2,21,1,5,3
+Oumar Niasse,19,sn SEN,FW,28-255,11,0,0,0,0,1,1,0,0,7,0,0,0,0.1,0.1,0.0,0,0,1,2,50.0,0,6,0,0,0
+Theo Walcott,11,eng ENG,"AM,RM,RW",29-288,90,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.1,2,0,13,22,59.1,2,18,0,4,1
+Idrissa Gana Gueye,17,sn SEN,"CM,DM",29-094,90,0,0,0,0,2,1,0,0,84,3,2,2,0.1,0.1,0.1,4,0,58,71,81.7,11,45,1,0,0
+André Gomes,8,pt POR,"CM,DM",25-152,71,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,31,35,88.6,2,23,0,0,0
+Dominic Calvert-Lewin,29,eng ENG,"FW,DM",21-288,19,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,2,5,40.0,0,5,0,0,0
+Lucas Digne,12,fr FRA,"WB,LB",25-162,90,0,0,0,0,2,0,0,0,92,5,2,1,0.1,0.1,0.1,3,0,48,73,65.8,3,23,0,0,0
+Séamus Coleman,23,ie IRL,"WB,RB",30-079,90,0,0,0,0,1,0,0,0,58,2,0,0,0.1,0.1,0.0,2,0,37,49,75.5,8,25,3,3,3
+Kurt Zouma,5,fr FRA,CB,24-063,90,0,0,0,0,1,0,0,0,60,0,2,1,0.0,0.0,0.0,0,0,36,50,72.0,3,29,1,0,0
+Michael Keane,4,eng ENG,CB,25-352,90,0,0,0,0,1,0,0,0,56,2,0,2,0.1,0.1,0.0,0,0,35,44,79.5,4,27,0,1,1
+Yerry Mina,13,co COL,CB,24-097,64,0,0,0,0,0,0,1,0,48,1,1,1,0.0,0.0,0.1,1,0,34,44,77.3,1,31,0,0,0
+Gylfi Sigurðsson,10,is ISL,"CM,AM",29-112,26,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,2,0,10,12,83.3,1,9,0,0,0
+Jordan Pickford,1,eng ENG,GK,24-297,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,22,36,61.1,0,15,0,0,0

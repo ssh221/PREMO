@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Yoshinori Mutō,13,jp JPN,FW,26-104,79,0,0,0,0,1,0,0,0,30,0,0,0,0.1,0.1,0.0,1,0,11,20,55.0,1,18,3,4,2
+Christian Atsu,30,gh GHA,FW,26-290,11,0,0,0,0,0,0,1,0,5,0,0,0,0.0,0.0,0.1,2,0,3,4,75.0,1,5,2,0,0
+Ayoze Pérez,17,es ESP,FW,25-090,68,0,0,0,0,0,0,0,0,25,1,2,1,0.0,0.0,0.1,2,0,15,19,78.9,4,6,1,1,0
+Salomón Rondón,9,ve VEN,FW,29-041,22,0,0,0,0,2,0,0,0,8,0,0,0,0.2,0.2,0.0,0,0,2,3,66.7,0,2,0,2,0
+Kenedy,15,br BRA,LM,22-261,90,0,0,0,0,1,0,0,0,47,2,3,0,0.1,0.1,0.0,2,0,25,35,71.4,3,24,1,0,0
+Mohamed Diamé,10,sn SEN,CM,31-135,75,0,0,0,0,0,0,0,0,49,2,0,2,0.0,0.0,0.0,0,0,26,35,74.3,1,20,0,1,0
+Ki Sung-yueng,4,kr KOR,CM,29-276,15,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,1,0,5,8,62.5,0,4,2,0,0
+Jonjo Shelvey,8,eng ENG,CM,26-242,90,0,0,0,0,1,0,0,0,68,3,0,0,0.0,0.0,0.0,1,0,43,63,68.3,5,33,0,0,0
+Matt Ritchie,11,sct SCO,RM,29-047,90,0,0,0,0,0,0,0,0,45,2,1,1,0.0,0.0,0.0,1,0,24,33,72.7,1,20,0,1,0
+Paul Dummett,3,wls WAL,LB,27-031,90,0,0,0,0,0,0,0,0,54,0,2,2,0.0,0.0,0.0,0,0,28,38,73.7,1,20,0,0,0
+Federico Fernández,18,ar ARG,CB,29-248,90,0,0,0,0,0,0,0,0,62,2,0,1,0.0,0.0,0.1,0,0,34,43,79.1,1,31,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,24-350,90,0,0,0,0,0,0,0,0,77,2,4,1,0.0,0.0,0.0,0,0,49,61,80.3,5,30,1,0,0
+DeAndre Yedlin,22,us USA,RB,25-110,90,0,0,0,0,1,0,0,0,72,2,1,1,0.0,0.0,0.0,0,0,37,57,64.9,2,20,1,2,1
+Martin Dúbravka,12,sk SVK,GK,29-285,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,0,0,27,48,56.3,0,24,0,0,0

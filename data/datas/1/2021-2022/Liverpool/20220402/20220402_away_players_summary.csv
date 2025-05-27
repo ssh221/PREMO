@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+João Pedro,10,br BRA,FW,20-188,77,0,0,0,0,1,0,0,0,33,0,0,0,0.3,0.3,0.2,1,0,13,22,59.1,1,12,1,2,1
+Joshua King,7,no NOR,LM,30-077,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,1,1
+Cucho,29,co COL,LM,22-347,77,0,0,0,0,2,1,1,0,34,1,1,2,0.0,0.0,0.0,1,0,14,21,66.7,2,16,1,2,1
+Emmanuel Dennis,25,ng NGA,FW,24-138,13,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,2,0
+Juraj Kucka,33,sk SVK,CM,35-035,90,0,0,0,0,1,1,0,0,40,1,2,0,0.2,0.2,0.0,2,0,23,30,76.7,3,16,1,1,1
+Moussa Sissoko,19,fr FRA,CM,32-229,90,0,0,0,0,0,0,0,0,24,2,1,1,0.0,0.0,0.0,1,0,13,19,68.4,0,11,1,0,0
+Ismaila Sarr,23,sn SEN,RM,24-036,90,0,0,0,0,1,0,0,0,21,2,0,2,0.1,0.1,0.3,1,0,7,9,77.8,3,12,2,2,0
+Imran Louza,6,ma MAR,DM,22-336,77,0,0,0,0,0,0,0,0,52,6,4,3,0.0,0.0,0.0,1,0,17,33,51.5,1,12,0,1,0
+Tom Cleverley,8,eng ENG,DM,32-233,13,0,0,0,0,0,0,0,0,8,2,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,1,0,0,0
+Hassane Kamara,14,ci CIV,LB,28-028,90,0,0,0,0,0,0,0,0,61,7,4,3,0.0,0.0,0.0,0,0,21,39,53.8,2,17,3,3,1
+Samir Santos,22,br BRA,CB,27-118,90,0,0,0,0,0,0,0,0,31,0,2,1,0.0,0.0,0.1,1,0,20,24,83.3,0,11,0,0,0
+Christian Kabasele,27,be BEL,CB,31-037,90,0,0,0,0,0,0,0,0,31,1,0,3,0.0,0.0,0.0,0,0,15,19,78.9,0,13,0,0,0
+Kiko Femenía,21,es ESP,RB,31-059,90,0,0,0,0,0,0,0,0,38,1,0,1,0.0,0.0,0.0,2,0,21,31,67.7,0,12,0,0,0
+Ben Foster,1,eng ENG,GK,38-364,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,9,36,25.0,0,14,0,0,0

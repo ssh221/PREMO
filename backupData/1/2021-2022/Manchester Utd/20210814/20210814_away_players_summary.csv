@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Patrick Bamford,9,eng ENG,FW,27-343,76,0,0,0,0,1,0,0,0,25,0,1,1,0.1,0.1,0.1,1,0,12,14,85.7,2,12,0,0,0
+Tyler Roberts,11,wls WAL,FW,22-214,14,0,0,0,0,1,0,0,0,6,1,0,0,0.0,0.0,0.2,1,0,3,3,100.0,1,3,0,0,0
+Jack Harrison,22,eng ENG,LM,24-267,68,0,0,0,0,1,1,0,0,31,1,1,1,0.0,0.0,0.1,3,0,14,21,66.7,3,24,0,1,1
+Hélder Costa,17,ao ANG,LM,27-214,22,0,0,0,0,1,0,0,0,9,0,0,1,0.0,0.0,0.0,1,0,5,5,100.0,0,6,0,0,0
+Mateusz Klich,43,pl POL,"FW,CM",31-062,90,0,0,0,0,2,1,0,0,49,2,0,0,0.1,0.1,0.0,2,0,34,46,73.9,3,31,2,1,1
+Rodrigo,19,es ESP,CM,30-161,45,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,15,18,83.3,2,12,0,2,2
+Junior Firpo,3,do DOM,LB,24-357,45,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,2,1,30,34,88.2,6,17,0,0,0
+Raphinha,10,br BRA,RM,24-243,90,0,0,0,0,2,0,1,0,62,4,1,3,0.3,0.3,0.1,4,0,27,45,60.0,1,36,0,2,1
+Robin Koch,5,de GER,"CM,DM",25-028,90,0,0,0,0,0,0,0,0,37,2,3,1,0.0,0.0,0.0,1,0,20,27,74.1,5,15,0,3,3
+Stuart Dallas,15,nir NIR,"CM,LB",30-117,90,0,1,0,0,0,0,0,0,44,1,1,2,0.0,0.0,0.0,2,1,32,39,82.1,3,28,4,1,1
+Liam Cooper,6,sct SCO,CB,29-349,90,0,0,0,0,0,0,1,0,64,7,2,2,0.0,0.0,0.0,1,0,46,52,88.5,0,39,0,0,0
+Pascal Struijk,21,nl NED,CB,22-003,90,0,0,0,0,0,0,0,0,64,2,3,0,0.0,0.0,0.0,0,0,44,55,80.0,0,39,0,0,0
+Luke Ayling,2,eng ENG,RB,29-354,90,1,0,0,0,2,1,0,0,88,2,1,2,0.1,0.1,0.0,0,0,59,75,78.7,6,49,0,2,0
+Illan Meslier,1,fr FRA,GK,21-165,90,0,0,0,0,0,0,0,0,50,0,0,0,0.0,0.0,0.0,0,0,31,48,64.6,0,31,0,0,0

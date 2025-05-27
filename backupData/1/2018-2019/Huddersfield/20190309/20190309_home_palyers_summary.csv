@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Steve Mounié,24,bj BEN,FW,24-161,60,0,0,0,0,0,0,0,0,24,0,0,1,0.0,0.0,0.0,0,0,11,20,55.0,0,13,1,1,1
+Karlan Grant,16,eng ENG,FW,21-172,30,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,5,7,71.4,2,6,1,1,1
+Aaron Mooy,10,au AUS,"RM,LW",28-175,90,0,0,0,0,3,1,1,0,69,4,0,3,0.1,0.1,0.0,2,0,42,55,76.4,7,37,6,2,2
+Elias Kachunga,9,cd COD,"RW,FW",26-321,75,0,0,0,0,1,0,1,0,34,0,0,3,0.1,0.1,0.0,0,0,18,20,90.0,2,18,4,2,0
+Aaron Rowe,44,eng ENG,FW,18-183,15,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,7,0,0,0
+Alex Pritchard,21,eng ENG,AM,25-310,90,0,0,0,0,2,0,0,0,70,1,2,1,0.1,0.1,0.1,4,0,37,53,69.8,9,48,4,7,5
+Philip Billing,8,dk DEN,DM,22-271,45,0,0,0,0,0,0,0,0,24,0,1,0,0.0,0.0,0.0,1,0,14,20,70.0,3,16,2,0,0
+Chris Löwe,15,de GER,LB,29-327,45,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,18,29,62.1,0,13,1,0,0
+Jon Gorenc Stanković,27,si SVN,DM,23-054,90,0,0,0,0,0,0,1,0,73,3,3,0,0.0,0.0,0.1,1,0,49,61,80.3,8,37,2,0,0
+Erik Durm,37,de GER,"RB,LB",26-301,90,0,0,0,0,1,0,0,0,71,0,2,0,0.0,0.0,0.0,2,0,52,67,77.6,3,31,2,1,0
+Christopher Schindler,26,de GER,CB,28-314,90,0,0,0,0,0,0,0,0,53,1,1,2,0.0,0.0,0.0,0,0,37,46,80.4,4,26,0,1,0
+Mathias Jørgensen,25,dk DEN,CB,28-320,90,0,0,0,0,0,0,0,0,70,3,2,3,0.0,0.0,0.0,0,0,53,62,85.5,3,38,2,0,0
+Juninho Bacuna,7,cw CUW,"LM,RB",21-214,90,0,0,0,0,1,0,0,0,81,6,2,1,0.0,0.0,0.0,4,0,44,64,68.8,11,42,3,5,3
+Jonas Lössl,1,dk DEN,GK,30-036,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,16,22,72.7,0,13,0,0,0

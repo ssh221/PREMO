@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Teemu Pukki,22,fi FIN,FW,31-292,90,0,0,0,0,0,0,1,0,29,1,0,0,0.0,0.0,0.0,1,0,12,22,54.5,2,12,2,3,1
+Adam Idah,35,ie IRL,"FW,AM",20-338,90,1,0,0,0,4,1,0,0,42,2,0,1,0.7,0.7,0.0,6,0,17,26,65.4,4,26,1,5,3
+Milot Rashica,17,xk KVX,"LM,LW",25-201,90,0,0,0,0,1,0,0,0,42,1,0,0,0.0,0.0,0.1,5,0,16,29,55.2,1,21,4,3,2
+Pierre Lees-Melou,20,fr FRA,"CM,DM",28-235,90,0,0,0,0,4,2,0,0,45,3,4,1,0.1,0.1,0.0,3,0,25,31,80.6,3,19,0,2,2
+Jakob Sørensen,19,dk DEN,"CM,DM",23-318,90,0,0,0,0,1,0,0,0,40,7,0,0,0.0,0.0,0.0,2,0,18,31,58.1,1,7,1,0,0
+Josh Sargent,24,us USA,"RM,RW",21-329,86,0,0,0,0,3,0,1,0,42,0,1,4,0.1,0.1,0.0,1,0,17,27,63.0,2,12,0,2,0
+Christos Tzolis,18,gr GRE,RW,19-350,4,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.1,2,0,2,4,50.0,0,2,1,0,0
+Brandon Williams,21,eng ENG,LB,21-134,76,0,1,0,0,0,0,0,0,47,3,1,1,0.0,0.0,0.6,3,2,28,36,77.8,7,14,1,0,0
+Sam Byram,3,eng ENG,"RB,LB",28-121,14,0,0,0,0,0,0,0,0,13,0,2,0,0.0,0.0,0.0,0,0,5,10,50.0,1,2,1,0,0
+Ben Gibson,4,eng ENG,CB,29-000,90,0,0,0,0,1,0,0,0,35,0,0,1,0.0,0.0,0.0,0,0,22,28,78.6,0,19,0,0,0
+Grant Hanley,5,sct SCO,CB,30-056,90,0,0,0,0,0,0,0,0,43,1,1,2,0.0,0.0,0.0,0,0,20,25,80.0,0,7,0,0,0
+Max Aarons,2,eng ENG,RB,22-011,79,0,0,0,0,0,0,1,0,46,0,0,1,0.0,0.0,0.0,3,0,29,44,65.9,4,23,2,0,0
+Dimitris Giannoulis,30,gr GRE,LB,26-090,11,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Tim Krul,1,nl NED,GK,33-287,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,19,30,63.3,0,14,0,0,0

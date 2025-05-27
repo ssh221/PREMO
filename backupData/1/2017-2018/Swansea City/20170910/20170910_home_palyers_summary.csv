@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,18,gh GHA,"FW,AM",25-364,90,0,0,0,0,2,1,0,0,38,2,1,1,0.1,0.1,0.1,4,0,27,31,87.1,2,20,3,2,2
+Tammy Abraham,10,eng ENG,FW,19-343,90,0,0,0,0,2,0,0,0,26,2,0,0,0.6,0.6,0.0,3,0,10,15,66.7,1,14,0,5,2
+Leroy Fer,8,nl NED,"AM,RM",27-248,90,0,0,0,0,1,0,1,0,51,0,0,1,0.0,0.0,0.6,4,0,36,43,83.7,9,28,1,5,5
+Tom Carroll,14,eng ENG,LM,25-105,85,0,0,0,0,2,1,0,0,76,3,0,0,0.1,0.1,0.3,1,0,54,71,76.1,6,38,4,1,1
+Luciano Narsingh,11,nl NED,LM,26-362,5,0,0,0,0,1,1,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,1,2,0,0,0
+Sam Clucas,17,eng ENG,CM,26-350,90,0,0,0,0,0,0,0,0,69,2,0,4,0.0,0.0,0.0,2,0,51,62,82.3,7,26,2,0,0
+Renato Sanches,35,pt POR,RM,20-023,68,0,0,0,0,1,0,0,0,62,0,1,1,0.0,0.0,0.0,2,0,39,50,78.0,3,44,2,2,1
+Wilfried Bony,2,ci CIV,"FW,RM",28-274,22,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,5,9,55.6,1,4,0,1,1
+Martin Olsson,16,se SWE,LB,29-116,90,0,0,0,0,0,0,0,0,59,1,2,0,0.0,0.0,0.0,0,0,35,53,66.0,3,33,6,1,0
+Alfie Mawson,6,eng ENG,CB,23-234,90,0,0,0,0,1,0,0,0,72,2,0,2,0.3,0.3,0.0,0,0,55,63,87.3,3,36,1,1,1
+Federico Fernández,33,ar ARG,CB,28-201,90,0,0,0,0,0,0,0,0,73,2,2,1,0.0,0.0,0.0,0,0,52,58,89.7,5,40,0,0,0
+Kyle Naughton,26,eng ENG,RB,28-297,90,0,0,0,0,0,0,1,0,104,0,1,0,0.0,0.0,0.0,1,0,70,94,74.5,7,54,1,0,0
+Łukasz Fabiański,1,pl POL,GK,32-145,90,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,0,0,25,35,71.4,0,15,0,0,0

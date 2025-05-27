@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Darwin Núñez,27,uy URU,FW,23-192,90,0,0,0,0,3,0,1,0,27,0,0,0,0.3,0.3,0.0,2,0,7,12,58.3,1,21,2,3,1
+Alex Oxlade-Chamberlain,15,eng ENG,LW,29-140,82,1,0,0,0,3,2,0,0,48,2,0,2,0.2,0.2,0.0,3,0,28,36,77.8,5,29,5,3,1
+Curtis Jones,17,eng ENG,LW,21-337,8,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,13,76.9,0,8,1,1,1
+Mohamed Salah,11,eg EGY,RW,30-201,90,0,0,0,0,1,0,0,0,44,0,0,0,0.0,0.0,0.3,4,0,27,38,71.1,4,34,2,2,1
+Thiago Alcántara,6,es ESP,LM,31-266,90,0,0,0,0,2,0,1,0,100,1,0,1,0.1,0.1,0.0,3,0,77,88,87.5,15,70,4,4,4
+Fabinho,3,br BRA,CM,29-071,90,0,0,0,0,1,1,0,0,82,2,1,4,0.0,0.0,0.0,3,1,63,69,91.3,3,45,2,0,0
+Harvey Elliott,19,eng ENG,RM,19-273,45,0,0,0,0,0,0,1,0,46,0,0,0,0.0,0.0,0.0,3,0,39,44,88.6,1,27,1,0,0
+Naby Keïta,8,gn GUI,RM,27-326,45,0,0,0,0,1,0,0,0,50,0,0,1,0.1,0.1,0.0,1,0,30,43,69.8,1,31,4,1,1
+Kostas Tsimikas,21,gr GRE,LB,26-235,45,0,0,0,0,3,2,0,0,41,0,0,0,0.0,0.0,0.0,3,0,25,34,73.5,3,18,1,2,1
+Andrew Robertson,26,sct SCO,LB,28-297,45,0,0,0,0,0,0,0,0,56,2,1,0,0.0,0.0,0.0,1,0,41,52,78.8,3,30,0,0,0
+Virgil van Dijk,4,nl NED,CB,31-178,45,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,39,42,92.9,3,27,0,0,0
+Joël Matip,32,cm CMR,CB,31-147,45,0,0,0,0,0,0,0,0,36,0,0,0,0.0,0.0,0.0,2,0,24,30,80.0,2,24,3,2,1
+Ibrahima Konaté,5,fr FRA,CB,23-222,90,0,0,0,0,2,0,0,0,77,1,1,0,0.0,0.0,0.0,2,0,61,66,92.4,6,52,1,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,24-087,90,0,1,0,0,0,0,0,0,126,1,1,1,0.0,0.0,0.2,4,1,83,116,71.6,7,75,1,2,2
+Alisson,1,br BRA,GK,30-092,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,25,33,75.8,0,16,0,0,0

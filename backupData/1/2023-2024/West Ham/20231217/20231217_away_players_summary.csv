@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Matheus Cunha,12,br BRA,FW,24-204,90,0,0,0,0,4,2,0,0,54,1,0,1,0.2,0.2,0.1,6,0,33,42,78.6,5,32,6,3,1
+Pablo Sarabia,21,es ESP,LW,31-220,90,0,0,0,0,0,0,0,0,72,2,0,1,0.0,0.0,0.2,3,0,44,65,67.7,8,42,4,3,1
+Hwang Hee-chan,11,kr KOR,RW,27-325,90,0,0,0,0,3,0,0,0,43,1,0,2,0.1,0.1,0.0,1,0,23,30,76.7,3,23,2,1,0
+Jean-Ricner Bellegarde,27,fr FRA,LM,25-173,90,0,0,0,0,3,0,0,0,51,2,1,3,0.1,0.1,0.0,1,0,25,33,75.8,4,23,2,2,2
+João Gomes,8,br BRA,CM,22-308,90,0,0,0,0,0,0,0,0,76,4,0,3,0.0,0.0,0.0,3,0,61,65,93.8,10,46,3,1,0
+Mario Lemina,5,ga GAB,CM,30-107,78,0,0,0,0,2,1,0,0,62,3,0,0,0.0,0.0,0.0,1,0,50,54,92.6,4,35,2,1,1
+Tommy Doyle,20,eng ENG,CM,22-061,12,0,0,0,0,0,0,0,0,16,0,0,1,0.0,0.0,0.0,0,0,11,14,78.6,1,8,0,0,0
+Nélson Semedo,22,pt POR,RM,30-031,79,0,0,0,0,0,0,0,0,66,3,0,4,0.0,0.0,0.1,3,0,42,51,82.4,4,26,1,2,1
+Matt Doherty,2,ie IRL,RM,31-335,11,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,0,3,0,0,0
+Toti Gomes,24,pt POR,CB,24-335,69,0,0,0,0,1,0,1,0,57,3,0,2,0.2,0.2,0.0,3,0,37,50,74.0,1,18,0,1,1
+Rayan Aït-Nouri,3,dz ALG,CB,22-194,21,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,0,0,15,16,93.8,1,7,2,0,0
+Craig Dawson,15,eng ENG,CB,33-225,90,0,0,0,0,1,0,0,0,58,1,0,3,0.1,0.1,0.0,0,0,40,48,83.3,2,27,0,0,0
+Max Kilman,23,eng ENG,CB,26-208,90,0,0,0,0,0,0,0,0,81,4,1,0,0.0,0.0,0.1,4,0,62,72,86.1,6,38,0,1,1
+Daniel Bentley,25,eng ENG,GK,30-157,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,24,31,77.4,0,11,0,0,0

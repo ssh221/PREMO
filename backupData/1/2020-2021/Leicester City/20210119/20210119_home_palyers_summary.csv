@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jamie Vardy,9,eng ENG,FW,34-008,87,0,0,0,0,1,1,0,0,12,0,0,0,0.3,0.3,0.3,1,0,1,8,12.5,1,9,0,0,0
+Kelechi Iheanacho,14,ng NGA,FW,24-108,3,0,0,0,0,0,0,0,0,5,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,4,0,0,0
+Harvey Barnes,15,eng ENG,LM,23-041,90,0,1,0,0,0,0,0,0,36,1,0,1,0.0,0.0,0.1,2,1,17,25,68.0,1,26,2,3,1
+James Maddison,10,eng ENG,CM,24-057,75,1,0,0,0,2,1,0,0,38,1,0,0,0.3,0.3,0.1,2,0,26,32,81.3,5,27,1,4,1
+Ayoze Pérez,17,es ESP,CM,27-174,15,0,0,0,0,0,0,0,0,11,0,1,1,0.0,0.0,0.0,0,0,4,6,66.7,1,8,0,4,2
+Youri Tielemans,8,be BEL,CM,23-257,90,0,0,0,0,1,1,0,0,56,1,0,0,0.3,0.3,0.0,1,0,42,54,77.8,2,34,0,1,0
+Marc Albrighton,11,eng ENG,RM,31-062,76,0,1,0,0,1,1,0,0,35,2,0,0,0.0,0.0,0.9,6,2,23,29,79.3,3,21,3,4,1
+Ricardo Pereira,21,pt POR,RM,27-105,14,0,0,0,0,0,0,0,0,8,1,0,3,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0
+Wilfred Ndidi,25,ng NGA,DM,24-034,90,1,0,0,0,1,1,0,0,33,2,1,2,0.0,0.0,0.0,1,0,26,28,92.9,1,20,0,0,0
+James Justin,2,eng ENG,LB,22-331,90,0,0,0,0,1,0,0,0,56,2,0,3,0.3,0.3,0.0,0,0,36,45,80.0,5,28,2,3,1
+Jonny Evans,6,nir NIR,CB,33-016,90,0,0,0,0,1,1,0,0,58,2,5,0,0.1,0.1,0.0,0,0,40,45,88.9,1,32,0,0,0
+Wesley Fofana,3,fr FRA,CB,20-033,90,0,0,0,0,0,0,1,0,45,2,2,1,0.0,0.0,0.0,0,0,25,31,80.6,1,24,0,0,0
+Timothy Castagne,27,be BEL,RB,25-045,90,0,0,0,0,0,0,0,0,47,4,2,0,0.0,0.0,0.0,2,0,29,39,74.4,3,17,2,0,0
+Kasper Schmeichel,1,dk DEN,GK,34-075,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,28,36,77.8,0,25,0,0,0

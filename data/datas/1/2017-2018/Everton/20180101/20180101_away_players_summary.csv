@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Anthony Martial,11,fr FRA,FW,22-027,77,1,0,0,0,2,1,0,0,38,1,0,1,0.1,0.1,0.7,2,0,21,26,80.8,2,27,3,1,0
+Marcus Rashford,19,eng ENG,FW,20-062,13,0,0,0,0,1,0,0,0,7,0,0,0,0.0,0.0,0.0,3,0,4,5,80.0,3,5,1,2,1
+Jesse Lingard,14,eng ENG,LW,25-017,86,1,0,0,0,5,2,0,0,74,1,1,0,0.2,0.2,0.0,4,1,54,63,85.7,3,46,5,5,3
+Daley Blind,17,nl NED,LW,27-298,4,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Juan Mata,8,es ESP,RW,29-248,89,0,0,0,0,2,1,0,0,74,1,0,0,0.1,0.1,0.1,7,1,54,69,78.3,2,42,2,1,1
+Axel Tuanzebe,38,cd COD,RW,20-048,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Paul Pogba,6,fr FRA,LM,24-292,90,0,2,0,0,4,1,0,0,78,1,1,0,0.8,0.8,0.2,7,2,51,61,83.6,14,51,7,3,2
+Nemanja Matić,31,rs SRB,CM,29-153,90,0,0,0,0,0,0,0,0,82,2,1,0,0.0,0.0,0.0,2,0,63,75,84.0,5,44,6,0,0
+Ander Herrera,21,es ESP,RM,28-140,90,0,0,0,0,3,0,0,0,107,3,0,2,0.1,0.1,0.0,9,0,85,98,86.7,6,67,0,0,0
+Luke Shaw,23,eng ENG,LB,22-173,90,0,0,0,0,0,0,0,0,74,1,0,3,0.0,0.0,0.1,3,0,49,64,76.6,6,31,0,0,0
+Marcos Rojo,5,ar ARG,CB,27-287,90,0,0,0,0,3,1,0,0,61,0,1,2,0.1,0.1,0.0,4,0,41,45,91.1,3,35,0,2,2
+Phil Jones,4,eng ENG,CB,25-314,90,0,0,0,0,1,0,0,0,57,1,0,4,0.0,0.0,0.0,0,0,39,42,92.9,3,32,4,0,0
+Victor Lindelöf,2,se SWE,RB,23-168,90,0,0,0,0,0,0,0,0,57,1,1,0,0.0,0.0,0.0,1,0,44,49,89.8,2,28,0,1,0
+David de Gea,1,es ESP,GK,27-055,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,13,25,52.0,0,8,0,0,0

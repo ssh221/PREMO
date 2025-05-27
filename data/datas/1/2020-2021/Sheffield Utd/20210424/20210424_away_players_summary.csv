@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Welbeck,18,eng ENG,FW,30-149,90,0,0,0,0,2,0,0,0,25,0,0,0,0.3,0.3,0.1,3,0,17,19,89.5,0,17,1,3,2
+Neal Maupay,9,fr FRA,"FW,AM",24-253,90,0,0,0,0,4,2,0,0,43,1,1,0,1.2,1.2,0.0,2,0,25,32,78.1,1,27,2,5,2
+Leandro Trossard,11,be BEL,"AM,WB,CM",26-141,81,0,0,0,0,0,0,0,0,43,0,1,1,0.0,0.0,0.1,1,0,24,39,61.5,2,34,5,2,2
+José Izquierdo,19,co COL,WB,28-291,9,0,0,0,0,1,1,0,0,13,0,0,0,0.0,0.0,0.0,1,0,8,9,88.9,0,8,1,1,0
+Yves Bissouma,8,ml MLI,CM,24-237,90,0,0,0,0,3,0,0,0,71,3,2,0,0.1,0.1,0.3,7,0,54,57,94.7,4,45,5,8,6
+Adam Lallana,14,eng ENG,CM,32-349,90,0,0,0,0,2,1,0,0,63,1,0,0,0.1,0.1,0.1,3,0,52,55,94.5,12,38,2,1,1
+Jakub Moder,15,pl POL,"WB,CM",22-017,66,0,0,0,0,2,0,0,0,43,2,1,2,0.1,0.1,0.1,3,0,26,34,76.5,3,23,2,2,1
+Aaron Connolly,7,ie IRL,"WB,FW",21-086,24,0,0,0,0,1,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,2,2
+Pascal Groß,13,de GER,WB,29-313,66,0,0,0,0,0,0,0,0,72,1,1,1,0.0,0.0,0.1,7,0,54,65,83.1,7,37,5,0,0
+Alireza Jahanbakhsh,16,ir IRN,WB,27-256,24,0,0,0,0,2,0,0,0,25,0,0,0,0.1,0.1,1.1,3,0,14,22,63.6,4,17,5,2,1
+Joël Veltman,34,nl NED,CB,29-099,90,0,0,0,0,0,0,0,0,109,2,1,0,0.0,0.0,0.1,3,0,83,100,83.0,8,72,3,4,3
+Lewis Dunk,5,eng ENG,CB,29-154,90,0,0,0,0,0,0,0,0,125,0,0,1,0.0,0.0,0.0,0,0,108,120,90.0,4,81,1,0,0
+Adam Webster,4,eng ENG,CB,26-110,90,0,0,0,0,0,0,0,0,97,0,1,4,0.0,0.0,0.0,0,0,74,86,86.0,4,65,3,1,1
+Robert Sánchez,26,es ESP,GK,23-157,90,0,0,0,0,0,0,0,0,55,0,0,0,0.0,0.0,0.0,0,0,51,54,94.4,1,41,0,0,0

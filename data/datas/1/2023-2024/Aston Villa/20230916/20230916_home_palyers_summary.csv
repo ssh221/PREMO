@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Ollie Watkins,11,eng ENG,FW,27-260,89,0,0,0,0,4,1,0,0,25,0,0,2,0.6,0.6,0.1,4,1,11,13,84.6,4,13,1,2,0
+Leander Dendoncker,32,be BEL,FW,28-154,1,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,0,2,0,0,0
+Nicolò Zaniolo,22,it ITA,LW,24-076,56,0,0,0,0,1,0,1,0,29,0,0,2,0.0,0.0,0.6,5,0,14,19,73.7,1,24,3,4,1
+Leon Bailey,31,jm JAM,"RM,LW",26-038,34,1,0,0,0,2,1,1,0,28,0,1,0,0.8,0.8,0.0,3,0,15,21,71.4,4,18,3,4,2
+John McGinn,7,sct SCO,RW,28-333,70,0,0,0,0,0,0,1,0,39,1,0,1,0.0,0.0,0.0,1,0,27,31,87.1,3,28,1,4,1
+Jáder Durán,24,co COL,FW,19-277,20,1,0,0,0,2,2,1,0,10,1,0,0,0.1,0.1,0.0,0,0,4,6,66.7,1,6,0,0,0
+Moussa Diaby,19,fr FRA,"AM,LM",24-071,90,0,1,0,0,2,0,0,0,39,0,0,0,0.1,0.1,0.8,2,1,23,33,69.7,6,34,4,0,0
+Douglas Luiz,6,br BRA,"DM,CM",25-130,90,1,0,1,1,0,0,0,0,84,6,1,3,0.8,0.0,0.1,3,1,58,69,84.1,5,49,1,4,1
+Boubacar Kamara,44,fr FRA,DM,23-297,57,0,0,0,0,0,0,0,0,48,3,0,0,0.0,0.0,0.0,0,0,35,39,89.7,3,29,0,1,1
+Youri Tielemans,8,be BEL,"CM,DM",26-132,33,0,0,0,0,1,0,0,0,28,0,1,0,0.1,0.1,0.0,2,2,17,24,70.8,3,13,1,0,0
+Lucas Digne,12,fr FRA,LB,30-058,90,0,1,0,0,1,0,0,0,112,3,1,3,0.0,0.0,0.3,5,1,69,96,71.9,8,67,1,0,0
+Pau Torres,14,es ESP,CB,26-243,90,0,0,0,0,0,0,0,0,132,3,1,0,0.0,0.0,0.0,0,0,117,125,93.6,21,106,4,0,0
+Ezri Konsa,4,eng ENG,CB,25-328,90,0,0,0,0,0,0,0,0,95,3,1,3,0.0,0.0,0.0,0,0,80,85,94.1,2,59,0,0,0
+Matty Cash,2,pl POL,RB,26-040,90,0,0,0,0,2,0,1,0,74,6,1,1,0.6,0.6,0.0,1,0,53,62,85.5,6,42,6,2,0
+Emiliano Martínez,1,ar ARG,GK,31-014,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,24,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,9,be BEL,FW,28-121,90,2,0,0,0,2,2,0,0,24,0,0,3,0.7,0.7,0.0,2,1,10,10,100.0,0,9,3,2,1
+Kai Havertz,29,de GER,AM,22-092,63,0,0,0,0,1,0,0,0,34,1,1,0,0.0,0.0,0.0,2,0,20,22,90.9,0,18,2,2,0
+César Azpilicueta,28,es ESP,WB,32-014,27,0,1,0,0,0,0,0,0,16,1,0,0,0.0,0.0,0.1,2,2,9,10,90.0,0,8,0,1,1
+Hakim Ziyech,22,ma MAR,AM,28-176,90,0,0,0,0,2,1,0,0,61,3,2,2,0.0,0.0,0.1,3,0,27,46,58.7,4,36,2,1,1
+Saúl Ñíguez,17,es ESP,CM,26-294,45,0,0,0,0,0,0,0,0,42,0,0,1,0.0,0.0,0.0,0,0,31,38,81.6,3,18,0,0,0
+Jorginho,5,it ITA,CM,29-265,45,0,0,0,0,0,0,0,0,35,1,1,2,0.0,0.0,0.0,1,0,28,30,93.3,2,14,0,1,1
+Mateo Kovačić,8,hr CRO,CM,27-128,90,1,1,0,0,2,1,0,0,88,2,0,0,0.4,0.4,0.6,1,1,62,74,83.8,6,55,1,5,2
+Marcos Alonso,3,es ESP,WB,30-257,90,0,0,0,0,2,0,1,0,57,0,1,3,0.1,0.1,0.0,2,0,34,45,75.6,4,20,0,0,0
+Callum Hudson-Odoi,20,eng ENG,"WB,AM",20-308,81,0,0,0,0,1,0,0,0,49,1,0,1,0.0,0.0,0.0,4,0,30,42,71.4,2,20,3,3,3
+Timo Werner,11,de GER,AM,25-189,9,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Antonio Rüdiger,2,de GER,CB,28-192,90,0,0,0,0,2,0,0,0,54,1,0,0,0.0,0.0,0.0,2,0,39,45,86.7,3,29,4,0,0
+Thiago Silva,6,br BRA,CB,36-354,90,0,0,0,0,0,0,0,0,87,1,1,5,0.0,0.0,0.0,1,0,62,72,86.1,2,44,0,0,0
+Trevoh Chalobah,14,eng ENG,CB,22-068,90,0,0,0,0,0,0,0,0,60,4,1,2,0.0,0.0,0.0,0,0,36,47,76.6,4,15,3,2,2
+Edouard Mendy,16,sn SEN,GK,29-194,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,31,36,86.1,0,24,0,0,0

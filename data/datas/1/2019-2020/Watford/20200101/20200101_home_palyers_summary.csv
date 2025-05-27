@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Troy Deeney,9,eng ENG,FW,31-186,90,0,0,0,0,0,0,1,0,40,0,0,2,0.0,0.0,0.5,2,0,17,31,54.8,2,16,0,3,0
+Gerard Deulofeu,7,es ESP,LW,25-294,72,1,1,0,0,3,1,0,0,38,2,1,0,0.4,0.4,0.2,4,1,26,29,89.7,2,28,2,3,3
+Adam Masina,11,ma MAR,RB,25-364,18,0,0,0,0,0,0,0,0,12,1,1,1,0.0,0.0,0.0,0,0,3,5,60.0,2,3,0,0,0
+Ismaila Sarr,23,sn SEN,"RW,RM",21-310,89,0,1,0,0,2,1,0,0,32,0,1,0,0.5,0.5,0.3,5,1,17,20,85.0,1,24,5,9,3
+Roberto Pereyra,37,ar ARG,RM,28-359,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Abdoulaye Doucouré,16,ml MLI,"AM,CM",27-000,90,1,0,0,0,1,1,0,0,58,1,0,4,0.1,0.1,0.1,2,0,36,46,78.3,7,32,2,3,2
+Étienne Capoue,29,fr FRA,"DM,CM",31-174,90,0,0,0,0,1,0,0,0,57,1,1,0,0.0,0.0,0.0,0,0,33,44,75.0,3,28,0,3,1
+Nathaniel Chalobah,14,eng ENG,"DM,LM",25-020,90,0,0,0,0,2,0,0,0,53,4,3,2,0.1,0.1,0.0,1,1,25,36,69.4,4,25,0,1,0
+Kiko Femenía,21,es ESP,LB,28-333,59,0,0,0,0,0,0,0,0,36,1,1,0,0.0,0.0,0.0,0,0,25,32,78.1,1,15,2,0,0
+José Holebas,25,gr GRE,LB,35-188,31,0,0,0,0,0,0,0,0,12,1,0,1,0.0,0.0,0.0,0,0,1,8,12.5,0,1,0,0,0
+Craig Cathcart,15,nir NIR,CB,30-329,90,0,0,0,0,0,0,0,0,39,1,1,0,0.0,0.0,0.0,0,0,24,31,77.4,2,22,0,1,1
+Christian Kabasele,27,be BEL,CB,28-311,70,0,0,0,0,0,0,0,1,27,1,1,0,0.0,0.0,0.0,0,0,16,21,76.2,0,14,0,0,0
+Craig Dawson,4,eng ENG,"RB,CB",29-240,90,0,0,0,0,0,0,1,0,51,0,2,1,0.0,0.0,0.0,1,0,24,35,68.6,3,21,0,0,0
+Ben Foster,26,eng ENG,GK,36-273,90,0,0,0,0,0,0,1,0,33,0,0,0,0.0,0.0,0.0,0,0,18,31,58.1,0,13,0,0,0

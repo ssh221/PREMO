@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joselu,21,es ESP,FW,28-144,90,0,0,0,0,3,0,0,0,39,2,0,0,0.2,0.2,0.0,2,0,13,23,56.5,0,19,0,1,0
+Ayoze Pérez,17,es ESP,FW,25-020,64,0,0,0,0,2,2,0,0,25,0,1,1,0.3,0.3,0.0,1,0,8,10,80.0,0,12,2,1,0
+Yoshinori Mutō,13,jp JPN,"RM,FW",26-034,26,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,3,7,42.9,0,6,1,0,0
+Kenedy,15,br BRA,LM,22-191,90,0,0,0,1,2,1,0,0,28,1,1,2,0.9,0.2,0.0,4,0,8,14,57.1,1,16,2,5,2
+Mohamed Diamé,10,sn SEN,CM,31-065,90,0,0,0,0,1,1,0,0,47,3,0,2,0.1,0.1,0.0,1,0,22,35,62.9,0,11,0,0,0
+Jonjo Shelvey,8,eng ENG,CM,26-172,90,0,0,0,0,2,1,0,0,71,1,0,2,0.1,0.1,0.5,5,0,38,61,62.3,5,21,1,0,0
+Matt Ritchie,11,sct SCO,RM,28-342,69,0,0,0,0,0,0,1,0,26,0,0,3,0.0,0.0,0.0,1,0,8,19,42.1,1,10,0,1,1
+Jacob Murphy,7,eng ENG,RB,23-175,21,0,0,0,0,0,0,0,0,15,0,0,1,0.0,0.0,0.0,0,0,8,13,61.5,0,2,0,0,0
+Paul Dummett,3,wls WAL,LB,26-326,90,0,0,0,0,0,0,0,0,39,1,0,1,0.0,0.0,0.0,1,0,14,32,43.8,2,6,0,0,0
+Ciaran Clark,2,ie IRL,CB,28-326,90,0,0,0,0,0,0,0,0,50,1,1,2,0.0,0.0,0.0,0,0,26,40,65.0,0,22,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,24-280,90,0,0,0,0,1,0,0,0,50,2,2,1,0.1,0.1,0.0,2,0,32,39,82.1,4,20,1,0,0
+Javier Manquillo,19,es ESP,RB,24-105,45,0,0,0,0,0,0,1,0,23,0,2,0,0.0,0.0,0.0,0,0,8,16,50.0,1,5,0,1,0
+Isaac Hayden,14,eng ENG,RB,23-149,20,0,0,0,0,0,0,0,1,10,1,1,0,0.0,0.0,0.0,0,0,3,7,42.9,0,3,0,0,0
+Martin Dúbravka,12,sk SVK,GK,29-215,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,17,32,53.1,0,14,0,0,0

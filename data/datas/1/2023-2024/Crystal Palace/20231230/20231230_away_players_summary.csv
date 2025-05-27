@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Keane Lewis-Potter,23,eng ENG,FW,22-311,79,1,0,0,0,2,2,0,0,40,3,0,0,0.6,0.6,0.0,2,0,16,22,72.7,1,27,1,7,2
+Michael Olakigbe,37,eng ENG,FW,19-249,11,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,7,2,1,1
+Yoane Wissa,11,cd COD,FW,27-118,90,0,0,0,0,1,0,0,0,20,1,0,0,0.6,0.6,0.0,1,0,10,13,76.9,2,13,3,1,0
+Vitaly Janelt,27,de GER,CM,25-234,79,0,0,0,0,0,0,0,0,52,2,3,0,0.0,0.0,0.6,2,0,35,45,77.8,4,29,0,0,0
+Yehor Yarmoliuk,33,ua UKR,CM,19-304,11,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,7,8,87.5,2,5,0,0,0
+Christian Nørgaard,6,dk DEN,CM,29-295,66,0,0,0,0,1,1,0,0,54,2,0,1,0.1,0.1,0.0,1,0,35,43,81.4,4,18,0,1,0
+Mikkel Damsgaard,24,dk DEN,CM,23-180,24,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,1,0,21,25,84.0,3,19,0,0,0
+Mathias Jensen,8,dk DEN,CM,27-363,62,0,0,0,0,0,0,0,0,50,3,0,1,0.0,0.0,0.0,4,1,30,41,73.2,7,24,0,2,0
+Neal Maupay,7,fr FRA,CM,27-138,28,0,0,0,0,2,0,0,0,18,0,0,0,0.1,0.1,0.0,1,0,10,14,71.4,1,11,4,2,0
+Saman Ghoddos,14,ir IRN,WB,30-115,90,0,0,0,0,2,1,1,0,74,1,1,2,0.1,0.1,0.0,2,0,48,63,76.2,6,41,5,1,1
+Mads Roerslev,30,dk DEN,WB,24-189,62,0,1,0,0,0,0,0,0,39,2,0,0,0.0,0.0,0.6,2,1,23,32,71.9,1,20,0,1,0
+Frank Onyeka,15,ng NGA,WB,25-363,28,0,0,0,0,0,0,0,0,23,1,1,0,0.0,0.0,0.0,1,0,17,20,85.0,3,16,0,1,1
+Nathan Collins,22,ie IRL,CB,22-244,90,0,0,0,0,1,0,0,0,74,1,1,2,0.0,0.0,0.0,1,0,61,66,92.4,6,42,0,0,0
+Ethan Pinnock,5,jm JAM,CB,30-215,90,0,0,0,0,0,0,0,0,54,1,1,2,0.0,0.0,0.0,0,0,34,44,77.3,1,23,0,0,0
+Mathias Jørgensen,13,dk DEN,CB,33-251,90,0,0,0,0,0,0,0,0,88,3,2,0,0.0,0.0,0.0,0,0,54,78,69.2,7,41,1,1,1
+Mark Flekken,1,nl NED,GK,30-200,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,38,46,82.6,0,31,0,0,0

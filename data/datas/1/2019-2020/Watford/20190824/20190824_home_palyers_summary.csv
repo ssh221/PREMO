@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gerard Deulofeu,7,es ESP,FW,25-164,73,0,0,0,0,7,1,0,0,50,0,0,1,0.5,0.5,0.1,5,1,27,38,71.1,4,35,6,5,3
+Danny Welbeck,10,eng ENG,LM,28-271,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,2,0,3,4,75.0,0,5,0,0,0
+Andre Gray,18,jm JAM,FW,28-059,90,1,0,0,0,5,1,0,0,25,0,0,0,0.3,0.3,1.0,5,0,12,16,75.0,3,15,0,2,1
+Tom Cleverley,8,eng ENG,AM,30-012,85,0,0,0,0,3,0,0,0,48,2,0,0,0.5,0.5,0.1,7,0,26,35,74.3,7,22,2,1,1
+Domingos Quina,20,pt POR,FW,19-279,5,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,0,4,1,1,0
+Abdoulaye Doucouré,16,ml MLI,LM,26-235,90,0,0,0,0,3,1,0,0,77,2,3,1,0.2,0.2,0.2,8,0,54,64,84.4,14,54,5,2,1
+Will Hughes,19,eng ENG,RM,24-129,73,0,1,0,0,2,0,0,0,47,3,1,5,0.8,0.8,0.2,5,1,26,32,81.3,5,33,5,1,1
+Ismaila Sarr,23,sn SEN,RM,21-180,17,0,0,0,0,1,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,6,8,75.0,1,13,1,1,1
+Étienne Capoue,29,fr FRA,DM,31-044,90,0,0,0,0,1,0,0,0,81,1,5,0,0.0,0.0,0.0,2,0,64,73,87.7,12,52,2,0,0
+José Holebas,25,gr GRE,LB,35-058,90,0,0,0,0,0,0,1,0,62,3,0,2,0.0,0.0,0.2,6,0,39,58,67.2,6,28,3,0,0
+Craig Cathcart,15,nir NIR,CB,30-199,90,0,0,0,0,0,0,0,0,61,3,1,0,0.0,0.0,0.0,0,0,43,49,87.8,3,40,0,0,0
+Craig Dawson,4,eng ENG,CB,29-110,90,0,0,0,0,1,0,0,0,66,1,1,0,0.0,0.0,0.0,0,0,47,56,83.9,7,44,1,0,0
+Kiko Femenía,21,es ESP,RB,28-203,90,0,0,0,0,0,0,0,0,56,2,0,1,0.0,0.0,0.4,3,0,44,52,84.6,8,36,1,0,0
+Ben Foster,26,eng ENG,GK,36-143,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,1,0,26,29,89.7,0,22,0,0,0

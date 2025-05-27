@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Neal Maupay,9,fr FRA,FW,25-007,45,1,0,0,0,1,1,0,0,15,0,0,0,0.4,0.4,0.0,1,0,5,8,62.5,0,12,1,1,1
+Aaron Connolly,7,ie IRL,FW,21-205,45,0,0,0,0,1,0,0,0,8,0,0,1,0.3,0.3,0.0,1,0,1,2,50.0,0,5,2,0,0
+Leandro Trossard,11,be BEL,FW,26-260,71,0,0,0,0,2,0,0,0,45,2,0,1,0.1,0.1,0.0,0,0,29,39,74.4,6,26,7,0,0
+Enock Mwepu,12,zm ZAM,CM,23-232,19,0,0,0,0,1,0,1,0,15,0,0,2,0.0,0.0,0.0,1,0,3,8,37.5,0,2,0,0,0
+Alexis Mac Allister,10,ar ARG,"LM,AM",22-240,90,0,0,0,0,3,0,0,0,50,4,1,2,0.3,0.3,0.1,5,0,25,32,78.1,4,19,2,2,1
+Yves Bissouma,8,ml MLI,CM,24-356,90,0,1,0,0,1,0,0,0,65,5,5,1,0.0,0.0,0.4,4,2,47,55,85.5,5,35,2,2,2
+Adam Lallana,14,eng ENG,"CM,AM",33-103,79,0,0,0,0,0,0,0,0,80,2,0,0,0.0,0.0,0.0,2,0,68,77,88.3,2,42,1,1,1
+Jakub Moder,15,pl POL,AM,22-136,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0
+Pascal Groß,13,de GER,"RM,WB",30-067,90,0,1,0,0,1,1,0,0,71,0,0,1,0.0,0.0,0.2,6,1,51,64,79.7,6,32,2,1,1
+Solly March,20,eng ENG,"LB,WB",27-032,90,0,0,0,0,0,0,1,0,54,2,0,3,0.0,0.0,0.0,2,0,26,42,61.9,4,27,1,0,0
+Lewis Dunk,5,eng ENG,CB,29-273,90,0,0,0,0,0,0,0,0,69,0,1,1,0.0,0.0,0.0,0,0,60,62,96.8,1,36,0,0,0
+Shane Duffy,24,ie IRL,CB,29-232,90,1,0,0,0,3,1,1,0,92,0,0,4,0.1,0.1,0.0,0,0,74,79,93.7,2,34,0,0,0
+Adam Webster,4,eng ENG,"RB,CB",26-229,90,0,0,0,0,0,0,1,0,118,4,1,2,0.0,0.0,0.0,1,1,105,113,92.9,13,71,1,1,1
+Robert Sánchez,1,es ESP,GK,23-276,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,28,40,70.0,0,24,0,0,0

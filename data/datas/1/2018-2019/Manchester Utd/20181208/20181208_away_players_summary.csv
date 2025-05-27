@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,24-083,45,0,0,0,0,2,1,0,0,20,0,0,0,0.1,0.1,0.0,1,0,7,12,58.3,0,10,0,2,1
+Aboubakar Kamara,47,mr MTN,"FW,LM",23-276,45,1,0,1,1,1,0,0,0,26,0,0,0,0.8,0.0,0.0,2,1,13,19,68.4,1,17,1,2,1
+Ryan Sessegnon,3,eng ENG,"LW,LM,RM",18-204,90,0,0,0,0,2,0,0,0,33,0,0,0,0.2,0.2,0.1,5,0,20,24,83.3,4,20,0,3,2
+André Schürrle,14,de GER,"RW,RM,CM",28-032,72,0,0,0,0,2,0,0,0,35,0,1,1,0.1,0.1,0.0,3,1,21,29,72.4,5,20,1,0,0
+Ibrahima Cissé,44,gn GUI,CM,24-283,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,5,0,1,1
+Tom Cairney,10,sct SCO,AM,27-322,45,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.1,2,0,23,29,79.3,3,19,0,0,0
+Luciano Vietto,19,ar ARG,"FW,RM",25-003,45,0,0,0,0,1,1,0,0,26,1,0,1,0.0,0.0,0.1,2,0,21,23,91.3,3,13,2,2,2
+Andre-Frank Zambo Anguissa,29,cm CMR,"DM,CM",23-022,67,0,0,0,0,0,0,2,1,47,1,2,3,0.0,0.0,0.0,0,0,25,33,75.8,6,19,0,5,3
+Jean Seri,24,ci CIV,"CM,DM",27-142,90,0,0,0,0,0,0,1,0,68,1,0,4,0.0,0.0,0.1,2,0,52,64,81.3,3,20,1,1,1
+Joe Bryan,23,eng ENG,LB,25-082,90,0,0,0,0,1,1,0,0,54,2,2,2,0.0,0.0,0.0,1,0,28,39,71.8,8,19,4,0,0
+Tim Ream,13,us USA,CB,31-064,90,0,0,0,0,0,0,0,0,32,2,0,1,0.0,0.0,0.1,1,0,22,26,84.6,4,10,0,0,0
+Alfie Mawson,26,eng ENG,CB,24-323,90,0,0,0,0,0,0,0,0,44,2,2,1,0.0,0.0,0.0,0,0,16,27,59.3,0,16,0,0,0
+Denis Odoi,4,gh GHA,RB,30-195,90,0,0,0,0,0,0,0,0,65,8,0,0,0.0,0.0,0.0,0,0,31,47,66.0,2,12,1,2,1
+Sergio Rico,25,es ESP,GK,25-098,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,12,29,41.4,0,13,0,0,0

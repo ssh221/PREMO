@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,31-279,90,1,0,0,0,3,2,0,0,21,1,0,0,0.8,0.8,0.1,4,0,9,12,75.0,1,14,1,1,1
+Saïd Benrahma,22,dz ALG,LW,26-144,70,0,1,0,0,3,1,0,0,27,1,0,0,0.3,0.3,0.6,2,1,13,17,76.5,5,14,1,2,0
+Nikola Vlašić,11,hr CRO,LW,24-089,20,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,0,7,1,1,1
+Jarrod Bowen,20,eng ENG,RW,25-012,90,0,0,0,0,1,0,0,0,46,4,1,0,0.0,0.0,0.0,1,0,25,32,78.1,0,28,0,2,1
+Manuel Lanzini,10,ar ARG,AM,28-320,88,2,0,1,1,1,1,0,0,59,0,1,0,0.9,0.1,0.0,2,1,44,50,88.0,3,39,2,1,1
+Mark Noble,16,eng ENG,AM,34-238,2,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Tomáš Souček,28,cz CZE,DM,26-308,90,0,0,0,0,0,0,0,0,45,3,3,0,0.0,0.0,0.0,0,0,21,32,65.6,3,22,0,1,1
+Declan Rice,41,eng ENG,DM,22-352,90,0,1,0,0,0,0,0,0,56,3,3,2,0.0,0.0,0.1,1,1,41,46,89.1,8,42,3,1,0
+Ben Johnson,31,eng ENG,LB,21-342,45,0,0,0,0,0,0,1,0,34,3,0,1,0.0,0.0,0.0,4,2,22,29,75.9,5,21,3,0,0
+Arthur Masuaku,26,cd COD,LB,28-055,45,0,0,0,0,0,0,1,0,37,6,1,2,0.0,0.0,0.0,1,0,16,24,66.7,1,22,2,0,0
+Issa Diop,23,fr FRA,CB,24-357,90,0,0,0,0,0,0,0,0,24,1,0,1,0.0,0.0,0.0,0,0,13,18,72.2,0,10,0,0,0
+Craig Dawson,15,eng ENG,CB,31-240,90,0,0,0,0,0,0,0,0,40,4,0,2,0.0,0.0,0.0,0,0,15,23,65.2,1,16,0,0,0
+Vladimír Coufal,5,cz CZE,RB,29-132,90,0,0,0,0,1,0,0,0,81,5,2,2,0.1,0.1,0.2,2,0,36,59,61.0,4,31,4,2,2
+Łukasz Fabiański,1,pl POL,GK,36-258,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,17,33,51.5,0,19,0,0,0

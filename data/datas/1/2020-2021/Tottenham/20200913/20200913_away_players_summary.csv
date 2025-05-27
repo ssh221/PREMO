@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Calvert-Lewin,9,eng ENG,FW,23-181,88,1,0,0,0,2,2,0,0,19,0,0,1,0.2,0.2,0.1,2,0,13,15,86.7,2,10,2,1,1
+Moise Kean,27,it ITA,"LM,FW",20-198,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0
+Richarlison,7,br BRA,"LW,FW",23-126,90,0,0,0,0,7,1,0,0,62,5,1,2,0.7,0.7,0.0,6,1,33,42,78.6,2,55,9,11,11
+James Rodríguez,19,co COL,RW,29-063,89,0,0,0,0,3,0,0,0,70,2,3,1,0.2,0.2,0.4,6,0,47,57,82.5,9,47,1,2,2
+Tom Davies,26,eng ENG,RM,22-075,1,0,0,0,0,0,0,0,0,2,0,2,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+André Gomes,21,pt POR,LM,27-045,67,0,0,0,0,1,0,0,0,46,0,0,0,0.1,0.1,0.0,2,0,37,40,92.5,5,32,2,1,1
+Gylfi Sigurðsson,10,is ISL,"LM,CM",31-005,23,0,0,0,0,0,0,0,0,15,1,1,0,0.0,0.0,0.0,1,0,9,13,69.2,0,10,0,0,0
+Allan,6,br BRA,"CM,DM",29-249,90,0,0,0,0,0,0,0,0,69,4,2,0,0.0,0.0,0.0,1,0,46,56,82.1,6,38,1,1,1
+Abdoulaye Doucouré,16,ml MLI,"RM,CM",27-256,90,0,0,0,0,0,0,0,0,64,2,2,0,0.0,0.0,0.2,6,0,48,57,84.2,1,37,1,2,2
+Lucas Digne,12,fr FRA,LB,27-055,90,0,1,0,0,0,0,0,0,88,3,2,2,0.0,0.0,0.1,2,1,63,77,81.8,5,43,0,0,0
+Michael Keane,5,eng ENG,CB,27-246,90,0,0,0,0,0,0,0,0,73,1,2,0,0.0,0.0,0.0,1,0,57,61,93.4,1,49,0,0,0
+Yerry Mina,13,co COL,CB,25-356,90,0,0,0,0,1,0,0,0,69,0,3,2,0.0,0.0,0.0,0,0,52,57,91.2,2,42,0,0,0
+Séamus Coleman,23,ie IRL,RB,31-338,90,0,0,0,0,1,1,0,0,65,1,1,2,0.0,0.0,0.0,3,0,45,51,88.2,3,36,0,1,0
+Jordan Pickford,1,eng ENG,GK,26-190,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,0,21,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aaron Connolly,7,ie IRL,FW,20-340,45,1,0,0,0,2,2,0,0,8,0,0,0,0.6,0.6,0.0,0,0,1,3,33.3,0,5,0,0,0
+Andi Zeqiri,29,ch SUI,FW,21-194,45,0,0,0,0,3,0,0,0,10,1,0,0,0.5,0.5,0.0,2,1,3,6,50.0,0,7,0,0,0
+Neal Maupay,9,fr FRA,AM,24-141,90,1,0,1,1,2,0,0,0,32,0,0,1,0.8,0.1,0.0,3,1,20,24,83.3,4,23,2,1,1
+Leandro Trossard,11,be BEL,AM,26-029,90,0,2,0,0,1,0,0,0,53,2,2,1,0.1,0.1,0.7,3,2,31,42,73.8,3,36,1,1,0
+Yves Bissouma,8,ml MLI,CM,24-125,45,0,0,0,0,0,0,1,0,24,1,0,1,0.0,0.0,0.0,1,0,19,19,100.0,4,21,0,1,1
+Davy Pröpper,24,nl NED,CM,29-122,45,0,0,0,0,0,0,0,0,34,2,0,2,0.0,0.0,0.0,0,0,27,30,90.0,7,30,1,0,0
+Ben White,3,eng ENG,CM,23-086,90,0,0,0,0,0,0,0,0,61,2,4,1,0.0,0.0,0.0,3,0,42,50,84.0,6,40,1,0,0
+Solly March,20,eng ENG,WB,26-166,90,0,0,0,0,1,0,0,0,51,3,1,0,0.0,0.0,0.1,4,0,31,41,75.6,4,32,1,4,0
+Joël Veltman,34,nl NED,WB,28-353,90,0,0,0,0,0,0,0,0,66,6,0,1,0.0,0.0,0.1,3,0,44,58,75.9,4,36,2,0,0
+Dan Burn,33,eng ENG,CB,28-238,68,0,0,0,0,0,0,1,0,63,1,2,1,0.0,0.0,0.0,0,0,40,53,75.5,4,47,3,0,0
+Adam Lallana,14,eng ENG,CB,32-237,22,0,0,0,0,0,0,0,0,15,1,2,1,0.0,0.0,0.0,0,0,11,11,100.0,3,11,2,1,1
+Lewis Dunk,5,eng ENG,CB,29-042,90,1,0,0,0,1,1,0,0,132,1,2,2,0.1,0.1,0.0,0,0,114,123,92.7,10,115,3,0,0
+Adam Webster,4,eng ENG,CB,25-364,90,0,0,0,0,2,0,0,0,107,1,2,2,0.1,0.1,0.1,3,1,83,93,89.2,8,81,4,4,4
+Robert Sánchez,26,es ESP,GK,23-045,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,35,36,97.2,0,32,0,0,0

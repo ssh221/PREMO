@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+João Pedro,10,br BRA,FW,20-227,90,0,0,0,0,0,0,0,0,54,1,1,1,0.0,0.0,0.0,0,0,20,32,62.5,2,33,4,11,6
+Ken Sema,12,se SWE,LW,28-223,90,0,0,0,0,0,0,0,0,31,0,0,1,0.0,0.0,0.2,4,0,16,24,66.7,1,19,2,2,2
+Samuel Kalu,28,ng NGA,RW,24-258,85,0,0,0,0,2,0,0,0,53,1,1,0,0.1,0.1,0.0,1,0,30,35,85.7,4,35,1,7,3
+Craig Cathcart,15,nir NIR,RB,33-094,5,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Dan Gosling,16,eng ENG,LM,32-099,90,0,0,0,0,1,0,0,0,50,1,0,1,0.0,0.0,0.0,1,0,34,39,87.2,2,27,1,1,1
+Edo Kayembe,39,cd COD,CM,23-342,88,0,0,0,0,1,0,0,0,90,4,1,2,0.0,0.0,0.0,3,0,68,76,89.5,6,52,2,3,2
+Oghenekaro Etebo,4,ng NGA,CM,26-183,2,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Moussa Sissoko,19,fr FRA,RM,32-268,90,0,0,0,0,1,0,0,0,58,3,1,0,0.1,0.1,0.0,0,0,39,43,90.7,2,28,3,2,2
+Adam Masina,11,ma MAR,LB,28-129,90,0,0,0,0,0,0,0,0,74,1,3,3,0.0,0.0,0.0,0,0,50,63,79.4,3,34,0,2,1
+Samir Santos,22,br BRA,CB,27-157,90,0,0,0,0,0,0,1,0,50,1,1,1,0.0,0.0,0.0,0,0,38,41,92.7,2,22,0,0,0
+Christian Kabasele,27,be BEL,CB,31-076,90,0,0,0,0,1,0,0,0,64,0,1,3,0.1,0.1,0.0,0,0,43,56,76.8,5,37,1,0,0
+Jeremy Ngakia,2,,"RB,RW",21-246,90,0,0,0,0,0,0,0,0,69,2,3,1,0.0,0.0,0.0,2,0,44,55,80.0,5,40,2,0,0
+Ben Foster,1,eng ENG,GK,39-038,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,17,31,54.8,0,22,0,0,0

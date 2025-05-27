@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Paterson,13,sct SCO,"FW,RM",24-077,90,0,0,0,0,0,0,0,0,39,0,0,2,0.0,0.0,0.1,2,0,18,30,60.0,5,11,0,1,0
+Josh Murphy,11,eng ENG,LM,23-308,77,0,0,0,0,3,1,0,0,34,1,0,1,0.2,0.2,0.0,2,0,9,17,52.9,0,20,4,4,0
+Kadeem Harris,23,eng ENG,LM,25-204,13,0,0,0,0,1,1,0,0,11,1,1,1,0.1,0.1,0.0,0,0,3,5,60.0,0,5,2,2,1
+Harry Arter,7,ie IRL,CM,29-001,89,0,0,0,0,2,0,0,0,44,1,1,2,0.0,0.0,0.0,5,1,28,34,82.4,3,16,1,0,0
+Lee Peltier,2,eng ENG,CM,32-018,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Víctor Camarasa,21,es ESP,CM,24-215,90,1,0,0,0,3,1,0,0,66,0,0,0,0.1,0.1,0.1,4,0,36,54,66.7,5,31,3,3,2
+Junior Hoilett,33,ca CAN,RM,28-207,82,0,0,0,0,2,0,0,0,34,2,1,0,0.1,0.1,0.0,1,0,14,21,66.7,1,21,3,2,1
+Bobby De Cordova-Reid,14,jm JAM,FW,25-330,8,0,1,0,0,0,0,0,0,5,1,0,1,0.0,0.0,0.0,1,1,2,3,66.7,0,1,0,0,0
+Aron Gunnarsson,17,is ISL,DM,29-251,90,0,0,0,0,0,0,0,0,48,4,7,1,0.0,0.0,0.1,2,0,17,31,54.8,2,11,0,0,0
+Greg Cunningham,18,ie IRL,LB,27-332,90,0,0,0,0,0,0,0,0,37,1,2,2,0.0,0.0,0.0,0,0,16,28,57.1,2,9,0,1,0
+Sol Bamba,22,ci CIV,CB,33-350,90,0,0,0,0,0,0,0,0,33,3,3,2,0.0,0.0,0.0,0,0,10,14,71.4,0,8,0,1,1
+Sean Morrison,4,eng ENG,CB,27-355,90,0,0,0,0,1,0,1,0,32,0,1,1,0.1,0.1,0.0,0,0,13,24,54.2,3,9,1,0,0
+Bruno Ecuele Manga,5,ga GAB,RB,30-166,90,0,0,0,0,0,0,0,0,37,1,1,2,0.0,0.0,0.0,0,0,21,26,80.8,6,12,1,0,0
+Neil Etheridge,1,ph PHI,GK,28-325,90,0,0,0,0,0,0,1,0,31,0,0,0,0.0,0.0,0.0,1,0,10,24,41.7,0,7,0,0,0

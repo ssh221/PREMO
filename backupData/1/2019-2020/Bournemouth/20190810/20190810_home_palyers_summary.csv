@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Wilson,13,eng ENG,FW,27-164,89,0,0,0,0,1,1,0,0,18,0,0,1,0.7,0.7,0.0,2,1,6,13,46.2,1,16,2,0,0
+Dominic Solanke,9,eng ENG,FW,21-330,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,1,0,0,0,,0,0,0,0,0
+Ryan Fraser,24,sct SCO,AM,25-167,90,0,0,0,0,1,0,1,0,40,1,0,0,0.1,0.1,0.0,5,0,27,35,77.1,4,33,3,2,0
+Joshua King,7,no NOR,AM,27-207,90,0,0,0,0,1,0,0,0,40,0,1,1,0.1,0.1,0.0,2,0,13,24,54.2,2,26,1,8,3
+Jefferson Lerma,8,co COL,CM,24-289,90,0,0,0,0,2,0,0,0,66,2,0,1,0.1,0.1,0.0,2,0,37,56,66.1,4,43,1,2,1
+Philip Billing,29,dk DEN,CM,23-060,90,0,0,0,0,2,1,0,0,67,6,4,1,0.0,0.0,0.3,4,0,45,54,83.3,4,41,1,0,0
+Diego Rico,21,es ESP,WB,26-168,90,0,0,0,0,1,0,0,0,71,5,3,0,0.0,0.0,0.0,1,0,34,56,60.7,7,39,1,1,1
+Adam Smith,15,eng ENG,WB,28-103,90,0,0,0,0,0,0,1,0,70,0,0,0,0.0,0.0,0.0,2,0,56,64,87.5,7,47,3,2,2
+Nathan Aké,5,nl NED,CB,24-173,90,0,0,0,0,2,0,0,0,81,3,2,1,0.2,0.2,0.7,2,0,63,69,91.3,5,65,1,0,0
+Steve Cook,3,eng ENG,CB,28-113,90,0,0,0,0,1,0,0,0,78,0,2,0,0.1,0.1,0.0,0,0,60,69,87.0,2,54,0,0,0
+Chris Mepham,33,wls WAL,CB,21-278,90,1,0,0,0,2,1,0,0,74,1,1,1,0.5,0.5,0.0,1,0,54,66,81.8,2,58,1,2,1
+Aaron Ramsdale,12,eng ENG,GK,21-088,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,16,26,61.5,0,11,0,0,0

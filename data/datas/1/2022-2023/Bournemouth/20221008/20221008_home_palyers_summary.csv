@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dominic Solanke,9,eng ENG,FW,25-024,89,0,1,0,0,1,0,0,0,31,0,0,2,0.1,0.1,0.4,2,2,12,15,80.0,1,19,1,5,0
+Kieffer Moore,21,wls WAL,FW,30-061,1,0,0,0,0,0,0,0,0,2,1,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,0,0,0
+Philip Billing,29,dk DEN,FW,26-119,76,1,0,0,0,1,1,0,0,45,2,0,4,0.2,0.2,0.1,3,1,30,33,90.9,3,25,2,3,1
+Jaidon Anthony,32,eng ENG,FW,22-311,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,6,0,3,1
+Marcus Tavernier,16,eng ENG,LM,23-200,90,0,0,0,0,1,0,0,0,60,0,1,0,0.1,0.1,0.0,2,0,38,50,76.0,2,31,4,6,3
+Jefferson Lerma,8,co COL,CM,27-348,90,0,0,0,0,0,0,0,0,63,1,1,1,0.0,0.0,0.0,1,0,49,56,87.5,4,33,2,0,0
+Lewis Cook,4,eng ENG,CM,25-247,90,0,0,0,0,1,0,0,0,46,1,0,1,0.0,0.0,0.2,4,0,29,39,74.4,6,26,2,2,1
+Ryan Christie,10,sct SCO,RM,27-228,90,1,0,0,0,5,3,0,0,54,1,1,2,0.7,0.7,0.0,2,0,32,39,82.1,3,36,1,6,1
+Adam Smith,15,eng ENG,LB,31-162,90,0,0,0,0,0,0,0,0,48,1,4,0,0.0,0.0,0.0,0,0,34,39,87.2,5,23,0,2,0
+Marcos Senesi,25,ar ARG,CB,25-151,90,0,0,0,0,0,0,0,0,63,3,1,2,0.0,0.0,0.0,0,0,50,56,89.3,4,35,0,0,0
+Chris Mepham,6,wls WAL,CB,24-337,90,0,0,0,0,1,0,0,0,72,2,1,0,0.1,0.1,0.0,0,0,55,61,90.2,1,37,0,1,1
+Ryan Fredericks,2,eng ENG,RB,29-363,71,0,0,0,0,0,0,1,0,51,0,0,0,0.0,0.0,0.0,1,0,32,47,68.1,4,24,2,3,2
+Jack Stacey,17,eng ENG,RB,26-185,19,0,0,0,0,0,0,0,0,18,1,1,1,0.0,0.0,0.0,0,0,10,13,76.9,1,8,2,2,0
+Neto,13,br BRA,GK,33-081,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,16,27,59.3,0,18,0,0,0

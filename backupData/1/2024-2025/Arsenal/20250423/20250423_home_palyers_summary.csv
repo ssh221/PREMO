@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Leandro Trossard,19,be BEL,FW,30-140,90,1,0,0,0,3,1,0,0,46,0,0,3,0.7,0.7,0.0,2,0,25,33,75.8,3,28,1,1,0
+Gabriel Martinelli,11,br BRA,LW,23-309,90,0,0,0,0,2,1,0,0,27,0,1,0,0.1,0.1,0.1,2,1,17,21,81.0,1,22,2,2,0
+Raheem Sterling,30,eng ENG,RW,30-136,59,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.1,2,0,10,12,83.3,0,9,1,1,0
+Bukayo Saka,7,eng ENG,RW,23-230,31,0,0,0,0,1,1,0,0,17,0,0,1,0.1,0.1,0.0,2,0,13,14,92.9,0,14,1,0,0
+Declan Rice,41,eng ENG,LM,26-099,90,0,0,0,0,2,0,1,0,39,1,0,1,0.1,0.1,0.1,1,0,22,29,75.9,4,21,1,1,0
+Thomas Partey,5,gh GHA,CM,31-314,90,0,0,0,0,0,0,0,0,94,0,2,1,0.0,0.0,0.0,2,1,81,88,92.0,9,66,1,2,2
+Martin Ødegaard,8,no NOR,RM,26-127,85,0,1,0,0,2,0,0,0,61,0,1,0,0.1,0.1,0.1,3,1,44,57,77.2,5,45,1,1,1
+Ethan Nwaneri,53,eng ENG,RM,18-033,5,0,0,0,0,0,0,0,0,8,0,1,0,0.0,0.0,0.0,0,0,6,7,85.7,0,6,0,0,0
+Myles Lewis-Skelly,49,eng ENG,LB,18-209,85,0,0,0,0,0,0,0,0,64,0,0,0,0.0,0.0,0.1,2,0,53,56,94.6,2,36,3,2,0
+Kieran Tierney,3,sct SCO,LB,27-322,5,0,0,0,0,0,0,0,0,21,1,0,0,0.0,0.0,0.0,1,0,16,19,84.2,2,10,0,0,0
+Jakub Kiwior,15,pl POL,CB,25-067,90,1,0,0,0,1,1,0,0,133,1,0,2,0.0,0.0,0.0,1,0,115,120,95.8,12,82,1,1,1
+William Saliba,2,fr FRA,CB,24-030,90,0,0,0,0,1,0,0,0,176,2,2,2,0.1,0.1,0.0,1,0,163,166,98.2,3,122,0,0,0
+Jurriën Timber,12,nl NED,RB,23-310,90,0,1,0,0,0,0,0,0,86,1,1,0,0.0,0.0,0.1,2,1,76,82,92.7,5,53,4,0,0
+David Raya,22,es ESP,GK,29-220,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,37,41,90.2,0,30,0,0,0

@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kieffer Moore,21,wls WAL,FW,30-145,90,0,0,0,0,2,0,0,0,28,0,0,2,0.3,0.3,0.0,0,0,7,16,43.8,1,14,0,1,0
+Dominic Solanke,9,eng ENG,"AM,FW",25-108,90,0,0,0,0,2,1,1,0,34,1,0,0,0.2,0.2,0.1,4,0,10,16,62.5,2,24,2,6,3
+Philip Billing,29,dk DEN,LM,26-203,37,0,0,0,0,0,0,0,0,10,0,0,1,0.0,0.0,0.0,0,0,4,8,50.0,0,3,0,1,1
+Siriki Dembélé,20,ci CIV,"RW,LM",26-115,53,0,0,0,0,1,1,0,0,30,1,0,1,0.1,0.1,0.2,3,0,16,22,72.7,2,16,0,3,2
+Jefferson Lerma,8,co COL,"DM,CM",28-067,90,0,0,0,0,0,0,0,0,56,3,2,1,0.0,0.0,0.0,1,0,26,40,65.0,4,14,0,4,2
+Lewis Cook,4,eng ENG,"CM,DM",25-331,79,0,0,0,0,1,0,0,0,44,3,0,1,0.1,0.1,0.0,1,0,24,35,68.6,1,10,1,0,0
+Jamal Lowe,18,jm JAM,DM,28-163,11,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,1,2,0,0,0
+Jaidon Anthony,32,eng ENG,"RM,LW",23-030,79,0,0,0,0,0,0,1,0,69,5,0,2,0.0,0.0,0.0,2,0,39,54,72.2,2,25,2,6,3
+Ryan Christie,10,sct SCO,LW,27-312,11,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,0,0,0
+Jordan Zemura,33,zw ZIM,LB,23-047,69,0,0,0,0,0,0,0,0,53,0,1,1,0.0,0.0,0.0,0,0,29,43,67.4,4,21,2,1,0
+Joe Rothwell,14,eng ENG,LB,27-354,21,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,12,13,92.3,0,6,0,2,1
+Lloyd Kelly,5,eng ENG,CB,24-086,90,0,0,0,0,0,0,1,0,90,0,2,3,0.0,0.0,0.0,0,0,67,80,83.8,3,53,1,0,0
+Marcos Senesi,25,ar ARG,CB,25-235,90,0,0,0,0,0,0,1,0,97,2,1,1,0.0,0.0,0.0,0,0,72,88,81.8,2,59,0,0,0
+Adam Smith,15,eng ENG,RB,31-246,90,0,0,0,0,0,0,0,0,71,2,0,1,0.0,0.0,0.0,0,0,47,66,71.2,8,22,0,1,0
+Mark Travers,1,ie IRL,GK,23-227,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,34,35,97.1,0,27,0,0,0

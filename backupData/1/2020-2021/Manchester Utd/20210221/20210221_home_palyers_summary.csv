@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Anthony Martial,9,fr FRA,FW,25-078,69,0,0,0,0,1,1,0,0,29,0,0,0,0.1,0.1,0.0,2,0,19,23,82.6,1,21,2,2,2
+Mason Greenwood,11,eng ENG,FW,19-143,21,0,0,0,0,2,0,0,0,13,0,0,0,0.1,0.1,0.0,1,0,6,8,75.0,1,5,1,0,0
+Marcus Rashford,10,eng ENG,LW,23-113,88,1,0,0,0,2,2,0,0,71,0,1,0,0.1,0.1,0.0,6,2,49,59,83.1,3,30,3,7,5
+Shola Shoretire,74,eng ENG,LW,17-019,2,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,3,0,0,0
+Daniel James,21,wls WAL,RW,23-103,87,1,0,0,0,2,1,0,0,39,2,0,1,0.3,0.3,0.0,1,0,22,32,68.8,3,22,6,0,0
+Juan Mata,8,es ESP,RW,32-299,3,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,6,7,85.7,0,4,0,0,0
+Bruno Fernandes,18,pt POR,AM,26-166,90,1,1,1,1,1,0,1,0,77,1,1,0,0.8,0.0,0.4,4,1,61,73,83.6,8,27,2,1,1
+Nemanja Matić,31,rs SRB,DM,32-204,90,0,0,0,0,1,0,0,0,108,2,1,2,0.1,0.1,0.0,4,2,90,99,90.9,9,60,7,2,2
+Fred,17,br BRA,DM,27-353,90,0,0,0,0,2,1,0,0,83,2,1,0,0.1,0.1,0.1,1,0,68,75,90.7,7,45,3,0,0
+Luke Shaw,23,eng ENG,LB,25-224,90,0,0,0,0,0,0,0,0,95,0,0,2,0.0,0.0,0.3,7,0,73,87,83.9,8,35,4,3,2
+Harry Maguire,5,eng ENG,CB,27-353,90,0,1,0,0,2,1,0,0,118,2,1,1,0.1,0.1,0.1,4,1,94,109,86.2,6,59,2,0,0
+Victor Lindelöf,2,se SWE,CB,26-219,90,0,0,0,0,0,0,0,0,79,0,0,0,0.0,0.0,0.0,0,0,70,76,92.1,2,47,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,23-087,90,0,0,0,0,1,0,0,0,56,2,0,1,0.0,0.0,0.0,0,0,45,50,90.0,6,28,3,0,0
+David de Gea,1,es ESP,GK,30-106,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,21,31,67.7,0,17,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cameron Archer,10,eng ENG,FW,22-092,90,0,0,0,0,4,2,0,0,35,0,1,2,0.2,0.2,0.2,2,0,11,14,78.6,0,22,2,4,1
+Oliver McBurnie,9,sct SCO,FW,27-139,51,1,0,1,1,1,1,0,0,27,0,0,0,1.0,0.2,0.1,2,0,13,21,61.9,3,9,0,3,2
+Rhian Brewster,7,eng ENG,FW,23-203,39,0,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,0,0,4,8,50.0,1,6,1,1,0
+Gustavo Hamer,8,nl NED,LM,26-119,83,0,0,0,0,3,0,0,0,43,1,1,0,0.1,0.1,0.0,2,0,20,31,64.5,7,15,1,2,0
+Bénie Traoré,11,ci CIV,LM,20-325,7,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,4,4,100.0,0,4,0,0,0
+Vinicius Souza,21,br BRA,CM,24-126,90,0,0,0,0,0,0,1,0,38,5,1,2,0.0,0.0,0.0,2,1,16,23,69.6,1,9,0,1,1
+Oliver Norwood,16,nir NIR,CM,32-192,90,0,0,0,0,1,1,0,0,68,1,4,1,0.1,0.1,0.0,2,0,33,57,57.9,4,28,0,0,0
+James Mcatee,28,eng ENG,RM,21-003,77,0,0,0,0,0,0,0,0,42,3,0,1,0.0,0.0,0.1,4,0,17,29,58.6,1,27,3,3,2
+Ben Osborn,23,eng ENG,RM,29-077,13,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,2,0,10,11,90.9,2,6,0,0,0
+Luke Thomas,14,eng ENG,LB,22-133,90,0,0,0,0,0,0,1,0,48,0,3,0,0.0,0.0,0.0,1,0,21,35,60.0,3,20,3,1,0
+Jack Robinson,19,eng ENG,CB,30-050,90,0,0,0,0,1,0,0,0,39,0,0,2,0.0,0.0,0.0,0,0,26,33,78.8,1,20,0,1,1
+Auston Trusty,5,us USA,CB,25-070,90,0,0,0,0,0,0,1,0,38,4,3,1,0.0,0.0,0.0,0,0,19,25,76.0,0,14,0,1,0
+Jayden Bogle,20,eng ENG,RB,23-086,90,0,0,0,0,0,0,0,0,55,0,1,2,0.0,0.0,0.0,0,0,36,48,75.0,1,18,1,1,0
+Wes Foderingham,18,eng ENG,GK,32-280,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,14,33,42.4,0,15,0,0,0

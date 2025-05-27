@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gonzalo Higuaín,9,ar ARG,FW,31-111,76,0,0,0,0,3,0,0,0,38,0,0,0,0.1,0.1,0.0,1,0,26,31,83.9,1,21,1,0,0
+Olivier Giroud,18,fr FRA,FW,32-182,14,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0
+Willian,22,br BRA,"LW,RW",30-234,90,0,1,0,0,5,1,0,0,74,1,0,1,0.2,0.2,0.5,11,1,48,64,75.0,7,47,6,3,3
+Pedro,11,es ESP,RW,31-246,52,0,0,0,0,1,0,0,0,40,0,0,0,0.0,0.0,0.1,4,0,29,36,80.6,2,26,0,2,1
+Eden Hazard,10,be BEL,LW,28-083,38,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.3,5,0,30,35,85.7,6,32,3,8,4
+Ross Barkley,8,eng ENG,"LM,RM",25-116,90,0,0,0,0,2,0,0,0,65,1,1,0,0.4,0.4,0.1,3,0,48,57,84.2,4,37,3,3,2
+Jorginho,5,it ITA,CM,27-101,63,0,0,0,0,0,0,1,0,47,0,4,2,0.0,0.0,0.0,0,0,30,38,78.9,4,20,1,2,1
+Ruben Loftus-Cheek,12,eng ENG,LM,23-067,27,1,0,0,0,3,1,0,0,23,0,0,1,0.4,0.4,0.0,0,0,15,16,93.8,1,15,3,3,2
+Mateo Kovačić,17,hr CRO,"RM,CM",24-329,90,0,0,0,0,1,0,0,0,65,2,0,0,0.0,0.0,0.0,2,0,48,55,87.3,5,49,3,3,3
+Marcos Alonso,3,es ESP,LB,28-093,90,0,1,0,0,3,0,0,0,78,0,2,1,0.2,0.2,0.6,7,1,51,66,77.3,6,36,3,1,1
+David Luiz,30,br BRA,CB,31-343,90,0,0,0,0,1,0,0,0,70,2,1,0,0.0,0.0,0.0,1,0,43,59,72.9,4,31,2,0,0
+Antonio Rüdiger,2,de GER,CB,26-028,90,0,0,0,0,1,0,1,0,99,1,1,0,0.0,0.0,0.0,4,0,78,88,88.6,13,62,6,0,0
+César Azpilicueta,28,es ESP,RB,29-215,90,1,0,0,0,1,1,1,0,60,3,0,0,0.4,0.4,0.0,1,1,44,51,86.3,1,25,1,0,0
+Kepa Arrizabalaga,1,es ESP,GK,24-179,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,30,35,85.7,0,22,0,0,0

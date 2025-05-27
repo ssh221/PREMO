@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Callum Wilson,13,eng ENG,FW,28-206,90,0,0,0,0,1,0,0,0,17,0,1,0,0.4,0.4,0.0,0,0,6,10,60.0,1,8,1,0,0
+Andy Carroll,7,eng ENG,FW,31-258,45,0,0,0,0,0,0,0,0,19,1,0,0,0.0,0.0,0.0,0,0,3,11,27.3,0,7,0,0,0
+Miguel Almirón,24,py PAR,"FW,AM,CM",26-223,45,0,0,0,0,0,0,0,0,27,1,0,1,0.0,0.0,0.4,2,0,18,21,85.7,3,19,1,0,0
+Allan Saint-Maximin,10,fr FRA,LM,23-192,32,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,6,7,85.7,1,4,1,2,1
+Ryan Fraser,21,sct SCO,"LM,RW,RM",26-209,58,0,0,0,0,0,0,0,0,28,0,3,0,0.0,0.0,0.0,0,0,16,25,64.0,1,14,0,0,0
+Isaac Hayden,14,eng ENG,"CM,DM,RB",25-182,90,0,0,0,0,1,0,0,0,63,1,1,1,0.0,0.0,0.0,2,0,48,58,82.8,5,31,0,0,0
+Jonjo Shelvey,8,eng ENG,CM,28-206,71,0,0,0,0,2,0,1,0,62,2,1,0,0.1,0.1,0.0,1,0,29,56,51.8,4,36,0,1,1
+Joelinton,9,br BRA,"LW,LM",24-037,19,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,7,7,100.0,1,5,0,0,0
+Jeff Hendrick,16,ie IRL,"RM,DM,CM",28-233,90,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.0,1,0,24,27,88.9,3,11,0,0,0
+Jamal Lewis,15,nir NIR,LB,22-239,90,0,0,0,0,0,0,1,0,44,0,2,0,0.0,0.0,0.0,2,0,26,34,76.5,3,17,0,0,0
+Federico Fernández,18,ar ARG,CB,31-212,90,0,0,0,0,0,0,0,0,47,0,1,0,0.0,0.0,0.0,0,0,32,40,80.0,0,22,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,26-314,90,0,0,0,0,1,0,1,0,63,1,0,0,0.0,0.0,0.0,0,0,45,56,80.4,3,31,0,0,0
+Javier Manquillo,19,es ESP,"RB,LB",26-138,90,0,0,0,0,0,0,0,0,58,2,0,0,0.0,0.0,0.0,0,0,42,52,80.8,4,29,2,1,0
+Karl Darlow,26,wls WAL,GK,29-348,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,14,26,53.8,0,11,0,0,0

@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Bakary Sako,26,ml MLI,FW,29-269,90,0,0,0,0,2,1,0,0,38,2,1,0,0.1,0.1,0.2,2,0,20,30,66.7,0,23,7,2,0
+Christian Benteke,17,be BEL,FW,27-048,90,0,1,0,0,1,1,0,0,41,0,1,1,0.2,0.2,0.3,4,1,21,32,65.6,2,10,0,0,0
+James McArthur,18,sct SCO,LM,30-105,90,0,0,0,0,0,0,0,0,48,1,3,2,0.0,0.0,0.1,2,0,37,40,92.5,3,26,0,0,0
+Luka Milivojević,4,rs SRB,CM,26-288,90,1,0,0,0,1,1,0,0,67,0,4,0,0.1,0.1,0.0,1,0,51,60,85.0,8,40,1,1,0
+Yohan Cabaye,7,fr FRA,CM,32-006,89,0,0,0,0,0,0,0,0,79,5,3,3,0.0,0.0,0.0,4,1,52,66,78.8,6,28,1,0,0
+Jaïro Riedewald,44,nl NED,FW,21-133,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,1,0,0,0
+Wilfried Zaha,11,ci CIV,RM,25-071,90,0,0,0,0,1,1,0,0,51,1,1,2,0.0,0.0,0.0,0,0,22,30,73.3,3,42,5,6,2
+Patrick van Aanholt,3,nl NED,LB,27-144,90,0,0,0,0,1,0,0,0,67,1,1,1,0.0,0.0,0.0,0,0,47,60,78.3,8,41,1,0,0
+James Tomkins,5,eng ENG,CB,28-297,90,0,0,0,0,1,0,0,0,53,4,7,3,0.0,0.0,0.0,0,0,33,35,94.3,2,16,0,0,0
+Martin Kelly,34,eng ENG,CB,27-268,90,0,0,0,0,1,1,0,0,44,0,1,2,0.2,0.2,0.0,1,0,29,33,87.9,3,21,0,0,0
+Timothy Fosu-Mensah,24,nl NED,RB,20-018,90,0,0,0,0,1,0,0,0,60,1,4,1,0.0,0.0,0.0,0,0,28,43,65.1,3,20,2,1,1
+Wayne Hennessey,13,wls WAL,GK,30-361,90,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,1,0,11,18,61.1,0,7,0,0,0

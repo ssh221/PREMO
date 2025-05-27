@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Oliver McBurnie,9,sct SCO,FW,27-118,90,0,0,0,0,2,0,0,0,38,0,0,0,0.1,0.1,0.1,3,0,27,34,79.4,2,19,2,0,0
+Cameron Archer,10,eng ENG,FW,22-071,78,0,0,0,0,2,0,0,0,24,1,0,0,0.2,0.2,0.2,4,0,16,17,94.1,1,15,0,1,0
+Rhian Brewster,7,eng ENG,FW,23-182,12,0,0,0,0,0,0,0,0,9,1,0,1,0.0,0.0,0.1,1,0,5,5,100.0,0,3,0,1,0
+James Mcatee,28,eng ENG,CM,20-347,69,0,0,0,0,1,0,1,0,35,1,0,2,0.0,0.0,0.0,1,0,18,27,66.7,4,21,4,1,1
+Tom Davies,22,eng ENG,CM,25-092,21,0,0,0,0,0,0,0,0,18,0,0,0,0.0,0.0,0.1,1,0,13,16,81.3,2,14,1,1,1
+Vinicius Souza,21,br BRA,CM,24-105,90,0,0,0,0,1,0,0,0,79,4,1,0,0.1,0.1,0.0,2,0,57,67,85.1,10,41,2,0,0
+Gustavo Hamer,8,nl NED,CM,26-098,78,0,0,0,0,2,0,0,0,50,1,0,1,0.1,0.1,0.1,5,0,31,45,68.9,6,21,1,1,1
+Anis Ben Slimane,25,tn TUN,CM,22-198,12,0,0,0,0,2,1,0,0,17,0,0,0,0.1,0.1,0.0,2,0,9,12,75.0,3,9,0,1,0
+Luke Thomas,14,eng ENG,WB,22-112,90,0,0,0,0,1,0,0,0,62,0,0,5,0.1,0.1,0.0,2,0,43,52,82.7,6,34,1,2,2
+Jayden Bogle,20,eng ENG,WB,23-065,78,0,0,0,0,1,0,0,0,41,1,0,2,0.1,0.1,0.0,1,0,24,32,75.0,2,22,1,2,0
+Auston Trusty,5,us USA,CB,25-049,12,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,5,0,0,0
+Jack Robinson,19,eng ENG,CB,30-029,90,0,0,0,0,0,0,0,0,65,3,0,2,0.0,0.0,0.1,3,0,41,51,80.4,2,21,0,0,0
+John Egan,12,ie IRL,CB,30-345,55,0,0,0,0,1,0,0,0,22,0,0,1,0.1,0.1,0.0,1,0,14,17,82.4,2,10,0,0,0
+Chris Basham,6,eng ENG,"CB,WB",35-072,35,0,0,0,0,1,0,0,0,29,1,0,1,0.0,0.0,0.2,1,0,24,24,100.0,1,16,0,0,0
+Anel Ahmedhodžić,15,ba BIH,CB,24-188,90,0,0,0,0,2,1,0,0,58,1,0,1,0.3,0.3,0.0,0,0,46,52,88.5,4,28,0,0,0
+Wes Foderingham,18,eng ENG,GK,32-259,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,26,34,76.5,0,23,0,0,0

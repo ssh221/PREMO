@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Michail Antonio,9,jm JAM,FW,32-328,71,0,0,0,0,0,0,1,0,24,1,0,0,0.0,0.0,0.1,0,0,9,15,60.0,1,15,1,1,1
+Danny Ings,18,eng ENG,FW,30-211,19,0,0,0,0,1,0,0,0,5,1,0,0,0.1,0.1,0.0,0,0,2,2,100.0,0,1,0,0,0
+Jarrod Bowen,20,eng ENG,"AM,RW",26-061,90,0,0,0,0,2,1,0,0,31,1,1,2,0.1,0.1,0.2,4,0,12,19,63.2,1,18,3,4,2
+Flynn Downes,12,eng ENG,AM,24-030,71,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.0,0,0,20,23,87.0,0,11,0,0,0
+Saïd Benrahma,22,dz ALG,"LW,AM",27-193,19,0,0,0,0,2,0,0,0,13,0,0,0,0.2,0.2,0.0,0,0,7,8,87.5,3,9,1,2,0
+Declan Rice,41,eng ENG,"CM,DM",24-036,90,0,0,0,0,0,0,0,0,84,0,2,1,0.0,0.0,0.0,0,0,65,76,85.5,8,41,5,5,3
+Tomáš Souček,28,cz CZE,"CM,DM",27-357,90,0,0,0,0,1,0,0,0,48,3,4,3,0.1,0.1,0.1,2,0,23,34,67.6,5,14,1,1,0
+Emerson Palmieri,33,it ITA,WB,28-200,80,0,0,0,0,0,0,0,0,45,0,1,0,0.0,0.0,0.0,0,0,31,37,83.8,1,21,0,2,1
+Pablo Fornals,8,es ESP,AM,26-362,10,0,0,0,0,0,0,0,0,14,3,0,0,0.0,0.0,0.0,0,0,6,10,60.0,0,2,0,0,0
+Vladimír Coufal,5,cz CZE,"WB,RB",30-181,90,0,0,0,0,0,0,0,0,77,3,1,1,0.0,0.0,0.0,1,0,35,69,50.7,8,38,3,2,1
+Nayef Aguerd,27,ma MAR,CB,26-326,90,0,0,0,0,0,0,0,0,52,0,2,1,0.0,0.0,0.0,1,0,31,45,68.9,4,23,0,1,1
+Angelo Ogbonna,21,it ITA,CB,34-272,80,0,0,0,0,0,0,0,0,32,1,1,1,0.0,0.0,0.0,1,0,21,25,84.0,1,13,0,0,0
+Ben Johnson,2,eng ENG,LB,23-026,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,7,9,77.8,0,10,0,0,0
+Thilo Kehrer,24,de GER,CB,26-151,90,0,0,0,0,0,0,0,0,61,4,1,2,0.0,0.0,0.0,0,0,42,49,85.7,0,22,0,1,1
+Łukasz Fabiański,1,pl POL,GK,37-307,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,10,24,41.7,0,10,0,0,0

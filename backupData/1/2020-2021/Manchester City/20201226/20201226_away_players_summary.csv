@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joelinton,9,br BRA,FW,24-134,70,0,0,0,0,1,0,0,0,28,1,1,1,0.1,0.1,0.0,1,0,12,19,63.2,0,19,1,0,0
+Andy Carroll,7,eng ENG,FW,31-355,20,0,0,0,0,1,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,8,75.0,0,3,0,0,0
+Miguel Almirón,24,py PAR,LM,26-320,81,0,0,0,0,0,0,0,0,33,1,2,1,0.0,0.0,0.1,2,0,21,27,77.8,4,26,1,1,1
+Dwight Gayle,12,eng ENG,LM,30-070,9,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Matthew Longstaff,4,eng ENG,CM,20-280,90,0,0,0,0,0,0,0,0,38,2,2,3,0.0,0.0,0.0,2,0,27,30,90.0,2,25,0,1,1
+Isaac Hayden,14,eng ENG,CM,25-279,90,0,0,0,0,0,0,0,0,37,0,0,1,0.0,0.0,0.0,1,0,26,32,81.3,1,20,0,1,0
+Jacob Murphy,23,eng ENG,RM,25-306,90,0,0,0,0,3,2,0,0,32,0,1,4,0.1,0.1,0.0,0,0,16,20,80.0,3,19,1,0,0
+Matt Ritchie,11,sct SCO,LB,31-107,65,0,0,0,0,0,0,1,0,33,0,1,1,0.0,0.0,0.0,0,0,14,27,51.9,0,12,1,1,0
+Jamal Lewis,15,nir NIR,LB,22-336,25,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,11,13,84.6,2,11,1,1,1
+Ciaran Clark,2,ie IRL,CB,31-091,90,0,0,0,0,1,0,0,0,28,1,1,2,0.0,0.0,0.0,0,0,15,18,83.3,2,17,0,1,0
+Fabian Schär,5,ch SUI,CB,29-006,90,0,0,0,0,0,0,1,0,40,0,5,1,0.0,0.0,0.0,2,0,21,29,72.4,4,26,0,1,1
+Federico Fernández,18,ar ARG,CB,31-309,90,0,0,0,0,0,0,0,0,39,4,2,1,0.0,0.0,0.0,0,0,17,23,73.9,1,20,1,0,0
+DeAndre Yedlin,22,us USA,RB,27-170,90,0,0,0,0,1,0,0,0,45,2,1,2,0.0,0.0,0.0,2,0,23,37,62.2,0,24,2,1,0
+Karl Darlow,26,wls WAL,GK,30-079,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,13,23,56.5,0,16,0,0,0

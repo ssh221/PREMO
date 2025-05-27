@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,9,eng ENG,FW,27-193,69,0,0,0,0,4,1,0,0,28,2,0,1,0.3,0.3,0.2,7,0,7,12,58.3,1,15,4,5,3
+Che Adams,10,sct SCO,FW,23-203,21,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,4,5,80.0,1,6,0,0,0
+Shane Long,7,ie IRL,FW,33-010,69,0,0,0,0,2,1,0,0,30,0,0,0,0.1,0.1,0.2,2,0,10,19,52.6,4,11,2,0,0
+Michael Obafemi,20,ie IRL,FW,19-210,21,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0
+Nathan Redmond,22,eng ENG,LM,25-332,90,0,0,0,0,3,0,0,0,46,0,0,3,0.1,0.1,0.0,1,0,19,33,57.6,3,24,4,2,1
+Pierre Højbjerg,23,dk DEN,CM,24-180,90,0,0,0,0,3,1,0,0,65,1,2,3,0.1,0.1,0.0,3,0,38,50,76.0,6,28,2,1,1
+Oriol Romeu,14,es ESP,CM,28-130,90,0,0,0,0,0,0,0,0,25,1,1,1,0.0,0.0,0.0,0,0,15,19,78.9,4,5,0,0,0
+Moussa Djenepo,12,ml MLI,RM,21-231,81,0,0,0,0,2,1,0,0,31,1,1,1,0.1,0.1,0.0,2,0,9,15,60.0,0,14,0,2,2
+Sofiane Boufal,19,ma MAR,RM,26-137,9,0,0,0,0,1,0,0,0,11,0,0,0,0.0,0.0,0.0,0,0,5,8,62.5,1,10,4,2,1
+Ryan Bertrand,21,eng ENG,LB,30-180,90,0,0,0,0,0,0,0,0,55,2,1,2,0.0,0.0,0.0,5,0,37,47,78.7,10,24,3,1,1
+Jan Bednarek,35,pl POL,CB,23-295,90,0,0,0,0,0,0,0,0,55,4,0,4,0.0,0.0,0.0,0,0,14,35,40.0,1,7,0,0,0
+Jack Stephens,5,eng ENG,CB,26-005,90,0,0,0,0,0,0,1,0,39,3,1,0,0.0,0.0,0.0,1,0,20,32,62.5,3,23,1,0,0
+James Ward-Prowse,16,eng ENG,RB,25-092,90,0,0,0,0,1,0,1,0,72,4,0,3,0.0,0.0,0.2,5,0,36,58,62.1,4,21,0,1,1
+Alex McCarthy,1,eng ENG,GK,30-060,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,2,0,10,27,37.0,0,15,0,0,0

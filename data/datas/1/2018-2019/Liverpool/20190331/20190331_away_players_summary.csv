@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lucas Moura,27,br BRA,"FW,AM",26-230,81,1,0,0,0,3,1,1,0,42,2,1,0,0.4,0.4,0.0,2,0,23,31,74.2,1,20,5,8,4
+Ben Davies,33,wls WAL,LB,25-341,9,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0
+Harry Kane,10,eng ENG,FW,25-246,90,0,0,0,0,2,1,0,0,27,0,0,1,0.1,0.1,0.0,4,0,15,18,83.3,2,20,1,1,0
+Danny Rose,3,eng ENG,"LW,LB",28-272,90,0,0,0,0,0,0,0,0,58,2,1,0,0.0,0.0,0.0,0,0,33,49,67.3,5,34,7,6,3
+Kieran Trippier,2,eng ENG,"RB,RW",28-193,90,0,0,0,0,0,0,0,0,77,5,0,6,0.0,0.0,0.0,3,1,39,58,67.2,6,36,3,1,1
+Dele Alli,20,eng ENG,"DM,CM",22-354,90,0,0,0,0,2,0,0,0,65,1,1,2,0.1,0.1,0.0,1,0,46,54,85.2,4,36,2,3,1
+Christian Eriksen,23,dk DEN,"RW,CM",27-045,89,0,1,0,0,2,0,0,0,53,0,2,1,0.1,0.1,0.5,5,1,32,45,71.1,7,35,4,0,0
+Fernando Llorente,18,es ESP,RW,34-033,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Moussa Sissoko,17,fr FRA,DM,29-227,90,0,0,0,0,2,0,0,0,50,2,0,0,0.1,0.1,0.0,2,0,39,45,86.7,1,34,3,0,0
+Jan Vertonghen,5,be BEL,"CB,LB",31-341,90,0,0,0,0,0,0,0,0,64,2,1,1,0.0,0.0,0.0,0,0,45,55,81.8,2,38,0,0,0
+Davinson Sánchez,6,co COL,CB,22-292,68,0,0,0,0,0,0,0,0,66,0,2,1,0.0,0.0,0.0,0,0,51,54,94.4,0,44,0,0,0
+Son Heung-min,7,kr KOR,"AM,LW",26-266,22,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.1,2,0,6,6,100.0,0,5,1,0,0
+Toby Alderweireld,4,be BEL,CB,30-029,90,0,0,0,0,0,0,0,0,77,2,0,1,0.0,0.0,0.0,1,0,56,66,84.8,0,53,0,0,0
+Hugo Lloris,1,fr FRA,GK,32-095,90,0,0,0,0,0,0,0,0,49,0,0,0,0.0,0.0,0.0,0,0,32,47,68.1,0,21,0,0,0

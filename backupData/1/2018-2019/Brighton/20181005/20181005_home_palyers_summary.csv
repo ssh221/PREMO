@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Glenn Murray,17,eng ENG,FW,35-010,90,1,0,0,0,4,1,0,0,43,1,1,2,1.0,1.0,0.1,2,0,13,31,41.9,3,21,0,1,0
+Solly March,20,eng ENG,FW,24-077,85,0,0,0,0,1,0,0,0,33,1,0,2,0.0,0.0,0.1,2,0,15,23,65.2,0,18,1,2,1
+Jürgen Locadia,9,cw CUW,FW,24-332,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Alireza Jahanbakhsh,16,ir IRN,LM,25-055,70,0,0,0,0,2,1,1,0,29,1,0,0,0.1,0.1,0.0,2,0,14,21,66.7,0,19,1,0,0
+José Izquierdo,19,co COL,LM,26-090,20,0,0,0,0,1,1,0,0,10,1,0,0,0.0,0.0,0.0,0,0,4,8,50.0,1,7,1,1,1
+Beram Kayal,7,il ISR,CM,30-156,90,0,1,0,0,0,0,1,0,40,3,3,2,0.0,0.0,0.6,2,1,18,22,81.8,1,13,3,3,2
+Davy Pröpper,24,nl NED,CM,27-033,79,0,0,0,0,0,0,0,0,36,3,1,0,0.0,0.0,0.0,0,0,24,27,88.9,3,21,1,1,0
+Yves Bissouma,8,ml MLI,CM,22-036,11,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Anthony Knockaert,11,fr FRA,RM,26-319,90,0,0,0,0,1,1,0,0,43,1,1,2,0.0,0.0,0.4,4,1,25,34,73.5,3,29,2,8,6
+Gaëtan Bong,3,cm CMR,LB,30-163,90,0,0,0,0,0,0,0,0,54,0,3,1,0.0,0.0,0.0,1,0,30,47,63.8,1,19,2,1,1
+Lewis Dunk,5,eng ENG,CB,26-318,90,0,0,0,0,0,0,0,0,34,1,0,1,0.0,0.0,0.0,0,0,16,22,72.7,2,13,0,1,0
+Shane Duffy,4,ie IRL,CB,26-277,90,0,0,0,0,0,0,1,0,36,0,2,3,0.0,0.0,0.0,0,0,14,23,60.9,1,12,0,0,0
+Bruno,2,es ESP,RB,38-004,90,0,0,0,0,0,0,0,0,51,4,1,1,0.0,0.0,0.0,0,0,27,39,69.2,2,18,0,0,0
+Mathew Ryan,1,au AUS,GK,26-180,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,13,24,54.2,0,14,0,0,0

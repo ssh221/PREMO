@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,10,eng ENG,"FW,LW,RM",25-156,90,1,0,0,0,3,2,0,0,42,0,0,0,0.4,0.4,0.2,4,0,27,32,84.4,1,34,5,5,2
+Jadon Sancho,25,eng ENG,LW,23-011,70,0,0,0,0,1,0,0,0,50,1,1,1,0.0,0.0,0.1,2,0,33,41,80.5,2,25,4,5,3
+Anthony Martial,9,fr FRA,FW,27-121,20,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,0,0,10,11,90.9,1,11,0,2,1
+Antony,21,br BRA,RW,23-040,85,0,0,0,0,5,0,0,0,59,1,1,0,0.3,0.3,0.2,3,1,39,46,84.8,6,41,1,4,0
+Victor Lindelöf,2,se SWE,CB,28-262,5,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Marcel Sabitzer,15,at AUT,AM,29-019,70,0,1,0,0,2,1,0,0,36,0,0,0,0.1,0.1,0.2,4,1,20,31,64.5,3,21,2,0,0
+Fred,17,br BRA,"AM,CM",30-031,20,0,0,0,0,1,0,0,0,22,1,0,0,0.1,0.1,0.0,1,0,15,19,78.9,2,14,0,1,0
+Bruno Fernandes,8,pt POR,"DM,LM",28-209,90,0,0,0,0,1,0,1,0,111,1,2,2,0.0,0.0,0.2,9,0,85,103,82.5,10,58,1,1,1
+Scott McTominay,39,sct SCO,"DM,CM",26-118,90,0,0,0,0,2,0,1,0,40,1,0,2,0.2,0.2,0.0,2,0,23,31,74.2,1,19,3,1,0
+Luke Shaw,23,eng ENG,LB,27-267,36,0,0,0,0,1,0,1,0,54,0,1,0,0.0,0.0,0.0,1,0,43,51,84.3,4,37,4,1,1
+Tyrell Malacia,12,nl NED,LB,23-231,54,0,0,0,0,0,0,0,0,44,2,0,1,0.0,0.0,0.1,2,0,38,39,97.4,1,21,2,1,0
+Lisandro Martínez,6,ar ARG,CB,25-077,90,0,0,0,0,0,0,0,0,87,5,2,0,0.0,0.0,0.0,0,0,72,78,92.3,6,53,1,1,1
+Raphaël Varane,19,fr FRA,CB,29-345,90,0,0,0,0,0,0,0,0,61,1,0,0,0.0,0.0,0.0,1,0,47,53,88.7,4,38,2,1,1
+Diogo Dalot,20,pt POR,RB,24-018,90,0,0,0,0,2,0,0,0,81,2,1,0,0.0,0.0,0.0,4,0,67,74,90.5,9,50,1,0,0
+David de Gea,1,es ESP,GK,32-149,90,0,0,0,0,0,0,0,0,42,0,0,0,0.0,0.0,0.0,0,0,24,41,58.5,0,25,0,0,0

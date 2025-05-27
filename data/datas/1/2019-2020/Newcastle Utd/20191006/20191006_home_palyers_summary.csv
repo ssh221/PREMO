@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joelinton,9,br BRA,FW,23-053,55,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,3,0,14,20,70.0,0,15,1,0,0
+Andy Carroll,7,eng ENG,FW,30-273,35,0,0,0,0,1,0,0,0,15,0,0,0,0.1,0.1,0.0,0,0,3,6,50.0,1,8,0,0,0
+Allan Saint-Maximin,10,fr FRA,LM,22-208,82,0,0,0,0,2,0,0,0,26,0,0,0,0.1,0.1,0.1,4,0,10,18,55.6,4,18,8,7,4
+Christian Atsu,30,gh GHA,LM,27-269,8,0,0,0,0,0,0,0,0,2,0,0,1,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Sean Longstaff,36,eng ENG,CM,21-341,90,0,0,0,0,1,1,0,0,46,2,2,3,0.0,0.0,0.4,4,0,30,36,83.3,4,20,0,1,1
+Matthew Longstaff,43,eng ENG,CM,19-199,90,1,0,0,0,2,1,0,0,51,1,2,0,0.1,0.1,0.1,2,0,32,44,72.7,1,29,0,0,0
+Miguel Almirón,24,py PAR,RM,25-238,89,0,0,0,0,3,0,1,0,23,0,0,1,0.4,0.4,0.0,2,0,12,16,75.0,2,19,5,0,0
+Emil Krafth,17,se SWE,RM,25-065,1,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Jetro Willems,15,nl NED,LB,25-190,90,0,1,0,0,1,0,0,0,38,3,2,1,0.0,0.0,0.1,5,2,18,27,66.7,1,18,2,5,3
+Ciaran Clark,2,ie IRL,CB,30-010,90,0,0,0,0,0,0,0,0,33,2,2,1,0.0,0.0,0.0,0,0,16,23,69.6,1,11,0,0,0
+Jamaal Lascelles,6,eng ENG,CB,25-329,90,0,0,0,0,0,0,0,0,25,1,0,1,0.0,0.0,0.0,0,0,18,21,85.7,0,11,0,0,0
+Fabian Schär,5,ch SUI,CB,27-290,90,0,0,0,0,2,0,1,0,61,2,4,1,0.1,0.1,0.0,0,0,24,38,63.2,3,28,0,3,2
+DeAndre Yedlin,22,us USA,RB,26-089,90,0,0,0,0,0,0,1,0,44,1,2,1,0.0,0.0,0.0,2,0,26,34,76.5,2,20,1,1,1
+Martin Dúbravka,1,sk SVK,GK,30-264,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,15,27,55.6,0,12,0,0,0

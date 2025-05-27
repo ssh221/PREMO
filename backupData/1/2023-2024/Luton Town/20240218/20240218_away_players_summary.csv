@@ -1,0 +1,16 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Rasmus Højlund,11,dk DEN,FW,21-014,85,2,0,0,0,3,3,0,0,52,1,0,0,1.1,1.1,0.2,6,0,28,40,70.0,4,29,1,0,0
+Sofyan Amrabat,4,ma MAR,FW,27-181,5,0,0,0,0,0,0,0,0,5,1,1,0,0.0,0.0,0.0,0,0,2,2,100.0,0,2,0,0,0
+Marcus Rashford,10,eng ENG,LW,26-110,90,0,0,0,0,3,2,0,0,39,1,0,1,0.3,0.3,0.2,5,0,23,30,76.7,4,25,6,3,1
+Alejandro Garnacho,17,ar ARG,RW,19-232,90,0,1,0,0,8,2,0,0,53,0,0,0,0.9,0.9,1.3,7,1,25,34,73.5,5,36,7,3,0
+Bruno Fernandes,8,pt POR,AM,29-163,90,0,0,0,0,5,1,0,0,71,2,1,5,0.6,0.6,0.1,8,0,38,55,69.1,4,35,6,1,1
+Casemiro,18,br BRA,DM,31-360,45,0,0,0,0,1,0,1,0,42,1,1,3,0.0,0.0,0.0,2,0,22,27,81.5,4,21,0,1,0
+Scott McTominay,39,sct SCO,DM,27-072,45,0,0,0,0,0,0,0,0,21,3,0,2,0.0,0.0,0.0,0,0,10,11,90.9,0,12,1,2,1
+Kobbie Mainoo,37,eng ENG,DM,18-305,90,0,0,0,0,0,0,1,0,45,0,1,1,0.0,0.0,0.1,3,0,35,40,87.5,5,24,2,7,6
+Luke Shaw,23,eng ENG,LB,28-221,44,0,0,0,0,0,0,1,0,24,0,0,1,0.0,0.0,0.0,1,0,17,22,77.3,2,14,0,0,0
+Victor Lindelöf,2,se SWE,LB,29-216,46,0,0,0,0,0,0,1,0,14,0,0,0,0.0,0.0,0.0,0,0,8,14,57.1,0,4,0,0,0
+Harry Maguire,5,eng ENG,CB,30-350,45,0,0,0,0,0,0,1,0,20,0,1,1,0.0,0.0,0.1,1,0,14,16,87.5,1,6,0,0,0
+Jonny Evans,35,nir NIR,CB,36-046,45,0,0,0,0,0,0,0,0,34,1,2,1,0.0,0.0,0.0,1,0,16,19,84.2,0,10,0,0,0
+Raphaël Varane,19,fr FRA,CB,30-299,90,0,0,0,0,0,0,0,0,35,1,2,3,0.0,0.0,0.0,0,0,19,24,79.2,0,15,0,0,0
+Diogo Dalot,20,pt POR,RB,24-337,90,0,0,0,0,1,0,0,0,56,3,4,4,0.0,0.0,0.1,3,0,31,38,81.6,1,24,1,3,2
+André Onana,24,cm CMR,GK,27-322,90,0,0,0,0,0,0,0,0,46,0,0,0,0.0,0.0,0.0,0,0,25,46,54.3,0,41,0,0,0

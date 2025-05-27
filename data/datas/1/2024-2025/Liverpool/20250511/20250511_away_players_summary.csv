@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Leandro Trossard,19,be BEL,FW,30-158,77,0,1,0,0,2,0,0,0,53,2,0,1,0.3,0.3,0.7,6,1,33,40,82.5,4,40,4,5,3
+Kieran Tierney,3,sct SCO,"RB,FW",27-340,13,0,0,0,0,0,0,0,0,3,1,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,2,0,0,0
+Gabriel Martinelli,11,br BRA,"LW,FW",23-327,90,1,0,0,0,2,2,0,0,28,0,0,2,0.5,0.5,0.0,0,0,13,20,65.0,2,21,4,0,0
+Bukayo Saka,7,eng ENG,"RW,CM",23-248,87,0,0,0,0,4,1,0,0,37,0,0,1,0.4,0.4,0.2,7,0,23,26,88.5,4,28,7,3,2
+Oleksandr Zinchenko,17,ua UKR,CM,28-147,3,0,0,0,0,0,0,0,0,4,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,0,2,0,0,0
+Mikel Merino,23,es ESP,LM,28-323,78,1,0,0,0,3,1,2,1,37,5,1,0,1.3,1.3,0.1,2,0,20,24,83.3,5,21,1,3,1
+Thomas Partey,5,gh GHA,CM,31-332,90,0,0,0,0,0,0,0,0,68,4,1,1,0.0,0.0,0.0,2,0,49,58,84.5,2,42,1,2,2
+Martin Ødegaard,8,no NOR,"RM,CM",26-145,90,0,0,0,0,3,1,0,0,71,0,1,0,0.2,0.2,0.3,5,2,47,59,79.7,10,49,7,1,0
+Myles Lewis-Skelly,49,eng ENG,LB,18-227,90,0,0,0,0,0,0,1,0,54,0,0,0,0.0,0.0,0.0,1,0,44,45,97.8,3,36,0,2,0
+Jakub Kiwior,15,pl POL,CB,25-085,90,0,0,0,0,0,0,0,0,50,2,1,0,0.0,0.0,0.0,0,0,40,43,93.0,6,32,0,0,0
+William Saliba,2,fr FRA,CB,24-048,90,0,0,0,0,0,0,0,0,73,2,0,1,0.0,0.0,0.0,0,0,65,66,98.5,4,56,0,0,0
+Ben White,4,eng ENG,RB,27-215,77,0,0,0,0,1,1,0,0,49,4,1,0,0.0,0.0,0.0,2,0,33,41,80.5,3,30,5,1,0
+Riccardo Calafiori,33,it ITA,"CB,RB",22-357,13,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+David Raya,22,es ESP,GK,29-238,90,0,0,0,0,0,0,0,0,53,0,0,0,0.0,0.0,0.0,0,0,31,50,62.0,0,32,0,0,0

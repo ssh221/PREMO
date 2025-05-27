@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Gabriel Jesus,9,br BRA,FW,26-006,79,1,0,0,0,2,1,0,0,34,1,0,1,1.0,1.0,0.0,1,0,14,21,66.7,2,27,0,5,4
+Leandro Trossard,19,be BEL,FW,28-126,11,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,4,50.0,0,3,1,1,1
+Gabriel Martinelli,11,br BRA,"LW,LM",21-295,90,1,1,0,0,1,1,0,0,44,3,0,0,0.2,0.2,0.4,4,2,23,29,79.3,2,33,9,12,3
+Bukayo Saka,7,eng ENG,"RW,RM",21-216,90,0,0,0,0,0,0,1,0,45,3,0,1,0.0,0.0,0.8,5,1,22,34,64.7,2,28,5,5,3
+Granit Xhaka,34,ch SUI,"LM,CM",30-194,90,0,0,0,0,1,0,1,0,47,2,0,0,0.0,0.0,0.0,1,1,31,38,81.6,4,23,0,2,1
+Thomas Partey,5,gh GHA,CM,29-300,90,0,0,0,0,0,0,0,0,50,5,2,2,0.0,0.0,0.0,0,0,29,36,80.6,3,17,0,2,2
+Martin Ødegaard,8,no NOR,RM,24-113,79,0,0,0,0,1,1,0,0,40,1,0,0,0.1,0.1,0.0,0,0,24,29,82.8,2,21,0,3,0
+Jakub Kiwior,15,pl POL,CB,23-053,11,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Oleksandr Zinchenko,35,ua UKR,LB,26-115,87,0,0,0,0,2,1,0,0,67,1,1,1,0.1,0.1,0.0,3,0,52,55,94.5,8,31,1,3,1
+Kieran Tierney,3,sct SCO,LB,25-308,3,0,0,0,0,1,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,3,2,1,1
+Gabriel Magalhães,6,br BRA,CB,25-111,90,0,0,0,0,1,1,0,0,51,2,3,5,0.1,0.1,0.0,1,0,26,30,86.7,2,22,0,1,1
+Rob Holding,16,eng ENG,CB,27-201,90,0,0,0,0,0,0,0,0,68,1,2,1,0.0,0.0,0.0,1,0,38,53,71.7,2,28,0,0,0
+Ben White,4,eng ENG,RB,25-183,90,0,0,0,0,0,0,1,0,44,1,2,3,0.0,0.0,0.0,0,0,25,33,75.8,0,16,0,0,0
+Aaron Ramsdale,1,eng ENG,GK,24-330,90,0,0,0,0,0,0,1,0,38,0,0,0,0.0,0.0,0.0,0,0,13,32,40.6,0,13,0,0,0

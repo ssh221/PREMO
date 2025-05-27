@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Fábio Silva,17,pt POR,"FW,LW",18-301,81,0,0,0,0,7,1,0,0,26,0,0,0,0.5,0.5,0.0,2,0,13,16,81.3,0,10,4,1,1
+Theo Corbeanu,60,ca CAN,LW,18-364,9,0,0,0,0,0,0,0,0,8,2,1,0,0.0,0.0,0.0,1,0,3,3,100.0,0,5,0,0,0
+Morgan Gibbs-White,18,eng ENG,LW,21-109,72,0,0,0,0,0,0,0,0,37,2,0,0,0.0,0.0,0.2,5,0,27,30,90.0,5,26,3,3,2
+Rúben Neves,8,pt POR,CM,24-064,18,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,10,12,83.3,1,8,0,0,0
+Adama Traoré,37,es ESP,RW,25-111,90,0,0,0,0,1,0,0,0,35,2,1,2,0.1,0.1,0.2,7,0,18,24,75.0,2,16,6,3,3
+Vitinha,20,pt POR,AM,21-092,62,0,0,0,0,2,1,0,0,27,2,1,1,0.1,0.1,0.1,1,0,15,18,83.3,0,17,2,0,0
+Willian José,12,br BRA,"FW,AM",29-174,28,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.1,1,0,6,7,85.7,2,4,1,0,0
+Leander Dendoncker,32,be BEL,"DM,LM",26-031,90,0,0,0,0,0,0,0,0,45,1,2,2,0.0,0.0,0.0,1,0,31,36,86.1,2,20,0,1,1
+João Moutinho,28,pt POR,"DM,RM",34-250,90,0,0,0,0,1,0,0,0,67,4,3,1,0.1,0.1,0.1,4,0,46,53,86.8,2,31,1,0,0
+Nélson Semedo,22,pt POR,LB,27-181,90,0,0,0,0,0,0,0,0,44,3,0,0,0.0,0.0,0.0,4,0,33,37,89.2,2,22,1,1,0
+Romain Saïss,27,ma MAR,CB,31-051,90,0,0,0,0,3,1,0,0,61,0,2,3,0.2,0.2,0.0,1,0,37,49,75.5,2,25,0,0,0
+Conor Coady,16,eng ENG,CB,28-080,90,0,0,0,0,0,0,0,0,55,1,0,4,0.0,0.0,0.0,0,0,28,37,75.7,2,19,0,0,0
+Ki-Jana Hoever,2,nl NED,RB,19-118,90,0,0,0,0,0,0,0,0,57,3,3,0,0.0,0.0,0.1,2,0,30,46,65.2,0,26,2,4,3
+Rui Patrício,11,pt POR,GK,33-090,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,17,22,77.3,0,10,0,0,0

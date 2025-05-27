@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Leandro Trossard,11,be BEL,FW,27-022,45,1,0,0,0,2,2,0,0,27,0,1,0,0.3,0.3,0.0,1,0,16,19,84.2,3,19,3,1,0
+Danny Welbeck,18,eng ENG,FW,31-030,45,0,0,0,0,1,1,0,0,24,1,0,1,0.0,0.0,0.0,1,0,12,13,92.3,1,11,1,2,1
+Neal Maupay,9,fr FRA,FW,25-134,90,1,0,0,0,2,1,0,0,33,1,0,0,0.1,0.1,0.2,5,1,19,26,73.1,2,21,0,2,1
+Jakub Moder,15,pl POL,"AM,LM",22-263,90,0,1,0,0,1,0,0,0,68,0,0,2,0.1,0.1,0.1,4,1,35,50,70.0,10,36,4,3,1
+Alexis Mac Allister,10,ar ARG,LM,23-002,84,0,0,0,0,4,0,0,0,56,1,1,2,0.1,0.1,0.0,3,0,23,38,60.5,5,28,0,1,0
+Steven Alzate,17,co COL,CM,23-109,6,0,0,0,0,1,1,0,0,8,0,1,0,0.1,0.1,0.0,0,0,4,5,80.0,0,4,0,0,0
+Enock Mwepu,12,zm ZAM,RM,23-359,90,0,1,0,0,1,0,0,0,53,3,0,2,0.1,0.1,0.2,2,1,32,39,82.1,3,31,4,3,2
+Adam Lallana,14,eng ENG,DM,33-230,84,0,0,0,0,1,0,0,0,67,4,3,0,0.0,0.0,0.0,4,1,53,56,94.6,5,37,1,3,3
+Pascal Groß,13,de GER,CM,30-194,6,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,4,7,57.1,0,3,0,0,0
+Marc Cucurella,3,es ESP,LB,23-157,90,0,0,0,0,0,0,0,0,100,2,1,3,0.0,0.0,0.0,4,0,69,87,79.3,10,55,2,1,1
+Dan Burn,33,eng ENG,CB,29-231,90,0,0,0,0,1,0,0,0,66,1,1,1,0.0,0.0,0.0,0,0,46,52,88.5,2,35,0,0,0
+Adam Webster,4,eng ENG,CB,26-356,90,0,0,0,0,0,0,1,0,56,0,1,4,0.0,0.0,0.0,1,0,37,46,80.4,3,22,1,0,0
+Tariq Lamptey,2,gh GHA,RB,21-087,90,0,0,0,0,0,0,0,0,42,0,2,1,0.0,0.0,0.0,1,0,24,33,72.7,3,26,1,0,0
+Robert Sánchez,1,es ESP,GK,24-038,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,22,35,62.9,0,27,0,0,0

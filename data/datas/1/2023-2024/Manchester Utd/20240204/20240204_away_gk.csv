@@ -1,0 +1,3 @@
+﻿player,nationality,age,minutes,gk_shots_on_target_against,gk_goals_against,gk_saves,gk_save_pct,gk_psxg,gk_passes_completed_launched,gk_passes_launched,gk_passes_pct_launched,gk_passes,gk_passes_throws,gk_pct_passes_launched,gk_passes_length_avg,gk_goal_kicks,gk_pct_goal_kicks_launched,gk_goal_kick_length_avg,gk_crosses,gk_crosses_stopped,gk_crosses_stopped_pct,gk_def_actions_outside_pen_area,gk_avg_distance_def_actions
+Alphonse Areola,fr FRA,30-342,45,3,1,2,66.7,0.4,3,5,60.0,7,2,57.1,37.1,1,100.0,56.0,,1,,,4.0
+Łukasz Fabiański,pl POL,38-292,45,2,2,0,0.0,0.6,1,3,33.3,7,1,28.6,31.9,5,20.0,28.6,4,0,0.0,0,

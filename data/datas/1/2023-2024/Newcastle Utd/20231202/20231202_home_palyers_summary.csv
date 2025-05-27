@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,FW,24-072,90,0,0,0,0,3,0,0,0,47,0,0,0,0.3,0.3,0.2,1,0,33,39,84.6,5,31,4,2,1
+Anthony Gordon,10,eng ENG,LW,22-281,89,1,0,0,0,3,2,0,0,49,2,0,3,0.7,0.7,0.1,6,0,27,35,77.1,5,38,2,3,0
+Matt Ritchie,11,sct SCO,LW,34-083,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Miguel Almirón,24,py PAR,RW,29-295,90,0,0,0,0,5,1,0,0,50,2,0,2,0.5,0.5,0.2,1,0,30,39,76.9,3,34,3,3,0
+Joelinton,7,br BRA,LM,27-110,90,0,0,0,0,1,1,1,0,76,3,3,3,0.1,0.1,0.3,4,0,50,58,86.2,6,39,4,4,2
+Bruno Guimarães,39,br BRA,CM,26-016,90,0,0,0,0,2,0,0,0,83,4,0,1,0.1,0.1,0.2,4,1,57,65,87.7,9,50,1,1,1
+Lewis Miley,67,eng ENG,RM,17-215,90,0,0,0,0,1,0,0,0,48,3,2,1,0.2,0.2,0.0,3,0,35,40,87.5,3,25,1,1,0
+Valentino Livramento,21,eng ENG,LB,21-020,90,0,0,0,0,0,0,0,0,58,0,1,1,0.0,0.0,0.0,3,0,45,53,84.9,5,38,8,4,3
+Fabian Schär,5,ch SUI,CB,31-347,90,0,0,0,0,4,0,0,0,70,0,1,1,0.2,0.2,0.0,5,0,51,61,83.6,9,45,1,1,1
+Jamaal Lascelles,6,eng ENG,CB,30-021,90,0,0,0,0,1,0,0,0,59,1,0,1,0.2,0.2,0.0,0,0,48,53,90.6,6,36,0,0,0
+Kieran Trippier,2,eng ENG,RB,33-074,90,0,1,0,0,2,0,0,0,106,2,4,0,0.1,0.1,0.9,10,1,66,92,71.7,11,49,2,3,3
+Nick Pope,22,eng ENG,GK,31-227,85,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.0,0,0,15,20,75.0,0,10,0,0,0
+Martin Dúbravka,1,sk SVK,GK,34-321,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,3,0.0,0,1,0,0,0

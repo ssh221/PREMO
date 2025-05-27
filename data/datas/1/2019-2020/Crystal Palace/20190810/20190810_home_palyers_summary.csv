@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jordan Ayew,9,gh GHA,FW,27-333,64,0,0,0,0,1,1,0,0,29,1,1,2,0.5,0.5,0.0,1,0,12,18,66.7,2,17,2,1,1
+Wilfried Zaha,11,ci CIV,FW,26-273,26,0,0,0,0,1,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,3,6,50.0,2,9,5,2,2
+Christian Benteke,17,be BEL,FW,28-250,82,0,0,0,0,0,0,0,0,21,2,1,2,0.0,0.0,0.5,3,0,6,15,40.0,2,4,2,0,0
+Connor Wickham,21,eng ENG,FW,26-132,8,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,2,5,40.0,0,2,0,0,0
+Max Meyer,7,de GER,LM,23-326,90,0,0,0,0,3,1,1,0,39,3,1,1,0.2,0.2,0.0,2,0,11,24,45.8,0,21,2,2,1
+Luka Milivojević,4,rs SRB,CM,28-125,90,0,0,0,0,0,0,1,0,49,3,2,1,0.0,0.0,0.2,2,0,23,39,59.0,4,16,0,0,0
+James McArthur,18,sct SCO,CM,31-307,90,0,0,0,0,0,0,0,0,46,5,3,3,0.0,0.0,0.1,1,0,20,34,58.8,2,21,1,2,2
+Andros Townsend,10,eng ENG,RM,28-025,90,0,0,0,0,0,0,0,0,35,3,0,0,0.0,0.0,0.1,2,0,15,29,51.7,4,17,1,3,2
+Patrick van Aanholt,3,nl NED,LB,28-346,90,0,0,0,0,0,0,0,0,56,2,1,3,0.0,0.0,0.0,0,0,25,43,58.1,1,11,0,1,0
+Scott Dann,6,eng ENG,CB,32-177,90,0,0,0,0,1,0,0,0,39,0,0,1,0.2,0.2,0.0,0,0,20,29,69.0,2,14,0,1,0
+Martin Kelly,34,eng ENG,CB,29-105,90,0,0,0,0,0,0,0,0,31,0,0,2,0.0,0.0,0.0,0,0,13,20,65.0,2,12,0,0,0
+Joel Ward,2,eng ENG,RB,29-285,90,0,0,0,0,0,0,0,0,38,1,1,0,0.0,0.0,0.0,0,0,16,30,53.3,2,8,0,0,0
+Vicente Guaita,31,es ESP,GK,32-212,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,13,26,50.0,0,8,0,0,0

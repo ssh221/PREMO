@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Mbaye Diagne,17,sn SEN,FW,29-157,90,1,0,0,0,2,1,1,0,27,1,0,0,0.1,0.1,0.0,2,1,12,18,66.7,0,16,0,0,0
+Matheus Pereira,12,br BRA,"FW,LM",24-333,90,2,2,0,0,6,4,0,0,45,1,1,0,0.6,0.6,0.8,8,3,25,32,78.1,4,31,3,4,2
+Ainsley Maitland-Niles,30,eng ENG,"CM,RM",23-217,90,0,0,0,0,1,0,0,0,46,6,1,2,0.0,0.0,0.0,0,0,22,26,84.6,2,29,1,1,1
+Okay Yokuşlu,35,tr TUR,CM,27-025,90,0,0,0,0,1,0,0,0,62,5,4,0,0.3,0.3,0.0,2,0,36,44,81.8,1,35,0,4,2
+Matt Phillips,10,sct SCO,RM,30-021,88,0,0,0,0,1,0,0,0,30,0,0,1,0.0,0.0,0.0,1,0,15,24,62.5,2,19,5,2,2
+Jake Livermore,8,eng ENG,CM,31-140,2,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,0,0,0
+Conor Townsend,14,eng ENG,LB,28-030,90,0,0,0,0,1,0,0,0,54,1,2,0,0.1,0.1,0.0,2,2,30,45,66.7,0,31,2,2,0
+Semi Ajayi,6,ng NGA,CB,27-145,90,0,0,0,0,0,0,0,0,40,3,3,4,0.0,0.0,0.0,1,0,23,24,95.8,3,17,0,0,0
+Kyle Bartley,5,eng ENG,CB,29-316,90,0,0,0,0,0,0,0,0,41,2,1,2,0.0,0.0,0.0,1,0,25,33,75.8,2,20,0,0,0
+Dara O'Shea,27,ie IRL,CB,22-030,23,0,0,0,0,0,0,0,0,13,0,0,1,0.0,0.0,0.0,0,0,6,12,50.0,0,3,0,0,0
+Branislav Ivanović,20,rs SRB,CB,37-040,13,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,0,0,0,0
+Callum Robinson,7,ie IRL,LM,26-060,54,2,0,0,0,2,2,0,0,21,0,1,0,0.4,0.4,0.1,4,0,16,17,94.1,3,19,3,2,2
+Darnell Furlong,2,eng ENG,RB,25-154,90,0,1,0,0,0,0,0,0,44,0,1,1,0.0,0.0,0.1,1,1,19,33,57.6,0,19,1,1,1
+Sam Johnstone,1,eng ENG,GK,28-009,90,0,1,0,0,0,0,0,0,34,0,1,0,0.0,0.0,0.2,1,1,13,27,48.1,0,14,0,0,0

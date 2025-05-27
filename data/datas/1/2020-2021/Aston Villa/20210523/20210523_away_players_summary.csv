@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Timo Werner,11,de GER,FW,25-078,90,0,0,0,0,3,1,1,0,31,1,0,0,0.2,0.2,0.3,4,0,16,24,66.7,1,17,4,1,0
+Christian Pulisic,10,us USA,"AM,RM,RW",22-247,90,0,1,0,0,2,1,0,0,64,0,1,0,0.3,0.3,0.4,5,1,44,51,86.3,10,42,4,4,1
+Mason Mount,19,eng ENG,"AM,LM,LW",22-133,90,0,0,0,0,6,1,0,0,67,1,0,0,0.8,0.8,0.2,6,0,38,53,71.7,9,40,4,1,0
+Mateo Kovačić,17,hr CRO,"CM,DM",27-017,65,0,0,0,0,2,0,1,0,67,2,0,2,0.1,0.1,0.0,1,0,56,60,93.3,9,43,1,1,0
+Kai Havertz,29,de GER,CM,21-346,25,0,0,0,0,4,1,0,0,19,0,0,1,0.8,0.8,0.0,1,0,10,13,76.9,3,9,1,0,0
+Jorginho,5,it ITA,CM,29-154,59,0,0,0,0,0,0,1,0,55,2,0,2,0.0,0.0,0.3,4,0,47,49,95.9,9,28,0,0,0
+Hakim Ziyech,22,ma MAR,"CM,AM",28-065,31,0,0,0,0,1,0,0,0,27,0,0,1,0.0,0.0,0.5,3,1,17,24,70.8,1,10,0,0,0
+Ben Chilwell,21,eng ENG,"WB,LB",24-153,90,1,0,0,0,4,3,0,0,87,4,1,1,1.0,1.0,0.2,6,0,53,72,73.6,4,40,7,1,1
+César Azpilicueta,28,es ESP,"WB,RB",31-268,88,0,0,0,0,1,0,0,1,78,2,2,1,0.0,0.0,0.5,5,0,59,71,83.1,9,33,4,0,0
+Antonio Rüdiger,2,de GER,CB,28-081,90,0,0,0,0,0,0,0,0,70,0,1,1,0.0,0.0,0.0,3,0,63,67,94.0,8,37,0,0,0
+Thiago Silva,6,br BRA,CB,36-243,90,0,0,0,0,0,0,0,0,87,2,4,2,0.0,0.0,0.1,2,0,69,75,92.0,2,46,0,0,0
+Reece James,24,eng ENG,"CB,DM",21-166,90,0,0,0,0,0,0,0,0,93,4,0,1,0.0,0.0,0.0,4,0,74,89,83.1,13,50,0,1,1
+Edouard Mendy,16,sn SEN,GK,29-083,45,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,13,13,100.0,0,9,0,0,0
+Kepa Arrizabalaga,1,es ESP,GK,26-232,45,0,0,0,0,0,0,1,0,11,0,0,0,0.0,0.0,0.0,0,0,7,10,70.0,1,2,0,0,0

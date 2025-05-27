@@ -1,0 +1,17 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Cameron Archer,10,eng ENG,FW,22-127,90,0,0,0,0,0,0,0,0,21,1,0,1,0.0,0.0,0.0,3,0,13,16,81.3,1,11,1,2,1
+Gustavo Hamer,8,nl NED,"AM,CM",26-154,80,0,0,0,0,0,0,0,0,50,3,0,2,0.0,0.0,0.0,0,0,25,40,62.5,3,18,0,3,2
+John Fleck,4,sct SCO,CM,32-093,10,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,7,8,87.5,1,3,0,0,0
+James Mcatee,28,eng ENG,"AM,CM",21-038,80,0,0,0,0,1,0,0,0,37,1,0,2,0.1,0.1,0.0,0,0,15,26,57.7,0,19,2,3,0
+William Osula,32,dk DEN,CM,20-113,10,0,0,0,0,3,1,0,0,10,1,0,0,0.1,0.1,0.0,1,0,1,3,33.3,0,4,1,2,1
+Vinicius Souza,21,br BRA,CM,24-161,45,0,0,0,0,0,0,0,0,34,2,0,1,0.0,0.0,0.0,0,0,19,28,67.9,1,15,0,0,0
+Oliver McBurnie,9,sct SCO,FW,27-174,45,1,0,0,0,4,1,0,0,26,4,0,0,0.5,0.5,0.0,1,0,3,14,21.4,3,4,0,0,0
+Oliver Norwood,16,nir NIR,CM,32-227,90,0,0,0,0,1,0,1,0,85,2,0,0,0.0,0.0,0.1,3,1,52,79,65.8,10,43,1,0,0
+Luke Thomas,14,eng ENG,WB,22-168,65,0,0,0,0,1,0,1,0,45,4,1,0,0.0,0.0,0.0,0,0,26,37,70.3,5,18,0,1,0
+Ben Osborn,23,eng ENG,WB,29-112,25,0,0,0,0,0,0,0,0,12,0,0,0,0.0,0.0,0.0,1,0,9,10,90.0,1,5,0,0,0
+Jayden Bogle,20,eng ENG,WB,23-121,45,0,0,0,0,0,0,0,0,18,1,0,1,0.0,0.0,0.0,0,0,7,13,53.8,1,3,1,1,1
+Anel Ahmedhodžić,15,ba BIH,CB,24-244,45,0,0,0,0,0,0,0,0,23,1,0,1,0.0,0.0,0.0,1,0,11,18,61.1,0,13,0,0,0
+Auston Trusty,5,us USA,CB,25-105,90,0,0,0,0,0,0,0,0,46,2,1,1,0.0,0.0,0.0,0,0,24,33,72.7,3,12,0,0,0
+Jack Robinson,19,eng ENG,CB,30-085,90,0,0,0,0,0,0,1,0,54,1,1,1,0.0,0.0,0.0,0,0,33,44,75.0,3,27,1,0,0
+George Baldock,2,gr GRE,"WB,CB",30-261,90,0,1,0,0,0,0,1,0,66,3,3,2,0.0,0.0,0.5,3,1,36,49,73.5,4,24,2,0,0
+Wes Foderingham,18,eng ENG,GK,32-315,90,0,0,0,0,0,0,0,0,40,0,0,0,0.0,0.0,0.0,0,0,17,36,47.2,0,19,0,0,0

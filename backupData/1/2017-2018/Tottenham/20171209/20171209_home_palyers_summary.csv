@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Harry Kane,10,eng ENG,FW,24-134,90,2,0,0,0,7,3,0,0,31,2,0,0,1.1,1.1,0.0,3,0,17,20,85.0,4,20,1,1,0
+Son Heung-min,7,kr KOR,LW,25-154,85,1,1,0,0,4,3,0,0,46,0,1,0,0.5,0.5,2.2,7,1,29,38,76.3,8,37,13,1,0
+Fernando Llorente,18,es ESP,LW,32-286,5,0,0,0,0,1,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,1,0,0
+Christian Eriksen,23,dk DEN,"RW,DM",25-298,90,1,0,0,0,3,3,0,0,87,5,2,1,1.1,1.1,0.0,7,1,55,74,74.3,14,49,5,3,1
+Dele Alli,20,eng ENG,AM,21-242,66,0,1,0,0,0,0,0,0,40,2,0,1,0.0,0.0,0.3,4,1,19,31,61.3,3,26,0,0,0
+Érik Lamela,11,ar ARG,AM,25-280,24,0,0,0,0,2,1,0,0,26,0,0,0,0.8,0.8,0.4,3,0,21,23,91.3,3,11,1,0,0
+Harry Winks,29,eng ENG,DM,21-310,77,0,0,0,0,0,0,0,0,86,0,2,0,0.0,0.0,0.0,2,1,78,86,90.7,8,44,2,0,0
+Moussa Sissoko,17,fr FRA,"RW,DM",28-115,13,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,11,13,84.6,0,11,0,0,0
+Mousa Dembélé,19,be BEL,DM,30-146,90,0,0,0,0,2,1,1,0,111,1,1,2,0.1,0.1,0.0,2,0,99,105,94.3,20,72,6,4,3
+Ben Davies,33,wls WAL,LB,24-229,90,0,1,0,0,1,0,0,0,73,0,1,0,0.0,0.0,0.2,5,1,53,68,77.9,7,23,5,1,0
+Jan Vertonghen,5,be BEL,CB,30-229,90,0,0,0,0,0,0,0,0,84,1,1,0,0.0,0.0,0.0,0,0,66,75,88.0,5,30,0,0,0
+Eric Dier,15,eng ENG,CB,23-328,90,0,0,0,0,0,0,0,0,83,2,2,0,0.0,0.0,0.0,0,0,66,71,93.0,3,31,0,0,0
+Kieran Trippier,2,eng ENG,RB,27-081,90,0,0,0,0,0,0,0,0,91,5,0,1,0.0,0.0,0.2,3,0,66,83,79.5,6,30,2,1,1
+Hugo Lloris,1,fr FRA,GK,30-348,90,0,0,0,0,0,0,0,0,26,0,0,0,0.0,0.0,0.0,0,0,25,25,100.0,0,11,0,0,0

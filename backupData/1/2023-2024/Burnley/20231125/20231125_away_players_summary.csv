@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Danny Ings,18,eng ENG,FW,31-125,61,0,0,0,0,0,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,8,11,72.7,0,9,1,0,0
+Divin Mubama,45,eng ENG,FW,19-031,29,0,0,0,0,0,0,0,0,6,0,0,0,0.0,0.0,0.0,0,0,1,4,25.0,0,2,0,0,0
+Lucas Paquetá,10,br BRA,"LW,DM",26-090,90,0,0,0,0,1,0,0,0,66,4,1,3,0.1,0.1,0.2,3,0,34,50,68.0,7,38,1,5,3
+Mohammed Kudus,14,gh GHA,RW,23-115,90,0,1,0,0,1,0,0,0,41,5,0,0,0.1,0.1,0.3,5,1,23,29,79.3,2,30,3,7,5
+Tomáš Souček,28,cz CZE,AM,28-271,90,1,0,0,0,4,2,0,0,35,0,0,0,0.5,0.5,0.0,0,0,20,28,71.4,2,17,0,0,0
+James Ward-Prowse,7,eng ENG,DM,29-024,90,0,0,0,0,1,0,0,0,66,1,0,0,0.1,0.1,0.2,5,1,42,56,75.0,6,35,1,2,0
+Edson Álvarez,19,mx MEX,DM,26-032,62,0,0,0,0,0,0,1,0,37,2,2,1,0.0,0.0,0.0,0,0,26,28,92.9,1,20,0,1,1
+Saïd Benrahma,22,dz ALG,LW,28-107,28,0,0,0,0,2,0,0,0,20,0,0,1,0.1,0.1,0.0,1,0,10,13,76.9,1,16,3,2,1
+Emerson Palmieri,33,it ITA,LB,29-114,90,0,0,0,0,0,0,0,0,62,2,0,1,0.0,0.0,0.0,2,0,43,55,78.2,1,38,0,3,2
+Nayef Aguerd,27,ma MAR,CB,27-240,90,0,0,0,0,0,0,1,0,91,1,1,0,0.0,0.0,0.0,1,0,63,83,75.9,4,65,0,1,0
+Kurt Zouma,4,fr FRA,CB,29-029,90,0,0,0,0,2,1,0,0,65,1,0,0,0.2,0.2,0.0,0,0,49,59,83.1,2,40,0,0,0
+Vladimír Coufal,5,cz CZE,RB,31-095,90,0,0,0,0,0,0,1,0,78,4,3,0,0.0,0.0,0.0,3,0,46,68,67.6,3,40,1,0,0
+Alphonse Areola,23,fr FRA,GK,30-271,90,0,0,0,0,0,0,0,0,41,0,0,0,0.0,0.0,0.0,0,0,28,38,73.7,0,25,0,1,1

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marcus Rashford,10,eng ENG,FW,21-193,90,0,0,0,0,5,2,0,0,65,0,0,0,0.3,0.3,0.3,8,0,42,54,77.8,10,38,7,6,4
+Mason Greenwood,54,eng ENG,FW,17-223,90,0,0,0,0,7,4,0,0,70,3,0,2,0.7,0.7,0.1,7,0,43,52,82.7,2,42,7,5,3
+Jesse Lingard,14,eng ENG,AM,26-148,90,0,0,0,0,2,1,1,0,77,2,0,0,0.1,0.1,0.1,9,0,64,72,88.9,8,51,9,0,0
+Paul Pogba,6,fr FRA,"LM,CM",26-058,90,0,0,0,0,3,1,1,0,91,2,1,0,0.2,0.2,0.1,10,0,61,77,79.2,11,64,7,4,2
+Scott McTominay,39,sct SCO,"CM,CB",22-155,90,0,0,0,0,0,0,0,0,62,0,5,0,0.0,0.0,0.0,2,0,50,56,89.3,8,39,0,0,0
+Andreas Pereira,15,br BRA,RM,23-131,73,0,0,0,0,2,1,1,0,73,0,1,2,0.1,0.1,0.3,6,0,56,68,82.4,9,43,2,0,0
+Angel Gomes,47,eng ENG,RM,18-254,17,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.0,0,0,17,18,94.4,2,15,0,0,0
+Ashley Young,18,eng ENG,LB,33-307,90,0,0,0,0,0,0,0,0,72,2,4,2,0.0,0.0,0.1,4,0,46,63,73.0,6,28,2,2,1
+Phil Jones,4,eng ENG,CB,27-080,45,0,0,0,0,0,0,0,0,31,0,1,1,0.0,0.0,0.0,0,0,22,25,88.0,1,13,0,0,0
+Anthony Martial,11,fr FRA,"LM,CB",23-158,45,0,0,0,0,3,1,0,0,43,0,0,0,0.2,0.2,0.1,2,0,28,36,77.8,6,29,5,2,1
+Chris Smalling,12,eng ENG,CB,29-171,90,0,0,0,0,0,0,0,0,70,3,3,2,0.0,0.0,0.0,0,0,46,54,85.2,3,30,2,0,0
+Diogo Dalot,20,pt POR,RB,20-055,73,0,0,0,0,2,0,0,0,55,3,0,0,0.1,0.1,0.1,1,0,41,48,85.4,3,22,4,2,2
+Antonio Valencia,25,ec ECU,RB,33-281,17,0,0,0,0,1,0,0,0,19,0,0,0,0.0,0.0,0.1,1,0,16,16,100.0,0,9,3,1,0
+David de Gea,1,es ESP,GK,28-186,90,0,0,0,0,0,0,0,0,27,0,0,0,0.0,0.0,0.0,0,0,20,25,80.0,0,8,0,0,0

@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Andre Gray,18,jm JAM,FW,26-075,83,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.1,3,0,10,16,62.5,1,12,0,0,0
+Troy Deeney,9,eng ENG,FW,29-072,7,0,0,0,0,0,0,0,0,7,0,0,2,0.0,0.0,0.0,0,0,1,5,20.0,0,2,0,0,0
+Richarlison,11,br BRA,LW,20-122,90,0,0,0,0,2,0,0,0,56,8,0,1,0.1,0.1,0.0,2,0,18,33,54.5,2,39,3,6,2
+André Carrillo,28,pe PER,RW,26-087,90,0,0,0,0,3,0,0,0,42,4,1,0,0.3,0.3,0.0,3,0,18,26,69.2,0,17,3,7,6
+Tom Cleverley,8,eng ENG,AM,28-028,90,0,1,0,0,1,0,0,0,54,2,3,0,0.0,0.0,0.0,3,1,36,44,81.8,5,18,0,0,0
+Abdoulaye Doucouré,16,ml MLI,DM,24-251,90,1,0,0,0,2,1,0,0,69,0,3,1,0.1,0.1,0.1,2,2,54,60,90.0,7,40,1,2,0
+Nathaniel Chalobah,14,eng ENG,DM,22-271,90,0,0,0,0,2,1,0,0,62,3,1,3,0.1,0.1,0.0,3,0,37,52,71.2,5,36,1,3,1
+José Holebas,25,gr GRE,LB,33-074,90,0,0,0,0,1,0,0,0,68,1,1,1,0.1,0.1,0.1,2,0,27,57,47.4,2,21,2,0,0
+Younès Kaboul,4,fr FRA,CB,31-248,60,0,0,0,0,0,0,0,0,32,0,1,1,0.0,0.0,0.0,0,0,21,25,84.0,6,18,0,0,0
+Adrian Mariappa,6,jm JAM,CB,30-341,30,0,0,0,0,0,0,0,0,11,0,2,0,0.0,0.0,0.0,0,0,5,6,83.3,0,3,0,0,0
+Christian Kabasele,27,be BEL,CB,26-197,90,0,0,0,0,0,0,0,0,43,0,3,3,0.0,0.0,0.0,0,0,23,30,76.7,3,19,0,1,1
+Kiko Femenía,21,es ESP,RB,26-219,61,0,1,0,0,0,0,0,0,32,0,1,2,0.0,0.0,0.0,1,0,20,28,71.4,1,20,0,0,0
+Daryl Janmaat,2,nl NED,RB,28-049,29,1,0,0,0,1,1,0,0,20,1,3,0,0.0,0.0,0.0,0,0,8,10,80.0,1,10,0,2,0
+Heurelho Gomes,1,br BRA,GK,36-206,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,20,37,54.1,0,23,0,0,0

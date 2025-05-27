@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Roberto Firmino,9,br BRA,FW,27-130,89,0,1,0,0,3,2,0,0,61,0,0,3,0.5,0.5,0.6,5,1,38,46,82.6,6,37,3,2,2
+Daniel Sturridge,15,eng ENG,FW,29-161,1,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0
+Sadio Mané,10,sn SEN,LW,26-305,86,1,0,0,0,3,1,0,0,33,0,0,1,0.5,0.5,0.1,2,1,17,18,94.4,5,19,1,1,0
+Divock Origi,27,be BEL,LW,23-297,4,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,3,0,0,0
+Mohamed Salah,11,eg EGY,RW,26-239,90,1,0,0,0,7,3,0,0,73,0,0,0,0.5,0.5,0.2,9,0,43,59,72.9,15,60,5,5,2
+Naby Keïta,8,gn GUI,LM,23-364,90,0,0,0,0,1,0,0,0,116,7,1,0,0.1,0.1,0.0,7,2,88,97,90.7,4,75,4,4,2
+Fabinho,3,br BRA,CM,25-109,90,0,0,0,0,0,0,0,0,71,4,2,1,0.0,0.0,0.1,2,0,54,62,87.1,12,40,1,0,0
+Georginio Wijnaldum,5,nl NED,RM,28-090,76,1,0,0,0,2,2,0,0,51,1,0,2,0.1,0.1,0.4,4,0,40,44,90.9,7,37,3,0,0
+Trent Alexander-Arnold,66,eng ENG,RB,20-125,14,0,0,0,0,1,1,0,0,15,0,2,0,0.3,0.3,0.0,1,0,7,12,58.3,1,8,1,0,0
+Andrew Robertson,26,sct SCO,LB,24-335,90,0,1,0,0,0,0,1,0,98,4,2,2,0.0,0.0,0.4,3,1,72,86,83.7,12,45,3,1,0
+Virgil van Dijk,4,nl NED,CB,27-216,90,0,0,0,0,0,0,0,0,116,1,0,1,0.0,0.0,0.0,0,0,103,107,96.3,6,82,0,0,0
+Joël Matip,32,cm CMR,CB,27-185,90,0,0,0,0,0,0,1,0,103,3,2,0,0.0,0.0,0.0,1,0,77,87,88.5,5,55,0,0,0
+James Milner,7,eng ENG,"RB,RM",33-036,90,0,1,0,0,3,0,0,0,110,3,1,2,0.1,0.1,0.1,4,1,83,98,84.7,8,64,2,0,0
+Alisson,13,br BRA,GK,26-130,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,27,29,93.1,0,16,0,0,0

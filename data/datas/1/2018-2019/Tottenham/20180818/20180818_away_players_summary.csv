@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Aleksandar Mitrović,9,rs SRB,FW,23-336,90,1,0,0,0,4,1,0,0,35,0,0,2,1.0,1.0,0.0,2,0,18,28,64.3,3,12,0,0,0
+Aboubakar Kamara,47,mr MTN,LW,23-164,87,0,0,0,0,0,0,0,0,43,1,0,1,0.0,0.0,0.4,5,0,24,36,66.7,1,21,3,0,0
+André Schürrle,14,de GER,LW,27-285,3,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,1,1,1,1
+Ryan Sessegnon,3,eng ENG,RW,18-092,90,0,1,0,0,2,1,0,0,18,0,0,0,0.4,0.4,0.6,2,1,12,15,80.0,1,12,1,2,1
+Jean Seri,24,ci CIV,LM,27-030,90,0,0,0,0,0,0,0,0,70,0,2,3,0.0,0.0,0.3,3,0,53,61,86.9,6,24,1,1,1
+Andre-Frank Zambo Anguissa,29,cm CMR,CM,22-275,90,0,0,0,0,0,0,0,0,64,4,2,1,0.0,0.0,0.0,1,0,46,49,93.9,3,27,1,4,4
+Tom Cairney,10,sct SCO,RM,27-210,72,0,0,0,0,2,1,0,0,54,1,0,0,0.1,0.1,0.2,3,0,42,48,87.5,4,28,2,2,2
+Stefan Johansen,8,no NOR,RM,27-222,18,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,2,9,1,0,0
+Joe Bryan,23,eng ENG,LB,24-335,84,0,0,0,0,1,0,0,0,50,1,1,0,0.0,0.0,0.1,3,1,31,40,77.5,4,27,6,0,0
+Cyrus Christie,22,ie IRL,LB,25-322,6,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,2,50.0,0,0,0,0,0
+Maxime Le Marchand,20,fr FRA,CB,28-311,90,0,0,0,0,0,0,0,0,63,2,2,2,0.0,0.0,0.0,0,0,35,42,83.3,2,18,0,0,0
+Calum Chambers,5,eng ENG,CB,23-210,90,0,0,0,0,0,0,0,0,58,1,3,1,0.0,0.0,0.0,0,0,29,40,72.5,3,22,0,0,0
+Timothy Fosu-Mensah,21,nl NED,RB,20-228,90,0,0,0,0,1,0,0,0,61,2,0,0,0.0,0.0,0.0,0,0,49,55,89.1,3,32,2,2,2
+Fabricio,31,es ESP,GK,30-230,90,0,0,0,0,0,0,0,0,43,1,0,0,0.0,0.0,0.0,0,0,22,33,66.7,0,15,0,0,0

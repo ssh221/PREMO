@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joelinton,9,br BRA,FW,24-127,74,0,0,0,0,2,1,0,0,30,1,0,0,0.1,0.1,0.0,2,0,11,22,50.0,1,19,1,1,1
+Dwight Gayle,12,eng ENG,FW,30-063,16,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,1,6,0,0,0
+Callum Wilson,13,eng ENG,FW,28-296,90,1,0,1,1,2,1,0,0,20,0,0,2,0.9,0.1,0.0,2,1,4,6,66.7,0,10,1,3,2
+Miguel Almirón,24,py PAR,"LM,RM",26-313,90,0,0,0,0,1,1,0,0,35,1,2,0,0.1,0.1,0.0,5,1,24,29,82.8,2,27,2,1,1
+Sean Longstaff,36,eng ENG,CM,23-050,90,0,0,0,0,1,1,0,0,81,6,4,3,0.1,0.1,0.0,4,0,54,65,83.1,6,54,1,1,1
+Jonjo Shelvey,8,eng ENG,CM,28-296,90,0,0,0,0,2,0,0,0,88,1,0,1,0.1,0.1,0.1,2,0,66,82,80.5,10,68,2,0,0
+Matt Ritchie,11,sct SCO,"RM,LB",31-100,90,0,0,0,0,2,0,0,0,65,2,0,1,0.0,0.0,0.2,5,0,39,55,70.9,3,37,3,0,0
+Paul Dummett,3,wls WAL,LB,29-084,78,0,0,0,0,0,0,0,0,29,0,3,1,0.0,0.0,0.0,0,0,18,25,72.0,4,16,0,0,0
+Ryan Fraser,21,sct SCO,LM,26-299,12,0,0,0,0,0,0,0,0,14,0,1,0,0.0,0.0,0.0,0,0,11,13,84.6,1,12,0,0,0
+Ciaran Clark,2,ie IRL,CB,31-084,90,0,0,0,0,0,0,1,0,69,0,3,2,0.0,0.0,0.0,0,0,53,59,89.8,3,50,0,0,0
+Federico Fernández,18,ar ARG,CB,31-302,45,0,0,0,0,0,0,0,0,30,0,0,1,0.0,0.0,0.0,0,0,21,24,87.5,3,16,0,0,0
+Isaac Hayden,14,eng ENG,CB,25-272,45,0,0,0,0,1,0,0,0,52,1,4,0,0.1,0.1,0.0,0,0,32,40,80.0,1,32,0,0,0
+DeAndre Yedlin,22,us USA,RB,27-163,90,0,0,0,0,0,0,0,0,59,0,3,0,0.0,0.0,0.0,2,0,39,51,76.5,6,37,2,0,0
+Karl Darlow,26,wls WAL,GK,30-072,90,0,0,0,0,0,0,0,0,25,0,0,0,0.0,0.0,0.0,0,0,18,23,78.3,0,13,0,0,0

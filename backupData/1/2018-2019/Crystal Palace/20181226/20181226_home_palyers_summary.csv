@@ -1,0 +1,13 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Andros Townsend,10,eng ENG,FW,27-163,90,0,0,0,0,3,0,0,0,70,0,1,0,0.5,0.5,0.3,10,0,39,55,70.9,3,46,7,1,1
+Wilfried Zaha,11,ci CIV,FW,26-046,90,0,0,0,0,4,1,0,0,68,0,0,2,0.3,0.3,0.6,14,0,35,45,77.8,9,46,10,13,8
+Max Meyer,7,de GER,LM,23-099,62,0,0,0,0,5,0,0,0,38,1,1,0,0.2,0.2,0.0,1,0,21,29,72.4,1,22,2,0,0
+Connor Wickham,21,eng ENG,LM,25-270,28,0,0,0,0,4,1,0,0,12,0,0,0,0.3,0.3,0.3,2,0,3,4,75.0,0,6,0,0,0
+Luka Milivojević,4,rs SRB,CM,27-263,90,0,0,0,0,3,1,0,0,64,1,1,1,0.1,0.1,0.1,5,0,39,53,73.6,5,20,2,0,0
+Cheikhou Kouyaté,8,sn SEN,CM,29-005,90,0,0,0,0,2,0,0,0,67,0,2,0,0.1,0.1,0.1,6,0,46,52,88.5,9,22,3,4,2
+James McArthur,18,sct SCO,RM,31-080,90,0,0,0,0,2,0,0,0,54,2,2,2,0.2,0.2,0.1,2,0,37,41,90.2,6,21,2,0,0
+Patrick van Aanholt,3,nl NED,LB,28-119,90,0,0,0,0,4,2,0,0,71,1,0,1,0.2,0.2,0.2,6,0,53,62,85.5,7,28,3,0,0
+Mamadou Sakho,12,fr FRA,CB,28-316,90,0,0,0,0,0,0,0,0,81,4,1,0,0.0,0.0,0.0,0,0,55,69,79.7,8,38,2,2,1
+James Tomkins,5,eng ENG,CB,29-272,90,0,0,0,0,2,0,0,0,69,0,1,1,0.1,0.1,0.0,0,0,44,59,74.6,2,29,0,0,0
+Aaron Wan-Bissaka,29,eng ENG,RB,21-030,90,0,0,0,0,2,0,0,0,68,1,1,1,0.1,0.1,0.1,6,0,48,57,84.2,8,20,4,3,2
+Vicente Guaita,31,es ESP,GK,31-350,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,8,0,0,0

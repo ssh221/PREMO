@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Jack Grealish,10,eng ENG,"FW,RM",24-124,90,0,0,0,0,1,0,1,0,49,0,1,0,0.1,0.1,0.1,3,0,26,30,86.7,4,40,3,8,5
+Anwar El Ghazi,21,nl NED,FW,24-254,90,1,0,1,1,4,0,1,0,34,1,0,2,1.0,0.2,0.0,1,0,12,17,70.6,0,18,1,5,2
+Conor Hourihane,14,ie IRL,"CM,LM",28-344,70,0,0,0,0,0,0,0,0,29,2,0,1,0.0,0.0,0.0,1,0,20,23,87.0,3,12,0,0,0
+Trézéguet,17,eg EGY,LM,25-103,20,0,0,0,0,1,0,0,0,12,0,0,0,0.1,0.1,0.1,7,2,6,7,85.7,1,11,5,4,3
+Danny Drinkwater,4,eng ENG,CM,29-313,78,0,0,0,0,0,0,0,0,42,2,2,0,0.0,0.0,0.0,0,0,32,35,91.4,0,28,0,2,1
+Henri Lansbury,8,eng ENG,CM,29-092,12,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,6,6,100.0,0,3,0,0,0
+Douglas Luiz,6,br BRA,CM,21-248,64,0,0,0,0,0,0,0,0,26,0,1,1,0.0,0.0,0.0,0,0,14,19,73.7,1,14,0,2,2
+Marvelous Nakamba,11,zw ZIM,CM,25-358,26,0,0,0,0,0,0,0,0,13,1,0,0,0.0,0.0,0.0,0,0,11,12,91.7,0,11,0,1,1
+Neil Taylor,3,wls WAL,LB,30-339,90,0,0,0,0,0,0,0,0,34,1,0,3,0.0,0.0,0.0,0,0,20,26,76.9,0,13,0,0,0
+Kortney Hause,30,eng ENG,CB,24-180,90,0,0,0,0,0,0,0,0,51,5,1,0,0.0,0.0,0.0,0,0,31,41,75.6,0,30,0,2,2
+Tyrone Mings,40,eng ENG,CB,26-305,90,0,0,0,0,0,0,0,0,54,0,1,2,0.0,0.0,0.0,0,0,38,45,84.4,0,37,0,1,1
+Ezri Konsa,15,eng ENG,CB,22-081,90,0,0,0,0,0,0,0,0,54,0,2,0,0.0,0.0,0.0,0,0,42,45,93.3,0,39,0,0,0
+Ahmed Elmohamady,27,eg EGY,RB,32-125,90,0,0,0,0,0,0,0,0,61,2,1,2,0.0,0.0,0.1,2,0,41,53,77.4,3,33,2,1,0
+Ørjan Nyland,25,no NOR,GK,29-124,90,0,0,0,0,0,0,0,0,33,0,0,0,0.0,0.0,0.0,0,0,14,30,46.7,0,13,0,0,0

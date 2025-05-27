@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alexander Isak,14,se SWE,FW,24-194,90,1,0,0,0,4,2,0,0,30,0,0,2,1.3,1.3,0.2,7,1,14,20,70.0,4,15,3,4,3
+Harvey Barnes,15,eng ENG,LW,26-115,90,0,1,0,0,3,1,0,0,43,1,0,0,0.4,0.4,1.3,6,1,27,32,84.4,4,25,5,3,1
+Jacob Murphy,23,eng ENG,RW,29-038,90,0,0,0,0,3,1,0,0,56,0,0,1,0.2,0.2,0.1,2,0,28,46,60.9,3,23,2,2,1
+Elliot Anderson,32,eng ENG,LM,21-148,70,0,0,0,0,1,0,0,0,41,3,1,0,0.0,0.0,0.0,2,0,20,28,71.4,5,17,3,0,0
+Joe Willock,28,eng ENG,LM,24-226,20,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,1,0,8,12,66.7,1,8,1,0,0
+Bruno Guimarães,39,br BRA,CM,26-138,90,0,0,0,0,1,1,0,0,82,6,2,1,0.1,0.1,0.0,4,0,56,68,82.4,3,36,4,9,7
+Sean Longstaff,36,eng ENG,RM,26-155,90,0,0,0,0,3,0,0,0,60,3,0,0,0.2,0.2,0.1,3,0,39,50,78.0,4,22,0,0,0
+Lewis Hall,20,eng ENG,LB,19-207,78,0,0,0,0,0,0,0,0,78,2,0,2,0.0,0.0,0.1,2,0,56,67,83.6,4,31,2,1,1
+Paul Dummett,3,wls WAL,LB,32-189,12,0,0,0,0,1,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,12,13,92.3,0,9,1,0,0
+Dan Burn,33,eng ENG,CB,31-329,90,0,0,0,0,1,0,0,0,81,4,0,1,0.1,0.1,0.0,0,0,62,68,91.2,2,37,0,0,0
+Fabian Schär,5,ch SUI,CB,32-104,90,0,0,0,0,1,0,0,0,69,2,1,1,0.0,0.0,0.0,1,0,48,58,82.8,7,38,3,1,1
+Emil Krafth,17,se SWE,RB,29-244,90,0,0,0,0,0,0,0,0,56,0,1,0,0.0,0.0,0.1,3,0,36,48,75.0,3,18,1,0,0
+Martin Dúbravka,1,sk SVK,GK,35-078,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,30,37,81.1,0,20,0,0,0

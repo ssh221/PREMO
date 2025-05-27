@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Kieffer Moore,21,wls WAL,FW,30-096,67,1,0,0,0,1,1,0,0,29,0,0,0,0.8,0.8,0.0,3,0,13,25,52.0,3,21,0,0,0
+Jaidon Anthony,32,eng ENG,LM,22-346,23,1,0,0,0,1,1,0,0,11,0,0,0,0.4,0.4,0.0,1,1,5,8,62.5,1,7,0,0,0
+Dominic Solanke,9,eng ENG,FW,25-059,90,0,0,0,0,6,2,0,0,30,0,0,1,0.4,0.4,0.1,4,1,10,15,66.7,3,23,1,1,0
+Philip Billing,29,dk DEN,"LM,FW",26-154,87,0,0,0,0,3,1,0,0,43,2,0,4,0.4,0.4,0.0,2,0,19,30,63.3,2,23,2,3,3
+Ben Pearson,22,eng ENG,DM,27-312,3,0,0,0,0,0,0,0,0,3,0,0,1,0.0,0.0,0.0,0,0,1,2,50.0,0,1,0,0,0
+Jefferson Lerma,8,co COL,CM,28-018,90,0,0,0,0,0,0,0,0,50,1,0,1,0.0,0.0,0.0,1,0,36,47,76.6,4,21,1,1,1
+Lewis Cook,4,eng ENG,CM,25-282,90,0,1,0,0,0,0,1,0,45,1,1,1,0.0,0.0,0.8,5,1,31,38,81.6,1,16,0,1,1
+Marcus Tavernier,16,eng ENG,RM,23-235,79,1,1,0,0,5,3,0,0,47,1,0,0,0.5,0.5,0.8,4,1,22,27,81.5,5,34,5,5,1
+Ryan Christie,10,sct SCO,RM,27-263,11,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,3,0,0,0
+Jordan Zemura,33,zw ZIM,LB,22-363,90,0,0,0,0,0,0,0,0,41,2,0,2,0.0,0.0,0.2,5,0,22,23,95.7,2,22,4,9,4
+Marcos Senesi,25,ar ARG,CB,25-186,90,0,0,0,0,0,0,1,0,36,3,0,1,0.0,0.0,0.0,0,0,18,27,66.7,2,14,0,0,0
+Jack Stephens,3,eng ENG,CB,28-289,90,0,0,0,0,0,0,0,0,28,1,0,2,0.0,0.0,0.1,1,0,21,22,95.5,1,13,0,0,0
+Adam Smith,15,eng ENG,RB,31-197,90,0,0,0,0,0,0,0,0,42,4,0,2,0.0,0.0,0.1,1,0,25,30,83.3,3,11,1,1,0
+Mark Travers,1,ie IRL,GK,23-178,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,17,34,50.0,0,16,0,0,0

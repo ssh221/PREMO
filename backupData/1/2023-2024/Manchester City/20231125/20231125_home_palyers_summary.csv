@@ -1,0 +1,12 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Erling Haaland,9,no NOR,FW,23-127,90,1,0,0,0,5,2,0,0,19,2,0,0,0.7,0.7,0.0,0,0,7,10,70.0,0,8,3,0,0
+Jeremy Doku,11,be BEL,LW,21-182,90,0,0,0,0,2,0,0,0,71,4,0,1,0.1,0.1,0.5,8,0,43,50,86.0,5,58,13,17,12
+Phil Foden,47,eng ENG,RW,23-181,90,0,0,0,0,4,3,0,0,48,1,1,2,0.2,0.2,0.0,2,0,27,36,75.0,4,33,1,1,0
+Bernardo Silva,20,pt POR,CM,29-107,90,0,0,0,0,1,0,1,0,81,5,0,1,0.0,0.0,0.0,4,0,59,70,84.3,14,55,2,4,3
+Julián Álvarez,19,ar ARG,CM,23-298,90,0,0,0,0,2,0,0,0,52,1,0,0,0.2,0.2,0.3,4,0,32,44,72.7,7,27,2,1,1
+Manuel Akanji,25,ch SUI,DM,28-129,90,0,0,0,0,0,0,0,0,96,2,0,0,0.0,0.0,0.0,3,0,75,84,89.3,6,57,1,0,0
+Rodri,16,es ESP,DM,27-156,90,0,0,0,0,1,0,0,0,112,3,0,0,0.0,0.0,0.0,4,0,97,102,95.1,8,77,1,1,0
+Nathan Aké,6,nl NED,LB,28-280,90,0,1,0,0,0,0,0,0,77,3,1,2,0.0,0.0,0.3,2,2,59,67,88.1,4,41,1,1,1
+Rúben Dias,3,pt POR,CB,26-195,90,0,0,0,0,1,0,0,0,93,1,0,2,0.1,0.1,0.0,2,0,81,85,95.3,4,64,0,0,0
+Kyle Walker,2,eng ENG,RB,33-181,90,0,0,0,0,0,0,0,0,64,0,3,0,0.0,0.0,0.1,1,0,53,58,91.4,6,40,1,0,0
+Ederson,31,br BRA,GK,30-100,90,0,0,0,0,0,0,0,0,47,0,0,0,0.0,0.0,0.0,0,0,40,44,90.9,0,33,0,0,0

@@ -1,0 +1,14 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Chris Wood,11,nz NZL,FW,25-332,64,0,0,0,0,0,0,0,0,22,0,0,0,0.0,0.0,0.0,0,0,10,17,58.8,1,9,0,0,0
+Sam Vokes,9,wls WAL,FW,28-014,26,1,0,0,0,1,1,0,0,12,0,0,0,0.0,0.0,0.0,0,0,3,9,33.3,0,6,1,1,1
+Jeff Hendrick,13,ie IRL,FW,25-277,64,0,0,0,0,0,0,0,0,22,1,0,1,0.0,0.0,0.0,1,0,16,18,88.9,0,11,1,0,0
+Ashley Barnes,10,eng ENG,FW,28-005,26,0,0,0,0,0,0,0,0,11,1,0,1,0.0,0.0,0.0,0,0,4,8,50.0,1,6,0,0,0
+Robbie Brady,12,ie IRL,LM,25-294,90,0,0,0,0,1,0,0,0,42,2,0,1,0.1,0.1,0.0,0,0,27,36,75.0,3,21,2,1,1
+Jack Cork,4,eng ENG,CM,28-132,90,0,0,0,0,0,0,0,0,59,1,2,2,0.0,0.0,0.0,4,1,32,46,69.6,9,27,1,0,0
+Steven Defour,16,be BEL,CM,29-203,90,0,0,0,0,0,0,0,0,50,3,3,1,0.0,0.0,0.0,2,0,34,39,87.2,2,19,2,3,2
+Jóhann Berg Guðmundsson,17,is ISL,RM,27-008,90,0,1,0,0,3,0,0,0,33,0,0,2,0.1,0.1,0.0,1,1,16,23,69.6,4,19,0,2,1
+Stephen Ward,23,ie IRL,LB,32-076,90,0,0,0,0,0,0,0,0,57,0,1,1,0.0,0.0,0.0,0,0,32,51,62.7,2,20,1,0,0
+Ben Mee,6,eng ENG,CB,28-044,90,0,0,0,0,0,0,0,0,55,1,0,1,0.0,0.0,0.0,0,0,36,43,83.7,3,26,0,0,0
+James Tarkowski,5,eng ENG,CB,24-350,90,0,0,0,0,0,0,0,0,50,1,3,2,0.0,0.0,0.0,0,0,22,36,61.1,0,23,0,2,1
+Matthew Lowton,2,eng ENG,RB,28-148,90,0,0,0,0,0,0,0,0,48,1,2,0,0.0,0.0,0.0,0,0,27,39,69.2,3,12,0,1,1
+Nick Pope,29,eng ENG,GK,25-199,90,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,10,26,38.5,0,10,0,0,0

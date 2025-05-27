@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Alex Pritchard,21,eng ENG,FW,24-332,90,0,0,0,0,1,0,0,0,42,3,0,1,0.0,0.0,0.0,1,0,14,26,53.8,3,22,0,4,2
+Laurent Depoitre,20,be BEL,FW,29-114,90,0,0,0,0,1,0,0,0,45,2,0,2,0.0,0.0,0.0,2,0,18,34,52.9,1,25,1,0,0
+Rajiv van La Parra,17,nl NED,"RM,LM",26-300,85,0,0,0,0,0,0,0,0,27,0,0,2,0.0,0.0,0.0,0,0,17,22,77.3,1,20,4,3,2
+Scott Malone,3,eng ENG,LM,27-006,5,0,0,0,0,0,0,0,0,8,1,0,2,0.0,0.0,0.0,0,0,2,5,40.0,0,3,0,0,0
+Aaron Mooy,10,au AUS,CM,27-197,90,0,0,0,0,0,0,1,0,53,2,3,2,0.0,0.0,0.0,2,0,32,44,72.7,3,25,0,0,0
+Jonathan Hogg,6,eng ENG,CM,29-115,90,0,0,0,0,0,0,1,0,38,2,3,3,0.0,0.0,0.0,1,0,22,28,78.6,2,11,0,0,0
+Elias Kachunga,9,cd COD,"RM,LM",25-343,55,0,0,0,0,0,0,0,0,20,2,0,4,0.0,0.0,0.0,0,0,6,12,50.0,0,10,1,1,1
+Collin Quaner,23,de GER,"LM,RM",26-286,35,0,0,0,0,0,0,1,0,29,1,1,0,0.0,0.0,0.0,0,0,10,18,55.6,2,16,0,3,1
+Terence Kongolo,5,nl NED,LB,24-045,90,0,0,0,0,0,0,0,0,62,5,2,1,0.0,0.0,0.0,0,0,26,43,60.5,6,20,3,0,0
+Christopher Schindler,26,de GER,CB,27-336,90,0,0,0,0,0,0,1,0,42,3,3,2,0.0,0.0,0.0,0,0,13,22,59.1,2,12,0,0,0
+Mathias Jørgensen,25,dk DEN,CB,27-342,90,0,0,0,0,1,0,0,0,38,2,1,1,0.0,0.0,0.0,0,0,19,29,65.5,2,14,0,0,0
+Tommy Smith,2,eng ENG,RB,25-351,82,0,0,0,0,1,0,0,0,63,1,1,0,0.0,0.0,0.0,1,0,39,52,75.0,0,23,0,0,0
+Steve Mounié,24,bj BEN,RB,23-183,8,0,0,0,0,0,0,0,0,7,0,1,0,0.0,0.0,0.0,0,0,3,6,50.0,0,3,0,0,0
+Jonas Lössl,1,dk DEN,GK,29-058,90,0,0,0,0,0,0,0,0,36,0,1,0,0.0,0.0,0.0,1,0,19,35,54.3,0,15,0,0,0

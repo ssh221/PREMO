@@ -1,0 +1,15 @@
+﻿player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Manolo Gabbiadini,20,it ITA,FW,25-343,64,0,0,0,0,1,0,0,0,8,1,0,0,0.1,0.1,0.1,1,0,3,6,50.0,1,3,0,0,0
+Charlie Austin,10,eng ENG,FW,28-122,26,0,0,0,0,1,0,0,0,9,0,0,1,0.0,0.0,0.0,0,0,5,5,100.0,1,6,0,0,0
+Nathan Redmond,22,eng ENG,"LW,RM",23-243,90,0,0,0,0,3,1,0,0,65,1,1,0,0.2,0.2,0.1,6,0,45,59,76.3,10,53,13,5,4
+Dušan Tadić,11,rs SRB,RW,28-349,75,0,0,0,0,0,0,0,0,40,0,1,1,0.0,0.0,0.2,4,0,26,35,74.3,1,32,1,1,1
+Shane Long,7,ie IRL,"RW,FW",30-286,15,0,0,0,0,0,0,0,0,7,1,0,0,0.0,0.0,0.0,0,0,2,4,50.0,0,1,0,0,0
+Sofiane Boufal,19,ma MAR,AM,24-048,89,0,0,0,0,2,1,0,0,62,1,0,1,0.1,0.1,0.0,2,0,43,55,78.2,7,50,3,2,2
+James Ward-Prowse,16,eng ENG,"RM,LM",23-003,1,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,1,3,33.3,0,1,0,0,0
+Steven Davis,8,nir NIR,"DM,CM",32-307,90,0,0,0,0,2,0,0,0,93,3,0,1,0.1,0.1,0.0,0,0,73,84,86.9,7,56,2,2,2
+Oriol Romeu,14,es ESP,"DM,CM",26-041,90,0,0,0,0,0,0,0,0,95,6,0,3,0.0,0.0,0.1,2,0,70,82,85.4,10,53,1,0,0
+Ryan Bertrand,21,eng ENG,LB,28-091,90,0,0,0,0,3,0,0,0,79,1,0,0,0.2,0.2,0.0,2,0,58,73,79.5,9,50,1,2,1
+Virgil van Dijk,17,nl NED,CB,26-119,90,0,0,0,0,0,0,0,0,72,0,0,0,0.0,0.0,0.0,0,0,54,61,88.5,4,46,1,0,0
+Maya Yoshida,3,jp JPN,CB,29-072,90,0,0,0,0,1,1,0,0,78,1,2,2,0.0,0.0,0.0,1,0,56,64,87.5,3,49,0,1,1
+Cédric Soares,2,pt POR,RB,26-065,90,0,0,0,0,0,0,0,0,85,0,0,1,0.0,0.0,0.1,5,0,49,78,62.8,2,52,3,0,0
+Fraser Forster,44,eng ENG,GK,29-232,90,0,0,0,0,0,0,0,0,24,0,0,0,0.0,0.0,0.0,0,0,12,24,50.0,0,13,0,0,0
