@@ -9,7 +9,7 @@ import google.generativeai as genai
 
 # 1. Gemini API 키 설정
 # https://aistudio.google.com/app/apikey 에서 API 키를 발급받아 아래에 붙여넣으세요.
-GEMINI_API_KEY = "AIzaSyCntcpUge3w0gyMInZG2AI9Buely0rued8"
+GEMINI_API_KEY = "-"
 
 # 2. RDS MySQL 데이터베이스 정보 설정
 DB_CONFIG = {
