@@ -1,0 +1,385 @@
+/* 전체 스타일 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%);
+    min-height: 100vh;
+    color: #333;
+}
+
+.container {
+    max-width: 768px;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 100vh;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    position: relative;
+}
+
+/* 선수 헤더 스타일 */
+.player-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #e53935; /* 맨체스터 유나이티드 레드 */
+    color: white;
+    position: relative;
+}
+
+.player-info {
+    z-index: 1;
+    margin-left: 120px; /* 이미지 공간 확보 */
+}
+
+.player-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.player-team {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.team-logo {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    object-fit: contain;
+}
+
+.player-image {
+    position: absolute;
+    left: 20px;
+    bottom: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+}
+
+.profile-img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+/* 탭 스타일 */
+.tab-container {
+    display: flex;
+    background-color: #e53935;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.tab {
+    padding: 12px 0;
+    flex: 1;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+    position: relative;
+}
+
+.tab.active {
+    color: white;
+    font-weight: bold;
+}
+
+.tab.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: white;
+}
+
+/* 콘텐츠 컨테이너 */
+.content-container {
+    padding: 15px;
+}
+
+/* 프로필 섹션 스타일 */
+.profile-section {
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+}
+
+.stat-item {
+    text-align: center;
+}
+
+.stat-value {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stat-label {
+    font-size: 12px;
+    color: #666;
+}
+
+.flag-icon {
+    width: 20px;
+    height: 14px;
+    margin-right: 5px;
+    object-fit: cover;
+}
+
+/* 시즌 통계 섹션 스타일 */
+.season-stats {
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.league-header {
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: #f9f9f9;
+}
+
+.league-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+.season-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 15px;
+}
+
+.season-stat-item {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.season-stat-value {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.season-stat-value.rating {
+    color: #4caf50;
+}
+
+.season-stat-label {
+    font-size: 12px;
+    color: #666;
+}
+
+/* 선수 트레이트 섹션 스타일 */
+.player-traits {
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.section-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.section-subtitle {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+/* 🔥 간단한 레이더 차트 스타일 */
+.radar-chart-container {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0; /* 🔥 패딩 더 증가 */
+    background-color: white;
+    border-radius: 15px;
+    margin: 20px 0;
+    border: 1px solid #e5e5e5;
+}
+
+.radar-chart {
+    position: relative;
+    width: 250px;
+    height: 250px;
+}
+
+/* 🔥 6각형 테두리 - SVG로 그리기 */
+.radar-chart::before {
+    content: '';
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    width: 70%;
+    height: 70%;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='50,5 95,25 95,75 50,95 5,75 5,25' fill='none' stroke='%23d0d0d0' stroke-width='2'/%3E%3Cpolygon points='50,20 80,30 80,70 50,80 20,70 20,30' fill='none' stroke='%23e8e8e8' stroke-width='1'/%3E%3Cpolygon points='50,35 65,40 65,60 50,65 35,60 35,40' fill='none' stroke='%23f0f0f0' stroke-width='1'/%3E%3C/svg%3E");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+}
+
+/* 🔥 데이터 영역 (빨간색으로 안에서 채워짐) */
+.radar-data {
+    position: absolute;
+    top: 15%;
+    left: 15%;
+    width: 70%;
+    height: 70%;
+    background-color: rgba(229, 57, 53, 0.7);
+    z-index: 2;
+    transition: all 0.3s ease;
+}
+
+/* 🔥 축 라벨 - 완전 분리된 위치 */
+.axis-label {
+    position: absolute;
+    font-size: 11px;
+    font-weight: 500;
+    color: #666;
+    text-align: center;
+    background: white;
+    padding: 4px 8px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid #e0e0e0;
+    z-index: 3;
+    white-space: nowrap;
+    max-width: 150px;
+    font-size: 10px;
+}
+
+/* 🔥 라벨 위치 - 차트에서 충분히 멀리 배치 */
+.axis-label.top {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.axis-label.top-right {
+    top: 40px;
+    right: -100px;
+}
+
+.axis-label.bottom-right {
+    bottom: 40px;
+    right: -100px;
+}
+
+.axis-label.bottom {
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.axis-label.bottom-left {
+    bottom: 40px;
+    left: -100px;
+}
+
+.axis-label.top-left {
+    top: 40px;
+    left: -100px;
+}
+
+/* 퍼센트 숫자 강조 */
+.axis-label .percentage {
+    font-weight: 700;
+    color: #e53935;
+    font-size: 14px;
+}
+
+.axis-label .stat-name {
+    color: #666;
+    font-size: 11px;
+    margin-left: 4px;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 576px) {
+    .player-name {
+        font-size: 20px;
+    }
+    
+    .profile-img {
+        height: 80px;
+        width: 80px;
+    }
+    
+    .player-info {
+        margin-left: 100px;
+    }
+    
+    .stats-grid {
+        gap: 10px;
+    }
+    
+    .stat-value {
+        font-size: 14px;
+    }
+    
+    .season-stat-value {
+        font-size: 20px;
+    }
+    
+    .radar-chart {
+        width: 250px;
+        height: 250px;
+    }
+    
+    .axis-label {
+        font-size: 10px;
+        padding: 4px 8px;
+    }
+    
+    .axis-label.top-right,
+    .axis-label.bottom-right {
+        right: -100px;
+    }
+    
+    .axis-label.bottom-left,
+    .axis-label.top-left {
+        left: -100px;
+    }
+    
+    .axis-label .percentage {
+        font-size: 12px;
+    }
+    
+    .axis-label .stat-name {
+        font-size: 9px;
+    }
+}

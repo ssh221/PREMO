@@ -1,0 +1,517 @@
+/* 전체 스타일 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%);
+    min-height: 100vh;
+    color: #333;
+}
+
+.container {
+    max-width: 768px;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 100vh;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    position: relative;
+}
+
+/* 매치 헤더 스타일 */
+.match-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.match-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M 10 0 L 0 0 0 10" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="0.5"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
+    opacity: 0.3;
+}
+
+.team-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+    position: relative;
+    z-index: 1;
+}
+
+.team-logo {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 12px;
+    border-radius: 50%;
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.team-logo:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.team-name {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    line-height: 1.3;
+}
+
+.match-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.match-time {
+    font-size: 28px;
+    font-weight: 700;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    margin-bottom: 4px;
+}
+
+.match-date {
+    font-size: 14px;
+    opacity: 0.9;
+    font-weight: 500;
+}
+
+/* 탭 스타일 */
+.tab-container {
+    display: flex;
+    background: linear-gradient(to right, #f8f9fa, #ffffff);
+    border-bottom: 1px solid #e3e8ee;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.tab {
+    padding: 16px 0;
+    flex: 1;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #6c757d;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tab::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+    transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.tab:hover {
+    color: #495057;
+    background: rgba(102, 126, 234, 0.05);
+}
+
+.tab.active {
+    color: #667eea;
+    font-weight: 600;
+    background: linear-gradient(to bottom, rgba(102, 126, 234, 0.1), rgba(255, 255, 255, 0.1));
+}
+
+.tab.active::before {
+    width: 60%;
+}
+
+/* 콘텐츠 컨테이너 */
+.content-container {
+    padding: 24px 20px;
+    background: linear-gradient(to bottom, #f8f9fa, #ffffff);
+}
+
+/* H2H 통계 섹션 */
+.h2h-stats {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    border-radius: 16px;
+    padding: 24px 20px;
+    margin-bottom: 24px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+.h2h-stats::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg, transparent 30%, rgba(102, 126, 234, 0.03) 50%, transparent 70%);
+}
+
+.stats-item {
+    text-align: center;
+    flex: 1;
+    position: relative;
+    z-index: 1;
+}
+
+.stats-item.home {
+    color: #e74c3c;
+}
+
+.stats-item.draws {
+    color: #6c757d;
+}
+
+.stats-item.away {
+    color: #3498db;
+}
+
+.stats-number {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.stats-item:hover .stats-number {
+    transform: scale(1.1);
+}
+
+.stats-label {
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    opacity: 0.8;
+}
+
+/* 홈/어웨이 구분 표시 */
+.venue-indicator {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.venue-item {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    backdrop-filter: blur(10px);
+}
+
+.venue-icon {
+    margin-right: 8px;
+    font-size: 16px;
+}
+
+/* 경기 히스토리 */
+.match-history {
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.history-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    position: relative;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.history-item:last-child {
+    border-bottom: none;
+}
+
+.history-item:hover {
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.history-item[style*="cursor: pointer"] {
+    user-select: none;
+}
+
+.history-item[style*="cursor: pointer"]:hover {
+    background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%) !important;
+    transform: translateY(-3px) !important;
+    box-shadow: 0 12px 35px rgba(33, 150, 243, 0.2) !important;
+}
+
+.match-date-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex: 1;
+    min-width: 85px;
+}
+
+.match-date-text {
+    font-size: 13px;
+    color: #495057;
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+
+.match-competition {
+    font-size: 11px;
+    color: #6c757d;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    padding: 2px 8px;
+    background: rgba(102, 126, 234, 0.1);
+    border-radius: 10px;
+}
+
+.match-teams {
+    display: flex;
+    align-items: center;
+    flex: 2;
+    justify-content: center;
+    min-width: 220px;
+}
+
+.team-info {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.team-info.home {
+    justify-content: flex-end;
+    margin-right: 15px;
+}
+
+.team-info.away {
+    justify-content: flex-start;
+    margin-left: 15px;
+}
+
+.history-team-logo {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.history-team-logo:hover {
+    transform: scale(1.1);
+}
+
+.team-info.home .history-team-logo {
+    margin-left: 10px;
+}
+
+.team-info.away .history-team-logo {
+    margin-right: 10px;
+}
+
+.history-team-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: #495057;
+}
+
+.match-score {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 70px;
+    justify-content: center;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+
+.score-text {
+    font-size: 16px;
+    font-weight: 700;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.match-venue {
+    flex: 1;
+    text-align: right;
+    min-width: 85px;
+}
+
+.venue-text {
+    font-size: 11px;
+    color: #6c757d;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    padding: 4px 8px;
+    background: rgba(108, 117, 125, 0.1);
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.click-indicator {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: #667eea;
+    opacity: 0;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    font-weight: bold;
+}
+
+.history-item:hover .click-indicator {
+    opacity: 1;
+    transform: translateY(-50%) translateX(-5px);
+}
+
+/* 로딩 및 빈 상태 메시지 */
+.loading-message,
+.empty-message {
+    text-align: center;
+    padding: 60px 20px;
+    color: #6c757d;
+    font-size: 16px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    font-weight: 500;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 576px) {
+    .match-header {
+        padding: 20px 15px;
+    }
+    
+    .team-container {
+        width: 90px;
+    }
+    
+    .team-logo {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .team-name {
+        font-size: 12px;
+    }
+    
+    .match-time {
+        font-size: 22px;
+    }
+    
+    .content-container {
+        padding: 20px 15px;
+    }
+    
+    .h2h-stats {
+        padding: 20px 15px;
+    }
+    
+    .stats-number {
+        font-size: 28px;
+    }
+    
+    .stats-label {
+        font-size: 12px;
+    }
+    
+    .history-item {
+        padding: 16px;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 12px;
+    }
+    
+    .match-date-info {
+        text-align: center;
+        margin-bottom: 0;
+    }
+    
+    .match-teams {
+        margin-bottom: 0;
+        min-width: auto;
+    }
+    
+    .match-venue {
+        text-align: center;
+        min-width: auto;
+    }
+    
+    .team-info.home {
+        margin-right: 8px;
+    }
+    
+    .team-info.away {
+        margin-left: 8px;
+    }
+    
+    .history-team-name {
+        font-size: 12px;
+    }
+    
+    .venue-item {
+        padding: 8px 16px;
+        font-size: 12px;
+    }
+    
+    .click-indicator {
+        display: none;
+    }
+    
+    .tab {
+        padding: 14px 0;
+        font-size: 13px;
+    }
+}

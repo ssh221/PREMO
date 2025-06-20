@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREMO - 경기 정보</title>
+    <link rel="stylesheet" href="matchInfo.css">
+</head>
+<body>
+    <div class="container">
+        <div class="match-header">
+            <div class="team-container home">
+                <img src="https://via.placeholder.com/80/ff0000/ffffff?text=MU" alt="Manchester United" class="team-logo">
+                <div class="team-name">Manchester United</div>
+            </div>
+            <div class="match-info">
+                <div class="match-time">17:30</div>
+                <div class="match-date">Today</div>
+            </div>
+            <div class="team-container away">
+                <img src="https://via.placeholder.com/80/ffffff/000000?text=RM" alt="Real Madrid" class="team-logo">
+                <div class="team-name">Real Madrid</div>
+            </div>
+        </div>
+
+        <div class="tab-container">
+            <div class="tab active" data-tab="preview">Preview</div>
+            <div class="tab" data-tab="premo">PREMO™</div>
+            <div class="tab" data-tab="h2h">Head to Head</div>
+            <div class="tab" data-tab="table">Table</div>
+        </div>
+
+        <div class="content-container">
+            <!-- 배팅 섹션 -->
+            <div class="betting-section">
+                <!-- <div class="betting-header">
+                    <div class="betting-logo">1XBET</div>
+                    <div class="odds-container">
+                        <div class="odds-item">
+                            <div class="odds-number">1</div>
+                            <div class="odds-value">3.50</div>
+                        </div>
+                        <div class="odds-item">
+                            <div class="odds-number">x</div>
+                            <div class="odds-value">6.00</div>
+                        </div>
+                        <div class="odds-item">
+                            <div class="odds-number">2</div>
+                            <div class="odds-value">1.50</div>
+                        </div>
+                    </div>
+                </div> -->
+
+                <div class="voting-section">
+                    <div class="voting-title">Who will win?</div>
+                    <div class="voting-options">
+                        <div class="vote-btn" data-team="home">
+                            <img src="https://via.placeholder.com/24/ff0000/ffffff?text=MU" alt="Manchester United" class="vote-logo">
+                        </div>
+                        <div class="vote-btn" data-team="draw">Draw</div>
+                        <div class="vote-btn" data-team="away">
+                            <img src="https://via.placeholder.com/24/ffffff/000000?text=RM" alt="Real Madrid" class="vote-logo">
+                        </div>
+                    </div>
+                    <div class="voting-stats">Total votes: 20,086</div>
+                </div>
+            </div>
+
+            <!-- 경기 정보 섹션 -->
+            <div class="match-details">
+                <div class="detail-item">
+                    <div class="detail-icon">📅</div>
+                    <div class="detail-text">Sun, 22 Jun 2025, 17:30</div>
+                </div>
+                <div class="detail-item">
+                    <div class="detail-icon">🏆</div>
+                    <div class="detail-text">Club Friendly Match</div>
+                </div>
+                <div class="detail-item">
+                    <div class="detail-icon">🏟️</div>
+                    <div class="detail-text">Old Trafford, Manchester</div>
+                </div>
+            </div>
+
+            <!-- 팀 폼 섹션 -->
+            <div class="team-form-section">
+                <h3 class="section-title">Team Form</h3>
+                <div class="form-items">
+                    <!-- 첫 번째 줄 -->
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/3498db/ffffff?text=LC" alt="Leicester City" class="form-team-logo">
+                        <div class="form-result win">2 - 1</div>
+                        <img src="https://via.placeholder.com/30/ff0000/ffffff?text=MU" alt="Manchester United" class="form-team-logo">
+                    </div>
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/ff9f1c/000000?text=WOL" alt="Wolves" class="form-team-logo">
+                        <div class="form-result loss">1 - 2</div>
+                        <img src="https://via.placeholder.com/30/ffffff/000000?text=RM" alt="Real Madrid" class="form-team-logo">
+                    </div>
+
+                    <!-- 두 번째 줄 -->
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/ff0000/ffffff?text=MU" alt="Manchester United" class="form-team-logo">
+                        <div class="form-result win">3 - 1</div>
+                        <img src="https://via.placeholder.com/30/ffdb00/000000?text=WAT" alt="Watford" class="form-team-logo">
+                    </div>
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/e71a37/ffffff?text=ATM" alt="Atletico Madrid" class="form-team-logo">
+                        <div class="form-result loss">1 - 0</div>
+                        <img src="https://via.placeholder.com/30/ffffff/000000?text=RM" alt="Real Madrid" class="form-team-logo">
+                    </div>
+
+                    <!-- 세 번째 줄 -->
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/ff0000/ffffff?text=MU" alt="Manchester United" class="form-team-logo">
+                        <div class="form-result draw">1 - 1</div>
+                        <img src="https://via.placeholder.com/30/ff0000/ffffff?text=ARS" alt="Arsenal" class="form-team-logo">
+                    </div>
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/ffffff/000000?text=RM" alt="Real Madrid" class="form-team-logo">
+                        <div class="form-result win">2 - 1</div>
+                        <img src="https://via.placeholder.com/30/ffff00/00b140?text=NOR" alt="Norwich" class="form-team-logo">
+                    </div>
+
+                    <!-- 네 번째 줄 -->
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/ffdb00/000000?text=WAT" alt="Watford" class="form-team-logo">
+                        <div class="form-result draw">1 - 1</div>
+                        <img src="https://via.placeholder.com/30/ff0000/ffffff?text=MU" alt="Manchester United" class="form-team-logo">
+                    </div>
+                    <div class="form-item">
+                        <img src="https://via.placeholder.com/30/ffffff/000000?text=RM" alt="Real Madrid" class="form-team-logo">
+                        <div class="form-result win">2 - 1</div>
+                        <img src="https://via.placeholder.com/30/00b140/ffffff?text=BET" alt="Real Betis" class="form-team-logo">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="matchInfo.js"></script>
+</body>
+</html>

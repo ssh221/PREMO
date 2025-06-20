@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREMO - 선수 프로필</title>
+    <link rel="stylesheet" href="matchPlayer.css">
+</head>
+<body>
+    <div class="container">
+        <!-- 선수 프로필 헤더 -->
+        <div class="player-header">
+            <div class="player-image">
+                <img src="https://via.placeholder.com/200/cccccc/333333?text=Player" alt="Bruno Fernandes" class="profile-img">
+            </div>
+            <div class="player-info">
+                <div class="player-name">Bruno Fernandes</div>
+                <div class="player-team">
+                    <img src="https://via.placeholder.com/20/ff0000/ffffff?text=MU" alt="Manchester United" class="team-logo">
+                    <span>Manchester United</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- 탭 메뉴 -->
+        <div class="tab-container">
+            <div class="tab active" data-tab="profile">Profile</div>
+
+        </div>
+
+        <div class="content-container">
+            <!-- 프로필 정보 섹션 -->
+            <div class="profile-section">
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-value">179 cm</div>
+                        <div class="stat-label">Height</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">30 years</div>
+                        <div class="stat-label">8 Sept 1994</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">
+                            <img src="https://via.placeholder.com/30/ff0000/00ff00?text=POR" alt="Portugal" class="flag-icon">
+                            POR
+                        </div>
+                        <div class="stat-label">Country</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">8</div>
+                        <div class="stat-label">Shirt</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">Right</div>
+                        <div class="stat-label">Preferred foot</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-value">€85M</div>
+                        <div class="stat-label">Market Value</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 시즌 통계 섹션 -->
+            <div class="season-stats">
+                <div class="league-header">
+                    <img src="/Users/parkryun/Downloads/pics/pngwing.com.png" alt="Premier League" class="league-logo">
+                    <span>Premier League 2024/2025</span>
+                </div>
+                
+                <div class="season-stats-grid">
+                    <div class="season-stat-item">
+                        <div class="season-stat-value">28</div>
+                        <div class="season-stat-label">Matches</div>
+                    </div>
+                    <div class="season-stat-item">
+                        <div class="season-stat-value">8</div>
+                        <div class="season-stat-label">Goals</div>
+                    </div>
+                    <div class="season-stat-item">
+                        <div class="season-stat-value">9</div>
+                        <div class="season-stat-label">Assists</div>
+                    </div>
+                    <div class="season-stat-item">
+                        <div class="season-stat-value rating">7.62</div>
+                        <div class="season-stat-label">Rating</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 선수 트레이트 (레이더 차트) 섹션 -->
+            <div class="player-traits">
+                <h2 class="section-title">Player traits</h2>
+                <div class="section-subtitle">Stats compared to other attacking midfielders/wingers</div>
+                
+                <div class="radar-chart-container">
+                    <div class="radar-chart">
+                        <div class="radar-chart-bg"></div>
+                        <div class="radar-data" id="radar-data"></div>
+                        
+                        <div class="axis-label top">Touches 95%</div>
+                        <div class="axis-label top-right">90% Chances created</div>
+                        <div class="axis-label top-left">65% Aerial duels won</div>
+                        <div class="axis-label bottom-right">84% Defensive actions</div>
+                        <div class="axis-label bottom">Goals 86%</div>
+                        <div class="axis-label bottom-left">85% Shot attempts</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="matchPlayer.js"></script>
+</body>
+</html>

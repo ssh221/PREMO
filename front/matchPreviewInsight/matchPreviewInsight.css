@@ -1,0 +1,252 @@
+/* 전체 스타일 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', Arial, sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.container {
+    max-width: 768px;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 100vh;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 매치 헤더 스타일 */
+.match-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.team-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+}
+
+.team-logo {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 8px;
+}
+
+.team-name {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.match-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.match-time {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.match-date {
+    font-size: 14px;
+    color: #666;
+    margin-top: 4px;
+}
+
+/* 탭 스타일 */
+.tab-container {
+    display: flex;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: #f9f9f9;
+}
+
+.tab {
+    padding: 12px 0;
+    flex: 1;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    cursor: pointer;
+    position: relative;
+}
+
+.tab.active {
+    color: #000;
+    font-weight: bold;
+}
+
+.tab.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: #000;
+}
+
+/* 콘텐츠 컨테이너 */
+.content-container {
+    padding: 15px;
+}
+
+/* 섹션 카드 공통 스타일 */
+.section-card {
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+    margin-bottom: 15px;
+    overflow: hidden;
+}
+
+.section-title {
+    padding: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    border-bottom: 1px solid #e5e5e5;
+    color: #333;
+}
+
+/* 인사이트 섹션 스타일 */
+.insight-section {
+    margin-bottom: 20px;
+}
+
+.team-insight {
+    display: flex;
+    padding: 15px;
+    border-bottom: 1px solid #f5f5f5;
+}
+
+.insight-header {
+    margin-right: 15px;
+}
+
+.insight-team-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.insight-body {
+    flex: 1;
+}
+
+.insight-item {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 10px;
+}
+
+.insight-item:last-child {
+    margin-bottom: 0;
+}
+
+.bullet {
+    display: inline-block;
+    margin-right: 8px;
+    font-size: 16px;
+}
+
+.bullet.positive {
+    color: #28a745;
+}
+
+.bullet.negative {
+    color: #dc3545;
+}
+
+.insight-text {
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+/* 뉴스 섹션 스타일 */
+.news-item {
+    display: flex;
+    padding: 15px;
+    border-bottom: 1px solid #f5f5f5;
+}
+
+.news-header {
+    margin-right: 15px;
+}
+
+.news-team-logo {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.news-body {
+    flex: 1;
+}
+
+.news-content p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.news-content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Powered by 스타일 */
+.powered-by {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 8px 15px;
+    font-size: 12px;
+    color: #666;
+    background-color: #f9f9f9;
+}
+
+.powered-logo {
+    height: 20px;
+    margin-left: 5px;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 576px) {
+    .team-container {
+        width: 80px;
+    }
+    
+    .team-logo {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .team-name {
+        font-size: 12px;
+    }
+    
+    .match-time {
+        font-size: 20px;
+    }
+    
+    .insight-text,
+    .news-content p {
+        font-size: 13px;
+    }
+    
+    .tab {
+        font-size: 12px;
+        padding: 10px 0;
+    }
+}

@@ -1,0 +1,388 @@
+/* 전체 스타일 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #fafafa 0%, #f0f0f0 100%);
+    min-height: 100vh;
+    color: #333;
+}
+
+.container {
+    max-width: 768px;
+    margin: 0 auto;
+    background-color: white;
+    min-height: 100vh;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+    position: relative;
+}
+
+/* 매치 헤더 스타일 (고급 디자인) */
+.match-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 20px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+
+.match-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grid" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M 10 0 L 0 0 0 10" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="0.5"/></pattern></defs><rect width="100" height="100" fill="url(%23grid)"/></svg>');
+    opacity: 0.3;
+}
+
+.team-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 120px;
+    position: relative;
+    z-index: 1;
+}
+
+.team-logo {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 12px;
+    border-radius: 50%;
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.team-logo:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.team-name {
+    font-size: 14px;
+    text-align: center;
+    font-weight: 600;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    line-height: 1.3;
+}
+
+.match-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.match-time {
+    font-size: 28px;
+    font-weight: 700;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    margin-bottom: 4px;
+}
+
+.match-date {
+    font-size: 14px;
+    opacity: 0.9;
+    font-weight: 500;
+}
+
+/* 탭 스타일 */
+.tab-container {
+    display: flex;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: #f9f9f9;
+}
+
+.tab {
+    padding: 12px 0;
+    flex: 1;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    cursor: pointer;
+    position: relative;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.tab.active {
+    color: #000;
+    font-weight: 600;
+}
+
+.tab.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: #000;
+}
+
+/* 콘텐츠 컨테이너 */
+.content-container {
+    padding: 15px;
+}
+
+/* 배팅 섹션 */
+.betting-section {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.betting-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.betting-logo {
+    font-weight: bold;
+    font-size: 18px;
+    color: #003399;
+}
+
+.odds-container {
+    display: flex;
+    gap: 10px;
+}
+
+.odds-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e8f4fc;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.odds-number {
+    font-size: 14px;
+    color: #666;
+}
+
+.odds-value {
+    font-size: 16px;
+    font-weight: bold;
+    color: #003399;
+}
+
+/* 투표 섹션 */
+.voting-section {
+    padding: 10px 0;
+}
+
+.voting-title {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.voting-options {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.vote-btn {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vote-btn:hover {
+    background-color: #f0f0f0;
+}
+
+.vote-logo {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+
+.voting-stats {
+    text-align: right;
+    font-size: 12px;
+    color: #666;
+    margin-top: 5px;
+}
+
+/* 경기 정보 섹션 */
+.match-details {
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.detail-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.detail-item:last-child {
+    margin-bottom: 0;
+}
+
+.detail-icon {
+    font-size: 18px;
+    margin-right: 10px;
+    width: 24px;
+    text-align: center;
+}
+
+.detail-text {
+    font-size: 14px;
+}
+
+/* 팀 폼 섹션 */
+.team-form-section {
+    margin-top: 20px;
+}
+
+.section-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.form-items {
+    background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    padding: 20px;
+    justify-content: space-between;
+}
+
+.form-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f9f9f9;
+    padding: 12px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    width: calc(40% - 12px);
+}
+
+.form-item:hover {
+    background-color: #f0f0f0;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.form-team-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
+.form-result {
+    flex: 0 0 auto;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 7px;
+    margin: 0 8px;
+    padding: 2px 8px;
+    min-width: 80px;
+}
+
+.form-result.win {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+.form-result.loss {
+    background-color: #dc3545;
+    color: #ffffff;
+}
+
+.form-result.draw {
+    background-color: #6c757d;
+    color: #ffffff;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 576px) {
+    .match-header {
+        padding: 20px 15px;
+    }
+    
+    .team-container {
+        width: 90px;
+    }
+    
+    .team-logo {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .team-name {
+        font-size: 12px;
+    }
+    
+    .match-time {
+        font-size: 22px;
+    }
+    
+    .form-items {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .form-item {
+        padding: 10px;
+    }
+    
+    .odds-item {
+        padding: 5px 10px;
+    }
+    
+    .voting-options {
+        flex-wrap: wrap;
+    }
+    
+    .vote-btn {
+        margin-bottom: 10px;
+    }
+    
+    .tab {
+        font-size: 12px;
+        padding: 10px 0;
+    }
+}

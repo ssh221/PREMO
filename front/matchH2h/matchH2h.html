@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREMO - Head to Head</title>
+    <link rel="stylesheet" href="./matchH2h.css">
+</head>
+<body>
+    <div class="container">
+        <div class="match-header">
+            <div class="team-container home">
+                <img src="https://via.placeholder.com/80/ff0000/ffffff?text=MU" alt="Manchester United" class="team-logo">
+                <div class="team-name">Manchester United</div>
+            </div>
+            <div class="match-info">
+                <div class="match-time">17:30</div>
+                <div class="match-date">Today</div>
+            </div>
+            <div class="team-container away">
+                <img src="https://via.placeholder.com/80/ffffff/000000?text=RM" alt="Real Madrid" class="team-logo">
+                <div class="team-name">Real Madrid</div>
+            </div>
+        </div>
+
+        <div class="tab-container">
+            <div class="tab" data-tab="preview">Preview</div>
+            <div class="tab" data-tab="premo">PREMO™</div>
+            <div class="tab active" data-tab="h2h">Head to Head</div>
+            <div class="tab" data-tab="table">Table</div>
+        </div>
+
+        <div class="content-container">
+            <!-- H2H 통계 섹션 -->
+            <div class="h2h-stats">
+                <div class="stats-item home">
+                    <div class="stats-number">2</div>
+                    <div class="stats-label">Wins</div>
+                </div>
+                <div class="stats-item draws">
+                    <div class="stats-number">2</div>
+                    <div class="stats-label">Draws</div>
+                </div>
+                <div class="stats-item away">
+                    <div class="stats-number">2</div>
+                    <div class="stats-label">Wins</div>
+                </div>
+            </div>
+
+            <!-- 홈/어웨이 구분
+            <div class="venue-indicator">
+                <div class="venue-item">
+                    <span class="venue-icon">🏠</span>
+                    <span class="venue-text">Home</span>
+                </div>
+            </div> -->
+
+            <!-- 경기 히스토리 -->
+            <div class="match-history">
+                <!-- 로딩 중 표시 -->
+                <div class="loading-message">
+                    경기 기록을 불러오는 중...
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="./matchH2h.js"></script>
+</body>
+</html>

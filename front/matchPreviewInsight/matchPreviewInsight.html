@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PREMO - 경기 미리보기</title>
+    <link rel="stylesheet" href="matchPreviewInsight.css">
+</head>
+<body>
+    <div class="container">
+        <div class="match-header">
+            <div class="team-container home">
+                <img src="https://via.placeholder.com/80/ff0000/ffffff?text=MU" alt="Manchester United" class="team-logo">
+                <div class="team-name">Manchester United</div>
+            </div>
+            <div class="match-info">
+                <div class="match-time">17:30</div>
+                <div class="match-date">Today</div>
+            </div>
+            <div class="team-container away">
+                <img src="https://via.placeholder.com/80/ffffff/000000?text=RM" alt="Real Madrid" class="team-logo">
+                <div class="team-name">Real Madrid</div>
+            </div>
+        </div>
+
+        <div class="tab-container">
+            <div class="tab active" data-tab="preview">Preview</div>
+            <div class="tab" data-tab="premo">PREMO™</div>
+            <div class="tab" data-tab="h2h">Head to Head</div>
+            <div class="tab" data-tab="table">Table</div>
+        </div>
+
+        <div class="content-container">
+            <!-- 인사이트 섹션 -->
+            <div class="section-card insight-section">
+                <h2 class="section-title">Insight</h2>
+                
+                <!-- 홈팀 인사이트 -->
+                <div class="team-insight">
+                    <div class="insight-header">
+                        <img src="https://via.placeholder.com/40/ff0000/ffffff?text=MU" alt="Manchester United" class="insight-team-logo">
+                    </div>
+                    <div class="insight-body">
+                        <div class="insight-item positive">
+                            <span class="bullet positive">●</span>
+                            <span class="insight-text">No losses in the last 5 games.</span>
+                        </div>
+                        <div class="insight-item negative">
+                            <span class="bullet negative">●</span>
+                            <span class="insight-text">Key Players(Amad Diallo, Luke Shaw, Mason Mount, Harry Maguire) are unable to play due to injury.</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 원정팀 인사이트 -->
+                <div class="team-insight">
+                    <div class="insight-header">
+                        <img src="https://via.placeholder.com/40/ffffff/000000?text=RM" alt="Real Madrid" class="insight-team-logo">
+                    </div>
+                    <div class="insight-body">
+                        <div class="insight-item positive">
+                            <span class="bullet positive">●</span>
+                            <span class="insight-text">They have recorded 4 wins and 1 draw in their last 5 matches against PL teams.</span>
+                        </div>
+                        <div class="insight-item negative">
+                            <span class="bullet negative">●</span>
+                            <span class="insight-text">Lost 2 of their last 5 games.</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="powered-by">
+                    <span>Powered by</span>
+                    <img src="https://via.placeholder.com/50/232f3e/ffffff?text=AWS" alt="AWS" class="powered-logo">
+                </div>
+            </div>
+
+            <!-- 뉴스 요약 섹션 -->
+            <div class="section-card news-section">
+                <h2 class="section-title">News Summary</h2>
+                
+                <!-- 홈팀 뉴스 -->
+                <div class="news-item">
+                    <div class="news-header">
+                        <img src="https://via.placeholder.com/40/ff0000/ffffff?text=MU" alt="Manchester United" class="news-team-logo">
+                    </div>
+                    <div class="news-body">
+                        <div class="news-content">
+                            <p>Interested in signing Barcelona forward and Athletic Club winger Nico Williams - 90min</p>
+                            <p>A new stadium will be built at a cost of around £2 billion - BBC</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 원정팀 뉴스 -->
+                <div class="news-item">
+                    <div class="news-header">
+                        <img src="https://via.placeholder.com/40/ffffff/000000?text=RM" alt="Real Madrid" class="news-team-logo">
+                    </div>
+                    <div class="news-body">
+                        <div class="news-content">
+                            <p>Pushing to sign Trent Alexander-Arnold on a free transfer this summer - 90min</p>
+                            <p>Attempting to hijack Arsenal's deal for Real Sociedad midfielder Martin Zubimendi - 90min</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="powered-by">
+                    <span>Powered by</span>
+                    <img src="https://via.placeholder.com/50/232f3e/ffffff?text=AWS" alt="AWS" class="powered-logo">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="matchPreviewInsight.js"></script>
+</body>
+</html>
